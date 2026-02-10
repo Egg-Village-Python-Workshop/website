@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchicken_city=self.webpackChunkchicken_city||[]).push([[157],{2844:e=>{e.exports=JSON.parse('{"label":"announcement","permalink":"/blog/tags/announcement","allTagsPath":"/blog/tags","count":1}')}}]);
