@@ -1,5 +1,5 @@
 ---
-slug: 馬年新年文章草稿
+slug: 2026NewYear
 title: 馬年新年快樂！
 authors: [chicken]
 date: 2026-02-17
