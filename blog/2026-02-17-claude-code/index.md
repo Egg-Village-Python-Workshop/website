@@ -4,16 +4,15 @@ title: "Claude Code 由淺入深"
 authors: [Nathan]
 date: 2026-02-17
 image: ./cover.png
-tags:
-  - claude_code
+tags: [claude_code]
 ---
 
-<img width="1024" height="572" alt="Image" src="./cover.png" />
+![封面](./cover.png)
 
 # 工程師的 Claude Code 實戰指南：從零開始到高效開發
 
 > 本文整合 [Anthropic 官方 Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices) 與社群實戰 Tips，帶你由淺入深掌握 Claude Code。
-
+<!-- truncate -->
 ---
 
 ## 什麼是 Claude Code？為什麼值得學？
