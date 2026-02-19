@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchicken_city=self.webpackChunkchicken_city||[]).push([[6358],{1299:e=>{e.exports=JSON.parse('{"label":"claude_code","permalink":"/blog/tags/claude-code","allTagsPath":"/blog/tags","count":2}')}}]);
