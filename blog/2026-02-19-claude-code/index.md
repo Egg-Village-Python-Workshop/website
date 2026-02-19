@@ -892,6 +892,7 @@ docker compose up -d    # 重新開陣（清空所有存檔）
 - [OpenTelemetry 規格](https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/protocol/exporter.md)
 - [Prometheus PromQL 查詢教典](https://prometheus.io/docs/prometheus/latest/querying/basics/)
 - [Loki LogQL 查詢文法](https://grafana.com/docs/loki/latest/query/)
+- [Grafana Dashboard 程式碼](https://gist.github.com/tedmax100/06f0b9830939eea0ee3c3ec8f1d478bc)
 ---
 
 *兵書版本：2026-02-19 ｜ 主述：司馬懿（仲達）、諸葛亮（孔明）｜ 由 `/sanguo-rewrite` 奇術生成*
