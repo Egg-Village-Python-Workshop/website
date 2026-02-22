@@ -30,6 +30,14 @@ const FeatureList: FeatureItem[] = [
     description: <>每當蛋蛋村有重大消息時，就會透過新聞發布</>,
     url: "/blog",
   },
+    {
+    title: "蛋蛋金融大小事",
+    Svg: "/img/finance.png",
+    description: (
+      <>關心蛋蛋村的金融大小事</>
+    ),
+    url: "/finance",
+  },
 ];
 function Feature({ title, Svg, description, url }: FeatureItem) {
   return (
