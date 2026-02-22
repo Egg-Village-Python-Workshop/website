@@ -110,6 +110,7 @@ const config = {
             label: "蛋村歷史",
           },
           { to: "/blog", label: "新聞", position: "left" },
+          { to: "/finance", label: "金融大小事", position: "left" },
           {
             href: "https://github.com/Egg-Village-Python-Workshop/website",
             label: "GitHub",
@@ -130,10 +131,39 @@ const config = {
       },
     }),
   plugins: [
+    function cytoscapeAlias() {
+      return {
+        name: "cytoscape-umd-alias",
+        configureWebpack() {
+          return {
+            resolve: {
+              alias: {
+                "cytoscape/dist/cytoscape.umd.js": require("path").resolve(
+                  __dirname,
+                  "node_modules/cytoscape/dist/cytoscape.umd.js"
+                ),
+              },
+            },
+          };
+        },
+      };
+    },
     [
       require.resolve("docusaurus-lunr-search"),
       {
         languages: ["zh"],
+      },
+    ],
+    // 👇 加入以下這段來建立「金融大小事」專區 👇
+    [
+      "@docusaurus/plugin-content-blog",
+      {
+        id: "finance", // 這個 ID 很重要，用來區分預設的 blog
+        routeBasePath: "finance", // 網址會變成 https://egg.lychicken.com/finance
+        path: "./finance", // 對應你專案根目錄下的資料夾名稱
+        blogSidebarTitle: "蛋蛋金融大小事", // 側邊欄顯示的標題
+        blogSidebarCount: "ALL", // 顯示所有文章列表
+        showReadingTime: true,
       },
     ],
   ],
