@@ -1,10 +1,5 @@
 ---
-slug: claude-code-9
 title: "Claude Code 監控秘錄：斥候情報與大帳沙盤之術"
-authors: [Nathan]
-date: 2026-02-19
-image: ./cover.png
-tags: [claude_code]
 ---
 
 # 臥龍神算監控秘錄：斥候情報與大帳沙盤之術
@@ -553,7 +548,7 @@ sum(increase(claude_code_cost_usage_USD_total[$__range]))
   "tool_result_size_bytes": 2048,
   "decision_type": "accept",
   "decision_source": "config",
-  "tool_parameters": "{\"bash_command\":\"npm test\",\"timeout\":120000}"
+  "tool_parameters": "{"bash_command":"npm test","timeout":120000}"
 }
 ```
 
@@ -766,8 +761,8 @@ claude --version  # 並在啟動前 echo $CLAUDE_CODE_ENABLE_TELEMETRY
 curl http://localhost:3100/ready
 
 # 2. 查詢庫中是否有任何存檔
-curl -G -s "http://localhost:3100/loki/api/v1/query" \
-  --data-urlencode 'query={service_name="claude-code"}' \
+curl -G -s "http://localhost:3100/loki/api/v1/query" 
+  --data-urlencode 'query={service_name="claude-code"}' 
   --data-urlencode 'limit=5' | jq .
 
 # 3. 若無存檔，確認情報中樞之戰報管道

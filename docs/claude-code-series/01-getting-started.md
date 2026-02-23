@@ -1,10 +1,5 @@
 ---
-slug: claude-code
 title: "Claude Code 由淺入深"
-authors: [Nathan]
-date: 2026-02-17
-image: ./cover.png
-tags: [claude_code]
 ---
 
 ![封面](./cover.png)

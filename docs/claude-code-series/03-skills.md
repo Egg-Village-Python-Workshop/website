@@ -1,10 +1,5 @@
 ---
-slug: claude-code-skills-10
 title: "Claude Code Skills 由淺入深"
-authors: [Nathan]
-date: 2026-02-20
-image: ./cover.png
-tags: [claude_code]
 ---
 
 # 臥龍神算奇術完全兵書：從兵法原理到實戰，徹底搞懂奇術機制
@@ -402,7 +397,7 @@ SRP 說：一個軍團應該只有一個改變的理由。奇術設計也一樣�
 .claude/skills/data-analysis/ # 只做資料分析
 ```
 
-細粒度的奇術可以被**組合（Compose）**使用——神算在一次戰役中可以依序觸發多個奇術，此和兵法組合的概念一樣。
+細粒度的奇術可以被**組合（Compose）**使用——神算在一次戰役中可以依序觸發多個奇術，此與兵法組合的概念一樣。
 
 ---
 
@@ -850,22 +845,22 @@ run_test() {
 }
 
 # 演武案例
-run_test \
-  "新功能的插旗" \
-  "剛加了一個登入功能，幫我整理插旗訊息" \
-  "feat" \
+run_test 
+  "新功能的插旗" 
+  "剛加了一個登入功能，幫我整理插旗訊息" 
+  "feat" 
   "git commit"   # 不應該自動執行插旗
 
-run_test \
-  "亂象修復的插旗" \
-  "修了一個日期顯示錯誤的亂象，幫我整理插旗訊息" \
-  "fix" \
+run_test 
+  "亂象修復的插旗" 
+  "修了一個日期顯示錯誤的亂象，幫我整理插旗訊息" 
+  "fix" 
   "git commit"
 
-run_test \
-  "兵書變更的插旗" \
-  "更新了 README 兵書，幫我整理插旗訊息" \
-  "docs" \
+run_test 
+  "兵書變更的插旗" 
+  "更新了 README 兵書，幫我整理插旗訊息" 
+  "docs" 
   ""
 
 echo ""
