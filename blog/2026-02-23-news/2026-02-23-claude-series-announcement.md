@@ -1,6 +1,6 @@
 ---
-title: "新家！Claude Code 系列文章已遷移至文件區"
-authors: [chicken]
+title: "Claude Code 系列文章已遷移至文件區"
+authors: [Nathan]
 date: 2026-02-23
 tags: [claude_code, announcement, docs]
 ---
@@ -13,6 +13,6 @@ tags: [claude_code, announcement, docs]
 
 點擊下方連結直接開始閱讀：
 
-➡️ **[前往 Claude Code 系列文章](/docs/category/claude-code-series)**
+➡️ **[前往 Claude Code 系列文章](/docs/category/claude-code)**
 
 感謝您的支持！
