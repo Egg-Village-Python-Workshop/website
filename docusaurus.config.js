@@ -131,23 +131,23 @@ const config = {
       },
     }),
   plugins: [
-    function cytoscapeAlias() {
-      return {
-        name: "cytoscape-umd-alias",
-        configureWebpack() {
-          return {
-            resolve: {
-              alias: {
-                "cytoscape/dist/cytoscape.umd.js": require("path").resolve(
-                  __dirname,
-                  "node_modules/cytoscape/dist/cytoscape.umd.js"
-                ),
-              },
-            },
-          };
-        },
-      };
-    },
+    // function cytoscapeAlias() {
+    //   return {
+    //     name: "cytoscape-umd-alias",
+    //     configureWebpack() {
+    //       return {
+    //         resolve: {
+    //           alias: {
+    //             "cytoscape/dist/cytoscape.umd.js": require("path").resolve(
+    //               __dirname,
+    //               "node_modules/cytoscape/dist/cytoscape.umd.js",
+    //             ),
+    //           },
+    //         },
+    //       };
+    //     },
+    //   };
+    // },
     [
       require.resolve("docusaurus-lunr-search"),
       {
