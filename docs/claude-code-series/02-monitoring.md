@@ -1,5 +1,7 @@
 ---
 title: "Claude Code 監控秘錄：斥候情報與大帳沙盤之術"
+key: [AI, 大型語言模型, LLM, claude_code, 生成式AI, 自然語言處理]
+tags: [claude_code]
 ---
 
 # 臥龍神算監控秘錄：斥候情報與大帳沙盤之術
