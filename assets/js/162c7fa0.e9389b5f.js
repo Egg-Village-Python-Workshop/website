@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchicken_city=self.webpackChunkchicken_city||[]).push([[8722],{7559:e=>{e.exports=JSON.parse('{"title":"\u86cb\u86cb\u91d1\u878d\u5927\u5c0f\u4e8b","items":[{"title":"\u91d1\u878d\u5927\u5c0f\u4e8b\u5c08\u5340\u6210\u7acb\u4e86\uff01","permalink":"/finance/finance-section-created"}]}')}}]);
