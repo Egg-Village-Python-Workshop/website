@@ -30,11 +30,9 @@ jobs:
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
-        working-directory: website
 
       - name: Run WebP Conversion Script
         run: node .github/scripts/convert_webp.js
-        working-directory: website
 
       - name: Commit and push changes
         run: |
@@ -47,4 +45,3 @@ jobs:
             git commit -m "chore: optimize images to webp"
             git push origin main
           fi
-        working-directory: website
