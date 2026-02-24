@@ -6,7 +6,7 @@ date: 2026-02-10
 key: [蛋蛋村, Python]
 tags: [蛋蛋村新聞, 技術新聞, news, announcement, village]
 ---
-![封面](./news.png)
+![封面](./news.webp)
 
 > 經過一番努力，蛋蛋村終於正式建村啦！
 
