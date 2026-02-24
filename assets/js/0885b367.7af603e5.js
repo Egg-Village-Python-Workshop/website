@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkchicken_city=self.webpackChunkchicken_city||[]).push([[2692],{6578:e=>{e.exports=JSON.parse('{"permalink":"/finance","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
