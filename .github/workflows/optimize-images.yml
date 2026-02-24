@@ -1,0 +1,49 @@
+name: Optimize Images to WebP
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'finance/**' # Trigger only when finance content changes
+
+jobs:
+  optimize:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 8
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+        working-directory: website
+
+      - name: Run WebP Conversion Script
+        run: node .github/scripts/convert_webp.js
+        working-directory: website
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add finance/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: optimize images to webp"
+            git push origin main
+          fi
+        working-directory: website
