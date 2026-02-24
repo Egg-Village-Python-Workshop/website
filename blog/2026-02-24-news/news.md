@@ -1,5 +1,5 @@
 ---
-slug: 蛋測試
+slug: 蛋測試 RR
 title: 蛋蛋村建村
 authors: [chicken]
 date: 2026-02-10
