@@ -61,15 +61,12 @@
             <category>announcement</category>
         </item>
         <item>
-            <title><![CDATA[test-to-bye]]></title>
-            <link>https://egg.lychicken.com/finance/2026/01/20/test-to-bye</link>
-            <guid>https://egg.lychicken.com/finance/2026/01/20/test-to-bye</guid>
-            <pubDate>Tue, 20 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[��#   K e e p   T e s t   P o s t ]]></description>
-            <content:encoded><![CDATA[<p>��# Keep Test Post
-
-Bye Bye �c�c
-</p>]]></content:encoded>
+            <title><![CDATA[Image Backup Test]]></title>
+            <link>https://egg.lychicken.com/finance/2026/01/15/test-image-backup</link>
+            <guid>https://egg.lychicken.com/finance/2026/01/15/test-image-backup</guid>
+            <pubDate>Thu, 15 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[This post has an image: 測試圖片]]></description>
+            <content:encoded><![CDATA[<p>This post has an image: <img loading="lazy" alt="測試圖片" src="data:image/png;base64,//5kAHUAbQBtAHkAIABpAG0AYQBnAGUAIABjAG8AbgB0AGUAbgB0AA0ACgA=" class="img_AMxF"></p><p>It should be moved to backupImg/ and the link updated.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
