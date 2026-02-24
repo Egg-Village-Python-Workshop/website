@@ -67,12 +67,4 @@
         <category label="finance" term="finance"/>
         <category label="announcement" term="announcement"/>
     </entry>
-    <entry>
-        <title type="html"><![CDATA[Image Backup Test]]></title>
-        <id>https://egg.lychicken.com/finance/2026/01/15/test-image-backup</id>
-        <link href="https://egg.lychicken.com/finance/2026/01/15/test-image-backup"/>
-        <updated>2026-01-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This post has an image: 測試圖片]]></summary>
-        <content type="html"><![CDATA[<p>This post has an image: <img loading="lazy" alt="測試圖片" src="data:image/png;base64,//5kAHUAbQBtAHkAIABpAG0AYQBnAGUAIABjAG8AbgB0AGUAbgB0AA0ACgA=" class="img_AMxF"></p><p>It should be moved to backupImg/ and the link updated.</p>]]></content>
-    </entry>
 </feed>
