@@ -32,14 +32,33 @@ function archive() {
         
         let content = '';
         const mdPath = path.join(fullPath, 'index.md');
+        
+        function readFileSyncSafe(filePath) {
+          const buffer = fs.readFileSync(filePath);
+          // Check for UTF-16LE BOM (0xFF 0xFE)
+          if (buffer[0] === 0xFF && buffer[1] === 0xFE) {
+            return buffer.toString('utf16le');
+          }
+          // Default to UTF-8 and strip BOM if present
+          let str = buffer.toString('utf8');
+          if (str.startsWith('\uFEFF')) {
+            str = str.slice(1);
+          }
+          // Heuristic: if there are many null bytes, it might be UTF-16LE without BOM
+          if (str.includes('\u0000')) {
+            return buffer.toString('utf16le');
+          }
+          return str;
+        }
+
         if (fs.existsSync(mdPath)) {
-          content = fs.readFileSync(mdPath, 'utf8');
+          content = readFileSyncSafe(mdPath);
         } else {
           // Fallback: look for any .md file
           const files = fs.readdirSync(fullPath);
           const mdFiles = files.filter(f => f.endsWith('.md'));
           if (mdFiles.length > 0) {
-            content = fs.readFileSync(path.join(fullPath, mdFiles[0]), 'utf8');
+            content = readFileSyncSafe(path.join(fullPath, mdFiles[0]));
           }
         }
 
