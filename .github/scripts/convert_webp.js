@@ -2,45 +2,50 @@ const fs = require('fs');
 const path = require('path');
 const sharp = require('sharp');
 
-const FINANCE_DIR = path.join(__dirname, '../../finance');
+const TARGET_DIRS = [
+  path.join(__dirname, '../../finance'),
+  path.join(__dirname, '../../blog')
+];
 const IMAGE_EXTS = ['.jpg', '.jpeg', '.png'];
 
 async function convertToWebp() {
-  if (!fs.existsSync(FINANCE_DIR)) {
-    console.log('Finance directory not found.');
-    return;
-  }
+  for (const targetDir of TARGET_DIRS) {
+    if (!fs.existsSync(targetDir)) {
+      console.log(`Directory not found: ${targetDir}`);
+      continue;
+    }
 
-  const items = fs.readdirSync(FINANCE_DIR, { recursive: true });
-  
-  for (const item of items) {
-    const fullPath = path.join(FINANCE_DIR, item);
-    const ext = path.extname(item).toLowerCase();
+    console.log(`Scanning ${targetDir}...`);
+    const items = fs.readdirSync(targetDir, { recursive: true });
+    
+    for (const item of items) {
+      const fullPath = path.join(targetDir, item);
+      const ext = path.extname(item).toLowerCase();
 
-    if (fs.statSync(fullPath).isFile() && IMAGE_EXTS.includes(ext)) {
-      const dir = path.dirname(fullPath);
-      const baseName = path.basename(item, ext);
-      const webpName = `${baseName}.webp`;
-      const webpPath = path.join(dir, webpName);
+      if (fs.statSync(fullPath).isFile() && IMAGE_EXTS.includes(ext)) {
+        const dir = path.dirname(fullPath);
+        const baseName = path.basename(item, ext);
+        const webpName = `${baseName}.webp`;
+        const webpPath = path.join(dir, webpName);
 
-      console.log(`Converting ${item} to WebP...`);
-      
-      try {
-        await sharp(fullPath)
-          .webp({ quality: 80 })
-          .toFile(webpPath);
+        console.log(`Converting ${item} to WebP...`);
         
-        console.log(`Successfully created ${webpName}.`);
+        try {
+          await sharp(fullPath)
+            .webp({ quality: 80 })
+            .toFile(webpPath);
+          
+          console.log(`Successfully created ${webpName}.`);
 
-        // Update references in .md files
-        updateMarkdownReferences(dir, baseName + ext, webpName);
+          // Update references in .md files
+          updateMarkdownReferences(dir, baseName + ext, webpName);
 
-        // Delete original file
-        // Delay slightly to ensure file handle is released if needed
-        fs.unlinkSync(fullPath);
-        console.log(`Deleted original file ${item}.`);
-      } catch (err) {
-        console.error(`Error processing ${item}:`, err.message);
+          // Delete original file
+          fs.unlinkSync(fullPath);
+          console.log(`Deleted original file ${item}.`);
+        } catch (err) {
+          console.error(`Error processing ${item}:`, err.message);
+        }
       }
     }
   }
