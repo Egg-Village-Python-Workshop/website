@@ -3,7 +3,7 @@ slug: post-203
 title: "金馬年攻高背後的關鍵產業：被動元件轉強訊號浮現 | 鉅亨網 - 專家觀點"
 authors: [Nathan]
 date: 2026-02-24
-image: ./cover.jpg
+image: ./cover.webp
 tags: []
 ---
 

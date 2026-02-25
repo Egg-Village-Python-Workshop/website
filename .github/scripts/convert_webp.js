@@ -52,22 +52,34 @@ async function convertToWebp() {
 }
 
 function updateMarkdownReferences(dir, oldName, newName) {
-  // Search for .md files in the current directory and its parent (finance post structure)
+  // Search for .md files in the current directory and its parent
   const mdFiles = fs.readdirSync(dir).filter(f => f.endsWith('.md'));
   
   for (const mdFile of mdFiles) {
     const mdPath = path.join(dir, mdFile);
     let content = fs.readFileSync(mdPath, 'utf8');
     
-    // Escape special characters in the filename for use in a regex
-    const escapedOldName = oldName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    // Regex matches common Markdown image patterns: ![alt](path/to/img.jpg) or [link](path/to/img.jpg)
-    // and also relative paths starting with ./ or /
-    const regex = new RegExp(`([(/])${escapedOldName}(\\))`, 'g');
+    // 1. Update Front Matter image: field
+    // Match 'image: ./oldName' or 'image: oldName'
+    const frontMatterPattern = new RegExp(`(image:\\s*(\\./)?)${oldName.replace('.', '\\.')}`, 'g');
     
-    if (regex.test(content)) {
+    // 2. Update Markdown image references
+    // Match (![alt](path/oldName)) or ([text](path/oldName)) or just (oldName)
+    const escapedOldName = oldName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const markdownPattern = new RegExp(`([(/])${escapedOldName}(\\))`, 'g');
+    
+    let updated = false;
+    if (frontMatterPattern.test(content)) {
+      content = content.replace(frontMatterPattern, `$1${newName}`);
+      updated = true;
+    }
+    if (markdownPattern.test(content)) {
+      content = content.replace(markdownPattern, `$1${newName}$2`);
+      updated = true;
+    }
+
+    if (updated) {
       console.log(`Updating references in ${mdFile}...`);
-      content = content.replace(regex, `$1${newName}$2`);
       fs.writeFileSync(mdPath, content, 'utf8');
     }
   }
