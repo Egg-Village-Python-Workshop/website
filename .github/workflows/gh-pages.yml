@@ -9,6 +9,8 @@ jobs:
   deploy:
     name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -30,6 +32,9 @@ jobs:
         # 確保使用 frozen-lockfile 以保證環境一致性
         run: pnpm install --frozen-lockfile
 
+      - name: Run WebP Conversion Script
+        run: node .github/scripts/convert_webp.js
+
       - name: Build
         # Docusaurus 預設產出路徑為 ./build
         run: pnpm build
@@ -42,3 +47,15 @@ jobs:
           user_name: "github-actions[bot]"
           user_email: "github-actions[bot]@users.noreply.github.com"
           commit_message: "docs: deploy to gh-pages"
+
+      - name: Sync optimized images back to main
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add finance/ blog/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: optimize images to webp [skip ci]"
+            git push origin main
+          fi
