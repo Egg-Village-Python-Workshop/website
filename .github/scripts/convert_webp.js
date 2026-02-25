@@ -4,7 +4,8 @@ const sharp = require('sharp');
 
 const TARGET_DIRS = [
   path.join(__dirname, '../../finance'),
-  path.join(__dirname, '../../blog')
+  path.join(__dirname, '../../blog'),
+  path.join(__dirname, '../../docs')
 ];
 const IMAGE_EXTS = ['.jpg', '.jpeg', '.png'];
 
