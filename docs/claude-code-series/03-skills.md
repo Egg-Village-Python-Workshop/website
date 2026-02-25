@@ -32,7 +32,7 @@ tags: [claude_code]
 
 **孔明言：** 主公請聽臣細細道來。
 
-![Image](./cover.png)
+![Image](./cover.webp)
 
 <!-- truncate -->
 
@@ -94,7 +94,7 @@ tags: [claude_code]
 
 *仲達撫著長袖，冷靜分析道：*
 
-![Image](./img-1.png)
+![Image](./img-1.webp)
 
 ### 軍需官（MCP）的弊端
 
@@ -256,7 +256,7 @@ user-invocable: false  # 將領不需要直接呼叫，神算遇到相關情境�
 
 *此節由諸葛亮主講。孔明搖動羽扇，微笑道：*
 
-![Image](./img-2.png)
+![Image](./img-2.webp)
 
 ### 以軍事部署思維理解奇術結構
 
@@ -472,7 +472,7 @@ allowed-tools: Bash(gh *)
 
 > 「奇術之妙，在於因地制宜。以 ! 之法，可臨陣攝取八方情報——如 CPU 之氣、記憶體之靈 ，將動態之氣注入軍令，使神算所得情報皆為即時戰況，此乃『借力使力』之最輕量陣法 。」
 
-![Image](./img-3.png)
+![Image](./img-3.webp)
 
 ### 在偏師中執行（`context: fork`）
 
@@ -505,7 +505,7 @@ agent: Explore          # 使用探查偏師（唯讀兵器集，防止意外修
 
 > 「深入險境，不宜動搖大軍。以 fork 之法遣一偏師，在隔離之沙場進行深入探究（Deep Research） 。其探查結果回報即可，偏師即使在險境中有所變動，亦不傷及中軍大帳之戰役歷史 。」
 
-![Image](./img-4.png)
+![Image](./img-4.webp)
 
 ---
 
@@ -547,7 +547,7 @@ context: fork
 
 > 「夫兵者，各有其材。Haiku 如輕騎，迅捷而省糧，利在快攻 ；Sonnet 如中軍步兵，穩健多能，為陣中砥柱 ；Opus 則如大將軍，深謀遠慮，專應架構之變 。主公應視戰情緩急，調遣合適兵種，方為度支之道。」
 
-![Image](./img-5.png)
+![Image](./img-5.webp)
 
 ---
 
@@ -649,7 +649,7 @@ allowed-tools: Bash(npm run *), Read, Write   # 組合：允許 npm 指令 + 讀
 
 > 「軍令有疑，必先諮詢主公。奇術運作時，若遇關隘不明，軍師將手持『智慧詢問』之兵，退回中軍請示 。若主公預賜『虎符授權』（Allowed Tools），則部分兵器可先斬後奏，不驚擾主公，使行軍流程如水流般順暢 。」
 
-![Image](./img-6.png)
+![Image](./img-6.webp)
 
 ---
 
@@ -961,7 +961,7 @@ export SLASH_COMMAND_TOOL_CHAR_BUDGET=32000
 
 若你已按上一篇架好 OTel 陣法 + 大帳（Grafana），可以直接用斥候情報**觀察三層漸進揭露的每一步行為**。
 
-![Image](./img-7.png)
+![Image](./img-7.webp)
 
 ### 步驟一：建立一個有完整三層的演武奇術
 
@@ -1070,11 +1070,11 @@ echo "查詢完成"
 
 > 💡 **仲達觀察**：關於 `| json`：臥龍神算的戰報 body 不是 JSON（只是 `claude_code.event_name` 字串），所以 `| json` 會在每筆戰報加一個 `__error__="JSONParserErr"` 欄位，但**不影響查詢結果**。大帳的 query builder 常會自動幫你加，直接用完全沒問題；若想消除 `__error__` 欄位，把 `| json` 移除即可。
 
-![Image](./img-8.png)
+![Image](./img-8.webp)
 
 按時間排序，你會看到三層的完整執行鏈（以下為實際 OTel 陣法數據）：
 
-![Image](./img-9.png)
+![Image](./img-9.webp)
 
 ```
 序號  時刻      事件             兵器   耗時      大小    說明
@@ -1102,9 +1102,9 @@ echo "查詢完成"
 
 若不是呼叫奇術的戰役，會沒有兵器階段的 span，這是因為神算知道此問題跟任何兵器都沒關係：
 
-![Image](./img-10.png)
+![Image](./img-10.webp)
 
-![Image](./img-11.png)
+![Image](./img-11.webp)
 
 ---
 
@@ -1362,7 +1362,7 @@ model: claude-opus-4-6   # 重整分析需要 Opus 兵種
 ---
 ##  總結
 
-![Image](./img-12.png)
+![Image](./img-12.webp)
 
 司馬懿終末叮嚀：
 
@@ -1378,7 +1378,7 @@ model: claude-opus-4-6   # 重整分析需要 Opus 兵種
 > 
 > 那「萬能兵器」看似美好，實則如軍中過重的輜重，平時看似什麼都有，真到臨陣時卻樣樣不精，反倒拖累了大軍行進。專才專用，職責單一，才是用兵之上策。
 
-![Image](./img-13.png)
+![Image](./img-13.webp)
 
 ---
 

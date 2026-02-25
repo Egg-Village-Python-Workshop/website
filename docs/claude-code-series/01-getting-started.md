@@ -4,7 +4,7 @@ key: [AI, 大型語言模型, LLM, claude_code, 生成式AI, 自然語言處理]
 tags: [claude_code]
 ---
 
-![封面](./cover.png)
+![封面](./cover.webp)
 
 # 工程師的 Claude Code 實戰指南：從零開始到高效開發
 

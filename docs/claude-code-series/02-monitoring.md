@@ -58,7 +58,7 @@ tags: [claude_code]
 
 **司馬懿展開沙盤，向諸將說明：**
 
-![Image](./cover.png)
+![Image](./cover.webp)
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -320,11 +320,11 @@ GF_DASHBOARDS_DEFAULT_HOME_DASHBOARD_PATH=/var/lib/grafana/dashboards/claude-cod
 
 **司馬懿引諸將至大帳，指點沙盤：**
 
-![Image](./img-1.png)
+![Image](./img-1.webp)
 
 ### 一覽台：戰役總覽（Session Overview）
 
-![Image](./img-2.png)
+![Image](./img-2.webp)
 
 | 旗標 | PromQL 軍令 | 說明 |
 |------|-----------|------|
@@ -346,11 +346,11 @@ GF_DASHBOARDS_DEFAULT_HOME_DASHBOARD_PATH=/var/lib/grafana/dashboards/claude-cod
 >
 > ⚠️ **仲達提醒**：此軍費數字為「等效 API 費用」而非主公每月繳納之固定月費。Pro / Max 方案按月收費，此數字僅供消耗趨勢參考，無法對應 Settings 中之配額使用百分比。
 
-![Image](./img-3.png)
+![Image](./img-3.webp)
 
 ### 兵器排行榜（Top 10 Tools）
 
-![Image](./img-4.png)
+![Image](./img-4.webp)
 
 使用戰報文書庫 LogQL 軍令查詢（`tool_result` 戰報），資料來自結構化密令，直接 `unwrap` 取值。
 
@@ -502,7 +502,7 @@ sum(increase(claude_code_cost_usage_USD_total[$__range]))
   └── 虎符決策 (prompt.id: "abc-123")
 ```
 
-![Image](./img-5.png)
+![Image](./img-5.webp)
 
 查詢特定軍令之完整行軍記錄：
 ```logql
@@ -729,7 +729,7 @@ topk(10,
 
 主公，圖表雖美，然「觀圖」之後的「決策」才是勝負關鍵。臣已將這些陣法圖示融入秘錄之中，建議主公下一步可執行以下軍令：
 
-![Image](./img-6.png)
+![Image](./img-6.webp)
 
 **司馬懿沉聲道：** 主公需防以下陣前之亂，臣逐一列出破解之法。
 
@@ -878,7 +878,7 @@ docker compose down -v  # 撤去所有輜重
 docker compose up -d    # 重新開陣（清空所有存檔）
 ```
 
-![Image](./img-7.png)
+![Image](./img-7.webp)
 
 ---
 
