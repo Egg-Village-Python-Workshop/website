@@ -2,7 +2,7 @@ name: Archive Old Finance Posts
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # Weekly on Sunday at midnight
+    - cron: '0 0 * * *' # Daily at midnight
   workflow_dispatch: # Allow manual trigger
 
 jobs:
