@@ -57,37 +57,19 @@ function TradingViewWidget({ symbol }: { symbol: string }) {
   );
 }
 
-function TaiwanStockWidget({ symbol }: { symbol: string }) {
-  // Using Anue (鉅亨網) as a reliable Taiwan stock chart source
-  const chartUrl = `https://invest.cnyes.com/twstock/TWS/${symbol}/history`;
-  
-  return (
-    <div style={{ height: "75vh", minHeight: "600px", width: "100%", border: "1px solid #ccc", borderRadius: "8px", overflow: "hidden" }}>
-      <iframe 
-        src={chartUrl} 
-        width="100%" 
-        height="100%" 
-        frameBorder="0" 
-        title={`Taiwan Stock ${symbol}`}
-        style={{ backgroundColor: 'white' }}
-      />
-    </div>
-  );
-}
-
 // --- Main Page ---
 
 export default function Quotes(): JSX.Element {
   const [openSection, setOpenSection] = useState<'other' | 'taiwan'>('other');
   
   // States for Other Regions
-  const [otherInput, setOtherInput] = useState('NASDAQ:AAPL');
+  const [otherInput, setOtherInput] = useState('');
   const [otherSymbol, setOtherSymbol] = useState('NASDAQ:AAPL');
   const [favOther, setFavOther] = useState<string[]>([]);
 
   // States for Taiwan
-  const [twInput, setTwInput] = useState('2330');
-  const [twSymbol, setTwSymbol] = useState('2330');
+  const [twInput, setTwInput] = useState('');
+  const [twSymbol, setTwSymbol] = useState('');
   const [favTaiwan, setFavTaiwan] = useState<string[]>([]);
 
   // Load favorites from localStorage
@@ -108,19 +90,27 @@ export default function Quotes(): JSX.Element {
   };
 
   const toggleFavorite = (type: 'other' | 'taiwan', symbol: string) => {
+    if (!symbol || !symbol.trim()) return;
+    const cleanSymbol = symbol.trim().toUpperCase();
+
     if (type === 'other') {
-      const newList = favOther.includes(symbol) 
-        ? favOther.filter(s => s !== symbol) 
-        : [...favOther, symbol];
+      const newList = favOther.includes(cleanSymbol) 
+        ? favOther.filter(s => s !== cleanSymbol) 
+        : [...favOther, cleanSymbol];
       setFavOther(newList);
       saveFavorites('egg-quotes-fav-other', newList);
     } else {
-      const newList = favTaiwan.includes(symbol) 
-        ? favTaiwan.filter(s => s !== symbol) 
-        : [...favTaiwan, symbol];
+      const newList = favTaiwan.includes(cleanSymbol) 
+        ? favTaiwan.filter(s => s !== cleanSymbol) 
+        : [...favTaiwan, cleanSymbol];
       setFavTaiwan(newList);
       saveFavorites('egg-quotes-fav-taiwan', newList);
     }
+  };
+
+  const openTaiwanStock = (symbol: string) => {
+    const url = `https://invest.cnyes.com/twstock/TWS/${symbol.trim()}/history`;
+    window.open(url, '_blank');
   };
 
   const toggleSection = (clickedSection: 'other' | 'taiwan') => {
@@ -196,7 +186,7 @@ export default function Quotes(): JSX.Element {
                     {favOther.includes(otherSymbol) ? '❤️' : '🤍'}
                   </button>
                 </form>
-
+                
                 <BrowserOnly fallback={<div>載入中...</div>}>
                   {() => <TradingViewWidget symbol={otherSymbol} />}
                 </BrowserOnly>
@@ -212,39 +202,55 @@ export default function Quotes(): JSX.Element {
             </div>
             {openSection === 'taiwan' && (
               <div style={contentStyle}>
-                <form 
-                  onSubmit={(e) => { e.preventDefault(); setTwSymbol(twInput.trim()); }}
-                  style={{ display: 'flex', gap: '10px', marginBottom: '10px' }}
-                >
-                  <input
-                    type="text"
-                    list="fav-taiwan-list"
-                    value={twInput}
-                    onChange={(e) => setTwInput(e.target.value)}
-                    placeholder="輸入台股代號 (例如: 2330, 2454)"
-                    style={{ padding: '8px 12px', borderRadius: '4px', border: '1px solid #ccc', flexGrow: 1 }}
-                  />
-                  <datalist id="fav-taiwan-list">
-                    {favTaiwan.map(symbol => (
-                      <option key={symbol} value={symbol} />
-                    ))}
-                  </datalist>
-                  <button type="submit" className="button button--primary">搜尋</button>
-                  <button 
-                    type="button" 
-                    className="button button--secondary"
-                    onClick={() => toggleFavorite('taiwan', twSymbol)}
-                    title="加入/移除我的最愛"
-                    style={{ fontSize: '1.2rem', padding: '0 15px' }}
+                <div style={{ marginBottom: '20px', padding: '20px', background: 'var(--ifm-color-emphasis-100)', borderRadius: '8px' }}>
+                  <p>台股查詢目前採取「外部跳轉」模式，以避開網頁封鎖限制。</p>
+                  <form 
+                    onSubmit={(e) => { e.preventDefault(); setTwSymbol(twInput.trim()); openTaiwanStock(twInput); }}
+                    style={{ display: 'flex', gap: '10px', marginBottom: '10px' }}
                   >
-                    {favTaiwan.includes(twSymbol) ? '❤️' : '🤍'}
-                  </button>
-                </form>
-
-                <TaiwanStockWidget symbol={twSymbol} />
-                <p style={{ marginTop: '10px', fontSize: '0.9rem', color: '#666' }}>
-                  數據來源：鉅亨網 (Anue)。部分內容可能包含廣告。
-                </p>
+                    <input
+                      type="text"
+                      list="fav-taiwan-list"
+                      value={twInput}
+                      onChange={(e) => setTwInput(e.target.value)}
+                      placeholder="輸入台股代號 (例如: 2330, 2454)"
+                      style={{ padding: '8px 12px', borderRadius: '4px', border: '1px solid #ccc', flexGrow: 1 }}
+                    />
+                    <datalist id="fav-taiwan-list">
+                      {favTaiwan.map(symbol => (
+                        <option key={symbol} value={symbol} />
+                      ))}
+                    </datalist>
+                    <button type="submit" className="button button--primary">前往報價</button>
+                    <button 
+                      type="button" 
+                      className="button button--secondary"
+                      onClick={() => toggleFavorite('taiwan', twInput)}
+                      title="加入/移除我的最愛"
+                      style={{ fontSize: '1.2rem', padding: '0 15px' }}
+                    >
+                      {favTaiwan.includes(twInput.trim().toUpperCase()) ? '❤️' : '🤍'}
+                    </button>
+                  </form>
+                  <p style={{ fontSize: '0.85rem', color: '#666' }}>提示：點選「前往報價」或搜尋框中的收藏標的將會開啟鉅亨網報價頁面。</p>
+                </div>
+                
+                {favTaiwan.length > 0 && (
+                  <div>
+                    <h4 style={{ marginBottom: '10px' }}>快速收藏連結:</h4>
+                    <div style={{ display: 'flex', flexWrap: 'wrap', gap: '10px' }}>
+                      {favTaiwan.map(symbol => (
+                        <button 
+                          key={symbol} 
+                          className="button button--outline button--primary"
+                          onClick={() => openTaiwanStock(symbol)}
+                        >
+                          {symbol}
+                        </button>
+                      ))}
+                    </div>
+                  </div>
+                )}
               </div>
             )}
           </div>
