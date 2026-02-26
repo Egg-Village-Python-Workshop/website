@@ -5,24 +5,27 @@ function TickerTape() {
   const [theme, setTheme] = useState('light');
 
   useEffect(() => {
+    if (typeof window === 'undefined') return;
     const getTheme = () => document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
     setTheme(getTheme());
 
-    const observer = new MutationObserver(() => setTheme(getTheme()));
+    const observer = new MutationObserver(() => {
+      const currentTheme = getTheme();
+      setTheme(currentTheme);
+    });
+    
     observer.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
     return () => observer.disconnect();
   }, []);
 
   useEffect(() => {
-    const scriptId = 'tradingview-ticker-tape-script';
-    let script = document.getElementById(scriptId);
-    
-    // Clear previous if theme changed
     const container = document.getElementById('tv-ticker-tape-container');
-    if (container) container.innerHTML = '';
+    if (!container) return;
 
-    script = document.createElement('script');
-    script.id = scriptId;
+    // Clear previous widget
+    container.innerHTML = '';
+
+    const script = document.createElement('script');
     script.src = 'https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js';
     script.async = true;
     script.type = 'text/javascript';
@@ -46,18 +49,23 @@ function TickerTape() {
       "locale": "zh_TW"
     });
 
-    if (container) container.appendChild(script);
+    const timeoutId = setTimeout(() => {
+      if (container) container.appendChild(script);
+    }, 200);
+
+    return () => {
+      clearTimeout(timeoutId);
+      if (container) container.innerHTML = '';
+    };
   }, [theme]);
 
   return (
-    <div id="tv-ticker-tape-container" className="tradingview-widget-container">
-      <div className="tradingview-widget-container__widget"></div>
-    </div>
-  );
-}
-
-  return (
-    <div id="tv-ticker-tape-container" className="tradingview-widget-container">
+    <div 
+      key={theme}
+      id="tv-ticker-tape-container" 
+      className="tradingview-widget-container"
+      style={{ minHeight: '46px' }}
+    >
       <div className="tradingview-widget-container__widget"></div>
     </div>
   );

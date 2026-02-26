@@ -1,20 +1,55 @@
 import React from 'react';
-import BlogListPage from '@theme-original/BlogListPage';
+import clsx from 'clsx';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import {
+  PageMetadata,
+  HtmlClassNameProvider,
+  ThemeClassNames,
+} from '@docusaurus/theme-common';
+import BlogLayout from '@theme/BlogLayout';
+import BlogListPaginator from '@theme/BlogListPaginator';
+import SearchMetadata from '@theme/SearchMetadata';
+import BlogPostItems from '@theme/BlogPostItems';
 import { useLocation } from '@docusaurus/router';
 import MarketIndicesBar from '@site/src/components/Finance/IndicesBar';
 
-export default function BlogListPageWrapper(props) {
+function BlogListPageMetadata(props) {
+  const {metadata} = props;
+  const {
+    siteConfig: {title: siteTitle},
+  } = useDocusaurusContext();
+  const {blogDescription, blogTitle, permalink} = metadata;
+  const isBlogOnlyMode = permalink === '/';
+  const title = isBlogOnlyMode ? siteTitle : blogTitle;
+  return (
+    <>
+      <PageMetadata title={title} description={blogDescription} />
+      <SearchMetadata tag="blog_posts_list" />
+    </>
+  );
+}
+function BlogListPageContent(props) {
+  const {metadata, items, sidebar} = props;
   const { pathname } = useLocation();
   const isFinance = pathname.startsWith('/finance');
 
   return (
-    <>
-      {isFinance && (
-        <div className="container margin-vert--lg" style={{ marginBottom: 0 }}>
-          <MarketIndicesBar />
-        </div>
-      )}
-      <BlogListPage {...props} />
-    </>
+    <BlogLayout sidebar={sidebar}>
+      {isFinance && <MarketIndicesBar />}
+      <BlogPostItems items={items} />
+      <BlogListPaginator metadata={metadata} />
+    </BlogLayout>
+  );
+}
+export default function BlogListPage(props) {
+  return (
+    <HtmlClassNameProvider
+      className={clsx(
+        ThemeClassNames.wrapper.blogPages,
+        ThemeClassNames.page.blogListPage,
+      )}>
+      <BlogListPageMetadata {...props} />
+      <BlogListPageContent {...props} />
+    </HtmlClassNameProvider>
   );
 }
