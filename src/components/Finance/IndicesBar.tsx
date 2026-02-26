@@ -1,7 +1,8 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useRef } from 'react';
 import BrowserOnly from '@docusaurus/BrowserOnly';
 
 function TickerTape() {
+  const containerRef = useRef<HTMLDivElement>(null);
   const [theme, setTheme] = useState('light');
 
   useEffect(() => {
@@ -18,10 +19,10 @@ function TickerTape() {
   }, []);
 
   useEffect(() => {
-    const container = document.getElementById('tv-ticker-tape-container');
-    if (!container) return;
+    if (!containerRef.current) return;
 
-    container.innerHTML = '';
+    const currentContainer = containerRef.current;
+    currentContainer.innerHTML = ''; // Clear previous
 
     const script = document.createElement('script');
     script.src = 'https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js';
@@ -47,30 +48,26 @@ function TickerTape() {
       "locale": "zh_TW"
     });
 
+    // Delay script injection to prevent conflicts during React render cycle
     const timeoutId = setTimeout(() => {
-      if (container) container.appendChild(script);
-    }, 200);
+      if (currentContainer) {
+        currentContainer.appendChild(script);
+      }
+    }, 150);
 
     return () => {
       clearTimeout(timeoutId);
-      if (container) container.innerHTML = '';
+      if (currentContainer) {
+        currentContainer.innerHTML = '';
+      }
     };
   }, [theme]);
 
   return (
-    <div 
-      key={theme}
-      id="tv-ticker-tape-container" 
-      className="tradingview-widget-container"
-      style={{ minHeight: '46px' }}
-    >
+    <div key={theme} className="tradingview-widget-container" ref={containerRef} style={{ minHeight: '46px' }}>
       <div className="tradingview-widget-container__widget"></div>
     </div>
   );
-}
-
-function WantGooIndex() {
-  return null;
 }
 
 export default function MarketIndicesBar() {
