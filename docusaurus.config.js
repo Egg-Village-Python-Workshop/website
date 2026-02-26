@@ -6,8 +6,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "蛋蛋村🥚",
-  tagline: "歡迎來到蛋蛋村",
+  title: "蛋蛋村🥚 - 專業金融與技術分析",
+  tagline: "提供即時股市報價、深度金融分析與 Python 技術工作坊",
   favicon: "img/eggbign.png",
 
   // Set the production url of your site here
@@ -74,26 +74,31 @@ const config = {
 
       metadata: [
         { name: "viewport", content: "width=device-width, initial-scale=1.0" },
-        { property: "og:title", content: "蛋蛋村" },
-        { property: "og:url", content: "https://egg.lychicken.com" },
-        { property: "og:site_name", content: "蛋蛋村" },
-        { property: "og:description", content: "歡迎來到蛋蛋村" },
-        { property: "og:locale", content: "zh_TW" },
-        { property: "article:author", content: "Egg Village" },
-        { property: "article:tag", content: "蛋" },
-        { property: "article:tag", content: "蛋蛋村" },
-        { property: "article:tag", content: "Egg" },
-        { property: "article:tag", content: "Egg Village" },
-        { property: "article:tag", content: "Python" },
         {
-          property: "article:tag",
+          name: "keywords",
           content:
-            "前端, 後端, 全端, 網頁, 開發, 技術, 網頁開發, 前端開發, 後端開發, 全端開發, Python, JavaScript, HTML, CSS, 經驗分享, 手札, 筆記",
+            "台股, 美股, 投資, 理財, 金融分析, 即時報價, 股票, TradingView, Python, 量化交易, 虛擬貨幣, BTC, 財經新聞",
         },
         {
-          property: "article:tag",
+          name: "description",
           content:
-            "frontend, backend, web, Python, JavaScript, HTML, CSS, 經驗分享, 手札, note",
+            "蛋蛋村提供專業的金融市場分析、即時股市報價工具，以及 Python 技術工作坊文章。涵蓋台股、美股、區塊鏈與量化交易心得分享。",
+        },
+        { property: "og:title", content: "蛋蛋村🥚 - 專業金融與技術分析" },
+        { property: "og:url", content: "https://egg.lychicken.com" },
+        { property: "og:site_name", content: "蛋蛋村" },
+        {
+          property: "og:description",
+          content:
+            "蛋蛋村提供專業的金融市場分析、即時股市報價工具，以及 Python 技術工作坊文章。涵蓋台股、美股、區塊鏈與量化交易心得分享。",
+        },
+        { property: "og:locale", content: "zh_TW" },
+        { property: "og:type", content: "website" },
+        { name: "twitter:card", content: "summary_large_image" },
+        { property: "article:author", content: "Egg Village" },
+        {
+          property: "article:tag",
+          content: "台股, 美股, 投資, 理財, 金融, Python, 量化交易, 區塊鏈",
         },
       ],
       navbar: {
