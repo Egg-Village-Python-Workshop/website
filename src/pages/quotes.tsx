@@ -191,8 +191,9 @@ export default function Quotes(): JSX.Element {
                     className="button button--secondary"
                     onClick={() => toggleFavorite('other', otherSymbol)}
                     title="加入/移除我的最愛"
+                    style={{ fontSize: '1.2rem', padding: '0 15px' }}
                   >
-                    {favOther.includes(otherSymbol) ? '★' : '☆'}
+                    {favOther.includes(otherSymbol) ? '❤️' : '🤍'}
                   </button>
                 </form>
 
@@ -234,8 +235,9 @@ export default function Quotes(): JSX.Element {
                     className="button button--secondary"
                     onClick={() => toggleFavorite('taiwan', twSymbol)}
                     title="加入/移除我的最愛"
+                    style={{ fontSize: '1.2rem', padding: '0 15px' }}
                   >
-                    {favTaiwan.includes(twSymbol) ? '★' : '☆'}
+                    {favTaiwan.includes(twSymbol) ? '❤️' : '🤍'}
                   </button>
                 </form>
 
