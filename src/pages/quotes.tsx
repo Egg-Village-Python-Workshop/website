@@ -185,11 +185,17 @@ export default function Quotes(): JSX.Element {
                 >
                   <input
                     type="text"
+                    list="fav-other-list"
                     value={otherInput}
                     onChange={(e) => setOtherInput(e.target.value)}
                     placeholder="輸入代號 (例如: TSLA, BINANCE:BTCUSDT)"
                     style={{ padding: '8px 12px', borderRadius: '4px', border: '1px solid #ccc', flexGrow: 1 }}
                   />
+                  <datalist id="fav-other-list">
+                    {favOther.map(symbol => (
+                      <option key={symbol} value={symbol} />
+                    ))}
+                  </datalist>
                   <button type="submit" className="button button--primary">搜尋</button>
                   <button 
                     type="button" 
@@ -237,11 +243,17 @@ export default function Quotes(): JSX.Element {
                 >
                   <input
                     type="text"
+                    list="fav-taiwan-list"
                     value={twInput}
                     onChange={(e) => setTwInput(e.target.value)}
                     placeholder="輸入台股代號 (例如: 2330, 2454)"
                     style={{ padding: '8px 12px', borderRadius: '4px', border: '1px solid #ccc', flexGrow: 1 }}
                   />
+                  <datalist id="fav-taiwan-list">
+                    {favTaiwan.map(symbol => (
+                      <option key={symbol} value={symbol} />
+                    ))}
+                  </datalist>
                   <button type="submit" className="button button--primary">搜尋</button>
                   <button 
                     type="button" 
