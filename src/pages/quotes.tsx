@@ -83,17 +83,50 @@ export default function Quotes(): JSX.Element {
   // States for Other Regions
   const [otherInput, setOtherInput] = useState('NASDAQ:AAPL');
   const [otherSymbol, setOtherSymbol] = useState('NASDAQ:AAPL');
+  const [favOther, setFavOther] = useState<string[]>([]);
 
   // States for Taiwan
   const [twInput, setTwInput] = useState('2330');
   const [twSymbol, setTwSymbol] = useState('2330');
+  const [favTaiwan, setFavTaiwan] = useState<string[]>([]);
+
+  // Load favorites from localStorage
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      const savedOther = localStorage.getItem('egg-quotes-fav-other');
+      const savedTaiwan = localStorage.getItem('egg-quotes-fav-taiwan');
+      if (savedOther) setFavOther(JSON.parse(savedOther));
+      if (savedTaiwan) setFavTaiwan(JSON.parse(savedTaiwan));
+    }
+  }, []);
+
+  // Save favorites to localStorage
+  const saveFavorites = (key: string, list: string[]) => {
+    if (typeof window !== 'undefined') {
+      localStorage.setItem(key, JSON.stringify(list));
+    }
+  };
+
+  const toggleFavorite = (type: 'other' | 'taiwan', symbol: string) => {
+    if (type === 'other') {
+      const newList = favOther.includes(symbol) 
+        ? favOther.filter(s => s !== symbol) 
+        : [...favOther, symbol];
+      setFavOther(newList);
+      saveFavorites('egg-quotes-fav-other', newList);
+    } else {
+      const newList = favTaiwan.includes(symbol) 
+        ? favTaiwan.filter(s => s !== symbol) 
+        : [...favTaiwan, symbol];
+      setFavTaiwan(newList);
+      saveFavorites('egg-quotes-fav-taiwan', newList);
+    }
+  };
 
   const toggleSection = (clickedSection: 'other' | 'taiwan') => {
     if (openSection === clickedSection) {
-      // If clicking the currently open section, close it and open the other one
       setOpenSection(clickedSection === 'other' ? 'taiwan' : 'other');
     } else {
-      // If clicking the closed section, open it (which automatically closes the current one)
       setOpenSection(clickedSection);
     }
   };
@@ -121,6 +154,17 @@ export default function Quotes(): JSX.Element {
     display: 'block'
   };
 
+  const favItemStyle: React.CSSProperties = {
+    padding: '4px 12px',
+    margin: '4px',
+    borderRadius: '16px',
+    background: 'var(--ifm-color-emphasis-300)',
+    cursor: 'pointer',
+    display: 'inline-block',
+    fontSize: '0.85rem',
+    fontWeight: 'bold'
+  };
+
   return (
     <Layout title="即時報價" description="即時報價頁面，包含國際市場與台股區">
       <main>
@@ -137,7 +181,7 @@ export default function Quotes(): JSX.Element {
               <div style={contentStyle}>
                 <form 
                   onSubmit={(e) => { e.preventDefault(); setOtherSymbol(otherInput.trim().toUpperCase()); }}
-                  style={{ display: 'flex', gap: '10px', marginBottom: '15px' }}
+                  style={{ display: 'flex', gap: '10px', marginBottom: '10px' }}
                 >
                   <input
                     type="text"
@@ -147,7 +191,31 @@ export default function Quotes(): JSX.Element {
                     style={{ padding: '8px 12px', borderRadius: '4px', border: '1px solid #ccc', flexGrow: 1 }}
                   />
                   <button type="submit" className="button button--primary">搜尋</button>
+                  <button 
+                    type="button" 
+                    className="button button--secondary"
+                    onClick={() => toggleFavorite('other', otherSymbol)}
+                    title="加入/移除我的最愛"
+                  >
+                    {favOther.includes(otherSymbol) ? '★' : '☆'}
+                  </button>
                 </form>
+                
+                {/* Favorites Quick List */}
+                <div style={{ marginBottom: '15px' }}>
+                  <span style={{ fontSize: '0.9rem', marginRight: '10px', color: '#666' }}>我的最愛:</span>
+                  {favOther.length === 0 && <span style={{ fontSize: '0.9rem', color: '#999' }}>尚未加入任何標的</span>}
+                  {favOther.map(symbol => (
+                    <div 
+                      key={symbol} 
+                      style={favItemStyle} 
+                      onClick={() => { setOtherSymbol(symbol); setOtherInput(symbol); }}
+                    >
+                      {symbol}
+                    </div>
+                  ))}
+                </div>
+
                 <BrowserOnly fallback={<div>載入中...</div>}>
                   {() => <TradingViewWidget symbol={otherSymbol} />}
                 </BrowserOnly>
@@ -165,7 +233,7 @@ export default function Quotes(): JSX.Element {
               <div style={contentStyle}>
                 <form 
                   onSubmit={(e) => { e.preventDefault(); setTwSymbol(twInput.trim()); }}
-                  style={{ display: 'flex', gap: '10px', marginBottom: '15px' }}
+                  style={{ display: 'flex', gap: '10px', marginBottom: '10px' }}
                 >
                   <input
                     type="text"
@@ -175,7 +243,31 @@ export default function Quotes(): JSX.Element {
                     style={{ padding: '8px 12px', borderRadius: '4px', border: '1px solid #ccc', flexGrow: 1 }}
                   />
                   <button type="submit" className="button button--primary">搜尋</button>
+                  <button 
+                    type="button" 
+                    className="button button--secondary"
+                    onClick={() => toggleFavorite('taiwan', twSymbol)}
+                    title="加入/移除我的最愛"
+                  >
+                    {favTaiwan.includes(twSymbol) ? '★' : '☆'}
+                  </button>
                 </form>
+
+                {/* Favorites Quick List */}
+                <div style={{ marginBottom: '15px' }}>
+                  <span style={{ fontSize: '0.9rem', marginRight: '10px', color: '#666' }}>我的最愛:</span>
+                  {favTaiwan.length === 0 && <span style={{ fontSize: '0.9rem', color: '#999' }}>尚未加入任何標的</span>}
+                  {favTaiwan.map(symbol => (
+                    <div 
+                      key={symbol} 
+                      style={favItemStyle} 
+                      onClick={() => { setTwSymbol(symbol); setTwInput(symbol); }}
+                    >
+                      {symbol}
+                    </div>
+                  ))}
+                </div>
+
                 <TaiwanStockWidget symbol={twSymbol} />
                 <p style={{ marginTop: '10px', fontSize: '0.9rem', color: '#666' }}>
                   數據來源：鉅亨網 (Anue)。部分內容可能包含廣告。
