@@ -65,7 +65,7 @@ export default function Quotes(): JSX.Element {
   
   // States for Other Regions
   const [otherInput, setOtherInput] = useState('');
-  const [otherSymbol, setOtherSymbol] = useState('NASDAQ:AAPL');
+  const [otherSymbol, setOtherSymbol] = useState<string | null>(null);
   const [favOther, setFavOther] = useState<string[]>([]);
 
   // States for Taiwan
@@ -192,7 +192,22 @@ export default function Quotes(): JSX.Element {
                 </form>
                 
                 <BrowserOnly fallback={<div>載入中...</div>}>
-                  {() => <TradingViewWidget symbol={otherSymbol} />}
+                  {() => otherSymbol ? (
+                    <TradingViewWidget symbol={otherSymbol} />
+                  ) : (
+                    <div style={{ 
+                      height: "70vh", 
+                      minHeight: "500px", 
+                      display: "flex", 
+                      alignItems: "center", 
+                      justifyContent: "center",
+                      border: "1px dashed #ccc",
+                      borderRadius: "8px",
+                      color: "#666"
+                    }}>
+                      <h3>請輸入代號進行查詢 (例如: TSLA, BTCUSDT)</h3>
+                    </div>
+                  )}
                 </BrowserOnly>
               </div>
             )}

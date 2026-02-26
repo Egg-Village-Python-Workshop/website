@@ -46,7 +46,6 @@ function TickerTape() {
         { proName: "GOLD", title: "黃金" },
         { proName: "UKOIL", title: "原油" },
         { proName: "TAIEX", title: "台灣大盤指數" },
-        { proName: "TAIEX", title: "台灣大盤指數" },
       ],
       showSymbolLogo: true,
       colorTheme: theme,
