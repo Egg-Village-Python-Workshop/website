@@ -72,40 +72,17 @@ function TickerTape() {
 }
 
 function WantGooIndex() {
-  return (
-    <div style={{ 
-      height: '40px', 
-      overflow: 'hidden', 
-      borderBottom: '1px solid var(--ifm-color-emphasis-300)',
-      background: 'var(--ifm-background-color)',
-      display: 'flex',
-      alignItems: 'center'
-    }}>
-      <iframe 
-        src="https://www.wantgoo.com/widget/index/taiex" 
-        width="100%" 
-        height="150" // High height but parent hides most
-        frameBorder="0" 
-        scrolling="no"
-        style={{ 
-          marginTop: '-45px', // Shift to focus on the index values
-          pointerEvents: 'none' // Prevent clicking into wantgoo from the mini-bar
-        }}
-      />
-    </div>
-  );
+  return null;
 }
 
 export default function MarketIndicesBar() {
   return (
     <div style={{ 
-      marginBottom: '2rem', 
-      boxShadow: '0 4px 6px rgba(0,0,0,0.1)',
-      borderRadius: '8px',
+      marginBottom: '1rem', 
+      boxShadow: '0 2px 4px rgba(0,0,0,0.1)',
       overflow: 'hidden',
-      border: '1px solid var(--ifm-color-emphasis-300)'
+      borderBottom: '1px solid var(--ifm-color-emphasis-300)'
     }}>
-      <WantGooIndex />
       <BrowserOnly fallback={<div style={{ height: '46px', background: 'var(--ifm-background-color)' }}>載入國際指數中...</div>}>
         {() => <TickerTape />}
       </BrowserOnly>

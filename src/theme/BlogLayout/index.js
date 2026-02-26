@@ -8,13 +8,14 @@ import MarketIndicesBar from '@site/src/components/Finance/IndicesBar';
 export default function BlogLayout(props) {
   const {sidebar, toc, children, ...layoutProps} = props;
   const { pathname } = useLocation();
-  const isFinance = pathname.startsWith('/finance');
+  // Support both /finance and /finance/ with potential baseUrl
+  const isFinance = /\/finance($|\/)/.test(pathname);
   const hasSidebar = sidebar && sidebar.items.length > 0;
 
   return (
     <Layout {...layoutProps}>
       {isFinance && (
-        <div className="container margin-top--md" style={{ maxWidth: '100%', padding: '0 20px' }}>
+        <div style={{ width: '100%', marginBottom: '-2rem' }}>
           <MarketIndicesBar />
         </div>
       )}
