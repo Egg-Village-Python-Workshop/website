@@ -12,7 +12,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: "Python 工作坊",
-    Svg: "/img/work.png",
+    Svg: "/img/work.webp",
     description: (
       <>蛋蛋村是一個 Python 的工作坊，不定期上架 Python 的技術文章</>
     ),
@@ -20,19 +20,19 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: "孵蛋計畫",
-    Svg: "/img/meet.png",
+    Svg: "/img/meet.webp",
     description: <>孵化每一個蛋，期許未來可以擴大蛋蛋村的版圖</>,
     url: "/docs/intro",
   },
   {
     title: "蛋蛋村新聞",
-    Svg: "/img/news.jpg",
+    Svg: "/img/news.webp",
     description: <>每當蛋蛋村有重大消息時，就會透過新聞發布</>,
     url: "/blog",
   },
     {
     title: "蛋蛋金融大小事",
-    Svg: "/img/finance.png",
+    Svg: "/img/finance.webp",
     description: (
       <>關心蛋蛋村的金融大小事</>
     ),
