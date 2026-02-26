@@ -71,9 +71,12 @@ const config = {
     ({
       // Replace with your project's social card
       image: "img/egglogo.png",
+      titleDelimiter: "|", // 使標題呈現為：文章標題 | 蛋蛋村
 
       metadata: [
         { name: "viewport", content: "width=device-width, initial-scale=1.0" },
+        { name: "theme-color", content: "#386641" }, // 使用主題綠色作為瀏覽器顏色
+        { name: "apple-mobile-web-app-title", content: "蛋蛋村" },
         {
           name: "keywords",
           content:
