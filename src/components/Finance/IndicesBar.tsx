@@ -10,8 +10,7 @@ function TickerTape() {
     setTheme(getTheme());
 
     const observer = new MutationObserver(() => {
-      const currentTheme = getTheme();
-      setTheme(currentTheme);
+      setTheme(getTheme());
     });
     
     observer.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
@@ -22,7 +21,6 @@ function TickerTape() {
     const container = document.getElementById('tv-ticker-tape-container');
     if (!container) return;
 
-    // Clear previous widget
     container.innerHTML = '';
 
     const script = document.createElement('script');
