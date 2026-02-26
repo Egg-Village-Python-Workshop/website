@@ -154,17 +154,6 @@ export default function Quotes(): JSX.Element {
     display: 'block'
   };
 
-  const favItemStyle: React.CSSProperties = {
-    padding: '4px 12px',
-    margin: '4px',
-    borderRadius: '16px',
-    background: 'var(--ifm-color-emphasis-300)',
-    cursor: 'pointer',
-    display: 'inline-block',
-    fontSize: '0.85rem',
-    fontWeight: 'bold'
-  };
-
   return (
     <Layout title="即時報價" description="即時報價頁面，包含國際市場與台股區">
       <main>
@@ -206,21 +195,6 @@ export default function Quotes(): JSX.Element {
                     {favOther.includes(otherSymbol) ? '★' : '☆'}
                   </button>
                 </form>
-                
-                {/* Favorites Quick List */}
-                <div style={{ marginBottom: '15px' }}>
-                  <span style={{ fontSize: '0.9rem', marginRight: '10px', color: '#666' }}>我的最愛:</span>
-                  {favOther.length === 0 && <span style={{ fontSize: '0.9rem', color: '#999' }}>尚未加入任何標的</span>}
-                  {favOther.map(symbol => (
-                    <div 
-                      key={symbol} 
-                      style={favItemStyle} 
-                      onClick={() => { setOtherSymbol(symbol); setOtherInput(symbol); }}
-                    >
-                      {symbol}
-                    </div>
-                  ))}
-                </div>
 
                 <BrowserOnly fallback={<div>載入中...</div>}>
                   {() => <TradingViewWidget symbol={otherSymbol} />}
@@ -264,21 +238,6 @@ export default function Quotes(): JSX.Element {
                     {favTaiwan.includes(twSymbol) ? '★' : '☆'}
                   </button>
                 </form>
-
-                {/* Favorites Quick List */}
-                <div style={{ marginBottom: '15px' }}>
-                  <span style={{ fontSize: '0.9rem', marginRight: '10px', color: '#666' }}>我的最愛:</span>
-                  {favTaiwan.length === 0 && <span style={{ fontSize: '0.9rem', color: '#999' }}>尚未加入任何標的</span>}
-                  {favTaiwan.map(symbol => (
-                    <div 
-                      key={symbol} 
-                      style={favItemStyle} 
-                      onClick={() => { setTwSymbol(symbol); setTwInput(symbol); }}
-                    >
-                      {symbol}
-                    </div>
-                  ))}
-                </div>
 
                 <TaiwanStockWidget symbol={twSymbol} />
                 <p style={{ marginTop: '10px', fontSize: '0.9rem', color: '#666' }}>
