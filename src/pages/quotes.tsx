@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import Layout from '@theme/Layout';
 import BrowserOnly from '@docusaurus/BrowserOnly';
+import WarRoom from '@site/src/components/Quotes/WarRoom';
 
 // --- Components ---
 
@@ -149,6 +150,9 @@ export default function Quotes(): JSX.Element {
       <main>
         <div className="container margin-vert--lg">
           <h1>即時報價系統</h1>
+          
+          <WarRoom />
+          <div style={{ marginTop: '30px' }} />
           
           {/* Section: Other Regions */}
           <div style={sectionStyle}>
