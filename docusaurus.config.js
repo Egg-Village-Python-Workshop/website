@@ -111,6 +111,7 @@ const config = {
           },
           { to: "/blog", label: "新聞", position: "left" },
           { to: "/finance", label: "金融大小事", position: "left" },
+          { to: "/quotes", label: "即時報價", position: "left" },
           {
             href: "https://github.com/Egg-Village-Python-Workshop/website",
             label: "GitHub",
