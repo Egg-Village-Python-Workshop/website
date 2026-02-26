@@ -10,8 +10,6 @@ import BlogLayout from '@theme/BlogLayout';
 import BlogListPaginator from '@theme/BlogListPaginator';
 import SearchMetadata from '@theme/SearchMetadata';
 import BlogPostItems from '@theme/BlogPostItems';
-import { useLocation } from '@docusaurus/router';
-import MarketIndicesBar from '@site/src/components/Finance/IndicesBar';
 
 function BlogListPageMetadata(props) {
   const {metadata} = props;
@@ -30,12 +28,8 @@ function BlogListPageMetadata(props) {
 }
 function BlogListPageContent(props) {
   const {metadata, items, sidebar} = props;
-  const { pathname } = useLocation();
-  const isFinance = pathname.startsWith('/finance');
-
   return (
     <BlogLayout sidebar={sidebar}>
-      {isFinance && <MarketIndicesBar />}
       <BlogPostItems items={items} />
       <BlogListPaginator metadata={metadata} />
     </BlogLayout>
