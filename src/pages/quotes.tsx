@@ -3,7 +3,7 @@ import Layout from '@theme/Layout';
 import BrowserOnly from '@docusaurus/BrowserOnly';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import WarRoom from '@site/src/components/Quotes/WarRoom';
-import { GSheetQuotes } from '@site/src/components/Quotes/GSheetQuotes';
+import { TaiwanQuotesManager } from '@site/src/components/Quotes/TaiwanQuotesManager';
 
 // --- Components ---
 
@@ -167,7 +167,7 @@ export default function Quotes(): JSX.Element {
           <WarRoom />
           <div style={{ marginTop: '30px' }} />
 
-          {/* Section: Google Sheets Data */}
+          {/* Section: Taiwan Stock Subscription Data */}
           <div style={sectionStyle}>
             <div 
               style={{
@@ -182,13 +182,13 @@ export default function Quotes(): JSX.Element {
               }} 
               onClick={() => setShowGSheet(!showGSheet)}
             >
-              <span>📊 試算表連動報價</span>
+              <span>📊 台股報價 (訂閱管理)</span>
               <span style={{ fontSize: '1.2rem', color: '#666' }}>{showGSheet ? '▼' : '▶'}</span>
             </div>
             {showGSheet && (
               <div style={contentStyle}>
                 <BrowserOnly fallback={<div>載入中...</div>}>
-                  {() => <GSheetQuotes />}
+                  {() => <TaiwanQuotesManager />}
                 </BrowserOnly>
               </div>
             )}
