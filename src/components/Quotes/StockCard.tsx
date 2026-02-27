@@ -25,7 +25,7 @@ export const StockCard: React.FC<{ data: StockData }> = ({ data }) => {
       padding: '20px', 
       border: '1px solid var(--ifm-color-emphasis-300)', 
       borderRadius: '12px', 
-      background: 'var(--ifm-background-color)',
+      background: 'var(--ifm-card-background-color)',
       boxShadow: '0 2px 8px rgba(0,0,0,0.05)',
       minWidth: '280px',
       flex: '1'
