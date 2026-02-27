@@ -14,10 +14,15 @@ export const GSheetQuotes: React.FC = () => {
         const response = await fetch(CSV_URL);
         const text = await response.text();
         
-        // Parse custom CSV layout
-        const lines = text.split('
-').map(line => line.split(',').map(cell => cell.replace(/"/g, '').trim()));
+        // Parse custom CSV layout using regex for robust line splitting
+        const lines = text.split(/\r?\n/).map(line => 
+          line.split(',').map(cell => cell.replace(/"/g, '').trim())
+        );
         
+        if (lines.length < 4) {
+          throw new Error('CSV data format is unexpected');
+        }
+
         // Positional parsing based on spreadsheet structure
         const parsed: StockData = {
           symbol: lines[0][0],
@@ -46,14 +51,15 @@ export const GSheetQuotes: React.FC = () => {
     return () => clearInterval(interval);
   }, []);
 
-  if (loading) return <div>載入中...</div>;
-  if (error) return <div style={{ color: 'red' }}>{error}</div>;
+  if (loading) return <div style={{ padding: '20px' }}>載入中...</div>;
+  if (error) return <div style={{ color: 'red', padding: '20px' }}>{error}</div>;
   if (!data) return null;
 
   return (
     <div style={{ display: 'flex', flexWrap: 'wrap', gap: '20px' }}>
       <StockCard data={data} />
-      {/* Future stock cards can be added here easily */}
+      <StockCard data={data} />
+      <StockCard data={data} />
     </div>
   );
 };
