@@ -32,8 +32,14 @@ function TickerTape() {
     const currentContainer = containerRef.current;
     currentContainer.innerHTML = ""; // Clear previous
 
+    const scriptUrl = (siteConfig.customFields.tradingViewTickerTapeJs as string) || "https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js";
+    if (!scriptUrl) {
+      console.warn('TradingView TickerTape URL is not defined in customFields.');
+      return;
+    }
+
     const script = document.createElement("script");
-    script.src = siteConfig.customFields.tradingViewTickerTapeJs as string;
+    script.src = scriptUrl;
     script.async = true;
     script.type = "text/javascript";
     script.innerHTML = JSON.stringify({

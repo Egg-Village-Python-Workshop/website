@@ -41,10 +41,16 @@ function TradingViewWidget({ symbol }: { symbol: string }) {
       }
     };
 
+    const scriptUrl = (siteConfig.customFields.tradingViewTvJs as string) || "https://s3.tradingview.com/tv.js";
+    if (!scriptUrl) {
+      console.warn('TradingView SDK URL is not defined in customFields.');
+      return;
+    }
+
     if (!script) {
       script = document.createElement('script');
       script.id = scriptId;
-      script.src = siteConfig.customFields.tradingViewTvJs as string;
+      script.src = scriptUrl;
       script.async = true;
       script.onload = initWidget;
       document.head.appendChild(script);
@@ -114,7 +120,8 @@ export default function Quotes(): JSX.Element {
 
   const openTaiwanStock = (symbol: string) => {
     if (!symbol) return;
-    const url = `${siteConfig.customFields.anueTaiwanStockUrl}${symbol.trim()}/history`;
+    const baseUrl = (siteConfig.customFields.anueTaiwanStockUrl as string) || "https://invest.cnyes.com/twstock/TWS/";
+    const url = `${baseUrl}${symbol.trim()}/history`;
     window.open(url, '_blank');
   };
 

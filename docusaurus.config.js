@@ -1,7 +1,8 @@
 // @ts-nocheck
 // Note: type annotations allow type checking and IDEs autocompletion
 
-require('dotenv').config();
+const path = require('path');
+require('dotenv').config({ path: path.join(__dirname, '.env') });
 
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
@@ -72,13 +73,13 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       customFields: {
-        tradingViewTvJs: process.env.TRADINGVIEW_TV_JS,
-        tradingViewAdvancedChartJs: process.env.TRADINGVIEW_ADVANCED_CHART_JS,
-        tradingViewTickerTapeJs: process.env.TRADINGVIEW_TICKER_TAPE_JS,
-        tradingViewTechnicalAnalysisJs: process.env.TRADINGVIEW_TECHNICAL_ANALYSIS_JS,
-        tradingViewMiniSymbolOverviewJs: process.env.TRADINGVIEW_MINI_SYMBOL_OVERVIEW_JS,
-        anueTaiwanStockUrl: process.env.ANUE_TAIWAN_STOCK_URL,
-        cryptoFearGreedImg: process.env.CRYPTO_FEAR_GREED_IMG,
+        tradingViewTvJs: process.env.TRADINGVIEW_TV_JS || "https://s3.tradingview.com/tv.js",
+        tradingViewAdvancedChartJs: process.env.TRADINGVIEW_ADVANCED_CHART_JS || "https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js",
+        tradingViewTickerTapeJs: process.env.TRADINGVIEW_TICKER_TAPE_JS || "https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js",
+        tradingViewTechnicalAnalysisJs: process.env.TRADINGVIEW_TECHNICAL_ANALYSIS_JS || "https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js",
+        tradingViewMiniSymbolOverviewJs: process.env.TRADINGVIEW_MINI_SYMBOL_OVERVIEW_JS || "https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js",
+        anueTaiwanStockUrl: process.env.ANUE_TAIWAN_STOCK_URL || "https://invest.cnyes.com/twstock/TWS/",
+        cryptoFearGreedImg: process.env.CRYPTO_FEAR_GREED_IMG || "https://alternative.me/crypto/fear-and-greed-index.png",
       },
       // Replace with your project's social card
       image: "img/egglogo.png",

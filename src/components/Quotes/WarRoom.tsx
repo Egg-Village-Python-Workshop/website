@@ -19,8 +19,11 @@ function TechnicalGauge({
     const container = containerRef.current;
     container.innerHTML = "";
 
+    const scriptUrl = (siteConfig.customFields.tradingViewTechnicalAnalysisJs as string) || "https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js";
+    if (!scriptUrl) return;
+
     const script = document.createElement("script");
-    script.src = siteConfig.customFields.tradingViewTechnicalAnalysisJs as string;
+    script.src = scriptUrl;
     script.async = true;
     script.type = "text/javascript";
     script.innerHTML = JSON.stringify({
@@ -118,7 +121,7 @@ function CryptoSentiment() {
         加密貨幣情緒
       </h5>
       <img
-        src={siteConfig.customFields.cryptoFearGreedImg as string}
+        src={(siteConfig.customFields.cryptoFearGreedImg as string) || "https://alternative.me/crypto/fear-and-greed-index.png"}
         alt="Latest Crypto Fear & Greed Index"
         style={{
           width: "100%",
@@ -148,8 +151,11 @@ function MarketSymbol({
     const container = containerRef.current;
     container.innerHTML = "";
 
+    const scriptUrl = (siteConfig.customFields.tradingViewMiniSymbolOverviewJs as string) || "https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js";
+    if (!scriptUrl) return;
+
     const script = document.createElement("script");
-    script.src = siteConfig.customFields.tradingViewMiniSymbolOverviewJs as string;
+    script.src = scriptUrl;
     script.async = true;
     script.type = "text/javascript";
     script.innerHTML = JSON.stringify({
