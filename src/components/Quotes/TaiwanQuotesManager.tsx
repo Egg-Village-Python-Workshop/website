@@ -13,7 +13,7 @@ export const TaiwanQuotesManager: React.FC = () => {
   const [stockOptions, setStockOptions] = useState<StockOption[]>([]);
   const [csvUrl, setCsvUrl] = useState<string | null>(null);
   const [inputValue, setInputValue] = useState('');
-  const [sharedData, setSharedData] = useState<StockData | null>(null);
+  const [realTimeData, setRealTimeData] = useState<Record<string, StockData>>({});
   const [loading, setLoading] = useState(true);
   const fileInputRef = useRef<HTMLInputElement>(null);
 
@@ -41,7 +41,7 @@ export const TaiwanQuotesManager: React.FC = () => {
     }
   }, []);
 
-  // Fetch data whenever csvUrl is available
+  // Fetch and parse multi-stock CSV
   useEffect(() => {
     if (!csvUrl) return;
 
@@ -53,23 +53,37 @@ export const TaiwanQuotesManager: React.FC = () => {
           line.split(',').map(cell => cell.replace(/"/g, '').trim())
         );
         
-        if (lines.length >= 4) {
-          const parsed: StockData = {
-            symbol: lines[0][0],
-            price: lines[1][1],
-            indexName: lines[0][3],
-            indexValue: lines[0][4],
-            change: lines[2][4],
-            changePercent: lines[2][6],
-            volume: lines[3][1],
-            low: lines[3][4],
-            high: lines[3][6],
-            lastUpdated: new Date().toLocaleTimeString('zh-TW')
-          };
-          setSharedData(parsed);
+        const newData: Record<string, StockData> = {};
+        
+        // Scan for stock blocks
+        for (let i = 0; i < lines.length; i++) {
+          const firstCell = lines[i][0];
+          // Check if first cell looks like a stock ID (e.g., "2330", "00635U")
+          if (firstCell && /^[0-9A-Z]{4,6}$/.test(firstCell)) {
+            const symbol = firstCell;
+            // Ensure we have enough lines for a full block (min 4 lines)
+            if (i + 3 < lines.length) {
+              newData[symbol] = {
+                symbol: symbol,
+                price: lines[i+1][1] || '---',
+                indexName: lines[i][3] || '加權指數',
+                indexValue: lines[i][4] || '---',
+                change: lines[i+2][4] || '0.00',
+                changePercent: lines[i+2][6] || '0.00%',
+                volume: lines[i+3][1] || '---',
+                low: lines[i+3][4] || '---',
+                high: lines[i+3][6] || '---',
+                lastUpdated: new Date().toLocaleTimeString('zh-TW')
+              };
+              // Skip the parsed block lines
+              i += 3;
+            }
+          }
         }
+        
+        setRealTimeData(newData);
       } catch (err) {
-        console.error('Failed to fetch GSheet data', err);
+        console.error('Failed to fetch/parse CSV data', err);
       } finally {
         setLoading(false);
       }
@@ -146,7 +160,7 @@ export const TaiwanQuotesManager: React.FC = () => {
           />
           <datalist id="tw-stock-options">
             {stockOptions.map(opt => (
-              <option key={opt.id} value={opt.id}>{opt.name}</option>
+              <option key={opt.id} value={opt.id}>{`${opt.id} ${opt.name}`}</option>
             ))}
           </datalist>
           <button className="button button--primary" onClick={() => addStock(inputValue)}>訂閱</button>
@@ -195,14 +209,14 @@ export const TaiwanQuotesManager: React.FC = () => {
                 ✕
               </button>
               <StockCard data={
-                (sharedData && (symbol === sharedData.symbol || symbol === '00635U')) 
-                ? { ...sharedData, symbol } 
+                realTimeData[symbol] 
+                ? realTimeData[symbol] 
                 : { 
                     symbol, 
                     price: '---', 
                     change: '0.00', 
                     changePercent: '0.00%', 
-                    name: stockOptions.find(o => o.id === symbol)?.name || '未命名股票'
+                    name: stockOptions.find(o => o.id === symbol)?.name || '尚未有即時數據'
                   }
               } />
             </div>
