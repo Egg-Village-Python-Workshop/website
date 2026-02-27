@@ -1,7 +1,9 @@
 import React, { useEffect, useState, useRef } from "react";
 import BrowserOnly from "@docusaurus/BrowserOnly";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 
 function TickerTape() {
+  const { siteConfig } = useDocusaurusContext();
   const containerRef = useRef<HTMLDivElement>(null);
   const [theme, setTheme] = useState("light");
 
@@ -31,8 +33,7 @@ function TickerTape() {
     currentContainer.innerHTML = ""; // Clear previous
 
     const script = document.createElement("script");
-    script.src =
-      "https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js";
+    script.src = siteConfig.customFields.tradingViewTickerTapeJs as string;
     script.async = true;
     script.type = "text/javascript";
     script.innerHTML = JSON.stringify({
@@ -67,7 +68,7 @@ function TickerTape() {
         currentContainer.innerHTML = "";
       }
     };
-  }, [theme]);
+  }, [theme, siteConfig.customFields.tradingViewTickerTapeJs]);
 
   return (
     <div

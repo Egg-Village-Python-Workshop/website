@@ -32,6 +32,9 @@ dependencies:
   docusaurus-lunr-search:
     specifier: 2.4.1
     version: 2.4.1(@docusaurus/core@2.4.3)(react-dom@17.0.2)(react@17.0.2)
+  dotenv:
+    specifier: ^17.3.1
+    version: 17.3.1
   lru-cache:
     specifier: 6.0.0
     version: 6.0.0
@@ -5101,6 +5104,11 @@ packages:
     engines: {node: '>=8'}
     dependencies:
       is-obj: 2.0.0
+    dev: false
+
+  /dotenv@17.3.1:
+    resolution: {integrity: sha512-IO8C/dzEb6O3F9/twg6ZLXz164a2fhTnEWb95H23Dm4OuN+92NmEAlTrupP9VW6Jm3sO26tQlqyvyi4CsnY9GA==}
+    engines: {node: '>=12'}
     dev: false
 
   /duplexer3@0.1.5:

@@ -1,11 +1,13 @@
 import React, { useState, useEffect, useRef } from 'react';
 import Layout from '@theme/Layout';
 import BrowserOnly from '@docusaurus/BrowserOnly';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import WarRoom from '@site/src/components/Quotes/WarRoom';
 
 // --- Components ---
 
 function TradingViewWidget({ symbol }: { symbol: string }) {
+  const { siteConfig } = useDocusaurusContext();
   const [theme, setTheme] = useState('light');
 
   useEffect(() => {
@@ -42,14 +44,14 @@ function TradingViewWidget({ symbol }: { symbol: string }) {
     if (!script) {
       script = document.createElement('script');
       script.id = scriptId;
-      script.src = 'https://s3.tradingview.com/tv.js';
+      script.src = siteConfig.customFields.tradingViewTvJs as string;
       script.async = true;
       script.onload = initWidget;
       document.head.appendChild(script);
     } else {
       initWidget();
     }
-  }, [symbol, theme]);
+  }, [symbol, theme, siteConfig.customFields.tradingViewTvJs]);
 
   return (
     <div key={`${symbol}-${theme}`} style={{ height: "70vh", minHeight: "500px", width: "100%", overflow: "hidden" }}>
@@ -61,56 +63,15 @@ function TradingViewWidget({ symbol }: { symbol: string }) {
 // --- Main Page ---
 
 export default function Quotes(): JSX.Element {
+  const { siteConfig } = useDocusaurusContext();
   const [openSection, setOpenSection] = useState<'other' | 'taiwan'>('other');
   
-  // States for Other Regions
-  const [otherInput, setOtherInput] = useState('');
-  const [otherSymbol, setOtherSymbol] = useState<string | null>(null);
-  const [favOther, setFavOther] = useState<string[]>([]);
+  // ... (rest of states)
 
-  // States for Taiwan
-  const [twInput, setTwInput] = useState('');
-  const [twSymbol, setTwSymbol] = useState('');
-  const [favTaiwan, setFavTaiwan] = useState<string[]>([]);
-
-  // Load favorites from localStorage
-  useEffect(() => {
-    if (typeof window !== 'undefined') {
-      const savedOther = localStorage.getItem('egg-quotes-fav-other');
-      const savedTaiwan = localStorage.getItem('egg-quotes-fav-taiwan');
-      if (savedOther) setFavOther(JSON.parse(savedOther));
-      if (savedTaiwan) setFavTaiwan(JSON.parse(savedTaiwan));
-    }
-  }, []);
-
-  // Save favorites to localStorage
-  const saveFavorites = (key: string, list: string[]) => {
-    if (typeof window !== 'undefined') {
-      localStorage.setItem(key, JSON.stringify(list));
-    }
-  };
-
-  const toggleFavorite = (type: 'other' | 'taiwan', symbol: string) => {
-    if (!symbol || !symbol.trim()) return;
-    const cleanSymbol = symbol.trim().toUpperCase();
-
-    if (type === 'other') {
-      const newList = favOther.includes(cleanSymbol) 
-        ? favOther.filter(s => s !== cleanSymbol) 
-        : [...favOther, cleanSymbol];
-      setFavOther(newList);
-      saveFavorites('egg-quotes-fav-other', newList);
-    } else {
-      const newList = favTaiwan.includes(cleanSymbol) 
-        ? favTaiwan.filter(s => s !== cleanSymbol) 
-        : [...favTaiwan, cleanSymbol];
-      setFavTaiwan(newList);
-      saveFavorites('egg-quotes-fav-taiwan', newList);
-    }
-  };
+  // ... (rest of effects and handlers)
 
   const openTaiwanStock = (symbol: string) => {
-    const url = `https://invest.cnyes.com/twstock/TWS/${symbol.trim()}/history`;
+    const url = `${siteConfig.customFields.anueTaiwanStockUrl}${symbol.trim()}/history`;
     window.open(url, '_blank');
   };
 

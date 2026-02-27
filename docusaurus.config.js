@@ -1,6 +1,8 @@
 // @ts-nocheck
 // Note: type annotations allow type checking and IDEs autocompletion
 
+require('dotenv').config();
+
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
@@ -69,6 +71,15 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      customFields: {
+        tradingViewTvJs: process.env.TRADINGVIEW_TV_JS,
+        tradingViewAdvancedChartJs: process.env.TRADINGVIEW_ADVANCED_CHART_JS,
+        tradingViewTickerTapeJs: process.env.TRADINGVIEW_TICKER_TAPE_JS,
+        tradingViewTechnicalAnalysisJs: process.env.TRADINGVIEW_TECHNICAL_ANALYSIS_JS,
+        tradingViewMiniSymbolOverviewJs: process.env.TRADINGVIEW_MINI_SYMBOL_OVERVIEW_JS,
+        anueTaiwanStockUrl: process.env.ANUE_TAIWAN_STOCK_URL,
+        cryptoFearGreedImg: process.env.CRYPTO_FEAR_GREED_IMG,
+      },
       // Replace with your project's social card
       image: "img/egglogo.png",
       titleDelimiter: "|", // 使標題呈現為：文章標題 | 蛋蛋村

@@ -1,5 +1,6 @@
 import React, { useEffect, useState, useRef } from "react";
 import BrowserOnly from "@docusaurus/BrowserOnly";
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 
 function TechnicalGauge({
   symbol,
@@ -10,6 +11,7 @@ function TechnicalGauge({
   theme: string;
   title?: string;
 }) {
+  const { siteConfig } = useDocusaurusContext();
   const containerRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -18,8 +20,7 @@ function TechnicalGauge({
     container.innerHTML = "";
 
     const script = document.createElement("script");
-    script.src =
-      "https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js";
+    script.src = siteConfig.customFields.tradingViewTechnicalAnalysisJs as string;
     script.async = true;
     script.type = "text/javascript";
     script.innerHTML = JSON.stringify({
@@ -42,7 +43,7 @@ function TechnicalGauge({
       clearTimeout(timeoutId);
       if (container) container.innerHTML = "";
     };
-  }, [symbol, theme]);
+  }, [symbol, theme, siteConfig.customFields.tradingViewTechnicalAnalysisJs]);
 
   return (
     <div
@@ -57,7 +58,7 @@ function TechnicalGauge({
         <div
           style={{
             position: "absolute",
-            bottom: "8px", // Moved to bottom
+            bottom: "8px",
             left: "12px",
             zIndex: 1,
             fontSize: "0.85rem",
@@ -65,7 +66,7 @@ function TechnicalGauge({
             color: theme === "dark" ? "#eee" : "#333",
             padding: "2px 6px",
             background:
-              theme === "dark" ? "#333" : "#eee", // Opaque background
+              theme === "dark" ? "#333" : "#eee",
             borderRadius: "4px",
           }}
         >
@@ -84,6 +85,7 @@ function TechnicalGauge({
 }
 
 function CryptoSentiment() {
+  const { siteConfig } = useDocusaurusContext();
   return (
     <div
       style={{
@@ -102,13 +104,13 @@ function CryptoSentiment() {
       <h5
         style={{
           position: "absolute",
-          bottom: "8px", // Moved to bottom
+          bottom: "8px",
           left: "12px",
           color: "#333",
           margin: "0",
           fontSize: "0.85rem",
           zIndex: 1,
-          background: "#eee", // Opaque background
+          background: "#eee",
           padding: "2px 6px",
           borderRadius: "4px",
         }}
@@ -116,7 +118,7 @@ function CryptoSentiment() {
         加密貨幣情緒
       </h5>
       <img
-        src="https://alternative.me/crypto/fear-and-greed-index.png"
+        src={siteConfig.customFields.cryptoFearGreedImg as string}
         alt="Latest Crypto Fear & Greed Index"
         style={{
           width: "100%",
@@ -138,6 +140,7 @@ function MarketSymbol({
   theme: string;
   title: string;
 }) {
+  const { siteConfig } = useDocusaurusContext();
   const containerRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -146,8 +149,7 @@ function MarketSymbol({
     container.innerHTML = "";
 
     const script = document.createElement("script");
-    script.src =
-      "https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js";
+    script.src = siteConfig.customFields.tradingViewMiniSymbolOverviewJs as string;
     script.async = true;
     script.type = "text/javascript";
     script.innerHTML = JSON.stringify({
@@ -173,7 +175,7 @@ function MarketSymbol({
       clearTimeout(timeoutId);
       if (container) container.innerHTML = "";
     };
-  }, [symbol, theme]);
+  }, [symbol, theme, siteConfig.customFields.tradingViewMiniSymbolOverviewJs]);
 
   return (
     <div
@@ -187,17 +189,16 @@ function MarketSymbol({
       <div
         style={{
           position: "absolute",
-          bottom: "8px", // Moved to bottom
+          bottom: "8px",
           left: "12px",
           zIndex: 1,
           fontSize: "0.85rem",
           fontWeight: "bold",
-                      color: theme === "dark" ? "#eee" : "#333",
-                      padding: "2px 6px",
-                      background:
-                        theme === "dark" ? "#333" : "#eee", // Opaque background
-                      borderRadius: "4px",
-          
+          color: theme === "dark" ? "#eee" : "#333",
+          padding: "2px 6px",
+          background:
+            theme === "dark" ? "#333" : "#eee",
+          borderRadius: "4px",
         }}
       >
         {title}
