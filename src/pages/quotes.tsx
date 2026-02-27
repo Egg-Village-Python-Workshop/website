@@ -3,6 +3,7 @@ import Layout from '@theme/Layout';
 import BrowserOnly from '@docusaurus/BrowserOnly';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import WarRoom from '@site/src/components/Quotes/WarRoom';
+import { GSheetQuotes } from '@site/src/components/Quotes/GSheetQuotes';
 
 // --- Components ---
 
@@ -71,6 +72,7 @@ function TradingViewWidget({ symbol }: { symbol: string }) {
 export default function Quotes(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   const [openSection, setOpenSection] = useState<'other' | 'taiwan'>('other');
+  const [showGSheet, setShowGSheet] = useState(true);
   
   // States for Other Regions
   const [otherInput, setOtherInput] = useState('');
@@ -163,6 +165,35 @@ export default function Quotes(): JSX.Element {
           <h1>即時報價系統</h1>
           
           <WarRoom />
+          <div style={{ marginTop: '30px' }} />
+
+          {/* Section: Google Sheets Data */}
+          <div style={sectionStyle}>
+            <div 
+              style={{
+                padding: '15px 20px',
+                background: 'var(--ifm-color-emphasis-200)',
+                cursor: 'pointer',
+                display: 'flex',
+                justifyContent: 'space-between',
+                alignItems: 'center',
+                fontWeight: 'bold',
+                fontSize: '1.2rem'
+              }} 
+              onClick={() => setShowGSheet(!showGSheet)}
+            >
+              <span>📊 試算表連動報價</span>
+              <span style={{ fontSize: '1.2rem', color: '#666' }}>{showGSheet ? '▼' : '▶'}</span>
+            </div>
+            {showGSheet && (
+              <div style={contentStyle}>
+                <BrowserOnly fallback={<div>載入中...</div>}>
+                  {() => <GSheetQuotes />}
+                </BrowserOnly>
+              </div>
+            )}
+          </div>
+          
           <div style={{ marginTop: '30px' }} />
           
           {/* Section: Other Regions */}
