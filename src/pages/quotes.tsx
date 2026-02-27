@@ -66,11 +66,54 @@ export default function Quotes(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   const [openSection, setOpenSection] = useState<'other' | 'taiwan'>('other');
   
-  // ... (rest of states)
+  // States for Other Regions
+  const [otherInput, setOtherInput] = useState('');
+  const [otherSymbol, setOtherSymbol] = useState<string | null>(null);
+  const [favOther, setFavOther] = useState<string[]>([]);
 
-  // ... (rest of effects and handlers)
+  // States for Taiwan
+  const [twInput, setTwInput] = useState('');
+  const [twSymbol, setTwSymbol] = useState('');
+  const [favTaiwan, setFavTaiwan] = useState<string[]>([]);
+
+  // Load favorites from localStorage
+  useEffect(() => {
+    if (typeof window !== 'undefined') {
+      const savedOther = localStorage.getItem('egg-quotes-fav-other');
+      const savedTaiwan = localStorage.getItem('egg-quotes-fav-taiwan');
+      if (savedOther) setFavOther(JSON.parse(savedOther));
+      if (savedTaiwan) setFavTaiwan(JSON.parse(savedTaiwan));
+    }
+  }, []);
+
+  // Save favorites to localStorage
+  const saveFavorites = (key: string, list: string[]) => {
+    if (typeof window !== 'undefined') {
+      localStorage.setItem(key, JSON.stringify(list));
+    }
+  };
+
+  const toggleFavorite = (type: 'other' | 'taiwan', symbol: string) => {
+    if (!symbol || !symbol.trim()) return;
+    const cleanSymbol = symbol.trim().toUpperCase();
+
+    if (type === 'other') {
+      const newList = favOther.includes(cleanSymbol) 
+        ? favOther.filter(s => s !== cleanSymbol) 
+        : [...favOther, cleanSymbol];
+      setFavOther(newList);
+      saveFavorites('egg-quotes-fav-other', newList);
+    } else {
+      const newList = favTaiwan.includes(cleanSymbol) 
+        ? favTaiwan.filter(s => s !== cleanSymbol) 
+        : [...favTaiwan, cleanSymbol];
+      setFavTaiwan(newList);
+      saveFavorites('egg-quotes-fav-taiwan', newList);
+    }
+  };
 
   const openTaiwanStock = (symbol: string) => {
+    if (!symbol) return;
     const url = `${siteConfig.customFields.anueTaiwanStockUrl}${symbol.trim()}/history`;
     window.open(url, '_blank');
   };
@@ -144,11 +187,11 @@ export default function Quotes(): JSX.Element {
                   <button 
                     type="button" 
                     className="button button--secondary"
-                    onClick={() => toggleFavorite('other', otherSymbol)}
+                    onClick={() => toggleFavorite('other', otherInput)}
                     title="加入/移除我的最愛"
                     style={{ fontSize: '1.2rem', padding: '0 15px' }}
                   >
-                    {favOther.includes(otherSymbol) ? '❤️' : '🤍'}
+                    {favOther.includes(otherInput.trim().toUpperCase()) ? '❤️' : '🤍'}
                   </button>
                 </form>
                 
