@@ -1,7 +1,7 @@
 {
   "id": "00917",
   "name": "中信特選金融",
-  "fetched_at": "2026-02-27",
+  "fetched_at": "2026-03-04",
   "capital": {
     "ETF名稱": "中信特選金融",
     "交易所代碼": "00917",
@@ -13,18 +13,18 @@
     "計價幣別": "台幣",
     "上市日期": "2022/08/26",
     "淨值幣別": "台幣",
-    "ETF規模": "1,530.52(百萬台幣)(2026/01/31)",
-    "ETF市價": "21.2600（02/26）",
-    "成交量(股)": "2,414,110（月均:2,807,384）",
-    "ETF淨值": "21.2800（02/25）",
+    "ETF規模": "1,537.86(百萬台幣)(2026/02/28)",
+    "ETF市價": "21.0200（03/03）",
+    "成交量(股)": "3,226,020（月均:2,039,535）",
+    "ETF淨值": "21.0500（03/02）",
     "投資風格": "",
-    "折溢價(%)": "-1.41(月均:1.41)",
+    "折溢價(%)": "0.10(月均:0.29)",
     "投資標的": "股票型",
     "配息頻率": "年配",
     "投資區域": "全球",
-    "殖利率(%)": "16.46（02/26）",
+    "殖利率(%)": "16.65（03/03）",
     "經理費(%)": "0.9",
-    "年化標準差(%)": "14.67（02/26）",
+    "年化標準差(%)": "13.67（03/03）",
     "總管理費用(%)": "1.23 (含 0.33 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -66,62 +66,302 @@
     {
       "code": "JPM.US",
       "name": "JPMorgan Chase",
-      "ratio": 10.06,
-      "shares": 16060
+      "ratio": 9.99,
+      "shares": 16620
     },
     {
       "code": "MS.US",
       "name": "Morgan Stanley",
-      "ratio": 7.23,
-      "shares": 20190
+      "ratio": 7.05,
+      "shares": 20900
     },
     {
       "code": "BAC.US",
       "name": "Bank of America",
-      "ratio": 6.34,
-      "shares": 59500
-    },
-    {
-      "code": "",
-      "name": "匯豐控股",
-      "ratio": 5.44,
-      "shares": 140160
+      "ratio": 6.2,
+      "shares": 61590
     },
     {
       "code": "BLK.US",
       "name": "BlackRock",
-      "ratio": 5.41,
-      "shares": 2400
+      "ratio": 5.37,
+      "shares": 2490
     },
     {
-      "code": "GS.US",
-      "name": "Goldman Sachs",
-      "ratio": 4.62,
-      "shares": 2435
-    },
-    {
-      "code": "WFC.US",
-      "name": "Wells Fargo",
-      "ratio": 4.57,
-      "shares": 25570
+      "code": "",
+      "name": "匯豐控股",
+      "ratio": 5.2,
+      "shares": 144330
     },
     {
       "code": "SPGI.US",
       "name": "S&P Global",
-      "ratio": 4.41,
-      "shares": 5050
+      "ratio": 4.67,
+      "shares": 5220
+    },
+    {
+      "code": "WFC.US",
+      "name": "Wells Fargo",
+      "ratio": 4.42,
+      "shares": 26470
+    },
+    {
+      "code": "GS.US",
+      "name": "Goldman Sachs",
+      "ratio": 4.38,
+      "shares": 2515
     },
     {
       "code": "CME.US",
       "name": "CME Group Inc.",
-      "ratio": 3.79,
-      "shares": 5990
+      "ratio": 4.09,
+      "shares": 6200
     },
     {
       "code": "C.US",
       "name": "Citigroup",
-      "ratio": 3.43,
-      "shares": 14550
+      "ratio": 3.39,
+      "shares": 15060
+    },
+    {
+      "code": "ICE.US",
+      "name": "Intercontinental Exchange",
+      "ratio": 3.26,
+      "shares": 9785
+    },
+    {
+      "code": "BX.US",
+      "name": "Blackstone",
+      "ratio": 2.94,
+      "shares": 12640
+    },
+    {
+      "code": "MCO.US",
+      "name": "Moody's",
+      "ratio": 2.89,
+      "shares": 3075
+    },
+    {
+      "code": "0388.HK",
+      "name": "香港交易所",
+      "ratio": 2.18,
+      "shares": 20540
+    },
+    {
+      "code": "",
+      "name": "倫敦證券交易所",
+      "ratio": 1.85,
+      "shares": 7810
+    },
+    {
+      "code": "",
+      "name": "法國巴黎銀行",
+      "ratio": 1.82,
+      "shares": 8330
+    },
+    {
+      "code": "0939.HK",
+      "name": "建設銀行",
+      "ratio": 1.5,
+      "shares": 745940
+    },
+    {
+      "code": "MSCI.US",
+      "name": "MSCI",
+      "ratio": 1.45,
+      "shares": 1250
+    },
+    {
+      "code": "USB.US",
+      "name": "U.S. Bancorp",
+      "ratio": 1.45,
+      "shares": 13100
+    },
+    {
+      "code": "PNC.US",
+      "name": "PNC Financial Services",
+      "ratio": 1.43,
+      "shares": 3300
+    },
+    {
+      "code": "BK.US",
+      "name": "Bank of New York Mellon",
+      "ratio": 1.4,
+      "shares": 5800
+    },
+    {
+      "code": "NDAQ.US",
+      "name": "Nasdaq",
+      "ratio": 1.39,
+      "shares": 7790
+    },
+    {
+      "code": "",
+      "name": "巴克萊集團",
+      "ratio": 1.37,
+      "shares": 116240
+    },
+    {
+      "code": "",
+      "name": "勞埃德銀行集團",
+      "ratio": 1.34,
+      "shares": 495480
+    },
+    {
+      "code": "1398.HK",
+      "name": "工商銀行",
+      "ratio": 1.2,
+      "shares": 732520
+    },
+    {
+      "code": "",
+      "name": "益百利公開有限公司",
+      "ratio": 1.16,
+      "shares": 15780
+    },
+    {
+      "code": "FICO.US",
+      "name": "Fair Isaac",
+      "ratio": 1.12,
+      "shares": 393
+    },
+    {
+      "code": "",
+      "name": "國民西敏集團公開有限公司",
+      "ratio": 1.09,
+      "shares": 67280
+    },
+    {
+      "code": "CBOE.US",
+      "name": "Cboe Global Markets",
+      "ratio": 1.08,
+      "shares": 1800
+    },
+    {
+      "code": "",
+      "name": "德意志銀行",
+      "ratio": 1.02,
+      "shares": 14710
+    },
+    {
+      "code": "NTRS.US",
+      "name": "Northern Trust Corporation",
+      "ratio": 0.94,
+      "shares": 3210
+    },
+    {
+      "code": "",
+      "name": "法國興業銀行",
+      "ratio": 0.92,
+      "shares": 5430
+    },
+    {
+      "code": "EFX.US",
+      "name": "Equifax",
+      "ratio": 0.88,
+      "shares": 2100
+    },
+    {
+      "code": "",
+      "name": "渣打集團",
+      "ratio": 0.88,
+      "shares": 18800
+    },
+    {
+      "code": "3988.HK",
+      "name": "中國銀行",
+      "ratio": 0.83,
+      "shares": 706260
+    },
+    {
+      "code": "PFG.US",
+      "name": "Principal Financial",
+      "ratio": 0.73,
+      "shares": 3770
+    },
+    {
+      "code": "TROW.US",
+      "name": "T. Rowe Price Group",
+      "ratio": 0.71,
+      "shares": 3703
+    },
+    {
+      "code": "",
+      "name": "泛歐交易所",
+      "ratio": 0.53,
+      "shares": 1610
+    },
+    {
+      "code": "TRU.US",
+      "name": "TransUnion",
+      "ratio": 0.52,
+      "shares": 3310
+    },
+    {
+      "code": "TW.US",
+      "name": "Tradeweb Markets",
+      "ratio": 0.5,
+      "shares": 2000
+    },
+    {
+      "code": "EQH.US",
+      "name": "Equitable Holdings",
+      "ratio": 0.4,
+      "shares": 4920
+    },
+    {
+      "code": "IVZ.US",
+      "name": "Invesco",
+      "ratio": 0.4,
+      "shares": 7640
+    },
+    {
+      "code": "2388.HK",
+      "name": "中銀香港",
+      "ratio": 0.33,
+      "shares": 29870
+    },
+    {
+      "code": "",
+      "name": "法國農業信貸銀行",
+      "ratio": 0.33,
+      "shares": 7580
+    },
+    {
+      "code": "",
+      "name": "聖詹姆斯廣場公開有限公司",
+      "ratio": 0.32,
+      "shares": 9050
+    },
+    {
+      "code": "FDS.US",
+      "name": "FactSet Research",
+      "ratio": 0.28,
+      "shares": 633
+    },
+    {
+      "code": "BEN.US",
+      "name": "Franklin Resources",
+      "ratio": 0.26,
+      "shares": 4770
+    },
+    {
+      "code": "MKTX.US",
+      "name": "MarketAxess Holdings, Inc.",
+      "ratio": 0.24,
+      "shares": 624
+    },
+    {
+      "code": "",
+      "name": "東方匯理資產管理有限責任公司",
+      "ratio": 0.2,
+      "shares": 1034
+    },
+    {
+      "code": "MORN.US",
+      "name": "Morningstar",
+      "ratio": 0.14,
+      "shares": 390
     }
   ]
 }
