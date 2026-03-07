@@ -1,7 +1,7 @@
 {
   "id": "00678",
   "name": "群益那斯達克生技",
-  "fetched_at": "2026-03-04",
+  "fetched_at": "2026-03-07",
   "capital": {
     "ETF名稱": "群益那斯達克生技",
     "交易所代碼": "00678",
@@ -14,17 +14,17 @@
     "上市日期": "2017/01/16",
     "淨值幣別": "台幣",
     "ETF規模": "286.31(百萬台幣)(2026/02/28)",
-    "ETF市價": "36.2300（03/03）",
-    "成交量(股)": "357,768（月均:327,007）",
-    "ETF淨值": "36.4700（03/02）",
+    "ETF市價": "35.9400（03/06）",
+    "成交量(股)": "370,730（月均:307,479）",
+    "ETF淨值": "35.6400（03/05）",
     "投資風格": "",
-    "折溢價(%)": "-0.11(月均:-0.19)",
+    "折溢價(%)": "1.80(月均:-0.14)",
     "投資標的": "生物科技",
     "配息頻率": "",
     "投資區域": "北美",
-    "殖利率(%)": "N/A（03/03）",
+    "殖利率(%)": "N/A（03/06）",
     "經理費(%)": "0.85",
-    "年化標準差(%)": "19.64（03/03）",
+    "年化標準差(%)": "20.31（03/06）",
     "總管理費用(%)": "1.59 (含 0.74 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -61,20 +61,20 @@
     {
       "code": "GILD.US",
       "name": "Gilead Sciences",
-      "ratio": 9.64,
+      "ratio": 9.62,
       "shares": 5920
-    },
-    {
-      "code": "VRTX.US",
-      "name": "Vertex Pharmaceuticals",
-      "ratio": 9.06,
-      "shares": 1718
     },
     {
       "code": "AMGN.US",
       "name": "Amgen Inc.",
-      "ratio": 9.03,
+      "ratio": 8.88,
       "shares": 2157
+    },
+    {
+      "code": "VRTX.US",
+      "name": "Vertex Pharmaceuticals",
+      "ratio": 8.87,
+      "shares": 1718
     },
     {
       "code": "REGN.US",
@@ -85,38 +85,50 @@
     {
       "code": "ALNY.US",
       "name": "Alnylam Pharmaceuticals",
-      "ratio": 3.19,
+      "ratio": 3.25,
       "shares": 905
     },
     {
       "code": "INSM.US",
       "name": "Insmed",
-      "ratio": 2.32,
+      "ratio": 2.35,
       "shares": 1460
     },
     {
       "code": "BIIB.US",
       "name": "Biogen",
-      "ratio": 2.05,
+      "ratio": 2.12,
       "shares": 1005
+    },
+    {
+      "code": "BIB.US",
+      "name": "ProShares Ultra Nasdaq Biotechno",
+      "ratio": 1.83,
+      "shares": 2000
     },
     {
       "code": "UTHR.US",
       "name": "United Therapeutics",
-      "ratio": 1.73,
+      "ratio": 1.69,
       "shares": 311
     },
     {
       "code": "ARGX.US",
       "name": "argenx",
-      "ratio": 1.64,
+      "ratio": 1.63,
       "shares": 200
     },
     {
       "code": "MRNA.US",
       "name": "Moderna",
-      "ratio": 1.54,
+      "ratio": 1.62,
       "shares": 2680
+    },
+    {
+      "code": "ROIV.US",
+      "name": "Roivant Sciences",
+      "ratio": 1.59,
+      "shares": 4790
     },
     {
       "code": "ILMN.US",
@@ -127,14 +139,14 @@
     {
       "code": "RPRX.US",
       "name": "Royalty Pharma",
-      "ratio": 1.51,
+      "ratio": 1.5,
       "shares": 2937
     },
     {
-      "code": "BIB.US",
-      "name": "ProShares Ultra Nasdaq Biotechno",
+      "code": "RVMD.US",
+      "name": "Revolution Medicines",
       "ratio": 1.47,
-      "shares": 1550
+      "shares": 1320
     },
     {
       "code": "INCY.US",
@@ -143,118 +155,100 @@
       "shares": 1342
     },
     {
-      "code": "RVMD.US",
-      "name": "Revolution Medicines",
-      "ratio": 1.46,
-      "shares": 1320
-    },
-    {
-      "code": "ROIV.US",
-      "name": "Roivant Sciences",
-      "ratio": 1.46,
-      "shares": 4790
-    },
-    {
       "code": "VTRS.US",
       "name": "Viatris",
-      "ratio": 1.34,
+      "ratio": 1.28,
       "shares": 7890
     },
     {
       "code": "ASND.US",
       "name": "Ascendis Pharma",
-      "ratio": 1.1,
+      "ratio": 1.12,
       "shares": 420
     },
     {
       "code": "MEDP.US",
       "name": "Medpace Holdings",
-      "ratio": 1.03,
+      "ratio": 1.09,
       "shares": 207
-    },
-    {
-      "code": "IONS.US",
-      "name": "Ionis Pharmaceuticals",
-      "ratio": 0.99,
-      "shares": 1110
     },
     {
       "code": "NBIX.US",
       "name": "Neurocrine Biosciences",
-      "ratio": 0.98,
+      "ratio": 0.99,
       "shares": 680
-    },
-    {
-      "code": "SNY.US",
-      "name": "Sanofi",
-      "ratio": 0.94,
-      "shares": 1810
     },
     {
       "code": "BBIO.US",
       "name": "BridgeBio Pharma",
-      "ratio": 0.94,
+      "ratio": 0.98,
       "shares": 1320
     },
     {
-      "code": "SMMT.US",
-      "name": "Summit Therapeutics",
-      "ratio": 0.9,
-      "shares": 5120
+      "code": "IONS.US",
+      "name": "Ionis Pharmaceuticals",
+      "ratio": 0.93,
+      "shares": 1110
     },
     {
       "code": "GH.US",
       "name": "Guardant Health",
-      "ratio": 0.89,
+      "ratio": 0.92,
       "shares": 890
     },
     {
-      "code": "JAZZ.US",
-      "name": "Jazz Pharmaceuticals",
-      "ratio": 0.86,
-      "shares": 415
+      "code": "SNY.US",
+      "name": "Sanofi",
+      "ratio": 0.91,
+      "shares": 1810
     },
     {
-      "code": "BNTX.US",
-      "name": "BioNTech",
-      "ratio": 0.83,
-      "shares": 710
+      "code": "SMMT.US",
+      "name": "Summit Therapeutics",
+      "ratio": 0.86,
+      "shares": 5120
     },
     {
       "code": "BMRN.US",
       "name": "BioMarin",
-      "ratio": 0.82,
+      "ratio": 0.86,
       "shares": 1269
     },
     {
       "code": "EXEL.US",
       "name": "Exelixis",
-      "ratio": 0.82,
+      "ratio": 0.85,
       "shares": 1840
+    },
+    {
+      "code": "JAZZ.US",
+      "name": "Jazz Pharmaceuticals",
+      "ratio": 0.85,
+      "shares": 415
+    },
+    {
+      "code": "BNTX.US",
+      "name": "BioNTech",
+      "ratio": 0.81,
+      "shares": 710
     },
     {
       "code": "MDGL.US",
       "name": "Madrigal Pharmaceuticals",
-      "ratio": 0.76,
+      "ratio": 0.79,
       "shares": 160
-    },
-    {
-      "code": "PCVX.US",
-      "name": "Vaxcyte",
-      "ratio": 0.71,
-      "shares": 1050
-    },
-    {
-      "code": "PRAX.US",
-      "name": "Praxis Precision Medicines",
-      "ratio": 0.7,
-      "shares": 195
     },
     {
       "code": "TEM.US",
       "name": "Tempus",
-      "ratio": 0.69,
+      "ratio": 0.71,
       "shares": 1190
+    },
+    {
+      "code": "ARWR.US",
+      "name": "Arrowhead Pharmaceuticals",
+      "ratio": 0.69,
+      "shares": 970
     },
     {
       "code": "HALO.US",
@@ -263,16 +257,16 @@
       "shares": 910
     },
     {
-      "code": "IBRX.US",
-      "name": "ImmunityBio",
+      "code": "PCVX.US",
+      "name": "Vaxcyte",
       "ratio": 0.68,
-      "shares": 6043
+      "shares": 1050
     },
     {
-      "code": "ARWR.US",
-      "name": "Arrowhead Pharmaceuticals",
+      "code": "PRAX.US",
+      "name": "Praxis Precision Medicines",
       "ratio": 0.68,
-      "shares": 970
+      "shares": 195
     },
     {
       "code": "AXSM.US",
@@ -283,61 +277,67 @@
     {
       "code": "KRYS.US",
       "name": "Krystal Biotech",
-      "ratio": 0.62,
+      "ratio": 0.64,
       "shares": 220
+    },
+    {
+      "code": "IBRX.US",
+      "name": "ImmunityBio",
+      "ratio": 0.61,
+      "shares": 6043
     },
     {
       "code": "CYTK.US",
       "name": "Cytokinetics",
-      "ratio": 0.56,
+      "ratio": 0.59,
       "shares": 842
-    },
-    {
-      "code": "NUVL.US",
-      "name": "Nuvalent",
-      "ratio": 0.55,
-      "shares": 497
     },
     {
       "code": "ABVX.US",
       "name": "Abivax",
-      "ratio": 0.54,
+      "ratio": 0.56,
       "shares": 440
+    },
+    {
+      "code": "NUVL.US",
+      "name": "Nuvalent",
+      "ratio": 0.56,
+      "shares": 497
     },
     {
       "code": "ACLX.US",
       "name": "Arcellx",
-      "ratio": 0.51,
+      "ratio": 0.53,
       "shares": 413
     },
     {
       "code": "CAI.US",
       "name": "Caris Life Sciences",
-      "ratio": 0.49,
+      "ratio": 0.47,
       "shares": 2200
     },
     {
       "code": "RYTM.US",
       "name": "Rhythm Pharmaceuticals",
-      "ratio": 0.48,
+      "ratio": 0.47,
       "shares": 462
     },
     {
       "code": "KYMR.US",
       "name": "Kymera Therapeutics",
-      "ratio": 0.45,
+      "ratio": 0.43,
       "shares": 460
     },
     {
-      "code": "CRSP.US",
-      "name": "CRISPR Therapeutics",
+      "code": "CGON.US",
+      "name": "CG Oncology",
       "ratio": 0.42,
-      "shares": 630
+      "shares": 620
     },
     {
       "code": "COGT.US",
       "name": "Cogent Biosciences",
-      "ratio": 0.42,
+      "ratio": 0.41,
       "shares": 989
     },
     {
@@ -347,21 +347,27 @@
       "shares": 405
     },
     {
+      "code": "CRSP.US",
+      "name": "CRISPR Therapeutics",
+      "ratio": 0.4,
+      "shares": 630
+    },
+    {
       "code": "PTCT.US",
       "name": "PTC Therapeutics",
-      "ratio": 0.4,
+      "ratio": 0.39,
       "shares": 550
     },
     {
-      "code": "CGON.US",
-      "name": "CG Oncology",
-      "ratio": 0.39,
-      "shares": 620
+      "code": "SRRK.US",
+      "name": "Scholar Rock Holding",
+      "ratio": 0.34,
+      "shares": 654
     },
     {
       "code": "ALKS.US",
       "name": "Alkermes",
-      "ratio": 0.35,
+      "ratio": 0.34,
       "shares": 1067
     },
     {
@@ -377,22 +383,10 @@
       "shares": 330
     },
     {
-      "code": "NAMS.US",
-      "name": "NewAmsterdam Pharma",
-      "ratio": 0.31,
-      "shares": 873
-    },
-    {
       "code": "FOLD.US",
       "name": "Amicus Therapeutics",
-      "ratio": 0.31,
+      "ratio": 0.32,
       "shares": 1984
-    },
-    {
-      "code": "SRRK.US",
-      "name": "Scholar Rock Holding",
-      "ratio": 0.31,
-      "shares": 654
     },
     {
       "code": "AMRX.US",
@@ -401,34 +395,52 @@
       "shares": 2021
     },
     {
-      "code": "GPCR.US",
-      "name": "Structure Therapeutics",
+      "code": "ERAS.US",
+      "name": "Erasca",
       "ratio": 0.29,
-      "shares": 426
+      "shares": 1684
     },
     {
-      "code": "ADMA.US",
-      "name": "ADMA Biologics",
-      "ratio": 0.28,
-      "shares": 1534
+      "code": "LGND.US",
+      "name": "Ligand Pharmaceuticals",
+      "ratio": 0.29,
+      "shares": 125
+    },
+    {
+      "code": "NAMS.US",
+      "name": "NewAmsterdam Pharma",
+      "ratio": 0.29,
+      "shares": 873
     },
     {
       "code": "XENE.US",
       "name": "Xenon Pharmaceuticals",
-      "ratio": 0.28,
+      "ratio": 0.29,
       "shares": 606
     },
     {
-      "code": "ACAD.US",
-      "name": "ACADIA Pharmaceuticals",
-      "ratio": 0.27,
-      "shares": 1097
+      "code": "GPCR.US",
+      "name": "Structure Therapeutics",
+      "ratio": 0.28,
+      "shares": 426
     },
     {
       "code": "APGE.US",
       "name": "Apogee Therapeutics",
-      "ratio": 0.27,
+      "ratio": 0.28,
       "shares": 347
+    },
+    {
+      "code": "ACAD.US",
+      "name": "ACADIA Pharmaceuticals",
+      "ratio": 0.28,
+      "shares": 1097
+    },
+    {
+      "code": "ADMA.US",
+      "name": "ADMA Biologics",
+      "ratio": 0.27,
+      "shares": 1534
     },
     {
       "code": "CRNX.US",
@@ -437,27 +449,15 @@
       "shares": 609
     },
     {
-      "code": "ERAS.US",
-      "name": "Erasca",
-      "ratio": 0.27,
-      "shares": 1684
-    },
-    {
-      "code": "LGND.US",
-      "name": "Ligand Pharmaceuticals",
-      "ratio": 0.27,
-      "shares": 125
-    },
-    {
       "code": "INDV.US",
       "name": "Indivior",
-      "ratio": 0.26,
+      "ratio": 0.27,
       "shares": 743
     },
     {
       "code": "TERN.US",
       "name": "Terns Pharmaceuticals",
-      "ratio": 0.26,
+      "ratio": 0.27,
       "shares": 569
     },
     {
@@ -473,34 +473,34 @@
       "shares": 486
     },
     {
-      "code": "VCYT.US",
-      "name": "Veracyte",
-      "ratio": 0.21,
-      "shares": 540
-    },
-    {
       "code": "SUPN.US",
       "name": "Supernus Pharmaceuticals",
       "ratio": 0.21,
       "shares": 350
     },
     {
+      "code": "VCYT.US",
+      "name": "Veracyte",
+      "ratio": 0.21,
+      "shares": 540
+    },
+    {
+      "code": "TWST.US",
+      "name": "Twist Bioscience",
+      "ratio": 0.2,
+      "shares": 374
+    },
+    {
       "code": "DNLI.US",
       "name": "Denali Therapeutics",
-      "ratio": 0.21,
+      "ratio": 0.2,
       "shares": 909
     },
     {
       "code": "ALMS.US",
       "name": "Alumis",
-      "ratio": 0.21,
-      "shares": 640
-    },
-    {
-      "code": "BEAM.US",
-      "name": "Beam Therapeutics",
       "ratio": 0.2,
-      "shares": 634
+      "shares": 640
     },
     {
       "code": "ARQT.US",
@@ -509,21 +509,15 @@
       "shares": 710
     },
     {
-      "code": "TWST.US",
-      "name": "Twist Bioscience",
+      "code": "IDYA.US",
+      "name": "IDEAYA Biosciences",
       "ratio": 0.19,
-      "shares": 374
-    },
-    {
-      "code": "RARE.US",
-      "name": "Ultragenyx Pharmaceutical",
-      "ratio": 0.18,
-      "shares": 706
+      "shares": 508
     },
     {
       "code": "NVCR.US",
       "name": "NovoCure",
-      "ratio": 0.18,
+      "ratio": 0.19,
       "shares": 1200
     },
     {
@@ -533,40 +527,40 @@
       "shares": 490
     },
     {
-      "code": "APLS.US",
-      "name": "Apellis Pharmaceuticals",
-      "ratio": 0.18,
-      "shares": 803
-    },
-    {
-      "code": "IRON.US",
-      "name": "Disc Medicine",
-      "ratio": 0.18,
-      "shares": 250
-    },
-    {
       "code": "EWTX.US",
       "name": "Edgewise Therapeutics",
       "ratio": 0.18,
       "shares": 556
     },
     {
-      "code": "IDYA.US",
-      "name": "IDEAYA Biosciences",
+      "code": "APLS.US",
+      "name": "Apellis Pharmaceuticals",
       "ratio": 0.18,
-      "shares": 508
+      "shares": 803
+    },
+    {
+      "code": "BEAM.US",
+      "name": "Beam Therapeutics",
+      "ratio": 0.18,
+      "shares": 634
     },
     {
       "code": "GRAL.US",
       "name": "GRAIL",
-      "ratio": 0.16,
+      "ratio": 0.17,
       "shares": 285
     },
     {
-      "code": "DYN.US",
-      "name": "Dyne Therapeutics",
-      "ratio": 0.16,
-      "shares": 891
+      "code": "IRON.US",
+      "name": "Disc Medicine",
+      "ratio": 0.17,
+      "shares": 250
+    },
+    {
+      "code": "RARE.US",
+      "name": "Ultragenyx Pharmaceutical",
+      "ratio": 0.17,
+      "shares": 706
     },
     {
       "code": "KNSA.US",
@@ -575,40 +569,10 @@
       "shares": 314
     },
     {
-      "code": "MLYS.US",
-      "name": "Mineralys Therapeutics",
-      "ratio": 0.16,
-      "shares": 495
-    },
-    {
       "code": "CNTA.US",
       "name": "Centessa Pharmaceuticals",
       "ratio": 0.16,
       "shares": 550
-    },
-    {
-      "code": "OCUL.US",
-      "name": "Ocular",
-      "ratio": 0.16,
-      "shares": 1327
-    },
-    {
-      "code": "TVTX.US",
-      "name": "Travere Therapeutics",
-      "ratio": 0.16,
-      "shares": 500
-    },
-    {
-      "code": "TXG.US",
-      "name": "10x Genomics",
-      "ratio": 0.15,
-      "shares": 582
-    },
-    {
-      "code": "VERA.US",
-      "name": "Vera Therapeutics",
-      "ratio": 0.15,
-      "shares": 338
     },
     {
       "code": "ADPT.US",
@@ -617,10 +581,40 @@
       "shares": 850
     },
     {
+      "code": "MLYS.US",
+      "name": "Mineralys Therapeutics",
+      "ratio": 0.15,
+      "shares": 495
+    },
+    {
       "code": "MAZE.US",
       "name": "Maze Therapeutics",
       "ratio": 0.15,
       "shares": 295
+    },
+    {
+      "code": "DYN.US",
+      "name": "Dyne Therapeutics",
+      "ratio": 0.15,
+      "shares": 891
+    },
+    {
+      "code": "OCUL.US",
+      "name": "Ocular",
+      "ratio": 0.15,
+      "shares": 1327
+    },
+    {
+      "code": "VERA.US",
+      "name": "Vera Therapeutics",
+      "ratio": 0.15,
+      "shares": 338
+    },
+    {
+      "code": "TVTX.US",
+      "name": "Travere Therapeutics",
+      "ratio": 0.15,
+      "shares": 500
     },
     {
       "code": "WVE.US",
@@ -629,10 +623,22 @@
       "shares": 923
     },
     {
+      "code": "TXG.US",
+      "name": "10x Genomics",
+      "ratio": 0.14,
+      "shares": 582
+    },
+    {
       "code": "SNDX.US",
       "name": "Syndax Pharmaceuticals",
       "ratio": 0.14,
       "shares": 590
+    },
+    {
+      "code": "RXRX.US",
+      "name": "Recursion Pharmaceuticals",
+      "ratio": 0.13,
+      "shares": 3154
     },
     {
       "code": "OLMA.US",
@@ -641,16 +647,10 @@
       "shares": 495
     },
     {
-      "code": "HROW.US",
-      "name": "Harrow",
+      "code": "AUPH.US",
+      "name": "Aurinia Pharmaceuticals",
       "ratio": 0.13,
-      "shares": 230
-    },
-    {
-      "code": "HRMY.US",
-      "name": "Harmony Biosciences",
-      "ratio": 0.12,
-      "shares": 374
+      "shares": 766
     },
     {
       "code": "AGIO.US",
@@ -659,52 +659,28 @@
       "shares": 387
     },
     {
-      "code": "AUPH.US",
-      "name": "Aurinia Pharmaceuticals",
+      "code": "HRMY.US",
+      "name": "Harmony Biosciences",
       "ratio": 0.12,
-      "shares": 766
-    },
-    {
-      "code": "PHVS.US",
-      "name": "Pharvaris",
-      "ratio": 0.12,
-      "shares": 386
-    },
-    {
-      "code": "RXRX.US",
-      "name": "Recursion Pharmaceuticals",
-      "ratio": 0.12,
-      "shares": 3154
-    },
-    {
-      "code": "STOK.US",
-      "name": "Stoke Therapeutics",
-      "ratio": 0.12,
-      "shares": 289
+      "shares": 374
     },
     {
       "code": "SRPT.US",
       "name": "Sarepta Therapeutics",
-      "ratio": 0.11,
+      "ratio": 0.12,
       "shares": 644
     },
     {
-      "code": "TRVI.US",
-      "name": "Trevi Therapeutics",
+      "code": "SION.US",
+      "name": "Sionna Therapeutics",
       "ratio": 0.11,
-      "shares": 772
+      "shares": 274
     },
     {
-      "code": "PSNL.US",
-      "name": "Personalis",
+      "code": "STOK.US",
+      "name": "Stoke Therapeutics",
       "ratio": 0.11,
-      "shares": 1100
-    },
-    {
-      "code": "PRME.US",
-      "name": "Prime Medicine",
-      "ratio": 0.11,
-      "shares": 2200
+      "shares": 289
     },
     {
       "code": "NVAX.US",
@@ -719,16 +695,28 @@
       "shares": 624
     },
     {
-      "code": "AMLX.US",
-      "name": "Amylyx Pharmaceuticals",
+      "code": "PSNL.US",
+      "name": "Personalis",
       "ratio": 0.11,
-      "shares": 652
+      "shares": 1100
     },
     {
-      "code": "CRVS.US",
-      "name": "Corvus Pharmaceuticals",
+      "code": "PHVS.US",
+      "name": "Pharvaris",
       "ratio": 0.11,
-      "shares": 580
+      "shares": 386
+    },
+    {
+      "code": "TYRA.US",
+      "name": "Tyra Biosciences",
+      "ratio": 0.11,
+      "shares": 275
+    },
+    {
+      "code": "TRVI.US",
+      "name": "Trevi Therapeutics",
+      "ratio": 0.11,
+      "shares": 772
     },
     {
       "code": "GMAB.US",
@@ -743,22 +731,22 @@
       "shares": 960
     },
     {
-      "code": "EYPT.US",
-      "name": "EyePoint",
+      "code": "IOVA.US",
+      "name": "Iovance Biotherapeutics",
       "ratio": 0.1,
-      "shares": 502
+      "shares": 1901
     },
     {
-      "code": "MBX.US",
-      "name": "MBX Biosciences",
+      "code": "AQST.US",
+      "name": "Aquestive Therapeutics",
       "ratio": 0.1,
-      "shares": 267
+      "shares": 2000
     },
     {
-      "code": "KOD.US",
-      "name": "Kodiak Sciences",
+      "code": "AMLX.US",
+      "name": "Amylyx Pharmaceuticals",
       "ratio": 0.1,
-      "shares": 324
+      "shares": 652
     },
     {
       "code": "BCRX.US",
@@ -767,22 +755,16 @@
       "shares": 1093
     },
     {
-      "code": "NTLA.US",
-      "name": "Intellia Therapeutics",
+      "code": "CRVS.US",
+      "name": "Corvus Pharmaceuticals",
       "ratio": 0.1,
-      "shares": 618
+      "shares": 580
     },
     {
-      "code": "SION.US",
-      "name": "Sionna Therapeutics",
+      "code": "TNGX.US",
+      "name": "Tango Therapeutics",
       "ratio": 0.1,
-      "shares": 274
-    },
-    {
-      "code": "TYRA.US",
-      "name": "Tyra Biosciences",
-      "ratio": 0.1,
-      "shares": 275
+      "shares": 544
     },
     {
       "code": "VCEL.US",
@@ -793,20 +775,14 @@
     {
       "code": "ZYME.US",
       "name": "Zymeworks",
-      "ratio": 0.09,
+      "ratio": 0.1,
       "shares": 358
     },
     {
-      "code": "ZBIO.US",
-      "name": "Zenas BioPharma",
-      "ratio": 0.09,
-      "shares": 327
-    },
-    {
-      "code": "RIGL.US",
-      "name": "Rigel Pharmaceuticals",
-      "ratio": 0.09,
-      "shares": 240
+      "code": "PRME.US",
+      "name": "Prime Medicine",
+      "ratio": 0.1,
+      "shares": 2200
     },
     {
       "code": "PGEN.US",
@@ -815,10 +791,34 @@
       "shares": 2360
     },
     {
+      "code": "NTLA.US",
+      "name": "Intellia Therapeutics",
+      "ratio": 0.09,
+      "shares": 618
+    },
+    {
+      "code": "ZBIO.US",
+      "name": "Zenas BioPharma",
+      "ratio": 0.09,
+      "shares": 327
+    },
+    {
+      "code": "DAWN.US",
+      "name": "Day One Biopharmaceuticals",
+      "ratio": 0.09,
+      "shares": 647
+    },
+    {
       "code": "CTNM.US",
       "name": "Contineum Therapeutics",
       "ratio": 0.09,
       "shares": 550
+    },
+    {
+      "code": "ANIP.US",
+      "name": "ANI Pharmaceuticals",
+      "ratio": 0.09,
+      "shares": 101
     },
     {
       "code": "ATAI.US",
@@ -827,10 +827,34 @@
       "shares": 2179
     },
     {
-      "code": "AQST.US",
-      "name": "Aquestive Therapeutics",
+      "code": "ALVO.US",
+      "name": "Alvotech",
       "ratio": 0.09,
-      "shares": 2000
+      "shares": 1942
+    },
+    {
+      "code": "KOD.US",
+      "name": "Kodiak Sciences",
+      "ratio": 0.09,
+      "shares": 324
+    },
+    {
+      "code": "MBX.US",
+      "name": "MBX Biosciences",
+      "ratio": 0.09,
+      "shares": 267
+    },
+    {
+      "code": "EYPT.US",
+      "name": "EyePoint",
+      "ratio": 0.09,
+      "shares": 502
+    },
+    {
+      "code": "HROW.US",
+      "name": "Harrow",
+      "ratio": 0.09,
+      "shares": 230
     },
     {
       "code": "IMCR.US",
@@ -839,40 +863,10 @@
       "shares": 258
     },
     {
-      "code": "IOVA.US",
-      "name": "Iovance Biotherapeutics",
-      "ratio": 0.08,
-      "shares": 1901
-    },
-    {
       "code": "INVA.US",
       "name": "Innoviva",
       "ratio": 0.08,
       "shares": 332
-    },
-    {
-      "code": "LYEL.US",
-      "name": "Lyell Immunopharma",
-      "ratio": 0.08,
-      "shares": 300
-    },
-    {
-      "code": "ANAB.US",
-      "name": "AnaptysBio",
-      "ratio": 0.08,
-      "shares": 130
-    },
-    {
-      "code": "ANIP.US",
-      "name": "ANI Pharmaceuticals",
-      "ratio": 0.08,
-      "shares": 101
-    },
-    {
-      "code": "ALVO.US",
-      "name": "Alvotech",
-      "ratio": 0.08,
-      "shares": 1942
     },
     {
       "code": "ARDX.US",
@@ -881,22 +875,16 @@
       "shares": 1150
     },
     {
-      "code": "PBYI.US",
-      "name": "Puma Biotechnology",
+      "code": "ANAB.US",
+      "name": "AnaptysBio",
       "ratio": 0.08,
-      "shares": 1100
+      "shares": 130
     },
     {
-      "code": "SANA.US",
-      "name": "Sana Biotechnology",
+      "code": "DFTX.US",
+      "name": "Definium Therapeutics",
       "ratio": 0.08,
-      "shares": 1674
-    },
-    {
-      "code": "SEPN.US",
-      "name": "Septerna",
-      "ratio": 0.08,
-      "shares": 267
+      "shares": 400
     },
     {
       "code": "TSHA.US",
@@ -905,34 +893,46 @@
       "shares": 1654
     },
     {
+      "code": "OBIO.US",
+      "name": "Orchestra BioMed",
+      "ratio": 0.08,
+      "shares": 1500
+    },
+    {
+      "code": "PBYI.US",
+      "name": "Puma Biotechnology",
+      "ratio": 0.08,
+      "shares": 1100
+    },
+    {
+      "code": "SEPN.US",
+      "name": "Septerna",
+      "ratio": 0.08,
+      "shares": 267
+    },
+    {
+      "code": "RIGL.US",
+      "name": "Rigel Pharmaceuticals",
+      "ratio": 0.08,
+      "shares": 240
+    },
+    {
+      "code": "RAPP.US",
+      "name": "Rapport Therapeutics",
+      "ratio": 0.07,
+      "shares": 199
+    },
+    {
+      "code": "SPRY.US",
+      "name": "ARS Pharma",
+      "ratio": 0.07,
+      "shares": 642
+    },
+    {
       "code": "SVRA.US",
       "name": "Savara",
-      "ratio": 0.08,
+      "ratio": 0.07,
       "shares": 1190
-    },
-    {
-      "code": "VTYX.US",
-      "name": "Ventyx Biosciences",
-      "ratio": 0.08,
-      "shares": 500
-    },
-    {
-      "code": "VYGR.US",
-      "name": "Voyager Therapeutics",
-      "ratio": 0.08,
-      "shares": 1700
-    },
-    {
-      "code": "VIR.US",
-      "name": "Vir Biotechnology",
-      "ratio": 0.07,
-      "shares": 717
-    },
-    {
-      "code": "TNGX.US",
-      "name": "Tango Therapeutics",
-      "ratio": 0.07,
-      "shares": 544
     },
     {
       "code": "PAHC.US",
@@ -941,34 +941,16 @@
       "shares": 118
     },
     {
-      "code": "OBIO.US",
-      "name": "Orchestra BioMed",
+      "code": "VYGR.US",
+      "name": "Voyager Therapeutics",
       "ratio": 0.07,
-      "shares": 1500
+      "shares": 1700
     },
     {
-      "code": "ARVN.US",
-      "name": "Arvinas",
+      "code": "VIR.US",
+      "name": "Vir Biotechnology",
       "ratio": 0.07,
-      "shares": 463
-    },
-    {
-      "code": "AMPH.US",
-      "name": "Amphastar",
-      "ratio": 0.07,
-      "shares": 306
-    },
-    {
-      "code": "DAWN.US",
-      "name": "Day One Biopharmaceuticals",
-      "ratio": 0.07,
-      "shares": 647
-    },
-    {
-      "code": "DFTX.US",
-      "name": "Definium Therapeutics",
-      "ratio": 0.07,
-      "shares": 400
+      "shares": 717
     },
     {
       "code": "COLL.US",
@@ -983,10 +965,34 @@
       "shares": 407
     },
     {
+      "code": "BCAX.US",
+      "name": "Bicara Therapeutics",
+      "ratio": 0.07,
+      "shares": 317
+    },
+    {
+      "code": "AMPH.US",
+      "name": "Amphastar",
+      "ratio": 0.07,
+      "shares": 306
+    },
+    {
+      "code": "ARVN.US",
+      "name": "Arvinas",
+      "ratio": 0.07,
+      "shares": 463
+    },
+    {
       "code": "GLUE.US",
       "name": "Monte Rosa Therapeutics",
       "ratio": 0.07,
       "shares": 335
+    },
+    {
+      "code": "LYEL.US",
+      "name": "Lyell Immunopharma",
+      "ratio": 0.07,
+      "shares": 300
     },
     {
       "code": "ELVN.US",
@@ -1001,16 +1007,16 @@
       "shares": 3824
     },
     {
-      "code": "GHRS.US",
-      "name": "GH Research",
-      "ratio": 0.06,
-      "shares": 336
-    },
-    {
       "code": "GRFS.US",
       "name": "Grifols",
       "ratio": 0.06,
       "shares": 651
+    },
+    {
+      "code": "GHRS.US",
+      "name": "GH Research",
+      "ratio": 0.06,
+      "shares": 336
     },
     {
       "code": "LFCR.US",
@@ -1025,28 +1031,22 @@
       "shares": 1931
     },
     {
-      "code": "CMPS.US",
-      "name": "COMPASS Pathways",
-      "ratio": 0.06,
-      "shares": 820
-    },
-    {
-      "code": "BCAX.US",
-      "name": "Bicara Therapeutics",
-      "ratio": 0.06,
-      "shares": 317
-    },
-    {
-      "code": "ALLO.US",
-      "name": "Allogene Therapeutics",
-      "ratio": 0.06,
-      "shares": 2100
-    },
-    {
       "code": "ABCL.US",
       "name": "AbCellera Biologics",
       "ratio": 0.06,
       "shares": 1548
+    },
+    {
+      "code": "BIOA.US",
+      "name": "BioAge Labs",
+      "ratio": 0.06,
+      "shares": 250
+    },
+    {
+      "code": "CMPS.US",
+      "name": "COMPASS Pathways",
+      "ratio": 0.06,
+      "shares": 820
     },
     {
       "code": "PCRX.US",
@@ -1055,28 +1055,16 @@
       "shares": 248
     },
     {
-      "code": "RAPP.US",
-      "name": "Rapport Therapeutics",
-      "ratio": 0.06,
-      "shares": 199
-    },
-    {
-      "code": "SPRY.US",
-      "name": "ARS Pharma",
-      "ratio": 0.06,
-      "shares": 642
-    },
-    {
       "code": "RLAY.US",
       "name": "Relay Therapeutics",
       "ratio": 0.06,
       "shares": 592
     },
     {
-      "code": "TBPH.US",
-      "name": "Theravance Biopharma",
-      "ratio": 0.05,
-      "shares": 264
+      "code": "SANA.US",
+      "name": "Sana Biotechnology",
+      "ratio": 0.06,
+      "shares": 1674
     },
     {
       "code": "PHAT.US",
@@ -1091,28 +1079,34 @@
       "shares": 550
     },
     {
-      "code": "AVBP.US",
-      "name": "ArriVent Biopharma",
-      "ratio": 0.05,
-      "shares": 184
-    },
-    {
       "code": "CTMX.US",
       "name": "CytomX Therapeutics",
       "ratio": 0.05,
       "shares": 890
     },
     {
-      "code": "JANX.US",
-      "name": "Janux Therapeutics",
+      "code": "AVBP.US",
+      "name": "ArriVent Biopharma",
       "ratio": 0.05,
-      "shares": 337
+      "shares": 184
+    },
+    {
+      "code": "ALLO.US",
+      "name": "Allogene Therapeutics",
+      "ratio": 0.05,
+      "shares": 2100
     },
     {
       "code": "KURA.US",
       "name": "Kura Oncology",
       "ratio": 0.05,
       "shares": 538
+    },
+    {
+      "code": "JANX.US",
+      "name": "Janux Therapeutics",
+      "ratio": 0.05,
+      "shares": 337
     },
     {
       "code": "INBX.US",
@@ -1127,28 +1121,34 @@
       "shares": 490
     },
     {
-      "code": "KROS.US",
-      "name": "Keros Therapeutics",
-      "ratio": 0.04,
-      "shares": 245
+      "code": "DSGN.US",
+      "name": "Design Therapeutics",
+      "ratio": 0.05,
+      "shares": 400
     },
     {
-      "code": "CSTL.US",
-      "name": "Castle Biosciences",
+      "code": "MRVI.US",
+      "name": "Maravai LifeSciences",
       "ratio": 0.04,
-      "shares": 122
-    },
-    {
-      "code": "BIOA.US",
-      "name": "BioAge Labs",
-      "ratio": 0.04,
-      "shares": 178
+      "shares": 1000
     },
     {
       "code": "ABUS.US",
       "name": "Arbutus Biopharma",
       "ratio": 0.04,
       "shares": 780
+    },
+    {
+      "code": "ANNX.US",
+      "name": "Annexon",
+      "ratio": 0.04,
+      "shares": 581
+    },
+    {
+      "code": "CSTL.US",
+      "name": "Castle Biosciences",
+      "ratio": 0.04,
+      "shares": 122
     },
     {
       "code": "XERS.US",
@@ -1163,12 +1163,6 @@
       "shares": 293
     },
     {
-      "code": "QURE.US",
-      "name": "uniQure",
-      "ratio": 0.04,
-      "shares": 350
-    },
-    {
       "code": "OMER.US",
       "name": "Omeros",
       "ratio": 0.04,
@@ -1179,6 +1173,30 @@
       "name": "Oric Pharmaceuticals",
       "ratio": 0.04,
       "shares": 279
+    },
+    {
+      "code": "QURE.US",
+      "name": "uniQure",
+      "ratio": 0.04,
+      "shares": 350
+    },
+    {
+      "code": "TBPH.US",
+      "name": "Theravance Biopharma",
+      "ratio": 0.04,
+      "shares": 264
+    },
+    {
+      "code": "SLDB.US",
+      "name": "Solid Biosciences",
+      "ratio": 0.03,
+      "shares": 400
+    },
+    {
+      "code": "RCKT.US",
+      "name": "Rocket Pharmaceuticals",
+      "ratio": 0.03,
+      "shares": 577
     },
     {
       "code": "NMRA.US",
@@ -1193,22 +1211,22 @@
       "shares": 286
     },
     {
-      "code": "TRDA.US",
-      "name": "Entrada Therapeutics",
-      "ratio": 0.03,
-      "shares": 203
-    },
-    {
-      "code": "RCKT.US",
-      "name": "Rocket Pharmaceuticals",
-      "ratio": 0.03,
-      "shares": 577
-    },
-    {
       "code": "ZVRA.US",
       "name": "Zevra Therapeutics",
       "ratio": 0.03,
       "shares": 291
+    },
+    {
+      "code": "URGN.US",
+      "name": "UroGen Pharma",
+      "ratio": 0.03,
+      "shares": 119
+    },
+    {
+      "code": "TRDA.US",
+      "name": "Entrada Therapeutics",
+      "ratio": 0.03,
+      "shares": 203
     },
     {
       "code": "VNDA.US",
@@ -1217,40 +1235,16 @@
       "shares": 321
     },
     {
-      "code": "ANNX.US",
-      "name": "Annexon",
-      "ratio": 0.03,
-      "shares": 581
-    },
-    {
       "code": "AVIR.US",
       "name": "Atea Pharmaceuticals",
       "ratio": 0.03,
       "shares": 479
     },
     {
-      "code": "DSGN.US",
-      "name": "Design Therapeutics",
+      "code": "ABSI.US",
+      "name": "Absci",
       "ratio": 0.03,
-      "shares": 240
-    },
-    {
-      "code": "CRMD.US",
-      "name": "CorMedix",
-      "ratio": 0.03,
-      "shares": 330
-    },
-    {
-      "code": "KALV.US",
-      "name": "KalVista Pharmaceuticals",
-      "ratio": 0.03,
-      "shares": 176
-    },
-    {
-      "code": "KMDA.US",
-      "name": "Kamada",
-      "ratio": 0.03,
-      "shares": 296
+      "shares": 1000
     },
     {
       "code": "IRWD.US",
@@ -1265,16 +1259,22 @@
       "shares": 1483
     },
     {
-      "code": "MRVI.US",
-      "name": "Maravai LifeSciences",
+      "code": "KROS.US",
+      "name": "Keros Therapeutics",
       "ratio": 0.03,
-      "shares": 643
+      "shares": 245
     },
     {
-      "code": "FULC.US",
-      "name": "Fulcrum Therapeutics",
+      "code": "KALV.US",
+      "name": "KalVista Pharmaceuticals",
       "ratio": 0.03,
-      "shares": 299
+      "shares": 176
+    },
+    {
+      "code": "KMDA.US",
+      "name": "Kamada",
+      "ratio": 0.03,
+      "shares": 296
     },
     {
       "code": "ESPR.US",
@@ -1289,6 +1289,12 @@
       "shares": 138
     },
     {
+      "code": "FULC.US",
+      "name": "Fulcrum Therapeutics",
+      "ratio": 0.03,
+      "shares": 299
+    },
+    {
       "code": "GLPG.US",
       "name": "Galapagos",
       "ratio": 0.03,
@@ -1299,6 +1305,12 @@
       "name": "Immuneering",
       "ratio": 0.02,
       "shares": 297
+    },
+    {
+      "code": "EOLS.US",
+      "name": "Evolus",
+      "ratio": 0.02,
+      "shares": 257
     },
     {
       "code": "MESO.US",
@@ -1313,12 +1325,6 @@
       "shares": 256
     },
     {
-      "code": "LRMR.US",
-      "name": "Larimar Therapeutics",
-      "ratio": 0.02,
-      "shares": 270
-    },
-    {
       "code": "KYTX.US",
       "name": "Kyverna Therapeutics",
       "ratio": 0.02,
@@ -1331,16 +1337,10 @@
       "shares": 149
     },
     {
-      "code": "AVXL.US",
-      "name": "Anavex Life Sciences",
+      "code": "LRMR.US",
+      "name": "Larimar Therapeutics",
       "ratio": 0.02,
-      "shares": 381
-    },
-    {
-      "code": "ALT.US",
-      "name": "Altimmune",
-      "ratio": 0.02,
-      "shares": 387
+      "shares": 270
     },
     {
       "code": "ACRS.US",
@@ -1349,10 +1349,40 @@
       "shares": 494
     },
     {
-      "code": "URGN.US",
-      "name": "UroGen Pharma",
+      "code": "ALT.US",
+      "name": "Altimmune",
       "ratio": 0.02,
-      "shares": 119
+      "shares": 550
+    },
+    {
+      "code": "AVXL.US",
+      "name": "Anavex Life Sciences",
+      "ratio": 0.02,
+      "shares": 381
+    },
+    {
+      "code": "CRMD.US",
+      "name": "CorMedix",
+      "ratio": 0.02,
+      "shares": 330
+    },
+    {
+      "code": "PEPG.US",
+      "name": "PepGen",
+      "ratio": 0.02,
+      "shares": 400
+    },
+    {
+      "code": "PACB.US",
+      "name": "Pacific Biosciences of Californi",
+      "ratio": 0.02,
+      "shares": 1368
+    },
+    {
+      "code": "NGNE.US",
+      "name": "Neurogene",
+      "ratio": 0.02,
+      "shares": 63
     },
     {
       "code": "REPL.US",
@@ -1367,12 +1397,6 @@
       "shares": 212
     },
     {
-      "code": "RNA.US",
-      "name": "Avidity Biosciences",
-      "ratio": 0.02,
-      "shares": 103
-    },
-    {
       "code": "SIGA.US",
       "name": "SIGA Technologies",
       "ratio": 0.02,
@@ -1385,16 +1409,16 @@
       "shares": 80
     },
     {
-      "code": "PACB.US",
-      "name": "Pacific Biosciences of Californi",
-      "ratio": 0.02,
-      "shares": 1368
+      "code": "TKNO.US",
+      "name": "Alpha Teknova",
+      "ratio": 0.01,
+      "shares": 226
     },
     {
-      "code": "NGNE.US",
-      "name": "Neurogene",
+      "code": "SLN.US",
+      "name": "Silence Therapeutics",
       "ratio": 0.01,
-      "shares": 63
+      "shares": 199
     },
     {
       "code": "OABI.US",
@@ -1409,52 +1433,16 @@
       "shares": 689
     },
     {
-      "code": "PEPG.US",
-      "name": "PepGen",
-      "ratio": 0.01,
-      "shares": 138
-    },
-    {
-      "code": "TKNO.US",
-      "name": "Alpha Teknova",
-      "ratio": 0.01,
-      "shares": 226
-    },
-    {
-      "code": "SLDB.US",
-      "name": "Solid Biosciences",
-      "ratio": 0.01,
-      "shares": 169
-    },
-    {
-      "code": "SLN.US",
-      "name": "Silence Therapeutics",
-      "ratio": 0.01,
-      "shares": 199
-    },
-    {
       "code": "VOR.US",
       "name": "Vor Biopharma",
       "ratio": 0.01,
       "shares": 49
     },
     {
-      "code": "ABSI.US",
-      "name": "Absci",
+      "code": "CCCC.US",
+      "name": "C4 Therapeutics",
       "ratio": 0.01,
-      "shares": 487
-    },
-    {
-      "code": "ACIU.US",
-      "name": "AC Immune",
-      "ratio": 0.01,
-      "shares": 367
-    },
-    {
-      "code": "ARCT.US",
-      "name": "Arcturus Therapeutics",
-      "ratio": 0.01,
-      "shares": 127
+      "shares": 299
     },
     {
       "code": "AURA.US",
@@ -1475,12 +1463,6 @@
       "shares": 185
     },
     {
-      "code": "CCCC.US",
-      "name": "C4 Therapeutics",
-      "ratio": 0.01,
-      "shares": 299
-    },
-    {
       "code": "CABA.US",
       "name": "Cabaletta Bio",
       "ratio": 0.01,
@@ -1493,10 +1475,40 @@
       "shares": 227
     },
     {
+      "code": "ACIU.US",
+      "name": "AC Immune",
+      "ratio": 0.01,
+      "shares": 367
+    },
+    {
+      "code": "AARD.US",
+      "name": "Aardvark Therapeutics",
+      "ratio": 0.01,
+      "shares": 79
+    },
+    {
+      "code": "ARCT.US",
+      "name": "Arcturus Therapeutics",
+      "ratio": 0.01,
+      "shares": 127
+    },
+    {
       "code": "LXEO.US",
       "name": "Lexeo Therapeutics",
       "ratio": 0.01,
       "shares": 140
+    },
+    {
+      "code": "EDIT.US",
+      "name": "Editas Medicine",
+      "ratio": 0.01,
+      "shares": 435
+    },
+    {
+      "code": "FHTX.US",
+      "name": "Foghorn Therapeutics",
+      "ratio": 0.01,
+      "shares": 235
     },
     {
       "code": "HUMA.US",
@@ -1509,24 +1521,6 @@
       "name": "Gossamer Bio",
       "ratio": 0.01,
       "shares": 1286
-    },
-    {
-      "code": "FHTX.US",
-      "name": "Foghorn Therapeutics",
-      "ratio": 0.01,
-      "shares": 235
-    },
-    {
-      "code": "EOLS.US",
-      "name": "Evolus",
-      "ratio": 0.01,
-      "shares": 257
-    },
-    {
-      "code": "EDIT.US",
-      "name": "Editas Medicine",
-      "ratio": 0.01,
-      "shares": 435
     }
   ]
 }
