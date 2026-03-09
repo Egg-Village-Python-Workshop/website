@@ -1,7 +1,7 @@
 {
   "id": "00916",
   "name": "國泰全球品牌50",
-  "fetched_at": "2026-03-07",
+  "fetched_at": "2026-03-09",
   "capital": {
     "ETF名稱": "國泰全球品牌50",
     "交易所代碼": "00916",
@@ -15,10 +15,10 @@
     "淨值幣別": "台幣",
     "ETF規模": "1,807.84(百萬台幣)(2026/02/28)",
     "ETF市價": "26.2000（03/06）",
-    "成交量(股)": "256,955（月均:394,094）",
-    "ETF淨值": "26.2400（03/05）",
+    "成交量(股)": "198,138（月均:394,094）",
+    "ETF淨值": "25.9200（03/05）",
     "投資風格": "",
-    "折溢價(%)": "-0.27(月均:-0.23)",
+    "折溢價(%)": "1.08(月均:-0.23)",
     "投資標的": "股票型",
     "配息頻率": "年配",
     "投資區域": "全球",
@@ -81,37 +81,37 @@
     {
       "code": "AAPL.US",
       "name": "Apple",
-      "ratio": 16.11,
+      "ratio": 16.13,
       "shares": 35296
     },
     {
       "code": "MSFT.US",
       "name": "Microsoft",
-      "ratio": 12.2,
+      "ratio": 12.3,
       "shares": 16943
     },
     {
       "code": "AMZN.US",
       "name": "Amazon",
-      "ratio": 8.71,
+      "ratio": 8.58,
       "shares": 22674
     },
     {
       "code": "GOOGL.US",
       "name": "Alphabet - Class A Common Stock",
-      "ratio": 7.19,
+      "ratio": 7.22,
       "shares": 13626
     },
     {
       "code": "META.US",
       "name": "Meta",
-      "ratio": 5.88,
+      "ratio": 5.8,
       "shares": 5073
     },
     {
       "code": "TSLA.US",
       "name": "Tesla",
-      "ratio": 4.66,
+      "ratio": 4.61,
       "shares": 6555
     },
     {
@@ -123,44 +123,50 @@
     {
       "code": "005930.KS",
       "name": "SAMSUNG ELEC",
-      "ratio": 2.61,
+      "ratio": 2.58,
       "shares": 11374
     },
     {
       "code": "V.US",
       "name": "Visa",
-      "ratio": 2.23,
+      "ratio": 2.24,
       "shares": 3971
     },
     {
       "code": "WMT.US",
       "name": "Walmart",
-      "ratio": 2.21,
+      "ratio": 2.24,
       "shares": 10207
     },
     {
       "code": "COST.US",
       "name": "Costco",
-      "ratio": 1.79,
+      "ratio": 1.83,
       "shares": 1036
     },
     {
       "code": "MA.US",
       "name": "Mastercard",
-      "ratio": 1.77,
+      "ratio": 1.78,
       "shares": 1922
     },
     {
       "code": "NFLX.US",
       "name": "Netflix",
-      "ratio": 1.72,
+      "ratio": 1.74,
       "shares": 9892
     },
     {
       "code": "BAC.US",
       "name": "Bank of America",
-      "ratio": 1.51,
+      "ratio": 1.5,
       "shares": 17323
+    },
+    {
+      "code": "PG.US",
+      "name": "Procter & Gamble",
+      "ratio": 1.49,
+      "shares": 5479
     },
     {
       "code": "HD.US",
@@ -169,46 +175,34 @@
       "shares": 2330
     },
     {
-      "code": "PG.US",
-      "name": "Procter & Gamble",
-      "ratio": 1.48,
-      "shares": 5479
-    },
-    {
       "code": "KO.US",
       "name": "Coca-Cola",
-      "ratio": 1.35,
+      "ratio": 1.37,
       "shares": 10003
     },
     {
       "code": "CSCO.US",
       "name": "Cisco",
-      "ratio": 1.3,
+      "ratio": 1.29,
       "shares": 9236
-    },
-    {
-      "code": "",
-      "name": "HSBC Holdings PLC",
-      "ratio": 1.2,
-      "shares": 40265
     },
     {
       "code": "7203.JP",
       "name": "TOYOTA MOTOR",
-      "ratio": 1.17,
+      "ratio": 1.19,
       "shares": 30000
     },
     {
       "code": "",
-      "name": "Nestle SA",
-      "ratio": 1.08,
-      "shares": 6000
+      "name": "HSBC Holdings PLC",
+      "ratio": 1.19,
+      "shares": 40265
     },
     {
-      "code": "WFC.US",
-      "name": "Wells Fargo",
-      "ratio": 1.08,
-      "shares": 7490
+      "code": "",
+      "name": "Nestle SA",
+      "ratio": 1.09,
+      "shares": 6000
     },
     {
       "code": "ORCL.US",
@@ -217,9 +211,15 @@
       "shares": 3924
     },
     {
+      "code": "WFC.US",
+      "name": "Wells Fargo",
+      "ratio": 1.07,
+      "shares": 7490
+    },
+    {
       "code": "MCD.US",
       "name": "McDonald's",
-      "ratio": 0.96,
+      "ratio": 0.97,
       "shares": 1670
     },
     {
@@ -235,27 +235,27 @@
       "shares": 3110
     },
     {
+      "code": "",
+      "name": "SAP SE",
+      "ratio": 0.89,
+      "shares": 2485
+    },
+    {
       "code": "AXP.US",
       "name": "American Express",
-      "ratio": 0.88,
+      "ratio": 0.87,
       "shares": 1628
     },
     {
       "code": "",
-      "name": "SAP SE",
-      "ratio": 0.87,
-      "shares": 2485
-    },
-    {
-      "code": "",
       "name": "Commonwealth Bank of Australia",
-      "ratio": 0.83,
+      "ratio": 0.84,
       "shares": 3910
     },
     {
       "code": "CRM.US",
       "name": "Salesforce",
-      "ratio": 0.77,
+      "ratio": 0.78,
       "shares": 2172
     },
     {
@@ -267,13 +267,13 @@
     {
       "code": "TJX.US",
       "name": "TJX",
-      "ratio": 0.73,
+      "ratio": 0.74,
       "shares": 2603
     },
     {
       "code": "",
       "name": "Shopify Inc",
-      "ratio": 0.69,
+      "ratio": 0.67,
       "shares": 2900
     },
     {
@@ -283,21 +283,9 @@
       "shares": 75
     },
     {
-      "code": "BLK.US",
-      "name": "BlackRock",
-      "ratio": 0.61,
-      "shares": 337
-    },
-    {
-      "code": "ANET.US",
-      "name": "Arista Networks",
-      "ratio": 0.61,
-      "shares": 2479
-    },
-    {
       "code": "",
       "name": "LVMH Moet Hennessy Vuitton SE",
-      "ratio": 0.6,
+      "ratio": 0.61,
       "shares": 587
     },
     {
@@ -307,10 +295,10 @@
       "shares": 1312
     },
     {
-      "code": "",
-      "name": "Unilever PLC",
+      "code": "ANET.US",
+      "name": "Arista Networks",
       "ratio": 0.58,
-      "shares": 4886
+      "shares": 2479
     },
     {
       "code": "Industria de Diseno Textil S.A.",
@@ -319,27 +307,39 @@
       "shares": 5299
     },
     {
+      "code": "",
+      "name": "Unilever PLC",
+      "ratio": 0.57,
+      "shares": 4886
+    },
+    {
+      "code": "BLK.US",
+      "name": "BlackRock",
+      "ratio": 0.56,
+      "shares": 333
+    },
+    {
       "code": "6758.JP",
       "name": "SONY GROUP",
-      "ratio": 0.54,
+      "ratio": 0.55,
       "shares": 14200
     },
     {
       "code": "INTU.US",
       "name": "Intuit",
-      "ratio": 0.52,
+      "ratio": 0.54,
       "shares": 638
     },
     {
       "code": "",
       "name": "LOreal S.A.",
-      "ratio": 0.51,
+      "ratio": 0.52,
       "shares": 674
     },
     {
       "code": "",
       "name": "Hermes International",
-      "ratio": 0.47,
+      "ratio": 0.48,
       "shares": 122
     },
     {
@@ -363,7 +363,7 @@
     {
       "code": "BX.US",
       "name": "Blackstone",
-      "ratio": 0.38,
+      "ratio": 0.37,
       "shares": 1876
     },
     {
@@ -375,7 +375,7 @@
     {
       "code": "DASH.US",
       "name": "DoorDash",
-      "ratio": 0.35,
+      "ratio": 0.34,
       "shares": 1085
     }
   ]

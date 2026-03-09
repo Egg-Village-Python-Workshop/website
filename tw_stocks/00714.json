@@ -1,7 +1,7 @@
 {
   "id": "00714",
   "name": "群益道瓊美國地產",
-  "fetched_at": "2026-03-07",
+  "fetched_at": "2026-03-09",
   "capital": {
     "ETF名稱": "群益道瓊美國地產",
     "交易所代碼": "00714",
@@ -15,10 +15,10 @@
     "淨值幣別": "台幣",
     "ETF規模": "532.35(百萬台幣)(2026/02/28)",
     "ETF市價": "21.3100（03/06）",
-    "成交量(股)": "913,307（月均:294,920）",
-    "ETF淨值": "21.4000（03/05）",
+    "成交量(股)": "26,346（月均:294,920）",
+    "ETF淨值": "21.1500（03/05）",
     "投資風格": "",
-    "折溢價(%)": "-0.14(月均:-0.63)",
+    "折溢價(%)": "0.76(月均:-0.63)",
     "投資標的": "房地產",
     "配息頻率": "季配",
     "投資區域": "美國",
@@ -71,86 +71,86 @@
     {
       "code": "WELL.US",
       "name": "Welltower",
-      "ratio": 9.97,
+      "ratio": 10.04,
       "shares": 8224
     },
     {
       "code": "PLD.US",
       "name": "Prologis",
-      "ratio": 9.08,
+      "ratio": 8.96,
       "shares": 11142
     },
     {
       "code": "EQIX.US",
       "name": "Equinix",
-      "ratio": 6.63,
+      "ratio": 6.59,
       "shares": 1177
     },
     {
       "code": "AMT.US",
       "name": "American Tower",
-      "ratio": 6.23,
+      "ratio": 6.33,
       "shares": 5613
     },
     {
       "code": "SPG.US",
       "name": "Simon Property Group Inc.",
-      "ratio": 4.65,
+      "ratio": 4.56,
       "shares": 3912
     },
     {
       "code": "O.US",
       "name": "Realty Income",
-      "ratio": 4.23,
+      "ratio": 4.29,
       "shares": 11039
     },
     {
       "code": "DLR.US",
       "name": "Digital Realty Trust",
-      "ratio": 4.08,
+      "ratio": 4.05,
       "shares": 3842
     },
     {
       "code": "PSA.US",
       "name": "Public Storage",
-      "ratio": 3.44,
+      "ratio": 3.49,
       "shares": 1896
     },
     {
       "code": "CBRE.US",
       "name": "CBRE Group",
-      "ratio": 2.92,
+      "ratio": 2.86,
       "shares": 3500
     },
     {
       "code": "VTR.US",
       "name": "Ventas",
-      "ratio": 2.82,
+      "ratio": 2.85,
       "shares": 5609
     },
     {
       "code": "CCI.US",
       "name": "Crown Castle",
-      "ratio": 2.77,
+      "ratio": 2.81,
       "shares": 5200
     },
     {
       "code": "VICI.US",
       "name": "VICI Properties",
-      "ratio": 2.23,
+      "ratio": 2.25,
       "shares": 12699
-    },
-    {
-      "code": "IRM.US",
-      "name": "Iron Mountain",
-      "ratio": 2.22,
-      "shares": 3500
     },
     {
       "code": "EXR.US",
       "name": "Extra Space",
-      "ratio": 2.2,
+      "ratio": 2.21,
       "shares": 2520
+    },
+    {
+      "code": "IRM.US",
+      "name": "Iron Mountain",
+      "ratio": 2.2,
+      "shares": 3500
     },
     {
       "code": "AVB.US",
@@ -165,16 +165,16 @@
       "shares": 4091
     },
     {
+      "code": "SBAC.US",
+      "name": "SBA Communications",
+      "ratio": 1.48,
+      "shares": 1257
+    },
+    {
       "code": "CSGP.US",
       "name": "CoStar Group",
       "ratio": 1.45,
       "shares": 5001
-    },
-    {
-      "code": "SBAC.US",
-      "name": "SBA Communications",
-      "ratio": 1.45,
-      "shares": 1257
     },
     {
       "code": "WY.US",
@@ -189,22 +189,22 @@
       "shares": 756
     },
     {
-      "code": "KIM.US",
-      "name": "Kimco Realty",
-      "ratio": 1.11,
-      "shares": 7955
-    },
-    {
       "code": "WPC.US",
       "name": "W. P. Carey",
-      "ratio": 1.11,
+      "ratio": 1.12,
       "shares": 2577
     },
     {
       "code": "SUI.US",
       "name": "Sun Communities",
-      "ratio": 1.1,
+      "ratio": 1.12,
       "shares": 1366
+    },
+    {
+      "code": "KIM.US",
+      "name": "Kimco Realty",
+      "ratio": 1.11,
+      "shares": 7955
     },
     {
       "code": "MAA.US",
@@ -221,14 +221,20 @@
     {
       "code": "NLY.US",
       "name": "Annaly Capital Management",
-      "ratio": 1.03,
+      "ratio": 1.02,
       "shares": 7582
     },
     {
       "code": "JLL.US",
       "name": "Jones Lang LaSalle",
-      "ratio": 1.02,
+      "ratio": 1.0,
       "shares": 557
+    },
+    {
+      "code": "OHI.US",
+      "name": "Omega Healthcare Investors Inc.",
+      "ratio": 1.0,
+      "shares": 3501
     },
     {
       "code": "GLPI.US",
@@ -237,28 +243,22 @@
       "shares": 3341
     },
     {
-      "code": "OHI.US",
-      "name": "Omega Healthcare Investors Inc.",
-      "ratio": 0.97,
-      "shares": 3501
-    },
-    {
       "code": "ELS.US",
       "name": "Equity Lifestyle Properties, Inc",
       "ratio": 0.92,
       "shares": 2284
     },
     {
-      "code": "HST.US",
-      "name": "Host Hotels & Resorts",
-      "ratio": 0.91,
-      "shares": 7674
-    },
-    {
       "code": "REG.US",
       "name": "Regency Centers",
       "ratio": 0.91,
       "shares": 1943
+    },
+    {
+      "code": "HST.US",
+      "name": "Host Hotels & Resorts",
+      "ratio": 0.88,
+      "shares": 7674
     },
     {
       "code": "DOC.US",
@@ -275,7 +275,7 @@
     {
       "code": "URE.US",
       "name": "ProShares Ultra Real Estate",
-      "ratio": 0.82,
+      "ratio": 0.81,
       "shares": 2060
     },
     {
@@ -293,13 +293,13 @@
     {
       "code": "AGNC.US",
       "name": "AGNC Investment",
-      "ratio": 0.75,
+      "ratio": 0.74,
       "shares": 11690
     },
     {
       "code": "EGP.US",
       "name": "EastGroup Properties",
-      "ratio": 0.71,
+      "ratio": 0.7,
       "shares": 623
     },
     {
@@ -309,27 +309,27 @@
       "shares": 3753
     },
     {
+      "code": "ADC.US",
+      "name": "Agree Realty Corporation",
+      "ratio": 0.65,
+      "shares": 1330
+    },
+    {
+      "code": "CUBE.US",
+      "name": "CubeSmart",
+      "ratio": 0.64,
+      "shares": 2642
+    },
+    {
       "code": "BRX.US",
       "name": "Brixmor Property Group Inc.",
       "ratio": 0.64,
       "shares": 3570
     },
     {
-      "code": "ADC.US",
-      "name": "Agree Realty Corporation",
-      "ratio": 0.64,
-      "shares": 1330
-    },
-    {
-      "code": "CUBE.US",
-      "name": "CubeSmart",
-      "ratio": 0.63,
-      "shares": 2642
-    },
-    {
       "code": "NNN.US",
       "name": "NNN REIT",
-      "ratio": 0.59,
+      "ratio": 0.6,
       "shares": 2211
     },
     {
@@ -341,14 +341,8 @@
     {
       "code": "Z.US",
       "name": "Zillow Group - Class C Capital S",
-      "ratio": 0.56,
+      "ratio": 0.55,
       "shares": 2018
-    },
-    {
-      "code": "BXP.US",
-      "name": "BXP",
-      "ratio": 0.56,
-      "shares": 1695
     },
     {
       "code": "ARE.US",
@@ -357,21 +351,27 @@
       "shares": 1804
     },
     {
+      "code": "BXP.US",
+      "name": "BXP",
+      "ratio": 0.54,
+      "shares": 1695
+    },
+    {
       "code": "FR.US",
       "name": "First Industrial Realty Trust, I",
-      "ratio": 0.55,
+      "ratio": 0.54,
       "shares": 1517
     },
     {
       "code": "STAG.US",
       "name": "STAG Industrial Inc.",
-      "ratio": 0.5,
+      "ratio": 0.49,
       "shares": 2158
     },
     {
       "code": "HR.US",
       "name": "Healthcare Realty Trust",
-      "ratio": 0.43,
+      "ratio": 0.44,
       "shares": 3971
     },
     {
@@ -389,19 +389,19 @@
     {
       "code": "SBRA.US",
       "name": "Sabra Health Care REIT",
-      "ratio": 0.33,
+      "ratio": 0.34,
       "shares": 2760
     },
     {
       "code": "MRP.US",
       "name": "Millrose Properties",
-      "ratio": 0.3,
+      "ratio": 0.29,
       "shares": 1637
     },
     {
       "code": "VNO.US",
       "name": "VORNADO REALTY TRUST",
-      "ratio": 0.29,
+      "ratio": 0.28,
       "shares": 1759
     },
     {
@@ -419,7 +419,7 @@
     {
       "code": "KRC.US",
       "name": "Kilroy Realty Corporation",
-      "ratio": 0.21,
+      "ratio": 0.2,
       "shares": 1125
     },
     {
