@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkchicken_city=globalThis.webpackChunkchicken_city||[]).push([[4075],{48155(a){a.exports=JSON.parse('{"label":"\u7bc0\u6176","permalink":"/blog/tags/\u7bc0\u6176","allTagsPath":"/blog/tags","count":1}')}}]);

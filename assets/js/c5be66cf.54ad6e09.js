@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkchicken_city=globalThis.webpackChunkchicken_city||[]).push([[1555],{40(e){e.exports=JSON.parse('{"permalink":"/finance/tags/newsletter","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
