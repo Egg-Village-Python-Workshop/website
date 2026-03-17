@@ -1,7 +1,7 @@
 {
   "id": "00981T",
   "name": "平衡凱基雙核收息",
-  "fetched_at": "2026-03-09",
+  "fetched_at": "2026-03-16",
   "capital": {
     "ETF名稱": "平衡凱基雙核收息",
     "交易所代碼": "00981T",
@@ -14,22 +14,22 @@
     "上市日期": "2025/09/24",
     "淨值幣別": "台幣",
     "ETF規模": "2,040.41(百萬台幣)(2026/02/28)",
-    "ETF市價": "11.2300（03/06）",
-    "成交量(股)": "3,782,166（月均:5,237,948）",
-    "ETF淨值": "11.2200（03/05）",
+    "ETF市價": "11.1000（03/16）",
+    "成交量(股)": "5,364,026（月均:5,448,457）",
+    "ETF淨值": "11.1000（03/13）",
     "投資風格": "",
-    "折溢價(%)": "0.09(月均:0.06)",
+    "折溢價(%)": "0.09(月均:0.10)",
     "投資標的": "平衡型",
     "配息頻率": "月配",
     "投資區域": "全球",
-    "殖利率(%)": "5.95（03/06）",
+    "殖利率(%)": "6.02（03/16）",
     "經理費(%)": "0.6",
-    "年化標準差(%)": "N/A（03/06）",
+    "年化標準差(%)": "N/A（03/16）",
     "總管理費用(%)": "",
     "融資交易": "Y",
     "選擇權交易": "",
     "放空交易": "Y",
-    "成分股數": 75,
+    "成分股數": 77,
     "槓桿多空註記": "",
     "經銷商": "",
     "保管機構": "第一商業銀行",
@@ -38,262 +38,257 @@
     "基準指數": "加權指數",
     "官方網站連結": "https://www.kgifund.com.tw/Fund/Detail?fundID=J022",
     "投資策略": "經理公司係採用指數化策略，將本基金扣除各項必要費用後儘可能追蹤標的指數「臺灣指數公司ICE雙核債股平衡指數」之績效表現為操作目標。為達成前述操作目標，本基金自上市日起追蹤標的指數，投資於標的指數成分證券之總金額應達本基金淨資產價值之90%（含）以上，另為貼近本基金之追蹤目標及資金調度需要，本基金得進行證券相關商品交易及投資其他有價證券以使基金投資組合整體曝險盡可能貼近基金淨資產規模之100%。",
-    "文件下載": "基金概覽公開說明書簡式公開說明書年報"
+    "文件下載": "基金概覽公開說明書年報簡式公開說明書"
   },
   "sectors": [
     {
       "name": "資訊技術",
-      "amount_wan": 51387.3,
-      "ratio": 32.42
+      "amount_wan": 77653.0,
+      "ratio": 38.05
     },
     {
       "name": "金融",
-      "amount_wan": 39309.2,
-      "ratio": 24.8
+      "amount_wan": 46714.3,
+      "ratio": 22.89
     },
     {
       "name": "通訊服務",
-      "amount_wan": 22365.0,
-      "ratio": 14.11
+      "amount_wan": 28897.9,
+      "ratio": 14.16
     },
     {
       "name": "能源",
-      "amount_wan": 16516.2,
-      "ratio": 10.42
+      "amount_wan": 22428.6,
+      "ratio": 10.99
     },
     {
       "name": "原材料",
-      "amount_wan": 10572.3,
-      "ratio": 6.67
+      "amount_wan": 10591.8,
+      "ratio": 5.19
     },
     {
       "name": "核心消費",
-      "amount_wan": 5690.3,
-      "ratio": 3.59
-    },
-    {
-      "name": "流動資產",
-      "amount_wan": 5088.0,
-      "ratio": 3.21
+      "amount_wan": 5795.9,
+      "ratio": 2.84
     },
     {
       "name": "公用事業",
-      "amount_wan": 4897.8,
-      "ratio": 3.09
+      "amount_wan": 4938.8,
+      "ratio": 2.42
+    },
+    {
+      "name": "流動資產",
+      "amount_wan": 4285.7,
+      "ratio": 2.1
     },
     {
       "name": "非核心消費",
-      "amount_wan": 2060.6,
-      "ratio": 1.3
+      "amount_wan": 2081.6,
+      "ratio": 1.02
     },
     {
       "name": "其他產業",
-      "amount_wan": 602.3,
-      "ratio": 0.38
-    },
-    {
-      "name": "其他",
-      "amount_wan": 15.9,
-      "ratio": 0.01
+      "amount_wan": 693.9,
+      "ratio": 0.34
     }
   ],
   "holdings": [
     {
       "code": "2330.TW",
       "name": "台積電",
-      "ratio": 19.51,
-      "shares": 214000
+      "ratio": 19.39,
+      "shares": 219000
     },
     {
       "code": "",
       "name": "MET 10 3/4 08/01/39",
-      "ratio": 5.04,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "DOW 9.4 05/15/39",
-      "ratio": 4.66,
+      "ratio": 4.93,
       "shares": null
     },
     {
       "code": "",
       "name": "CHTR 6.7 12/01/55",
-      "ratio": 4.45,
+      "ratio": 4.86,
       "shares": null
     },
     {
       "code": "",
-      "name": "ISPIM 7.778 06/20/54",
-      "ratio": 4.03,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "COXENT 8 3/8 03/01/39",
-      "ratio": 3.92,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "OVV 7.1 07/15/53",
-      "ratio": 3.89,
+      "name": "DOW 9.4 05/15/39",
+      "ratio": 4.55,
       "shares": null
     },
     {
       "code": "",
       "name": "SOCGEN 7.132 01/19/55",
-      "ratio": 3.54,
+      "ratio": 4.0,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "ISPIM 7.778 06/20/54",
+      "ratio": 3.85,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "COXENT 8 3/8 03/01/39",
+      "ratio": 3.82,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "OVV 7.1 07/15/53",
+      "ratio": 3.75,
       "shares": null
     },
     {
       "code": "",
       "name": "DELL 8.35 07/15/46",
-      "ratio": 3.45,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "NATMUT 9 3/8 08/15/39",
-      "ratio": 3.23,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "ORCL 6.9 11/09/52",
-      "ratio": 2.95,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "FITB 8 1/4 03/01/38",
-      "ratio": 2.63,
+      "ratio": 3.35,
       "shares": null
     },
     {
       "code": "",
       "name": "DELL 8.1 07/15/36",
-      "ratio": 2.58,
+      "ratio": 3.24,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "NATMUT 9 3/8 08/15/39",
+      "ratio": 3.13,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "ORCL 6.9 11/09/52",
+      "ratio": 2.92,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "FITB 8 1/4 03/01/38",
+      "ratio": 2.56,
       "shares": null
     },
     {
       "code": "",
       "name": "ORCL 6.7 02/04/56",
-      "ratio": 2.33,
+      "ratio": 2.31,
       "shares": null
     },
     {
       "code": "",
       "name": "HUM 8.15 06/15/38",
-      "ratio": 2.21,
+      "ratio": 2.14,
       "shares": null
     },
     {
       "code": "",
       "name": "ENELIM 7 3/4 10/14/52",
-      "ratio": 1.84,
+      "ratio": 1.77,
       "shares": null
     },
     {
       "code": "",
       "name": "NGPLCO 7.768 12/15/37",
-      "ratio": 1.62,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "CHTR 6.834 10/23/55",
-      "ratio": 1.48,
+      "ratio": 1.59,
       "shares": null
     },
     {
       "code": "",
       "name": "CONSTL 6 7/8 06/15/42",
-      "ratio": 1.48,
+      "ratio": 1.44,
       "shares": null
     },
     {
       "code": "",
       "name": "PARA 6 7/8 04/30/36",
-      "ratio": 1.46,
+      "ratio": 1.43,
       "shares": null
     },
     {
       "code": "",
-      "name": "ET 7 1/2 07/01/38",
-      "ratio": 1.25,
-      "shares": null
-    },
-    {
-      "code": "2308.TW",
-      "name": "台達電",
-      "ratio": 1.21,
-      "shares": 19000
-    },
-    {
-      "code": "2454.TW",
-      "name": "聯發科",
-      "ratio": 1.19,
-      "shares": 14000
-    },
-    {
-      "code": "2317.TW",
-      "name": "鴻海",
-      "ratio": 1.17,
-      "shares": 109000
-    },
-    {
-      "code": "",
-      "name": "TRPCN 7 5/8 01/15/39",
-      "ratio": 1.1,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "OXY 7.95 06/15/39",
-      "ratio": 1.09,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "CHTR 7.3 07/01/38",
-      "ratio": 0.98,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "F 7.4 11/01/46",
-      "ratio": 0.97,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "KMI 7 1/2 11/15/40",
-      "ratio": 0.91,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "RCICN 7 1/2 08/15/38",
-      "ratio": 0.88,
+      "name": "CHTR 6.834 10/23/55",
+      "ratio": 1.42,
       "shares": null
     },
     {
       "code": "",
       "name": "ORCL 6.85 02/04/66",
+      "ratio": 1.42,
+      "shares": null
+    },
+    {
+      "code": "2308.TW",
+      "name": "台達電",
+      "ratio": 1.25,
+      "shares": 19000
+    },
+    {
+      "code": "",
+      "name": "ET 7 1/2 07/01/38",
+      "ratio": 1.22,
+      "shares": null
+    },
+    {
+      "code": "2454.TW",
+      "name": "聯發科",
+      "ratio": 1.14,
+      "shares": 14000
+    },
+    {
+      "code": "2317.TW",
+      "name": "鴻海",
+      "ratio": 1.13,
+      "shares": 111000
+    },
+    {
+      "code": "",
+      "name": "TRPCN 7 5/8 01/15/39",
+      "ratio": 1.07,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "OXY 7.95 06/15/39",
+      "ratio": 1.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "CHTR 7.3 07/01/38",
+      "ratio": 0.96,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "F 7.4 11/01/46",
+      "ratio": 0.93,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "KMI 7 1/2 11/15/40",
+      "ratio": 0.88,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "RCICN 7 1/2 08/15/38",
       "ratio": 0.86,
       "shares": null
     },
     {
       "code": "",
       "name": "LNT 7.6 10/01/38",
-      "ratio": 0.73,
+      "ratio": 0.71,
       "shares": null
     },
     {
       "code": "",
       "name": "KMI 7 5/8 04/01/37",
-      "ratio": 0.73,
+      "ratio": 0.71,
       "shares": null
     },
     {
@@ -309,28 +304,22 @@
       "shares": null
     },
     {
+      "code": "2383.TW",
+      "name": "台光電",
+      "ratio": 0.39,
+      "shares": 3000
+    },
+    {
       "code": "2891.TW",
       "name": "中信金",
-      "ratio": 0.39,
+      "ratio": 0.38,
       "shares": 157000
     },
     {
       "code": "2881.TW",
       "name": "富邦金",
-      "ratio": 0.38,
+      "ratio": 0.37,
       "shares": 89600
-    },
-    {
-      "code": "2345.TW",
-      "name": "智邦",
-      "ratio": 0.35,
-      "shares": 5000
-    },
-    {
-      "code": "2382.TW",
-      "name": "廣達",
-      "ratio": 0.35,
-      "shares": 25000
     },
     {
       "code": "",
@@ -339,40 +328,40 @@
       "shares": null
     },
     {
-      "code": "2383.TW",
-      "name": "台光電",
+      "code": "2382.TW",
+      "name": "廣達",
       "ratio": 0.34,
-      "shares": 3000
+      "shares": 25000
+    },
+    {
+      "code": "2345.TW",
+      "name": "智邦",
+      "ratio": 0.34,
+      "shares": 5000
     },
     {
       "code": "",
       "name": "EDF 6.9 05/23/53",
-      "ratio": 0.34,
+      "ratio": 0.33,
       "shares": null
     },
     {
       "code": "2303.TW",
       "name": "聯電",
-      "ratio": 0.31,
-      "shares": 104000
+      "ratio": 0.3,
+      "shares": 107000
     },
     {
       "code": "2412.TW",
       "name": "中華電",
-      "ratio": 0.3,
+      "ratio": 0.29,
       "shares": 45000
     },
     {
       "code": "2882.TW",
       "name": "國泰金",
-      "ratio": 0.3,
+      "ratio": 0.29,
       "shares": 86000
-    },
-    {
-      "code": "2885.TW",
-      "name": "元大金",
-      "ratio": 0.25,
-      "shares": 112000
     },
     {
       "code": "2887.TW",
@@ -381,22 +370,16 @@
       "shares": 210000
     },
     {
+      "code": "2885.TW",
+      "name": "元大金",
+      "ratio": 0.23,
+      "shares": 112000
+    },
+    {
       "code": "2884.TW",
       "name": "玉山金",
-      "ratio": 0.23,
+      "ratio": 0.22,
       "shares": 141000
-    },
-    {
-      "code": "2886.TW",
-      "name": "兆豐金",
-      "ratio": 0.2,
-      "shares": 104000
-    },
-    {
-      "code": "6669.TW",
-      "name": "緯穎",
-      "ratio": 0.2,
-      "shares": 1000
     },
     {
       "code": "2603.TW",
@@ -405,28 +388,40 @@
       "shares": 19000
     },
     {
-      "code": "2880.TW",
-      "name": "華南金",
-      "ratio": 0.16,
-      "shares": 93000
+      "code": "2886.TW",
+      "name": "兆豐金",
+      "ratio": 0.19,
+      "shares": 104000
     },
     {
-      "code": "2892.TW",
-      "name": "第一金",
-      "ratio": 0.15,
-      "shares": 103000
+      "code": "6669.TW",
+      "name": "緯穎",
+      "ratio": 0.19,
+      "shares": 1000
     },
     {
       "code": "2357.TW",
       "name": "華碩",
-      "ratio": 0.15,
+      "ratio": 0.17,
       "shares": 6000
+    },
+    {
+      "code": "2880.TW",
+      "name": "華南金",
+      "ratio": 0.15,
+      "shares": 93000
     },
     {
       "code": "1216.TW",
       "name": "統一",
-      "ratio": 0.15,
+      "ratio": 0.14,
       "shares": 42000
+    },
+    {
+      "code": "2892.TW",
+      "name": "第一金",
+      "ratio": 0.14,
+      "shares": 103000
     },
     {
       "code": "3045.TW",
@@ -448,24 +443,6 @@
     },
     {
       "code": "",
-      "name": "BATSLN 7.081 08/02/53",
-      "ratio": 0.09,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "BA 7.008 05/01/64",
-      "ratio": 0.09,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "ENBCN 7 3/8 10/15/45",
-      "ratio": 0.09,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "TRPCN 7 1/4 08/15/38",
       "ratio": 0.09,
       "shares": null
@@ -478,26 +455,38 @@
     },
     {
       "code": "",
-      "name": "MTNA 7 10/15/39",
-      "ratio": 0.09,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "IP 7.3 11/15/39",
-      "ratio": 0.09,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "HAL 7.45 09/15/39",
       "ratio": 0.09,
       "shares": null
     },
     {
       "code": "",
-      "name": "KHC 7 1/8 08/01/39",
+      "name": "ENBCN 7 3/8 10/15/45",
       "ratio": 0.09,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "PCG 6.7 04/01/53",
+      "ratio": 0.08,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "PCG 6 3/4 01/15/53",
+      "ratio": 0.08,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "MTNA 7 10/15/39",
+      "ratio": 0.08,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "IP 7.3 11/15/39",
+      "ratio": 0.08,
       "shares": null
     },
     {
@@ -514,13 +503,7 @@
     },
     {
       "code": "",
-      "name": "MTNA 6 3/4 03/01/41",
-      "ratio": 0.08,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "KHC 6 7/8 01/26/39",
+      "name": "BA 7.008 05/01/64",
       "ratio": 0.08,
       "shares": null
     },
@@ -532,7 +515,31 @@
     },
     {
       "code": "",
+      "name": "BATSLN 7.081 08/02/53",
+      "ratio": 0.08,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "CPGX 6.714 08/15/63",
+      "ratio": 0.08,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "MTNA 6 3/4 03/01/41",
+      "ratio": 0.08,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "KHC 7 1/8 08/01/39",
+      "ratio": 0.08,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "KHC 6 7/8 01/26/39",
       "ratio": 0.08,
       "shares": null
     },
@@ -543,21 +550,9 @@
       "shares": null
     },
     {
-      "code": "",
-      "name": "PCG 6.7 04/01/53",
-      "ratio": 0.08,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "PCG 6 3/4 01/15/53",
-      "ratio": 0.08,
-      "shares": null
-    },
-    {
       "code": "6919.TW",
       "name": "康霈",
-      "ratio": 0.07,
+      "ratio": 0.06,
       "shares": 10000
     }
   ]

@@ -1,7 +1,7 @@
 {
   "id": "00926",
   "name": "凱基全球菁英55",
-  "fetched_at": "2026-03-09",
+  "fetched_at": "2026-03-16",
   "capital": {
     "ETF名稱": "凱基全球菁英55",
     "交易所代碼": "00926",
@@ -14,17 +14,17 @@
     "上市日期": "2023/06/02",
     "淨值幣別": "台幣",
     "ETF規模": "2,157.33(百萬台幣)(2026/02/28)",
-    "ETF市價": "22.7400（03/09）",
-    "成交量(股)": "993,047（月均:1,121,599）",
-    "ETF淨值": "23.0100（03/06）",
+    "ETF市價": "23.2900（03/16）",
+    "成交量(股)": "470,673（月均:1,119,359）",
+    "ETF淨值": "23.1100（03/13）",
     "投資風格": "",
-    "折溢價(%)": "1.61(月均:-0.01)",
+    "折溢價(%)": "0.82(月均:-0.21)",
     "投資標的": "股票型",
     "配息頻率": "年配",
     "投資區域": "全球",
-    "殖利率(%)": "6.46（03/09）",
+    "殖利率(%)": "6.31（03/16）",
     "經理費(%)": "0.65",
-    "年化標準差(%)": "22.09（03/09）",
+    "年化標準差(%)": "11.56（03/16）",
     "總管理費用(%)": "1.14 (含 0.49 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -38,257 +38,270 @@
     "基準指數": "道瓊全球指數",
     "官方網站連結": "https://www.kgifund.com.tw/Fund/Detail?fundID=J016",
     "投資策略": "本基金主要投資於國內外上市櫃股票及及符合主管機關許可之證券相關商品。本基金係採用指數化策略，將本基金扣除各項必要費用後儘可能追蹤標的指數「彭博全球菁英 55 指數（Bloomberg Global Industry Elite55 Index）」之績效表現為操作目標。為達成前述操作目標，本基金自上市日起，投資於標的指數成分證券總金額不低於本基金淨資產價值之 90%(含)，且檔數覆蓋率原則須達 100%，為符合本基金之貼近指數操作與資金調度需要，經理公司得運用本基金從事前述之有價證券投資及其他經金管會許可之證券相關商品交易，使投資組合之整體曝險能貼近基金淨資產規模之 100%。前述指數化策略，原則上以完全複製法為主，但如遇特殊情形(包括但不限於成分股票流動性不足、成分股公司事件因素、暫停交易、基金因應申贖、標的指數成分股即將異動、基於控管政經風險而無法持有、指數調整因不同幣別換匯時間差異或其他市場因素使基金難以使用完全複製法追蹤標的指數績效等)，經理公司得視實際需要以最佳化方法進行資產管理，以追求貼近標的指數之績效表現。",
-    "文件下載": "基金概覽公開說明書簡式公開說明書年報"
+    "文件下載": "基金概覽公開說明書年報簡式公開說明書"
   },
   "sectors": [
     {
       "name": "資訊技術",
-      "amount_wan": 114517.1,
-      "ratio": 50.96
+      "amount_wan": 109263.6,
+      "ratio": 50.65
     },
     {
       "name": "通訊服務",
-      "amount_wan": 38314.7,
-      "ratio": 17.05
+      "amount_wan": 33933.2,
+      "ratio": 15.73
     },
     {
       "name": "其他產業",
-      "amount_wan": 14539.4,
-      "ratio": 6.47
+      "amount_wan": 15575.2,
+      "ratio": 7.22
     },
     {
       "name": "醫療保健",
-      "amount_wan": 13932.6,
-      "ratio": 6.2
+      "amount_wan": 13353.2,
+      "ratio": 6.19
     },
     {
       "name": "非核心消費",
-      "amount_wan": 13685.4,
-      "ratio": 6.09
-    },
-    {
-      "name": "金融",
-      "amount_wan": 6561.8,
-      "ratio": 2.92
+      "amount_wan": 12360.9,
+      "ratio": 5.73
     },
     {
       "name": "原材料",
-      "amount_wan": 6112.4,
-      "ratio": 2.72
+      "amount_wan": 6989.4,
+      "ratio": 3.24
     },
     {
       "name": "能源",
-      "amount_wan": 5842.7,
-      "ratio": 2.6
+      "amount_wan": 6212.8,
+      "ratio": 2.88
+    },
+    {
+      "name": "金融",
+      "amount_wan": 6126.5,
+      "ratio": 2.84
     },
     {
       "name": "流動資產",
-      "amount_wan": 5618.0,
-      "ratio": 2.5
+      "amount_wan": 6061.8,
+      "ratio": 2.81
     },
     {
       "name": "核心消費",
-      "amount_wan": 5573.0,
-      "ratio": 2.48
-    },
-    {
-      "name": "其他",
-      "amount_wan": 22.5,
-      "ratio": 0.01
+      "amount_wan": 5802.9,
+      "ratio": 2.69
     }
   ],
   "holdings": [
     {
-      "code": "AAPL.US",
-      "name": "Apple",
-      "ratio": 13.74,
-      "shares": 35653
+      "code": "GOOGL.US",
+      "name": "Alphabet - Class A Common Stock",
+      "ratio": 12.74,
+      "shares": 27874
     },
     {
       "code": "NVDA.US",
       "name": "NVIDIA",
-      "ratio": 13.71,
-      "shares": 51477
+      "ratio": 8.58,
+      "shares": 31477
+    },
+    {
+      "code": "AAPL.US",
+      "name": "Apple",
+      "ratio": 7.44,
+      "shares": 19653
     },
     {
       "code": "MSFT.US",
       "name": "Microsoft",
-      "ratio": 11.96,
-      "shares": 19525
-    },
-    {
-      "code": "GOOGL.US",
-      "name": "Alphabet - Class A Common Stock",
-      "ratio": 10.13,
-      "shares": 22674
-    },
-    {
-      "code": "",
-      "name": "ASML Holding NV",
-      "ratio": 6.54,
-      "shares": 3279
+      "ratio": 6.06,
+      "shares": 10125
     },
     {
       "code": "META.US",
       "name": "Meta",
-      "ratio": 4.57,
-      "shares": 4737
-    },
-    {
-      "code": "AMZN.US",
-      "name": "Amazon",
-      "ratio": 3.37,
-      "shares": 10546
-    },
-    {
-      "code": "LRCX.US",
-      "name": "Lam Research",
-      "ratio": 3.12,
-      "shares": 10444
-    },
-    {
-      "code": "LLY.US",
-      "name": "Eli Lilly",
-      "ratio": 2.76,
-      "shares": 1859
-    },
-    {
-      "code": "NFLX.US",
-      "name": "Netflix",
-      "ratio": 1.38,
-      "shares": 9295
-    },
-    {
-      "code": "",
-      "name": "ROCHE HOLDING AG-GEN",
-      "ratio": 1.06,
-      "shares": 1617
-    },
-    {
-      "code": "",
-      "name": "Novartis AG",
-      "ratio": 1.0,
-      "shares": 4210
-    },
-    {
-      "code": "MRK.US",
-      "name": "Merck",
-      "ratio": 0.93,
-      "shares": 5389
-    },
-    {
-      "code": "V.US",
-      "name": "Visa",
-      "ratio": 0.92,
-      "shares": 1941
-    },
-    {
-      "code": "MA.US",
-      "name": "Mastercard",
-      "ratio": 0.7,
-      "shares": 897
-    },
-    {
-      "code": "",
-      "name": "Wheaton Precious Metals Corp",
-      "ratio": 0.66,
-      "shares": 2999
-    },
-    {
-      "code": "NEM.US",
-      "name": "Newmont",
-      "ratio": 0.65,
-      "shares": 3752
-    },
-    {
-      "code": "COP.US",
-      "name": "ConocoPhillips",
-      "ratio": 0.65,
-      "shares": 3734
-    },
-    {
-      "code": "",
-      "name": "Canadian Natural Resources Ltd",
-      "ratio": 0.64,
-      "shares": 9330
-    },
-    {
-      "code": "",
-      "name": "Agnico Eagle Mines Ltd",
-      "ratio": 0.64,
-      "shares": 1932
+      "ratio": 5.46,
+      "shares": 5887
     },
     {
       "code": "XOM.US",
       "name": "Exxon Mobil",
-      "ratio": 0.62,
-      "shares": 2730
+      "ratio": 5.39,
+      "shares": 22830
     },
     {
-      "code": "WMB.US",
-      "name": "Williams",
-      "ratio": 0.6,
-      "shares": 5371
+      "code": "AMZN.US",
+      "name": "Amazon",
+      "ratio": 4.15,
+      "shares": 13196
     },
     {
-      "code": "EOG.US",
-      "name": "EOG Resources, Inc.",
-      "ratio": 0.6,
-      "shares": 3043
+      "code": "LLY.US",
+      "name": "Eli Lilly",
+      "ratio": 3.44,
+      "shares": 2309
     },
     {
-      "code": "HWM.US",
-      "name": "Howmet Aerospace",
-      "ratio": 0.6,
-      "shares": 1613
+      "code": "AVGO.US",
+      "name": "Broadcom",
+      "ratio": 3.09,
+      "shares": 6350
+    },
+    {
+      "code": "PG.US",
+      "name": "Procter & Gamble",
+      "ratio": 2.81,
+      "shares": 12349
+    },
+    {
+      "code": "PM.US",
+      "name": "Philip Morris International Inc.",
+      "ratio": 2.23,
+      "shares": 8459
+    },
+    {
+      "code": "KO.US",
+      "name": "Coca-Cola",
+      "ratio": 2.2,
+      "shares": 18770
+    },
+    {
+      "code": "V.US",
+      "name": "Visa",
+      "ratio": 2.13,
+      "shares": 4591
+    },
+    {
+      "code": "LIN.US",
+      "name": "Linde",
+      "ratio": 1.91,
+      "shares": 2556
+    },
+    {
+      "code": "MA.US",
+      "name": "Mastercard",
+      "ratio": 1.65,
+      "shares": 2197
+    },
+    {
+      "code": "NFLX.US",
+      "name": "Netflix",
+      "ratio": 1.63,
+      "shares": 11295
     },
     {
       "code": "CAT.US",
       "name": "Caterpillar",
-      "ratio": 0.59,
-      "shares": 577
+      "ratio": 1.34,
+      "shares": 1277
+    },
+    {
+      "code": "COP.US",
+      "name": "ConocoPhillips",
+      "ratio": 1.22,
+      "shares": 6634
+    },
+    {
+      "code": "",
+      "name": "ROCHE HOLDING AG-GEN",
+      "ratio": 1.21,
+      "shares": 1967
+    },
+    {
+      "code": "MRK.US",
+      "name": "Merck",
+      "ratio": 1.17,
+      "shares": 6689
+    },
+    {
+      "code": "",
+      "name": "British American Tobacco PLC",
+      "ratio": 1.03,
+      "shares": 11303
+    },
+    {
+      "code": "",
+      "name": "ASML Holding NV",
+      "ratio": 1.02,
+      "shares": 500
+    },
+    {
+      "code": "NEM.US",
+      "name": "Newmont",
+      "ratio": 0.97,
+      "shares": 5852
+    },
+    {
+      "code": "MO.US",
+      "name": "Altria Group",
+      "ratio": 0.91,
+      "shares": 8895
+    },
+    {
+      "code": "",
+      "name": "Agnico Eagle Mines Ltd",
+      "ratio": 0.8,
+      "shares": 2532
+    },
+    {
+      "code": "",
+      "name": "Canadian Natural Resources Ltd",
+      "ratio": 0.77,
+      "shares": 10430
+    },
+    {
+      "code": "NEE.US",
+      "name": "NextEra Energy",
+      "ratio": 0.75,
+      "shares": 5310
+    },
+    {
+      "code": "GILD.US",
+      "name": "Gilead Sciences",
+      "ratio": 0.73,
+      "shares": 3350
+    },
+    {
+      "code": "WMB.US",
+      "name": "Williams",
+      "ratio": 0.68,
+      "shares": 6171
     },
     {
       "code": "HD.US",
       "name": "Home Depot",
-      "ratio": 0.58,
-      "shares": 1087
+      "ratio": 0.66,
+      "shares": 1287
+    },
+    {
+      "code": "APH.US",
+      "name": "Amphenol",
+      "ratio": 0.64,
+      "shares": 3145
+    },
+    {
+      "code": "",
+      "name": "Iberdrola SA",
+      "ratio": 0.6,
+      "shares": 17500
+    },
+    {
+      "code": "EOG.US",
+      "name": "EOG Resources, Inc.",
+      "ratio": 0.57,
+      "shares": 2843
     },
     {
       "code": "",
       "name": "Barrick Mining Corp",
-      "ratio": 0.57,
+      "ratio": 0.54,
       "shares": 8421
     },
     {
       "code": "UNP.US",
       "name": "Union Pacific",
-      "ratio": 0.56,
+      "ratio": 0.54,
       "shares": 1468
-    },
-    {
-      "code": "PSA.US",
-      "name": "Public Storage",
-      "ratio": 0.55,
-      "shares": 1196
-    },
-    {
-      "code": "LIN.US",
-      "name": "Linde",
-      "ratio": 0.55,
-      "shares": 756
-    },
-    {
-      "code": "MO.US",
-      "name": "Altria Group",
-      "ratio": 0.54,
-      "shares": 5395
-    },
-    {
-      "code": "BKNG.US",
-      "name": "Booking Holdings",
-      "ratio": 0.54,
-      "shares": 79
     },
     {
       "code": "SO.US",
@@ -297,64 +310,22 @@
       "shares": 3674
     },
     {
-      "code": "SPG.US",
-      "name": "Simon Property Group Inc.",
-      "ratio": 0.53,
-      "shares": 1808
-    },
-    {
-      "code": "PLD.US",
-      "name": "Prologis",
-      "ratio": 0.53,
-      "shares": 2618
-    },
-    {
-      "code": "DUK.US",
-      "name": "Duke Energy",
-      "ratio": 0.53,
-      "shares": 2656
-    },
-    {
-      "code": "NEE.US",
-      "name": "NextEra Energy",
-      "ratio": 0.53,
-      "shares": 3910
-    },
-    {
-      "code": "KO.US",
-      "name": "Coca-Cola",
-      "ratio": 0.53,
-      "shares": 4570
-    },
-    {
-      "code": "PM.US",
-      "name": "Philip Morris International Inc.",
-      "ratio": 0.52,
-      "shares": 2059
-    },
-    {
-      "code": "PG.US",
-      "name": "Procter & Gamble",
-      "ratio": 0.52,
-      "shares": 2249
-    },
-    {
-      "code": "AEP.US",
-      "name": "American Electric Power",
+      "code": "",
+      "name": "Wheaton Precious Metals Corp",
       "ratio": 0.51,
-      "shares": 2606
+      "shares": 2399
+    },
+    {
+      "code": "BKNG.US",
+      "name": "Booking Holdings",
+      "ratio": 0.51,
+      "shares": 79
     },
     {
       "code": "AMT.US",
       "name": "American Tower",
-      "ratio": 0.51,
-      "shares": 1805
-    },
-    {
-      "code": "",
-      "name": "British American Tobacco PLC",
       "ratio": 0.5,
-      "shares": 5803
+      "shares": 1805
     },
     {
       "code": "MCD.US",
@@ -363,70 +334,94 @@
       "shares": 1013
     },
     {
-      "code": "MCO.US",
-      "name": "Moody's",
-      "ratio": 0.49,
-      "shares": 697
-    },
-    {
-      "code": "VICI.US",
-      "name": "VICI Properties",
-      "ratio": 0.49,
-      "shares": 10955
-    },
-    {
-      "code": "",
-      "name": "HERMES INTERNATIONAL",
-      "ratio": 0.46,
-      "shares": 138
-    },
-    {
-      "code": "APH.US",
-      "name": "Amphenol",
-      "ratio": 0.46,
-      "shares": 2345
-    },
-    {
-      "code": "APP.US",
-      "name": "Applovin",
-      "ratio": 0.46,
-      "shares": 610
-    },
-    {
-      "code": "",
-      "name": "Cie Financiere Richemont SA",
-      "ratio": 0.45,
-      "shares": 1650
-    },
-    {
-      "code": "CEG.US",
-      "name": "Constellation",
-      "ratio": 0.44,
-      "shares": 929
-    },
-    {
-      "code": "",
-      "name": "3i Group PLC",
-      "ratio": 0.44,
-      "shares": 7308
-    },
-    {
-      "code": "",
-      "name": "RELX PLC",
-      "ratio": 0.43,
-      "shares": 8217
+      "code": "SPGI.US",
+      "name": "S&P Global",
+      "ratio": 0.5,
+      "shares": 788
     },
     {
       "code": "",
       "name": "Novo Nordisk A/S",
-      "ratio": 0.42,
-      "shares": 7273
+      "ratio": 0.5,
+      "shares": 8773
     },
     {
-      "code": "COIN.US",
-      "name": "Coinbase",
-      "ratio": 0.37,
-      "shares": 1245
+      "code": "PSA.US",
+      "name": "Public Storage",
+      "ratio": 0.49,
+      "shares": 1096
+    },
+    {
+      "code": "APP.US",
+      "name": "Applovin",
+      "ratio": 0.49,
+      "shares": 710
+    },
+    {
+      "code": "NGG.US",
+      "name": "National Grid plc",
+      "ratio": 0.48,
+      "shares": 17400
+    },
+    {
+      "code": "CEG.US",
+      "name": "Constellation",
+      "ratio": 0.47,
+      "shares": 1029
+    },
+    {
+      "code": "VICI.US",
+      "name": "VICI Properties",
+      "ratio": 0.47,
+      "shares": 10955
+    },
+    {
+      "code": "PLD.US",
+      "name": "Prologis",
+      "ratio": 0.46,
+      "shares": 2318
+    },
+    {
+      "code": "",
+      "name": "Investor AB",
+      "ratio": 0.46,
+      "shares": 8100
+    },
+    {
+      "code": "ITW.US",
+      "name": "Illinois Tool Works Inc.",
+      "ratio": 0.45,
+      "shares": 1120
+    },
+    {
+      "code": "MCO.US",
+      "name": "Moody's",
+      "ratio": 0.45,
+      "shares": 697
+    },
+    {
+      "code": "",
+      "name": "HERMES INTERNATIONAL",
+      "ratio": 0.45,
+      "shares": 138
+    },
+    {
+      "code": "SPG.US",
+      "name": "Simon Property Group Inc.",
+      "ratio": 0.45,
+      "shares": 1608
+    },
+    {
+      "code": "",
+      "name": "Cie Financiere Richemont SA",
+      "ratio": 0.44,
+      "shares": 1650
+    },
+    {
+      "code": "PH.US",
+      "name": "Parker Hannifin",
+      "ratio": 0.43,
+      "shares": 320
     }
   ]
 }

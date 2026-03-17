@@ -1,7 +1,7 @@
 {
   "id": "00709",
   "name": "富邦歐洲",
-  "fetched_at": "2026-03-09",
+  "fetched_at": "2026-03-16",
   "capital": {
     "ETF名稱": "富邦歐洲",
     "交易所代碼": "00709",
@@ -14,17 +14,17 @@
     "上市日期": "2017/08/15",
     "淨值幣別": "台幣",
     "ETF規模": "651.14(百萬台幣)(2026/02/28)",
-    "ETF市價": "38.0500（03/06）",
-    "成交量(股)": "68,141（月均:148,254）",
-    "ETF淨值": "37.1800（03/05）",
+    "ETF市價": "37.4400（03/16）",
+    "成交量(股)": "47,255（月均:132,579）",
+    "ETF淨值": "37.0500（03/13）",
     "投資風格": "",
-    "折溢價(%)": "2.34(月均:0.38)",
+    "折溢價(%)": "1.21(月均:0.49)",
     "投資標的": "股票型",
     "配息頻率": "",
     "投資區域": "歐洲",
-    "殖利率(%)": "N/A（03/06）",
+    "殖利率(%)": "N/A（03/16）",
     "經理費(%)": "0.5",
-    "年化標準差(%)": "9.62（03/06）",
+    "年化標準差(%)": "11.11（03/16）",
     "總管理費用(%)": "1.03 (含 0.53 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -38,7 +38,7 @@
     "基準指數": "道瓊歐洲指數",
     "官方網站連結": "https://websys.fsit.com.tw/FubonETF/Fund/Profile.aspx?stkId=00709",
     "投資策略": "主要投資於本指數成分於歐洲已開發國家交易所之股票，並依下列規範進行投資：1.富時發展歐洲指數成分股票基金資產以投資於富時發展歐洲指數之成分股、備選成分股為主，以追求貼近標的指數之績效表現。本基金為達成前述目的，應自上市日起，將於法令限制範圍內或本基金淨資產價值之百分之七十以上，投資於標的指數成分股。 2.其他有價證券及從事證券相關商品交易為避險或增加投資效率之需要，本基金除投資富時發展歐洲指數之成分股股票之外，將投資於其他有價證券及從事證券相關商品交易，包括中華民國境內之期貨、選擇權、基金受益憑證(含指數股票型基金)、政府公債、貨幣市場工具、國外有價證券以及其他符合主管機關許可之證券相關商品，包括富時發展歐洲指數相關之證券相關商品，及未來經主管機關許可之證券相關商品。 投資於上述商品不得超過本基金淨資產價值之百分之三十。",
-    "文件下載": "基金概覽公開說明書簡式公開說明書年報"
+    "文件下載": "基金概覽公開說明書年報簡式公開說明書"
   },
   "sectors": [
     {
@@ -106,19 +106,13 @@
     {
       "code": "",
       "name": "ASML Holding NV",
-      "ratio": 3.8,
+      "ratio": 3.91,
       "shares": 601
     },
     {
       "code": "",
-      "name": "Roche Holding AG",
-      "ratio": 2.22,
-      "shares": 1072
-    },
-    {
-      "code": "",
       "name": "Novartis AG",
-      "ratio": 2.19,
+      "ratio": 2.17,
       "shares": 2926
     },
     {
@@ -129,81 +123,93 @@
     },
     {
       "code": "",
+      "name": "Roche Holding AG",
+      "ratio": 2.1,
+      "shares": 1072
+    },
+    {
+      "code": "",
       "name": "HSBC Holdings PLC",
-      "ratio": 2.07,
+      "ratio": 1.98,
       "shares": 26226
     },
     {
       "code": "",
-      "name": "Nestle SA",
-      "ratio": 1.88,
-      "shares": 3856
-    },
-    {
-      "code": "",
       "name": "SHELL PLC",
-      "ratio": 1.76,
+      "ratio": 1.9,
       "shares": 8832
     },
     {
       "code": "",
+      "name": "Nestle SA",
+      "ratio": 1.9,
+      "shares": 3856
+    },
+    {
+      "code": "",
       "name": "SAP SE",
-      "ratio": 1.5,
+      "ratio": 1.44,
       "shares": 1571
     },
     {
       "code": "",
       "name": "Siemens AG",
-      "ratio": 1.39,
+      "ratio": 1.36,
       "shares": 1122
     },
     {
       "code": "",
       "name": "Banco Santander SA",
-      "ratio": 1.2,
+      "ratio": 1.19,
       "shares": 22659
     },
     {
       "code": "",
-      "name": "Schneider Electric SE",
-      "ratio": 1.14,
-      "shares": 828
-    },
-    {
-      "code": "",
       "name": "Allianz SE",
-      "ratio": 1.13,
+      "ratio": 1.15,
       "shares": 590
     },
     {
       "code": "",
+      "name": "Schneider Electric SE",
+      "ratio": 1.13,
+      "shares": 828
+    },
+    {
+      "code": "",
       "name": "IBERDROLA SA",
-      "ratio": 1.09,
+      "ratio": 1.13,
       "shares": 10329
     },
     {
       "code": "",
-      "name": "LVMH Moet Hennessy Louis Vuitton SE",
-      "ratio": 1.08,
-      "shares": 390
-    },
-    {
-      "code": "",
       "name": "TOTALENERGIES SE",
-      "ratio": 1.05,
+      "ratio": 1.12,
       "shares": 2803
     },
     {
       "code": "",
-      "name": "Rolls-Royce Holdings PLC",
-      "ratio": 1.04,
-      "shares": 12953
+      "name": "LVMH Moet Hennessy Louis Vuitton SE",
+      "ratio": 1.02,
+      "shares": 390
     },
     {
       "code": "",
       "name": "Unilever PLC",
-      "ratio": 1.03,
+      "ratio": 1.01,
       "shares": 3276
+    },
+    {
+      "code": "",
+      "name": "Rolls-Royce Holdings PLC",
+      "ratio": 1.01,
+      "shares": 12953
+    },
+    {
+      "code": "",
+      "name": "Deutsche Telekom AG",
+      "ratio": 0.98,
+      "shares": 5305
     },
     {
       "code": "",
@@ -213,27 +219,21 @@
     },
     {
       "code": "",
-      "name": "Deutsche Telekom AG",
-      "ratio": 0.96,
-      "shares": 5305
+      "name": "British American Tobacco PLC",
+      "ratio": 0.91,
+      "shares": 3161
     },
     {
       "code": "",
       "name": "SIEMENS ENERGY AG",
-      "ratio": 0.94,
+      "ratio": 0.9,
       "shares": 1135
     },
     {
       "code": "",
       "name": "Safran SA",
-      "ratio": 0.93,
+      "ratio": 0.89,
       "shares": 531
-    },
-    {
-      "code": "",
-      "name": "Banco Bilbao Vizcaya Argentaria SA",
-      "ratio": 0.88,
-      "shares": 8659
     },
     {
       "code": "",
@@ -243,33 +243,39 @@
     },
     {
       "code": "",
-      "name": "Airbus SE",
+      "name": "Banco Bilbao Vizcaya Argentaria SA",
       "ratio": 0.86,
-      "shares": 893
-    },
-    {
-      "code": "",
-      "name": "British American Tobacco PLC",
-      "ratio": 0.86,
-      "shares": 3161
+      "shares": 8659
     },
     {
       "code": "",
       "name": "UBS Group AG",
-      "ratio": 0.86,
+      "ratio": 0.84,
       "shares": 4725
     },
     {
       "code": "",
+      "name": "Air Liquide SA",
+      "ratio": 0.83,
+      "shares": 880
+    },
+    {
+      "code": "",
+      "name": "Airbus SE",
+      "ratio": 0.83,
+      "shares": 893
+    },
+    {
+      "code": "",
       "name": "UniCredit SpA",
-      "ratio": 0.85,
+      "ratio": 0.82,
       "shares": 2337
     },
     {
       "code": "",
-      "name": "Air Liquide SA",
-      "ratio": 0.81,
-      "shares": 880
+      "name": "BP PLC",
+      "ratio": 0.8,
+      "shares": 23301
     },
     {
       "code": "",
@@ -279,39 +285,45 @@
     },
     {
       "code": "",
-      "name": "BP PLC",
-      "ratio": 0.74,
-      "shares": 23301
+      "name": "Zurich Insurance Group AG",
+      "ratio": 0.71,
+      "shares": 217
     },
     {
       "code": "",
       "name": "BNP Paribas SA",
-      "ratio": 0.72,
+      "ratio": 0.71,
       "shares": 1513
-    },
-    {
-      "code": "",
-      "name": "L'Oreal SA",
-      "ratio": 0.72,
-      "shares": 350
-    },
-    {
-      "code": "",
-      "name": "Cie Financiere Richemont SA",
-      "ratio": 0.7,
-      "shares": 807
-    },
-    {
-      "code": "",
-      "name": "Zurich Insurance Group AG",
-      "ratio": 0.7,
-      "shares": 217
     },
     {
       "code": "",
       "name": "SANOFI",
       "ratio": 0.69,
       "shares": 1639
+    },
+    {
+      "code": "",
+      "name": "L'Oreal SA",
+      "ratio": 0.68,
+      "shares": 350
+    },
+    {
+      "code": "",
+      "name": "Cie Financiere Richemont SA",
+      "ratio": 0.68,
+      "shares": 807
+    },
+    {
+      "code": "",
+      "name": "BAE Systems PLC",
+      "ratio": 0.68,
+      "shares": 4592
+    },
+    {
+      "code": "",
+      "name": "National Grid PLC",
+      "ratio": 0.66,
+      "shares": 7562
     },
     {
       "code": "",
@@ -327,33 +339,21 @@
     },
     {
       "code": "",
-      "name": "BAE Systems PLC",
-      "ratio": 0.65,
-      "shares": 4592
-    },
-    {
-      "code": "",
-      "name": "National Grid PLC",
-      "ratio": 0.64,
-      "shares": 7562
-    },
-    {
-      "code": "",
       "name": "Enel SpA",
-      "ratio": 0.61,
+      "ratio": 0.64,
       "shares": 11860
+    },
+    {
+      "code": "",
+      "name": "Muenchener Rueckversicherungs-Gesellschaft AG in Muenchen",
+      "ratio": 0.59,
+      "shares": 200
     },
     {
       "code": "",
       "name": "RHEINMETALL AG",
       "ratio": 0.59,
       "shares": 67
-    },
-    {
-      "code": "",
-      "name": "Muenchener Rueckversicherungs-Gesellschaft AG in Muenchen",
-      "ratio": 0.58,
-      "shares": 200
     },
     {
       "code": "",
@@ -364,26 +364,26 @@
     {
       "code": "",
       "name": "Lloyds Banking Group PLC",
-      "ratio": 0.55,
+      "ratio": 0.54,
       "shares": 90378
     },
     {
       "code": "",
-      "name": "Hermes International",
-      "ratio": 0.55,
-      "shares": 52
-    },
-    {
-      "code": "",
       "name": "AXA SA",
-      "ratio": 0.53,
+      "ratio": 0.54,
       "shares": 2549
     },
     {
       "code": "",
-      "name": "Barclays PLC",
+      "name": "Hermes International",
+      "ratio": 0.54,
+      "shares": 52
+    },
+    {
+      "code": "",
+      "name": "Glencore PLC",
       "ratio": 0.53,
-      "shares": 20677
+      "shares": 16050
     },
     {
       "code": "",
@@ -393,27 +393,33 @@
     },
     {
       "code": "",
+      "name": "Barclays PLC",
+      "ratio": 0.51,
+      "shares": 20677
+    },
+    {
+      "code": "",
       "name": "EssilorLuxottica SA",
-      "ratio": 0.52,
+      "ratio": 0.5,
       "shares": 440
     },
     {
       "code": "",
-      "name": "Glencore PLC",
-      "ratio": 0.51,
-      "shares": 16050
+      "name": "ANHEUSER-BUSCH INBEV NV",
+      "ratio": 0.5,
+      "shares": 1412
     },
     {
       "code": "",
       "name": "Investor AB",
-      "ratio": 0.49,
+      "ratio": 0.48,
       "shares": 2687
     },
     {
       "code": "",
-      "name": "ANHEUSER-BUSCH INBEV NV",
-      "ratio": 0.49,
-      "shares": 1412
+      "name": "PROSUS",
+      "ratio": 0.48,
+      "shares": 1872
     },
     {
       "code": "",
@@ -424,44 +430,32 @@
     {
       "code": "",
       "name": "RELX PLC",
-      "ratio": 0.45,
+      "ratio": 0.44,
       "shares": 2703
     },
     {
       "code": "",
-      "name": "NATWEST GROUP PLC",
-      "ratio": 0.44,
-      "shares": 12006
-    },
-    {
-      "code": "",
-      "name": "PROSUS",
-      "ratio": 0.43,
-      "shares": 1872
-    },
-    {
-      "code": "",
       "name": "Infineon Technologies AG",
-      "ratio": 0.43,
+      "ratio": 0.44,
       "shares": 1986
     },
     {
       "code": "",
-      "name": "NORDEA BANK ABP",
-      "ratio": 0.41,
-      "shares": 4823
+      "name": "NATWEST GROUP PLC",
+      "ratio": 0.43,
+      "shares": 12006
     },
     {
       "code": "",
       "name": "Engie SA",
-      "ratio": 0.41,
+      "ratio": 0.43,
       "shares": 2814
     },
     {
       "code": "",
-      "name": "Deutsche Bank AG",
-      "ratio": 0.4,
-      "shares": 2707
+      "name": "NORDEA BANK ABP",
+      "ratio": 0.42,
+      "shares": 4823
     },
     {
       "code": "",
@@ -471,27 +465,39 @@
     },
     {
       "code": "",
-      "name": "Societe Generale SA",
-      "ratio": 0.4,
-      "shares": 1078
-    },
-    {
-      "code": "",
       "name": "Volvo AB",
-      "ratio": 0.39,
+      "ratio": 0.38,
       "shares": 2320
     },
     {
       "code": "",
+      "name": "Danone SA",
+      "ratio": 0.38,
+      "shares": 968
+    },
+    {
+      "code": "",
+      "name": "Societe Generale SA",
+      "ratio": 0.38,
+      "shares": 1078
+    },
+    {
+      "code": "",
+      "name": "Deutsche Bank AG",
+      "ratio": 0.38,
+      "shares": 2707
+    },
+    {
+      "code": "",
       "name": "Deutsche Boerse AG",
-      "ratio": 0.37,
+      "ratio": 0.38,
       "shares": 281
     },
     {
       "code": "",
-      "name": "Danone SA",
+      "name": "Eni SpA",
       "ratio": 0.37,
-      "shares": 968
+      "shares": 2977
     },
     {
       "code": "",
@@ -501,51 +507,39 @@
     },
     {
       "code": "",
-      "name": "DSV A/S",
+      "name": "E.ON SE",
+      "ratio": 0.36,
+      "shares": 3249
+    },
+    {
+      "code": "",
+      "name": "BASF SE",
       "ratio": 0.35,
-      "shares": 283
+      "shares": 1326
     },
     {
       "code": "",
       "name": "RECKITT BENCKISER GROUP PLC",
-      "ratio": 0.34,
+      "ratio": 0.33,
       "shares": 972
     },
     {
       "code": "",
       "name": "DEUTSCHE GROUP AG",
-      "ratio": 0.34,
+      "ratio": 0.33,
       "shares": 1338
     },
     {
       "code": "",
-      "name": "Eni SpA",
-      "ratio": 0.34,
-      "shares": 2977
+      "name": "DSV A/S",
+      "ratio": 0.33,
+      "shares": 283
     },
     {
       "code": "",
-      "name": "E.ON SE",
+      "name": "Swiss Re AG",
       "ratio": 0.33,
-      "shares": 3249
-    },
-    {
-      "code": "",
-      "name": "ATLAS COPCO AB-A SHS",
-      "ratio": 0.33,
-      "shares": 3704
-    },
-    {
-      "code": "",
-      "name": "ANGLO AMERICAN PLC",
-      "ratio": 0.33,
-      "shares": 1626
-    },
-    {
-      "code": "",
-      "name": "BASF SE",
-      "ratio": 0.33,
-      "shares": 1326
+      "shares": 415
     },
     {
       "code": "",
@@ -555,33 +549,63 @@
     },
     {
       "code": "",
+      "name": "ANGLO AMERICAN PLC",
+      "ratio": 0.32,
+      "shares": 1626
+    },
+    {
+      "code": "",
       "name": "MERCEDES-BENZ GROUP AG",
       "ratio": 0.32,
       "shares": 1067
     },
     {
       "code": "",
-      "name": "Swiss Re AG",
+      "name": "ATLAS COPCO AB-A SHS",
       "ratio": 0.32,
-      "shares": 415
-    },
-    {
-      "code": "",
-      "name": "Lonza Group AG",
-      "ratio": 0.31,
-      "shares": 100
-    },
-    {
-      "code": "",
-      "name": "Diageo PLC",
-      "ratio": 0.3,
-      "shares": 3139
+      "shares": 3704
     },
     {
       "code": "",
       "name": "Koninklijke Ahold Delhaize NV",
-      "ratio": 0.3,
+      "ratio": 0.31,
       "shares": 1333
+    },
+    {
+      "code": "",
+      "name": "SSE PLC",
+      "ratio": 0.3,
+      "shares": 1738
+    },
+    {
+      "code": "",
+      "name": "RWE AG",
+      "ratio": 0.3,
+      "shares": 956
+    },
+    {
+      "code": "",
+      "name": "Bayer AG",
+      "ratio": 0.3,
+      "shares": 1406
+    },
+    {
+      "code": "",
+      "name": "Nokia",
+      "ratio": 0.3,
+      "shares": 7438
+    },
+    {
+      "code": "",
+      "name": "Diageo PLC",
+      "ratio": 0.29,
+      "shares": 3139
+    },
+    {
+      "code": "",
+      "name": "Lonza Group AG",
+      "ratio": 0.29,
+      "shares": 100
     },
     {
       "code": "",
@@ -597,21 +621,15 @@
     },
     {
       "code": "",
-      "name": "SSE PLC",
-      "ratio": 0.29,
-      "shares": 1738
-    },
-    {
-      "code": "",
       "name": "Orange SA",
       "ratio": 0.29,
       "shares": 2977
     },
     {
       "code": "",
-      "name": "Bayer AG",
+      "name": "Tesco PLC",
       "ratio": 0.28,
-      "shares": 1406
+      "shares": 9019
     },
     {
       "code": "",
@@ -621,105 +639,69 @@
     },
     {
       "code": "",
-      "name": "Ferrari NV",
-      "ratio": 0.28,
-      "shares": 168
-    },
-    {
-      "code": "",
-      "name": "RWE AG",
-      "ratio": 0.28,
-      "shares": 956
-    },
-    {
-      "code": "",
-      "name": "ALCON INC",
-      "ratio": 0.28,
-      "shares": 725
-    },
-    {
-      "code": "",
       "name": "CaixaBank SA",
-      "ratio": 0.28,
+      "ratio": 0.27,
       "shares": 5069
     },
     {
       "code": "",
-      "name": "Nokia",
+      "name": "ALCON INC",
       "ratio": 0.27,
-      "shares": 7438
+      "shares": 725
+    },
+    {
+      "code": "",
+      "name": "ASM INTERNATIONAL NV",
+      "ratio": 0.27,
+      "shares": 71
+    },
+    {
+      "code": "",
+      "name": "Ferrari NV",
+      "ratio": 0.27,
+      "shares": 168
+    },
+    {
+      "code": "",
+      "name": "Assicurazioni Generali SpA",
+      "ratio": 0.27,
+      "shares": 1417
     },
     {
       "code": "",
       "name": "Sandvik AB",
-      "ratio": 0.27,
+      "ratio": 0.26,
       "shares": 1453
     },
     {
       "code": "",
       "name": "HOLCIM LTD",
-      "ratio": 0.27,
+      "ratio": 0.26,
       "shares": 688
     },
     {
       "code": "",
-      "name": "Tesco PLC",
-      "ratio": 0.27,
-      "shares": 9019
-    },
-    {
-      "code": "",
-      "name": "Standard Chartered PLC",
-      "ratio": 0.26,
-      "shares": 2546
-    },
-    {
-      "code": "",
-      "name": "ASM INTERNATIONAL NV",
-      "ratio": 0.26,
-      "shares": 71
-    },
-    {
-      "code": "",
       "name": "Cie de Saint-Gobain",
-      "ratio": 0.26,
+      "ratio": 0.25,
       "shares": 638
     },
     {
       "code": "",
-      "name": "Assicurazioni Generali SpA",
-      "ratio": 0.26,
-      "shares": 1417
-    },
-    {
-      "code": "",
-      "name": "Assa Abloy AB",
+      "name": "Standard Chartered PLC",
       "ratio": 0.25,
-      "shares": 1372
+      "shares": 2546
     },
     {
       "code": "",
       "name": "Prudential PLC",
-      "ratio": 0.24,
+      "ratio": 0.25,
       "shares": 3632
     },
     {
       "code": "",
-      "name": "GALDERMA GROUP AG",
+      "name": "Assa Abloy AB",
       "ratio": 0.24,
-      "shares": 255
-    },
-    {
-      "code": "",
-      "name": "SANDOZ GROUP AG",
-      "ratio": 0.23,
-      "shares": 592
-    },
-    {
-      "code": "",
-      "name": "UCB SA",
-      "ratio": 0.23,
-      "shares": 164
+      "shares": 1372
     },
     {
       "code": "",
@@ -729,27 +711,33 @@
     },
     {
       "code": "",
-      "name": "CHOCOLADEFABRIKEN LINDT-PC",
-      "ratio": 0.22,
-      "shares": 3
+      "name": "UCB SA",
+      "ratio": 0.23,
+      "shares": 164
     },
     {
       "code": "",
-      "name": "PRYSMIAN SPA",
+      "name": "SANDOZ GROUP AG",
       "ratio": 0.22,
-      "shares": 399
+      "shares": 592
     },
     {
       "code": "",
-      "name": "ERSTE GROUP BANK AG",
+      "name": "GALDERMA GROUP AG",
       "ratio": 0.22,
-      "shares": 416
+      "shares": 255
     },
     {
       "code": "",
       "name": "Imperial Brands PLC",
       "ratio": 0.22,
       "shares": 1075
+    },
+    {
+      "code": "",
+      "name": "PRYSMIAN SPA",
+      "ratio": 0.22,
+      "shares": 399
     },
     {
       "code": "",
@@ -765,21 +753,39 @@
     },
     {
       "code": "",
+      "name": "ERSTE GROUP BANK AG",
+      "ratio": 0.21,
+      "shares": 416
+    },
+    {
+      "code": "",
       "name": "SKANDINAVISKA ENSKILDA BANKEN",
       "ratio": 0.21,
       "shares": 2223
     },
     {
       "code": "",
-      "name": "FERROVIAL SE",
+      "name": "Telefonaktiebolaget LM Ericsson",
       "ratio": 0.21,
-      "shares": 663
+      "shares": 3736
     },
     {
       "code": "",
-      "name": "SIKA AG-BR",
+      "name": "CHOCOLADEFABRIKEN LINDT-PC",
+      "ratio": 0.21,
+      "shares": 3
+    },
+    {
+      "code": "",
+      "name": "Repsol SA",
       "ratio": 0.2,
-      "shares": 235
+      "shares": 1597
+    },
+    {
+      "code": "",
+      "name": "FERROVIAL SE",
+      "ratio": 0.2,
+      "shares": 663
     },
     {
       "code": "",
@@ -789,39 +795,21 @@
     },
     {
       "code": "",
+      "name": "Leonardo",
+      "ratio": 0.2,
+      "shares": 560
+    },
+    {
+      "code": "",
       "name": "Swedbank AB",
       "ratio": 0.2,
       "shares": 1161
     },
     {
       "code": "",
-      "name": "Telefonaktiebolaget LM Ericsson",
-      "ratio": 0.2,
-      "shares": 3736
-    },
-    {
-      "code": "",
-      "name": "GIVAUDAN-REG",
+      "name": "SIKA AG-BR",
       "ratio": 0.19,
-      "shares": 11
-    },
-    {
-      "code": "",
-      "name": "AMRIZE LTD",
-      "ratio": 0.19,
-      "shares": 683
-    },
-    {
-      "code": "",
-      "name": "KBC BANKVERZEKERINGSHOLDING",
-      "ratio": 0.19,
-      "shares": 310
-    },
-    {
-      "code": "",
-      "name": "Amadeus IT Group SA",
-      "ratio": 0.19,
-      "shares": 617
+      "shares": 235
     },
     {
       "code": "",
@@ -831,45 +819,57 @@
     },
     {
       "code": "",
+      "name": "GIVAUDAN-REG",
+      "ratio": 0.19,
+      "shares": 11
+    },
+    {
+      "code": "",
+      "name": "KBC BANKVERZEKERINGSHOLDING",
+      "ratio": 0.18,
+      "shares": 310
+    },
+    {
+      "code": "",
       "name": "ADYEN NA Equity",
       "ratio": 0.18,
       "shares": 36
     },
     {
       "code": "",
-      "name": "Repsol SA",
+      "name": "AMRIZE LTD",
       "ratio": 0.18,
-      "shares": 1597
+      "shares": 683
     },
     {
       "code": "",
-      "name": "Leonardo",
+      "name": "Amadeus IT Group SA",
       "ratio": 0.18,
-      "shares": 560
+      "shares": 617
+    },
+    {
+      "code": "",
+      "name": "Bayerische Motoren Werke AG",
+      "ratio": 0.18,
+      "shares": 391
+    },
+    {
+      "code": "",
+      "name": "VESTAS WIND SYSTEM",
+      "ratio": 0.18,
+      "shares": 1490
     },
     {
       "code": "",
       "name": "adidas AG",
-      "ratio": 0.18,
+      "ratio": 0.17,
       "shares": 228
     },
     {
       "code": "",
       "name": "Commerzbank AG",
-      "ratio": 0.18,
+      "ratio": 0.17,
       "shares": 1057
-    },
-    {
-      "code": "",
-      "name": "VESTAS WIND SYSTEM",
-      "ratio": 0.17,
-      "shares": 1490
-    },
-    {
-      "code": "",
-      "name": "Bayerische Motoren Werke AG",
-      "ratio": 0.17,
-      "shares": 391
     },
     {
       "code": "",
@@ -879,75 +879,27 @@
     },
     {
       "code": "",
-      "name": "Heineken NV",
-      "ratio": 0.17,
-      "shares": 421
-    },
-    {
-      "code": "",
-      "name": "HEIDELBERG MATERIALS AG",
-      "ratio": 0.17,
-      "shares": 172
-    },
-    {
-      "code": "",
-      "name": "Cie Generale des Etablissements Michelin SCA",
-      "ratio": 0.16,
-      "shares": 964
-    },
-    {
-      "code": "",
-      "name": "SAMPO OYJ",
-      "ratio": 0.16,
-      "shares": 3247
-    },
-    {
-      "code": "",
-      "name": "SAAB AB",
-      "ratio": 0.16,
-      "shares": 485
-    },
-    {
-      "code": "",
-      "name": "Atlas Copco B",
-      "ratio": 0.16,
-      "shares": 2062
-    },
-    {
-      "code": "",
       "name": "Thales SA",
-      "ratio": 0.16,
+      "ratio": 0.17,
       "shares": 122
     },
     {
       "code": "",
-      "name": "ArcelorMittal",
-      "ratio": 0.16,
-      "shares": 608
+      "name": "SAAB AB",
+      "ratio": 0.17,
+      "shares": 485
     },
     {
       "code": "",
-      "name": "Geberit AG",
-      "ratio": 0.16,
-      "shares": 46
+      "name": "SAMPO OYJ",
+      "ratio": 0.17,
+      "shares": 3247
     },
     {
       "code": "",
-      "name": "DNB ASA",
-      "ratio": 0.16,
-      "shares": 1105
-    },
-    {
-      "code": "",
-      "name": "Swisscom AG",
-      "ratio": 0.16,
-      "shares": 36
-    },
-    {
-      "code": "",
-      "name": "Koninklijke Philips NV",
-      "ratio": 0.16,
-      "shares": 1135
+      "name": "Heineken NV",
+      "ratio": 0.17,
+      "shares": 421
     },
     {
       "code": "",
@@ -957,9 +909,39 @@
     },
     {
       "code": "",
-      "name": "Partners Group AG",
-      "ratio": 0.15,
-      "shares": 31
+      "name": "EQUINOR ASA",
+      "ratio": 0.16,
+      "shares": 958
+    },
+    {
+      "code": "",
+      "name": "DNB ASA",
+      "ratio": 0.16,
+      "shares": 1105
+    },
+    {
+      "code": "",
+      "name": "Atlas Copco B",
+      "ratio": 0.16,
+      "shares": 2062
+    },
+    {
+      "code": "",
+      "name": "Cie Generale des Etablissements Michelin SCA",
+      "ratio": 0.16,
+      "shares": 964
+    },
+    {
+      "code": "",
+      "name": "Swisscom AG",
+      "ratio": 0.16,
+      "shares": 36
+    },
+    {
+      "code": "",
+      "name": "Geberit AG",
+      "ratio": 0.16,
+      "shares": 46
     },
     {
       "code": "",
@@ -969,15 +951,33 @@
     },
     {
       "code": "",
-      "name": "EQUINOR ASA",
+      "name": "Partners Group AG",
       "ratio": 0.15,
-      "shares": 958
+      "shares": 31
+    },
+    {
+      "code": "",
+      "name": "Koninklijke Philips NV",
+      "ratio": 0.15,
+      "shares": 1135
+    },
+    {
+      "code": "",
+      "name": "HEIDELBERG MATERIALS AG",
+      "ratio": 0.15,
+      "shares": 172
     },
     {
       "code": "",
       "name": "Veolia Environnement SA",
       "ratio": 0.15,
       "shares": 827
+    },
+    {
+      "code": "",
+      "name": "ArcelorMittal",
+      "ratio": 0.15,
+      "shares": 608
     },
     {
       "code": "",
@@ -993,45 +993,27 @@
     },
     {
       "code": "",
-      "name": "Svenska Handelsbanken AB",
-      "ratio": 0.14,
-      "shares": 2016
-    },
-    {
-      "code": "",
       "name": "Hexagon AB",
-      "ratio": 0.14,
+      "ratio": 0.15,
       "shares": 2824
     },
     {
       "code": "",
-      "name": "MTU AERO ENGINES AG",
-      "ratio": 0.14,
-      "shares": 74
-    },
-    {
-      "code": "",
-      "name": "KONE OYJ-B",
-      "ratio": 0.14,
-      "shares": 448
-    },
-    {
-      "code": "",
-      "name": "BOLIDEN AB",
-      "ratio": 0.14,
-      "shares": 437
+      "name": "STMICROELECTRONICS NV",
+      "ratio": 0.15,
+      "shares": 924
     },
     {
       "code": "",
       "name": "COCA-COLA EUROPACIFIC PARTNERS",
-      "ratio": 0.14,
+      "ratio": 0.15,
       "shares": 299
     },
     {
-      "code": "NOVOZYMES",
-      "name": "NOVONESIS",
+      "code": "",
+      "name": "Svenska Handelsbanken AB",
       "ratio": 0.14,
-      "shares": 528
+      "shares": 2016
     },
     {
       "code": "",
@@ -1041,45 +1023,51 @@
     },
     {
       "code": "",
-      "name": "VOLKSWAGEN AG",
-      "ratio": 0.14,
-      "shares": 283
-    },
-    {
-      "code": "",
       "name": "NN Group NV",
       "ratio": 0.14,
       "shares": 384
     },
     {
       "code": "",
-      "name": "STMICROELECTRONICS NV",
+      "name": "VOLKSWAGEN AG",
       "ratio": 0.14,
-      "shares": 924
+      "shares": 283
     },
     {
       "code": "",
-      "name": "Kering SA",
+      "name": "BOLIDEN AB",
       "ratio": 0.14,
-      "shares": 96
+      "shares": 437
+    },
+    {
+      "code": "NOVOZYMES",
+      "name": "NOVONESIS",
+      "ratio": 0.14,
+      "shares": 528
     },
     {
       "code": "",
-      "name": "Vonovia SE",
-      "ratio": 0.13,
-      "shares": 948
+      "name": "KONE OYJ-B",
+      "ratio": 0.14,
+      "shares": 448
     },
     {
       "code": "",
       "name": "PKO BANK POLSKI SA",
-      "ratio": 0.13,
+      "ratio": 0.14,
       "shares": 1232
     },
     {
       "code": "",
-      "name": "Legal & General Group PLC",
-      "ratio": 0.13,
-      "shares": 8291
+      "name": "MTU AERO ENGINES AG",
+      "ratio": 0.14,
+      "shares": 74
+    },
+    {
+      "code": "",
+      "name": "AIB GROUP PLC",
+      "ratio": 0.14,
+      "shares": 2754
     },
     {
       "code": "",
@@ -1089,15 +1077,9 @@
     },
     {
       "code": "",
-      "name": "AIB GROUP PLC",
+      "name": "Kering SA",
       "ratio": 0.13,
-      "shares": 2754
-    },
-    {
-      "code": "",
-      "name": "Publicis Groupe SA",
-      "ratio": 0.13,
-      "shares": 311
+      "shares": 96
     },
     {
       "code": "",
@@ -1107,9 +1089,21 @@
     },
     {
       "code": "",
-      "name": "NEXT PLC",
+      "name": "Legal & General Group PLC",
       "ratio": 0.13,
-      "shares": 155
+      "shares": 8291
+    },
+    {
+      "code": "",
+      "name": "ORLEN SA",
+      "ratio": 0.13,
+      "shares": 787
+    },
+    {
+      "code": "",
+      "name": "Publicis Groupe SA",
+      "ratio": 0.13,
+      "shares": 311
     },
     {
       "code": "",
@@ -1119,9 +1113,9 @@
     },
     {
       "code": "",
-      "name": "Capgemini SE",
+      "name": "NEXT PLC",
       "ratio": 0.13,
-      "shares": 211
+      "shares": 155
     },
     {
       "code": "",
@@ -1131,69 +1125,33 @@
     },
     {
       "code": "",
-      "name": "WARTSILA OYJ",
-      "ratio": 0.13,
-      "shares": 690
-    },
-    {
-      "code": "",
       "name": "ABN AMRO BANK NV-CVA",
       "ratio": 0.13,
       "shares": 837
     },
     {
       "code": "",
-      "name": "INTERCONTINENTAL HOTELS GROUP",
+      "name": "Capgemini SE",
       "ratio": 0.13,
-      "shares": 201
+      "shares": 211
     },
     {
       "code": "",
-      "name": "SGS SA-REG",
-      "ratio": 0.12,
-      "shares": 219
+      "name": "Vonovia SE",
+      "ratio": 0.13,
+      "shares": 948
     },
     {
       "code": "",
       "name": "BANCO DE SABADELL SA",
-      "ratio": 0.12,
+      "ratio": 0.13,
       "shares": 7497
     },
     {
       "code": "",
-      "name": "Wolters Kluwer NV",
+      "name": "INTERCONTINENTAL HOTELS GROUP",
       "ratio": 0.12,
-      "shares": 327
-    },
-    {
-      "code": "",
-      "name": "Essity AB",
-      "ratio": 0.12,
-      "shares": 891
-    },
-    {
-      "code": "",
-      "name": "ORLEN SA",
-      "ratio": 0.12,
-      "shares": 787
-    },
-    {
-      "code": "",
-      "name": "VAT GROUP AG",
-      "ratio": 0.12,
-      "shares": 39
-    },
-    {
-      "code": "",
-      "name": "INVESTOR AB-A SHS",
-      "ratio": 0.12,
-      "shares": 651
-    },
-    {
-      "code": "",
-      "name": "BANCA MONTE DEI PASCHI DI SIEN",
-      "ratio": 0.12,
-      "shares": 2997
+      "shares": 201
     },
     {
       "code": "",
@@ -1203,15 +1161,15 @@
     },
     {
       "code": "",
-      "name": "UPM-KYMMENE OYJ",
+      "name": "Wolters Kluwer NV",
       "ratio": 0.12,
-      "shares": 810
+      "shares": 327
     },
     {
       "code": "",
-      "name": "Credit Agricole SA",
+      "name": "WARTSILA OYJ",
       "ratio": 0.12,
-      "shares": 1273
+      "shares": 690
     },
     {
       "code": "",
@@ -1221,63 +1179,87 @@
     },
     {
       "code": "",
-      "name": "Telefonica SA",
+      "name": "SGS SA-REG",
       "ratio": 0.12,
-      "shares": 5799
+      "shares": 219
     },
     {
       "code": "",
-      "name": "ANTOFAGASTA PLC",
+      "name": "VAT GROUP AG",
       "ratio": 0.12,
-      "shares": 490
+      "shares": 39
     },
     {
       "code": "",
-      "name": "EQT AB",
+      "name": "Essity AB",
       "ratio": 0.12,
-      "shares": 784
+      "shares": 891
+    },
+    {
+      "code": "",
+      "name": "BANCA MONTE DEI PASCHI DI SIEN",
+      "ratio": 0.12,
+      "shares": 2997
     },
     {
       "code": "",
       "name": "BANK OF IRELAND GROUP PLC",
-      "ratio": 0.11,
+      "ratio": 0.12,
       "shares": 1366
     },
     {
       "code": "",
-      "name": "Pernod Ricard SA",
+      "name": "UPM-KYMMENE OYJ",
+      "ratio": 0.12,
+      "shares": 810
+    },
+    {
+      "code": "",
+      "name": "INVESTOR AB-A SHS",
+      "ratio": 0.12,
+      "shares": 651
+    },
+    {
+      "code": "",
+      "name": "Telefonica SA",
       "ratio": 0.11,
-      "shares": 274
+      "shares": 5799
     },
     {
       "code": "",
-      "name": "EPIROC AB-A",
+      "name": "Credit Agricole SA",
       "ratio": 0.11,
-      "shares": 848
+      "shares": 1273
     },
     {
       "code": "",
-      "name": "Julius Baer Group Ltd",
+      "name": "EQT AB",
       "ratio": 0.11,
-      "shares": 276
+      "shares": 784
     },
     {
       "code": "",
-      "name": "RENTOKIL INITIAL PLC",
-      "ratio": 0.1,
-      "shares": 3507
-    },
-    {
-      "code": "",
-      "name": "MERCK KGAA",
-      "ratio": 0.1,
-      "shares": 171
+      "name": "ANTOFAGASTA PLC",
+      "ratio": 0.11,
+      "shares": 490
     },
     {
       "code": "",
       "name": "KONGSBERG GRUPPEN ASA",
-      "ratio": 0.1,
+      "ratio": 0.11,
       "shares": 539
+    },
+    {
+      "code": "",
+      "name": "RENTOKIL INITIAL PLC",
+      "ratio": 0.11,
+      "shares": 3507
+    },
+    {
+      "code": "",
+      "name": "BT Group PLC",
+      "ratio": 0.11,
+      "shares": 7676
     },
     {
       "code": "",
@@ -1287,15 +1269,15 @@
     },
     {
       "code": "",
-      "name": "GENMAB A/S",
+      "name": "EPIROC AB-A",
       "ratio": 0.1,
-      "shares": 80
+      "shares": 848
     },
     {
       "code": "",
-      "name": "BT Group PLC",
+      "name": "Pernod Ricard SA",
       "ratio": 0.1,
-      "shares": 7676
+      "shares": 274
     },
     {
       "code": "",
@@ -1305,15 +1287,27 @@
     },
     {
       "code": "",
+      "name": "MERCK KGAA",
+      "ratio": 0.1,
+      "shares": 171
+    },
+    {
+      "code": "",
       "name": "TERNA SPA",
       "ratio": 0.1,
       "shares": 1837
     },
     {
       "code": "",
-      "name": "STELLANTIS NV",
+      "name": "EDP SA",
       "ratio": 0.1,
-      "shares": 2905
+      "shares": 4160
+    },
+    {
+      "code": "",
+      "name": "GENMAB A/S",
+      "ratio": 0.1,
+      "shares": 80
     },
     {
       "code": "",
@@ -1323,9 +1317,21 @@
     },
     {
       "code": "",
-      "name": "EDP SA",
+      "name": "Julius Baer Group Ltd",
       "ratio": 0.1,
-      "shares": 4160
+      "shares": 276
+    },
+    {
+      "code": "",
+      "name": "Centrica PLC",
+      "ratio": 0.1,
+      "shares": 7405
+    },
+    {
+      "code": "",
+      "name": "Endesa",
+      "ratio": 0.1,
+      "shares": 495
     },
     {
       "code": "",
@@ -1336,20 +1342,8 @@
     {
       "code": "",
       "name": "Smith & Nephew PLC",
-      "ratio": 0.1,
-      "shares": 1187
-    },
-    {
-      "code": "",
-      "name": "METSO OYJ",
-      "ratio": 0.1,
-      "shares": 1077
-    },
-    {
-      "code": "",
-      "name": "UNIBAIL-RODAMCO-WESTFIELD",
       "ratio": 0.09,
-      "shares": 175
+      "shares": 1187
     },
     {
       "code": "",
@@ -1358,10 +1352,16 @@
       "shares": 108
     },
     {
-      "code": "Cert",
-      "name": "Schindler Holding",
+      "code": "",
+      "name": "METSO OYJ",
       "ratio": 0.09,
-      "shares": 55
+      "shares": 1077
+    },
+    {
+      "code": "",
+      "name": "STELLANTIS NV",
+      "ratio": 0.09,
+      "shares": 2905
     },
     {
       "code": "",
@@ -1371,15 +1371,51 @@
     },
     {
       "code": "",
-      "name": "Centrica PLC",
+      "name": "SONOVA HOLDING AG-REG",
       "ratio": 0.09,
-      "shares": 7405
+      "shares": 77
     },
     {
       "code": "",
-      "name": "Endesa",
+      "name": "Coca-Cola HBC AG",
       "ratio": 0.09,
-      "shares": 495
+      "shares": 313
+    },
+    {
+      "code": "Cert",
+      "name": "Schindler Holding",
+      "ratio": 0.09,
+      "shares": 55
+    },
+    {
+      "code": "",
+      "name": "UNIBAIL-RODAMCO-WESTFIELD",
+      "ratio": 0.09,
+      "shares": 175
+    },
+    {
+      "code": "",
+      "name": "BE SEMICONDUCTOR INDUSTRIES",
+      "ratio": 0.09,
+      "shares": 88
+    },
+    {
+      "code": "",
+      "name": "EURONEXT NV",
+      "ratio": 0.09,
+      "shares": 114
+    },
+    {
+      "code": "",
+      "name": "LOGITECH INTERNATIONAL-REG",
+      "ratio": 0.09,
+      "shares": 195
+    },
+    {
+      "code": "",
+      "name": "UNITED UTILITIES GROUP PLC",
+      "ratio": 0.09,
+      "shares": 1008
     },
     {
       "code": "",
@@ -1395,33 +1431,9 @@
     },
     {
       "code": "",
-      "name": "EURONEXT NV",
+      "name": "NESTE OYJ",
       "ratio": 0.09,
-      "shares": 114
-    },
-    {
-      "code": "",
-      "name": "SONOVA HOLDING AG-REG",
-      "ratio": 0.09,
-      "shares": 77
-    },
-    {
-      "code": "",
-      "name": "Coca-Cola HBC AG",
-      "ratio": 0.09,
-      "shares": 313
-    },
-    {
-      "code": "",
-      "name": "Henkel AG & Co KGaA VORZUG",
-      "ratio": 0.09,
-      "shares": 214
-    },
-    {
-      "code": "",
-      "name": "KINGSPAN GROUP PLC",
-      "ratio": 0.09,
-      "shares": 207
+      "shares": 570
     },
     {
       "code": "",
@@ -1431,51 +1443,39 @@
     },
     {
       "code": "",
-      "name": "Moncler",
-      "ratio": 0.09,
-      "shares": 285
+      "name": "Symrise AG",
+      "ratio": 0.08,
+      "shares": 208
+    },
+    {
+      "code": "",
+      "name": "KINGSPAN GROUP PLC",
+      "ratio": 0.08,
+      "shares": 207
     },
     {
       "code": "",
       "name": "CARLSBERG AS-B",
-      "ratio": 0.09,
+      "ratio": 0.08,
       "shares": 128
     },
     {
       "code": "",
-      "name": "SMITHS GROUP PLC",
-      "ratio": 0.09,
-      "shares": 522
-    },
-    {
-      "code": "BR",
-      "name": "Roche Hldgs",
-      "ratio": 0.09,
-      "shares": 40
+      "name": "Henkel AG & Co KGaA VORZUG",
+      "ratio": 0.08,
+      "shares": 214
     },
     {
       "code": "",
-      "name": "UNITED UTILITIES GROUP PLC",
-      "ratio": 0.09,
-      "shares": 1008
+      "name": "Moncler",
+      "ratio": 0.08,
+      "shares": 285
     },
     {
       "code": "",
       "name": "SIEMENS HEALTHINEERS AG",
-      "ratio": 0.09,
+      "ratio": 0.08,
       "shares": 382
-    },
-    {
-      "code": "",
-      "name": "LOGITECH INTERNATIONAL-REG",
-      "ratio": 0.08,
-      "shares": 195
-    },
-    {
-      "code": "",
-      "name": "Symrise AG",
-      "ratio": 0.08,
-      "shares": 208
     },
     {
       "code": "",
@@ -1484,28 +1484,10 @@
       "shares": 109
     },
     {
-      "code": "",
-      "name": "ENDEAVOUR MINING PLC",
+      "code": "BR",
+      "name": "Roche Hldgs",
       "ratio": 0.08,
-      "shares": 273
-    },
-    {
-      "code": "",
-      "name": "Poste Italiane",
-      "ratio": 0.08,
-      "shares": 674
-    },
-    {
-      "code": "",
-      "name": "AGEAS",
-      "ratio": 0.08,
-      "shares": 241
-    },
-    {
-      "code": "",
-      "name": "NESTE OYJ",
-      "ratio": 0.08,
-      "shares": 570
+      "shares": 40
     },
     {
       "code": "",
@@ -1515,27 +1497,39 @@
     },
     {
       "code": "",
+      "name": "ADMIRAL GROUP PLC",
+      "ratio": 0.08,
+      "shares": 381
+    },
+    {
+      "code": "",
+      "name": "AGEAS",
+      "ratio": 0.08,
+      "shares": 241
+    },
+    {
+      "code": "",
+      "name": "SMITHS GROUP PLC",
+      "ratio": 0.08,
+      "shares": 522
+    },
+    {
+      "code": "",
+      "name": "Poste Italiane",
+      "ratio": 0.08,
+      "shares": 674
+    },
+    {
+      "code": "",
       "name": "Carrefour SA",
       "ratio": 0.08,
       "shares": 917
     },
     {
       "code": "",
-      "name": "BAWAG GROUP AG",
+      "name": "ENDEAVOUR MINING PLC",
       "ratio": 0.08,
-      "shares": 113
-    },
-    {
-      "code": "",
-      "name": "BE SEMICONDUCTOR INDUSTRIES",
-      "ratio": 0.08,
-      "shares": 88
-    },
-    {
-      "code": "",
-      "name": "KUEHNE & NAGEL INTL AG-REG",
-      "ratio": 0.08,
-      "shares": 72
+      "shares": 273
     },
     {
       "code": "",
@@ -1545,9 +1539,21 @@
     },
     {
       "code": "",
-      "name": "TELE2 AB-B SHS",
+      "name": "KUEHNE & NAGEL INTL AG-REG",
       "ratio": 0.08,
+      "shares": 72
+    },
+    {
+      "code": "",
+      "name": "TELE2 AB-B SHS",
+      "ratio": 0.07,
       "shares": 761
+    },
+    {
+      "code": "",
+      "name": "BAWAG GROUP AG",
+      "ratio": 0.07,
+      "shares": 113
     },
     {
       "code": "",
@@ -1557,9 +1563,15 @@
     },
     {
       "code": "",
-      "name": "ADMIRAL GROUP PLC",
+      "name": "ASR NEDERLAND NV",
       "ratio": 0.07,
-      "shares": 381
+      "shares": 228
+    },
+    {
+      "code": "",
+      "name": "BUNZL PLC",
+      "ratio": 0.07,
+      "shares": 493
     },
     {
       "code": "",
@@ -1569,9 +1581,15 @@
     },
     {
       "code": "",
-      "name": "ASR NEDERLAND NV",
+      "name": "ORSTED AS",
       "ratio": 0.07,
-      "shares": 228
+      "shares": 664
+    },
+    {
+      "code": "",
+      "name": "YARA INTERNATIONAL ASA",
+      "ratio": 0.07,
+      "shares": 254
     },
     {
       "code": "",
@@ -1581,15 +1599,9 @@
     },
     {
       "code": "",
-      "name": "ORSTED AS",
+      "name": "NORSK HYDRO ASA",
       "ratio": 0.07,
-      "shares": 664
-    },
-    {
-      "code": "",
-      "name": "BUNZL PLC",
-      "ratio": 0.07,
-      "shares": 493
+      "shares": 1444
     },
     {
       "code": "",
@@ -1605,15 +1617,15 @@
     },
     {
       "code": "",
-      "name": "ACCOR SA",
-      "ratio": 0.07,
-      "shares": 276
-    },
-    {
-      "code": "",
       "name": "Hennes & Mauritz AB",
       "ratio": 0.07,
       "shares": 717
+    },
+    {
+      "code": "",
+      "name": "TENARIS SA",
+      "ratio": 0.07,
+      "shares": 520
     },
     {
       "code": "",
@@ -1623,27 +1635,9 @@
     },
     {
       "code": "",
-      "name": "TENARIS SA",
-      "ratio": 0.06,
-      "shares": 520
-    },
-    {
-      "code": "",
-      "name": "NORSK HYDRO ASA",
-      "ratio": 0.06,
-      "shares": 1444
-    },
-    {
-      "code": "",
       "name": "MOWI ASA",
       "ratio": 0.06,
       "shares": 584
-    },
-    {
-      "code": "",
-      "name": "Intertek Group PLC",
-      "ratio": 0.06,
-      "shares": 248
     },
     {
       "code": "",
@@ -1653,33 +1647,15 @@
     },
     {
       "code": "",
-      "name": "POWSZECHNY ZAKLAD UBEZPIECZE",
-      "ratio": 0.06,
-      "shares": 745
-    },
-    {
-      "code": "",
-      "name": "YARA INTERNATIONAL ASA",
-      "ratio": 0.06,
-      "shares": 254
-    },
-    {
-      "code": "",
       "name": "BEAZLEY PLC",
       "ratio": 0.06,
       "shares": 748
     },
     {
       "code": "",
-      "name": "Beiersdorf AG",
+      "name": "ACCOR SA",
       "ratio": 0.06,
-      "shares": 131
-    },
-    {
-      "code": "",
-      "name": "IMI PLC",
-      "ratio": 0.06,
-      "shares": 337
+      "shares": 276
     },
     {
       "code": "",
@@ -1689,9 +1665,63 @@
     },
     {
       "code": "",
+      "name": "POWSZECHNY ZAKLAD UBEZPIECZE",
+      "ratio": 0.06,
+      "shares": 745
+    },
+    {
+      "code": "",
+      "name": "Intertek Group PLC",
+      "ratio": 0.06,
+      "shares": 248
+    },
+    {
+      "code": "",
+      "name": "GALP ENERGIA SGPS SA-B SHRS",
+      "ratio": 0.06,
+      "shares": 514
+    },
+    {
+      "code": "",
+      "name": "GEA GROUP AG",
+      "ratio": 0.06,
+      "shares": 169
+    },
+    {
+      "code": "",
+      "name": "AKER BP ASA",
+      "ratio": 0.06,
+      "shares": 370
+    },
+    {
+      "code": "",
+      "name": "SEVERN TRENT PLC",
+      "ratio": 0.06,
+      "shares": 287
+    },
+    {
+      "code": "",
       "name": "ALSTOM",
       "ratio": 0.06,
       "shares": 445
+    },
+    {
+      "code": "",
+      "name": "IMI PLC",
+      "ratio": 0.06,
+      "shares": 337
+    },
+    {
+      "code": "J",
+      "name": "SAINSBURY",
+      "ratio": 0.06,
+      "shares": 2565
+    },
+    {
+      "code": "",
+      "name": "Beiersdorf AG",
+      "ratio": 0.06,
+      "shares": 131
     },
     {
       "code": "",
@@ -1701,15 +1731,9 @@
     },
     {
       "code": "",
-      "name": "WEIR GROUP PLC/THE",
+      "name": "Bouygues SA",
       "ratio": 0.06,
-      "shares": 302
-    },
-    {
-      "code": "",
-      "name": "SEVERN TRENT PLC",
-      "ratio": 0.06,
-      "shares": 287
+      "shares": 204
     },
     {
       "code": "",
@@ -1720,80 +1744,26 @@
     {
       "code": "",
       "name": "EXOR NV",
-      "ratio": 0.06,
+      "ratio": 0.05,
       "shares": 146
     },
     {
       "code": "",
-      "name": "GEA GROUP AG",
-      "ratio": 0.06,
-      "shares": 169
-    },
-    {
-      "code": "",
-      "name": "ORKLA ASA",
-      "ratio": 0.06,
-      "shares": 926
-    },
-    {
-      "code": "",
-      "name": "AKER BP ASA",
-      "ratio": 0.06,
-      "shares": 370
-    },
-    {
-      "code": "",
-      "name": "SPIE SA",
-      "ratio": 0.06,
-      "shares": 209
-    },
-    {
-      "code": "",
-      "name": "REXEL SA",
-      "ratio": 0.06,
-      "shares": 301
-    },
-    {
-      "code": "",
-      "name": "GALP ENERGIA SGPS SA-B SHRS",
-      "ratio": 0.06,
-      "shares": 514
-    },
-    {
-      "code": "",
-      "name": "EUROFINS SCIENTIFIC",
-      "ratio": 0.06,
-      "shares": 156
-    },
-    {
-      "code": "J",
-      "name": "SAINSBURY",
-      "ratio": 0.06,
-      "shares": 2565
+      "name": "WEIR GROUP PLC/THE",
+      "ratio": 0.05,
+      "shares": 302
     },
     {
       "code": "",
       "name": "MARKS & SPENCER GROUP PLC",
-      "ratio": 0.06,
+      "ratio": 0.05,
       "shares": 2388
     },
     {
       "code": "",
-      "name": "Bouygues SA",
+      "name": "REXEL SA",
       "ratio": 0.05,
-      "shares": 204
-    },
-    {
-      "code": "",
-      "name": "DIPLOMA PLC",
-      "ratio": 0.05,
-      "shares": 163
-    },
-    {
-      "code": "",
-      "name": "Aegon NV",
-      "ratio": 0.05,
-      "shares": 1619
+      "shares": 301
     },
     {
       "code": "",
@@ -1803,51 +1773,9 @@
     },
     {
       "code": "",
-      "name": "BANCO COMERCIAL PORTUGUES SA",
+      "name": "ORKLA ASA",
       "ratio": 0.05,
-      "shares": 11975
-    },
-    {
-      "code": "",
-      "name": "BANK PEKAO SA",
-      "ratio": 0.05,
-      "shares": 198
-    },
-    {
-      "code": "",
-      "name": "KNORR-BREMSE AG",
-      "ratio": 0.05,
-      "shares": 92
-    },
-    {
-      "code": "",
-      "name": "GROUPE BRUXELLES LAMBERT SA",
-      "ratio": 0.05,
-      "shares": 116
-    },
-    {
-      "code": "",
-      "name": "Bankinter",
-      "ratio": 0.05,
-      "shares": 724
-    },
-    {
-      "code": "",
-      "name": "KLEPIERRE",
-      "ratio": 0.05,
-      "shares": 289
-    },
-    {
-      "code": "",
-      "name": "Heineken Holding NV",
-      "ratio": 0.05,
-      "shares": 141
-    },
-    {
-      "code": "",
-      "name": "Fresenius Medical Care AG & Co KGaA",
-      "ratio": 0.05,
-      "shares": 241
+      "shares": 926
     },
     {
       "code": "",
@@ -1857,9 +1785,105 @@
     },
     {
       "code": "",
-      "name": "SKANSKA AB-B SHS",
+      "name": "BANK PEKAO SA",
       "ratio": 0.05,
-      "shares": 383
+      "shares": 198
+    },
+    {
+      "code": "",
+      "name": "Aegon NV",
+      "ratio": 0.05,
+      "shares": 1619
+    },
+    {
+      "code": "",
+      "name": "Fresenius Medical Care AG & Co KGaA",
+      "ratio": 0.05,
+      "shares": 241
+    },
+    {
+      "code": "",
+      "name": "EUROFINS SCIENTIFIC",
+      "ratio": 0.05,
+      "shares": 156
+    },
+    {
+      "code": "",
+      "name": "SPIE SA",
+      "ratio": 0.05,
+      "shares": 209
+    },
+    {
+      "code": "",
+      "name": "DIPLOMA PLC",
+      "ratio": 0.05,
+      "shares": 163
+    },
+    {
+      "code": "",
+      "name": "BANCO COMERCIAL PORTUGUES SA",
+      "ratio": 0.05,
+      "shares": 11975
+    },
+    {
+      "code": "",
+      "name": "Bankinter",
+      "ratio": 0.05,
+      "shares": 724
+    },
+    {
+      "code": "",
+      "name": "MAGNUM ICE CREAM CO NV/THE",
+      "ratio": 0.05,
+      "shares": 697
+    },
+    {
+      "code": "",
+      "name": "OMV AG",
+      "ratio": 0.05,
+      "shares": 160
+    },
+    {
+      "code": "",
+      "name": "Telecom Italia SpA/Milano",
+      "ratio": 0.05,
+      "shares": 15806
+    },
+    {
+      "code": "",
+      "name": "Heineken Holding NV",
+      "ratio": 0.05,
+      "shares": 141
+    },
+    {
+      "code": "",
+      "name": "EVOLUTION AB",
+      "ratio": 0.05,
+      "shares": 168
+    },
+    {
+      "code": "",
+      "name": "KLEPIERRE",
+      "ratio": 0.05,
+      "shares": 289
+    },
+    {
+      "code": "",
+      "name": "ST JAMES'S PLACE PLC",
+      "ratio": 0.05,
+      "shares": 616
+    },
+    {
+      "code": "",
+      "name": "GROUPE BRUXELLES LAMBERT SA",
+      "ratio": 0.05,
+      "shares": 116
+    },
+    {
+      "code": "",
+      "name": "FORTUM OYJ",
+      "ratio": 0.05,
+      "shares": 435
     },
     {
       "code": "",
@@ -1875,69 +1899,9 @@
     },
     {
       "code": "",
-      "name": "ST JAMES'S PLACE PLC",
+      "name": "SKANSKA AB-B SHS",
       "ratio": 0.05,
-      "shares": 616
-    },
-    {
-      "code": "",
-      "name": "KINGFISHER PLC",
-      "ratio": 0.05,
-      "shares": 2475
-    },
-    {
-      "code": "",
-      "name": "Telecom Italia SpA/Milano",
-      "ratio": 0.05,
-      "shares": 15806
-    },
-    {
-      "code": "",
-      "name": "TRELLEBORG AB-B SHS",
-      "ratio": 0.05,
-      "shares": 271
-    },
-    {
-      "code": "",
-      "name": "SVENSKA CELLULOSA AB-B SHS",
-      "ratio": 0.05,
-      "shares": 841
-    },
-    {
-      "code": "",
-      "name": "OMV AG",
-      "ratio": 0.05,
-      "shares": 160
-    },
-    {
-      "code": "",
-      "name": "MAGNUM ICE CREAM CO NV/THE",
-      "ratio": 0.05,
-      "shares": 697
-    },
-    {
-      "code": "",
-      "name": "LPP SA",
-      "ratio": 0.05,
-      "shares": 2
-    },
-    {
-      "code": "",
-      "name": "FRESNILLO PLC",
-      "ratio": 0.05,
-      "shares": 224
-    },
-    {
-      "code": "",
-      "name": "A P Moller - Maersk A",
-      "ratio": 0.05,
-      "shares": 4
-    },
-    {
-      "code": "",
-      "name": "SKF AB-B SHARES",
-      "ratio": 0.05,
-      "shares": 409
+      "shares": 383
     },
     {
       "code": "",
@@ -1947,45 +1911,9 @@
     },
     {
       "code": "",
-      "name": "Continental AG",
+      "name": "KNORR-BREMSE AG",
       "ratio": 0.05,
-      "shares": 140
-    },
-    {
-      "code": "",
-      "name": "MELROSE INDUSTRIES PLC",
-      "ratio": 0.05,
-      "shares": 1434
-    },
-    {
-      "code": "",
-      "name": "SECURITAS AB-B SHS",
-      "ratio": 0.05,
-      "shares": 608
-    },
-    {
-      "code": "",
-      "name": "Italgas",
-      "ratio": 0.05,
-      "shares": 847
-    },
-    {
-      "code": "",
-      "name": "EVOLUTION AB",
-      "ratio": 0.05,
-      "shares": 168
-    },
-    {
-      "code": "",
-      "name": "QIAGEN NV",
-      "ratio": 0.05,
-      "shares": 225
-    },
-    {
-      "code": "",
-      "name": "ORION OYJ-CLASS B",
-      "ratio": 0.05,
-      "shares": 129
+      "shares": 92
     },
     {
       "code": "",
@@ -1995,21 +1923,63 @@
     },
     {
       "code": "",
-      "name": "FORTUM OYJ",
+      "name": "ORION OYJ-CLASS B",
       "ratio": 0.05,
-      "shares": 435
+      "shares": 129
     },
     {
       "code": "",
-      "name": "ACKERMANS & VAN HAAREN",
+      "name": "LPP SA",
       "ratio": 0.05,
-      "shares": 31
+      "shares": 2
     },
     {
       "code": "",
-      "name": "EPIROC AB-B",
+      "name": "TRELLEBORG AB-B SHS",
       "ratio": 0.05,
-      "shares": 424
+      "shares": 271
+    },
+    {
+      "code": "",
+      "name": "SECURITAS AB-B SHS",
+      "ratio": 0.05,
+      "shares": 608
+    },
+    {
+      "code": "",
+      "name": "KINGFISHER PLC",
+      "ratio": 0.05,
+      "shares": 2475
+    },
+    {
+      "code": "",
+      "name": "FRESNILLO PLC",
+      "ratio": 0.05,
+      "shares": 224
+    },
+    {
+      "code": "",
+      "name": "SVENSKA CELLULOSA AB-B SHS",
+      "ratio": 0.05,
+      "shares": 841
+    },
+    {
+      "code": "",
+      "name": "A P Moller - Maersk A",
+      "ratio": 0.05,
+      "shares": 4
+    },
+    {
+      "code": "",
+      "name": "Continental AG",
+      "ratio": 0.05,
+      "shares": 140
+    },
+    {
+      "code": "",
+      "name": "Italgas",
+      "ratio": 0.05,
+      "shares": 847
     },
     {
       "code": "",
@@ -2019,45 +1989,57 @@
     },
     {
       "code": "",
+      "name": "SKF AB-B SHARES",
+      "ratio": 0.05,
+      "shares": 409
+    },
+    {
+      "code": "",
       "name": "WISE PLC",
       "ratio": 0.05,
       "shares": 814
     },
     {
       "code": "",
-      "name": "STANDARD LIFE PLC",
+      "name": "HISCOX LTD",
       "ratio": 0.05,
+      "shares": 484
+    },
+    {
+      "code": "",
+      "name": "EPIROC AB-B",
+      "ratio": 0.05,
+      "shares": 424
+    },
+    {
+      "code": "",
+      "name": "ACKERMANS & VAN HAAREN",
+      "ratio": 0.05,
+      "shares": 31
+    },
+    {
+      "code": "",
+      "name": "MELROSE INDUSTRIES PLC",
+      "ratio": 0.05,
+      "shares": 1434
+    },
+    {
+      "code": "",
+      "name": "QIAGEN NV",
+      "ratio": 0.04,
+      "shares": 225
+    },
+    {
+      "code": "",
+      "name": "STANDARD LIFE PLC",
+      "ratio": 0.04,
       "shares": 1007
     },
     {
       "code": "",
       "name": "ADDTECH AB",
-      "ratio": 0.05,
+      "ratio": 0.04,
       "shares": 280
-    },
-    {
-      "code": "",
-      "name": "HISCOX LTD",
-      "ratio": 0.04,
-      "shares": 484
-    },
-    {
-      "code": "",
-      "name": "STORA ENSO OYJ-R SHS",
-      "ratio": 0.04,
-      "shares": 763
-    },
-    {
-      "code": "",
-      "name": "Industrivarden AB C Free",
-      "ratio": 0.04,
-      "shares": 178
-    },
-    {
-      "code": "",
-      "name": "HOWDEN JOINERY GROUP PLC",
-      "ratio": 0.04,
-      "shares": 806
     },
     {
       "code": "",
@@ -2067,27 +2049,21 @@
     },
     {
       "code": "",
-      "name": "Merlin Properties Socimi SA",
+      "name": "Industrivarden AB C Free",
       "ratio": 0.04,
-      "shares": 557
+      "shares": 178
     },
     {
       "code": "",
-      "name": "Henkel AG & Co KGaA",
+      "name": "STORA ENSO OYJ-R SHS",
       "ratio": 0.04,
-      "shares": 111
+      "shares": 763
     },
     {
       "code": "",
-      "name": "Kesko B",
+      "name": "HOWDEN JOINERY GROUP PLC",
       "ratio": 0.04,
-      "shares": 379
-    },
-    {
-      "code": "",
-      "name": "SWEDISH ORPHAN BIOVITRUM AB",
-      "ratio": 0.04,
-      "shares": 216
+      "shares": 806
     },
     {
       "code": "",
@@ -2097,27 +2073,21 @@
     },
     {
       "code": "",
+      "name": "JERONIMO MARTINS",
+      "ratio": 0.04,
+      "shares": 345
+    },
+    {
+      "code": "",
+      "name": "Kesko B",
+      "ratio": 0.04,
+      "shares": 379
+    },
+    {
+      "code": "",
       "name": "HOCHTIEF AG",
       "ratio": 0.04,
       "shares": 20
-    },
-    {
-      "code": "",
-      "name": "Associated British Foods PLC",
-      "ratio": 0.04,
-      "shares": 348
-    },
-    {
-      "code": "",
-      "name": "LAND SECURITIES GROUP PLC",
-      "ratio": 0.04,
-      "shares": 1059
-    },
-    {
-      "code": "Reg",
-      "name": "Schindler Holding",
-      "ratio": 0.04,
-      "shares": 25
     },
     {
       "code": "",
@@ -2127,9 +2097,21 @@
     },
     {
       "code": "",
-      "name": "JERONIMO MARTINS",
+      "name": "Associated British Foods PLC",
       "ratio": 0.04,
-      "shares": 345
+      "shares": 348
+    },
+    {
+      "code": "",
+      "name": "SWEDISH ORPHAN BIOVITRUM AB",
+      "ratio": 0.04,
+      "shares": 216
+    },
+    {
+      "code": "",
+      "name": "Merlin Properties Socimi SA",
+      "ratio": 0.04,
+      "shares": 557
     },
     {
       "code": "",
@@ -2139,9 +2121,15 @@
     },
     {
       "code": "",
-      "name": "BEIJER REF AB",
+      "name": "Henkel AG & Co KGaA",
       "ratio": 0.04,
-      "shares": 579
+      "shares": 111
+    },
+    {
+      "code": "",
+      "name": "LAND SECURITIES GROUP PLC",
+      "ratio": 0.04,
+      "shares": 1059
     },
     {
       "code": "",
@@ -2150,22 +2138,10 @@
       "shares": 161
     },
     {
-      "code": "",
-      "name": "RECORDATI SPA",
+      "code": "Reg",
+      "name": "Schindler Holding",
       "ratio": 0.04,
-      "shares": 151
-    },
-    {
-      "code": "",
-      "name": "WHITBREAD PLC",
-      "ratio": 0.04,
-      "shares": 246
-    },
-    {
-      "code": "",
-      "name": "TRYG A/S",
-      "ratio": 0.04,
-      "shares": 338
+      "shares": 25
     },
     {
       "code": "",
@@ -2175,81 +2151,21 @@
     },
     {
       "code": "",
-      "name": "PANDORA A/S",
+      "name": "TRYG A/S",
       "ratio": 0.04,
-      "shares": 105
+      "shares": 338
     },
     {
       "code": "",
-      "name": "LIFCO AB-B SHS",
+      "name": "BEIJER REF AB",
       "ratio": 0.04,
-      "shares": 246
+      "shares": 579
     },
     {
       "code": "",
-      "name": "SPIRAX-SARCO ENGINEERING PLC",
+      "name": "RECORDATI SPA",
       "ratio": 0.04,
-      "shares": 83
-    },
-    {
-      "code": "",
-      "name": "ConvaTec Group",
-      "ratio": 0.04,
-      "shares": 2432
-    },
-    {
-      "code": "",
-      "name": "SWISSQUOTE GROUP HOLDING SA",
-      "ratio": 0.04,
-      "shares": 15
-    },
-    {
-      "code": "",
-      "name": "Persimmon PLC",
-      "ratio": 0.04,
-      "shares": 451
-    },
-    {
-      "code": "",
-      "name": "ICG PLC",
-      "ratio": 0.04,
-      "shares": 368
-    },
-    {
-      "code": "",
-      "name": "BMW AG Pref",
-      "ratio": 0.04,
-      "shares": 83
-    },
-    {
-      "code": "",
-      "name": "Renault SA",
-      "ratio": 0.04,
-      "shares": 232
-    },
-    {
-      "code": "",
-      "name": "LEG IMMOBILIEN SE",
-      "ratio": 0.04,
-      "shares": 101
-    },
-    {
-      "code": "",
-      "name": "ALLEGRO.EU SA",
-      "ratio": 0.04,
-      "shares": 1001
-    },
-    {
-      "code": "",
-      "name": "Burberry Group PLC",
-      "ratio": 0.04,
-      "shares": 513
-    },
-    {
-      "code": "",
-      "name": "Flughafen Zurich",
-      "ratio": 0.04,
-      "shares": 23
+      "shares": 151
     },
     {
       "code": "",
@@ -2259,9 +2175,87 @@
     },
     {
       "code": "",
+      "name": "BRENNTAG SE",
+      "ratio": 0.04,
+      "shares": 138
+    },
+    {
+      "code": "",
+      "name": "BMW AG Pref",
+      "ratio": 0.04,
+      "shares": 83
+    },
+    {
+      "code": "",
+      "name": "WHITBREAD PLC",
+      "ratio": 0.04,
+      "shares": 246
+    },
+    {
+      "code": "",
+      "name": "ConvaTec Group",
+      "ratio": 0.04,
+      "shares": 2432
+    },
+    {
+      "code": "",
+      "name": "LIFCO AB-B SHS",
+      "ratio": 0.04,
+      "shares": 246
+    },
+    {
+      "code": "",
+      "name": "Renault SA",
+      "ratio": 0.04,
+      "shares": 232
+    },
+    {
+      "code": "",
+      "name": "SWISSQUOTE GROUP HOLDING SA",
+      "ratio": 0.04,
+      "shares": 15
+    },
+    {
+      "code": "",
+      "name": "ICG PLC",
+      "ratio": 0.04,
+      "shares": 368
+    },
+    {
+      "code": "",
+      "name": "SPIRAX-SARCO ENGINEERING PLC",
+      "ratio": 0.04,
+      "shares": 83
+    },
+    {
+      "code": "",
       "name": "GJENSIDIGE FORSIKRING ASA",
       "ratio": 0.04,
       "shares": 273
+    },
+    {
+      "code": "",
+      "name": "DINO POLSKA SA",
+      "ratio": 0.04,
+      "shares": 670
+    },
+    {
+      "code": "",
+      "name": "ALLEGRO.EU SA",
+      "ratio": 0.04,
+      "shares": 1001
+    },
+    {
+      "code": "",
+      "name": "Persimmon PLC",
+      "ratio": 0.03,
+      "shares": 451
+    },
+    {
+      "code": "",
+      "name": "PANDORA A/S",
+      "ratio": 0.03,
+      "shares": 105
     },
     {
       "code": "",
@@ -2271,45 +2265,21 @@
     },
     {
       "code": "",
-      "name": "DINO POLSKA SA",
+      "name": "Flughafen Zurich",
       "ratio": 0.03,
-      "shares": 670
+      "shares": 23
     },
     {
       "code": "",
-      "name": "BRENNTAG SE",
+      "name": "METLEN ENERGY & METALS PLC",
       "ratio": 0.03,
-      "shares": 138
+      "shares": 163
     },
     {
       "code": "",
-      "name": "INDUTRADE AB",
+      "name": "Burberry Group PLC",
       "ratio": 0.03,
-      "shares": 300
-    },
-    {
-      "code": "",
-      "name": "VOLVO AB",
-      "ratio": 0.03,
-      "shares": 200
-    },
-    {
-      "code": "",
-      "name": "NIBE INDUSTRIER AB-B SHS",
-      "ratio": 0.03,
-      "shares": 1862
-    },
-    {
-      "code": "",
-      "name": "EDENRED",
-      "ratio": 0.03,
-      "shares": 324
-    },
-    {
-      "code": "",
-      "name": "RYANAIR HOLDINGS PLC",
-      "ratio": 0.03,
-      "shares": 230
+      "shares": 513
     },
     {
       "code": "",
@@ -2319,9 +2289,21 @@
     },
     {
       "code": "",
-      "name": "DEUTSCHE LUFTHANSA-REG",
+      "name": "EDENRED",
       "ratio": 0.03,
-      "shares": 737
+      "shares": 324
+    },
+    {
+      "code": "",
+      "name": "LEG IMMOBILIEN SE",
+      "ratio": 0.03,
+      "shares": 101
+    },
+    {
+      "code": "",
+      "name": "VOLVO AB",
+      "ratio": 0.03,
+      "shares": 200
     },
     {
       "code": "",
@@ -2331,9 +2313,9 @@
     },
     {
       "code": "",
-      "name": "SARTORIUS STEDIM BIOTECH",
+      "name": "INDUTRADE AB",
       "ratio": 0.03,
-      "shares": 36
+      "shares": 300
     },
     {
       "code": "",
@@ -2343,21 +2325,21 @@
     },
     {
       "code": "",
+      "name": "RYANAIR HOLDINGS PLC",
+      "ratio": 0.03,
+      "shares": 230
+    },
+    {
+      "code": "",
       "name": "SIG GROUP AG",
       "ratio": 0.03,
       "shares": 454
     },
     {
       "code": "",
-      "name": "CSG NV",
+      "name": "NIBE INDUSTRIER AB-B SHS",
       "ratio": 0.03,
-      "shares": 191
-    },
-    {
-      "code": "",
-      "name": "SCOUT24 SE",
-      "ratio": 0.03,
-      "shares": 79
+      "shares": 1862
     },
     {
       "code": "",
@@ -2373,27 +2355,15 @@
     },
     {
       "code": "",
-      "name": "BARRATT REDROW PLC",
+      "name": "SARTORIUS STEDIM BIOTECH",
       "ratio": 0.03,
-      "shares": 1573
+      "shares": 36
     },
     {
       "code": "",
-      "name": "RENK GROUP AG",
+      "name": "SCOUT24 SE",
       "ratio": 0.03,
-      "shares": 102
-    },
-    {
-      "code": "",
-      "name": "METLEN ENERGY & METALS PLC",
-      "ratio": 0.03,
-      "shares": 163
-    },
-    {
-      "code": "",
-      "name": "Gecina SA",
-      "ratio": 0.03,
-      "shares": 76
+      "shares": 79
     },
     {
       "code": "",
@@ -2403,15 +2373,27 @@
     },
     {
       "code": "",
-      "name": "Auto Trader Group",
+      "name": "DEUTSCHE LUFTHANSA-REG",
       "ratio": 0.03,
-      "shares": 952
+      "shares": 737
     },
     {
       "code": "",
       "name": "CTS EVENTIM",
       "ratio": 0.03,
       "shares": 80
+    },
+    {
+      "code": "",
+      "name": "RENK GROUP AG",
+      "ratio": 0.03,
+      "shares": 102
+    },
+    {
+      "code": "",
+      "name": "Auto Trader Group",
+      "ratio": 0.03,
+      "shares": 952
     },
     {
       "code": "",
@@ -2427,21 +2409,15 @@
     },
     {
       "code": "",
-      "name": "GEORG FISCHER AG",
+      "name": "CSG NV",
       "ratio": 0.03,
-      "shares": 111
+      "shares": 191
     },
     {
       "code": "",
-      "name": "MONDI PLC",
+      "name": "BARRATT REDROW PLC",
       "ratio": 0.03,
-      "shares": 536
-    },
-    {
-      "code": "",
-      "name": "RAIFFEISEN BANK INTERNATIONA",
-      "ratio": 0.03,
-      "shares": 140
+      "shares": 1573
     },
     {
       "code": "",
@@ -2451,27 +2427,27 @@
     },
     {
       "code": "",
-      "name": "ENTAIN PLC",
+      "name": "Gecina SA",
       "ratio": 0.03,
-      "shares": 766
+      "shares": 76
     },
     {
       "code": "",
-      "name": "INDUSTRIVARDEN AB-A SHS",
+      "name": "GEORG FISCHER AG",
       "ratio": 0.03,
-      "shares": 113
+      "shares": 111
     },
     {
       "code": "",
-      "name": "SYENSQO SA",
+      "name": "RAIFFEISEN BANK INTERNATIONA",
       "ratio": 0.03,
-      "shares": 101
+      "shares": 140
     },
     {
       "code": "",
-      "name": "IPSEN",
+      "name": "Zalando SE",
       "ratio": 0.03,
-      "shares": 30
+      "shares": 219
     },
     {
       "code": "",
@@ -2481,15 +2457,27 @@
     },
     {
       "code": "",
-      "name": "RIGHTMOVE PLC",
+      "name": "MONDI PLC",
       "ratio": 0.03,
-      "shares": 884
+      "shares": 536
     },
     {
       "code": "",
-      "name": "ADP",
+      "name": "INDUSTRIVARDEN AB-A SHS",
       "ratio": 0.03,
-      "shares": 43
+      "shares": 113
+    },
+    {
+      "code": "",
+      "name": "ENTAIN PLC",
+      "ratio": 0.03,
+      "shares": 766
+    },
+    {
+      "code": "",
+      "name": "RIGHTMOVE PLC",
+      "ratio": 0.03,
+      "shares": 884
     },
     {
       "code": "",
@@ -2505,9 +2493,15 @@
     },
     {
       "code": "",
-      "name": "Zalando SE",
-      "ratio": 0.02,
-      "shares": 219
+      "name": "IPSEN",
+      "ratio": 0.03,
+      "shares": 30
+    },
+    {
+      "code": "",
+      "name": "SYENSQO SA",
+      "ratio": 0.03,
+      "shares": 101
     },
     {
       "code": "",
@@ -2517,15 +2511,9 @@
     },
     {
       "code": "",
-      "name": "SCHRODERS PLC",
+      "name": "ADP",
       "ratio": 0.02,
-      "shares": 627
-    },
-    {
-      "code": "",
-      "name": "DELIVERY HERO SE",
-      "ratio": 0.02,
-      "shares": 226
+      "shares": 43
     },
     {
       "code": "",
@@ -2535,15 +2523,9 @@
     },
     {
       "code": "",
-      "name": "RANDSTAD NV",
+      "name": "SCHRODERS PLC",
       "ratio": 0.02,
-      "shares": 155
-    },
-    {
-      "code": "",
-      "name": "FRAPORT AG",
-      "ratio": 0.02,
-      "shares": 54
+      "shares": 627
     },
     {
       "code": "",
@@ -2553,9 +2535,9 @@
     },
     {
       "code": "",
-      "name": "Kion Group GmbH",
+      "name": "RANDSTAD NV",
       "ratio": 0.02,
-      "shares": 81
+      "shares": 155
     },
     {
       "code": "",
@@ -2565,21 +2547,27 @@
     },
     {
       "code": "",
+      "name": "DELIVERY HERO SE",
+      "ratio": 0.02,
+      "shares": 226
+    },
+    {
+      "code": "",
+      "name": "FRAPORT AG",
+      "ratio": 0.02,
+      "shares": 54
+    },
+    {
+      "code": "",
+      "name": "Kion Group GmbH",
+      "ratio": 0.02,
+      "shares": 81
+    },
+    {
+      "code": "",
       "name": "COVIVIO",
       "ratio": 0.02,
       "shares": 65
-    },
-    {
-      "code": "",
-      "name": "INTERPUMP GROUP SPA",
-      "ratio": 0.02,
-      "shares": 104
-    },
-    {
-      "code": "",
-      "name": "WPP PLC",
-      "ratio": 0.02,
-      "shares": 1205
     },
     {
       "code": "",
@@ -2595,39 +2583,27 @@
     },
     {
       "code": "",
-      "name": "Ems Chemie I",
-      "ratio": 0.02,
-      "shares": 5
-    },
-    {
-      "code": "",
-      "name": "Adecco Group AG",
-      "ratio": 0.02,
-      "shares": 145
-    },
-    {
-      "code": "",
       "name": "AVOLTA AG",
       "ratio": 0.02,
       "shares": 65
     },
     {
       "code": "",
-      "name": "ANDRITZ AG",
+      "name": "Ems Chemie I",
       "ratio": 0.02,
-      "shares": 48
+      "shares": 5
     },
     {
       "code": "",
-      "name": "TAYLOR WIMPEY PLC",
+      "name": "INTERPUMP GROUP SPA",
       "ratio": 0.02,
-      "shares": 2839
+      "shares": 104
     },
     {
       "code": "",
-      "name": "CASTELLUM AB",
+      "name": "WPP PLC",
       "ratio": 0.02,
-      "shares": 298
+      "shares": 1205
     },
     {
       "code": "",
@@ -2637,9 +2613,45 @@
     },
     {
       "code": "",
+      "name": "EDP RENOVAVEIS SA",
+      "ratio": 0.02,
+      "shares": 239
+    },
+    {
+      "code": "",
+      "name": "Adecco Group AG",
+      "ratio": 0.02,
+      "shares": 145
+    },
+    {
+      "code": "",
+      "name": "TAYLOR WIMPEY PLC",
+      "ratio": 0.02,
+      "shares": 2839
+    },
+    {
+      "code": "",
       "name": "HOLMEN AB-B SHARES",
       "ratio": 0.02,
       "shares": 97
+    },
+    {
+      "code": "",
+      "name": "Banque Cantonale Vaudoise",
+      "ratio": 0.02,
+      "shares": 23
+    },
+    {
+      "code": "",
+      "name": "CASTELLUM AB",
+      "ratio": 0.02,
+      "shares": 298
+    },
+    {
+      "code": "",
+      "name": "ANDRITZ AG",
+      "ratio": 0.02,
+      "shares": 48
     },
     {
       "code": "",
@@ -2655,27 +2667,21 @@
     },
     {
       "code": "",
-      "name": "FASTIGHETS AB BALDER-B SHRS",
-      "ratio": 0.02,
-      "shares": 501
-    },
-    {
-      "code": "",
-      "name": "EDP RENOVAVEIS SA",
-      "ratio": 0.02,
-      "shares": 239
-    },
-    {
-      "code": "",
-      "name": "Banque Cantonale Vaudoise",
-      "ratio": 0.02,
-      "shares": 23
-    },
-    {
-      "code": "",
       "name": "Amundi",
       "ratio": 0.02,
       "shares": 40
+    },
+    {
+      "code": "",
+      "name": "VEND MARKETPLACES ASA",
+      "ratio": 0.02,
+      "shares": 125
+    },
+    {
+      "code": "",
+      "name": "FASTIGHETS AB BALDER-B SHRS",
+      "ratio": 0.02,
+      "shares": 501
     },
     {
       "code": "",
@@ -2691,9 +2697,15 @@
     },
     {
       "code": "",
-      "name": "VEND MARKETPLACES ASA",
+      "name": "VERBUND AG",
       "ratio": 0.02,
-      "shares": 125
+      "shares": 43
+    },
+    {
+      "code": "",
+      "name": "LUNDBERGS AB-B SHS",
+      "ratio": 0.02,
+      "shares": 55
     },
     {
       "code": "",
@@ -2709,27 +2721,27 @@
     },
     {
       "code": "",
-      "name": "LUNDBERGS AB-B SHS",
-      "ratio": 0.02,
-      "shares": 55
-    },
-    {
-      "code": "",
       "name": "VERISURE PLC",
-      "ratio": 0.02,
+      "ratio": 0.01,
       "shares": 318
-    },
-    {
-      "code": "",
-      "name": "VERBUND AG",
-      "ratio": 0.02,
-      "shares": 43
     },
     {
       "code": "",
       "name": "RATIONAL AG",
       "ratio": 0.01,
       "shares": 4
+    },
+    {
+      "code": "",
+      "name": "INPOST SA",
+      "ratio": 0.01,
+      "shares": 177
+    },
+    {
+      "code": "",
+      "name": "HERA SPA",
+      "ratio": 0.01,
+      "shares": 639
     },
     {
       "code": "SSABB",
@@ -2745,15 +2757,21 @@
     },
     {
       "code": "",
-      "name": "INPOST SA",
-      "ratio": 0.01,
-      "shares": 177
-    },
-    {
-      "code": "",
       "name": "JD SPORTS FASHION PLC",
       "ratio": 0.01,
       "shares": 3025
+    },
+    {
+      "code": "",
+      "name": "Evonik Industries AG",
+      "ratio": 0.01,
+      "shares": 176
+    },
+    {
+      "code": "",
+      "name": "AUMOVIO SE",
+      "ratio": 0.01,
+      "shares": 70
     },
     {
       "code": "",
@@ -2763,21 +2781,9 @@
     },
     {
       "code": "",
-      "name": "Grifols SA",
+      "name": "BKW AG",
       "ratio": 0.01,
-      "shares": 263
-    },
-    {
-      "code": "",
-      "name": "HERA SPA",
-      "ratio": 0.01,
-      "shares": 639
-    },
-    {
-      "code": "",
-      "name": "AUMOVIO SE",
-      "ratio": 0.01,
-      "shares": 70
+      "shares": 15
     },
     {
       "code": "",
@@ -2793,21 +2799,9 @@
     },
     {
       "code": "",
-      "name": "SAGAX AB-B",
+      "name": "Grifols SA",
       "ratio": 0.01,
-      "shares": 150
-    },
-    {
-      "code": "",
-      "name": "Evonik Industries AG",
-      "ratio": 0.01,
-      "shares": 176
-    },
-    {
-      "code": "",
-      "name": "BKW AG",
-      "ratio": 0.01,
-      "shares": 15
+      "shares": 263
     },
     {
       "code": "",
@@ -2817,9 +2811,9 @@
     },
     {
       "code": "",
-      "name": "EURAZEO",
+      "name": "SAGAX AB-B",
       "ratio": 0.01,
-      "shares": 52
+      "shares": 150
     },
     {
       "code": "",
@@ -2829,21 +2823,15 @@
     },
     {
       "code": "",
-      "name": "TELEPERFORMANCE",
-      "ratio": 0.01,
-      "shares": 40
-    },
-    {
-      "code": "",
       "name": "SALMAR ASA",
       "ratio": 0.01,
       "shares": 43
     },
     {
       "code": "",
-      "name": "INFRASTRUTTURE WIRELESS ITAL",
+      "name": "EURAZEO",
       "ratio": 0.01,
-      "shares": 255
+      "shares": 52
     },
     {
       "code": "",
@@ -2853,9 +2841,15 @@
     },
     {
       "code": "",
-      "name": "Latour Investment B",
+      "name": "TELEPERFORMANCE",
       "ratio": 0.01,
-      "shares": 105
+      "shares": 40
+    },
+    {
+      "code": "",
+      "name": "INFRASTRUTTURE WIRELESS ITAL",
+      "ratio": 0.01,
+      "shares": 255
     },
     {
       "code": "",
@@ -2871,9 +2865,21 @@
     },
     {
       "code": "",
+      "name": "Latour Investment B",
+      "ratio": 0.01,
+      "shares": 105
+    },
+    {
+      "code": "",
       "name": "SWECO AB-B SHS",
       "ratio": 0.01,
       "shares": 149
+    },
+    {
+      "code": "",
+      "name": "VOLKSWAGEN AG",
+      "ratio": 0.01,
+      "shares": 20
     },
     {
       "code": "",
@@ -2889,15 +2895,21 @@
     },
     {
       "code": "",
-      "name": "VOLKSWAGEN AG",
-      "ratio": 0.01,
-      "shares": 20
-    },
-    {
-      "code": "",
       "name": "GRIFOLS SA",
       "ratio": 0.01,
       "shares": 232
+    },
+    {
+      "code": "",
+      "name": "HIKMA PHARMACEUTICALS PLC",
+      "ratio": 0.01,
+      "shares": 110
+    },
+    {
+      "code": "",
+      "name": "ROCKWOOL A/S",
+      "ratio": 0.01,
+      "shares": 66
     },
     {
       "code": "",
@@ -2913,18 +2925,6 @@
     },
     {
       "code": "",
-      "name": "ROCKWOOL A/S",
-      "ratio": 0.01,
-      "shares": 66
-    },
-    {
-      "code": "",
-      "name": "HIKMA PHARMACEUTICALS PLC",
-      "ratio": 0.01,
-      "shares": 110
-    },
-    {
-      "code": "",
       "name": "FUCHS SE",
       "ratio": 0.01,
       "shares": 40
@@ -2932,7 +2932,7 @@
     {
       "code": "",
       "name": "NEXI SPA",
-      "ratio": 0.0,
+      "ratio": 0.01,
       "shares": 318
     },
     {

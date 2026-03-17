@@ -1,7 +1,7 @@
 {
   "id": "00757",
   "name": "統一FANG+",
-  "fetched_at": "2026-03-09",
+  "fetched_at": "2026-03-16",
   "capital": {
     "ETF名稱": "統一FANG+",
     "交易所代碼": "00757",
@@ -14,17 +14,17 @@
     "上市日期": "2018/12/06",
     "淨值幣別": "台幣",
     "ETF規模": "37,751.68(百萬台幣)(2026/02/28)",
-    "ETF市價": "108.5500（03/09）",
-    "成交量(股)": "3,055,017（月均:3,924,165）",
-    "ETF淨值": "111.3500（03/06）",
+    "ETF市價": "111.2500（03/16）",
+    "成交量(股)": "1,977,812（月均:3,547,419）",
+    "ETF淨值": "110.3300（03/13）",
     "投資風格": "",
-    "折溢價(%)": "1.03(月均:0.01)",
+    "折溢價(%)": "1.33(月均:-0.30)",
     "投資標的": "股票型",
     "配息頻率": "",
     "投資區域": "美國",
-    "殖利率(%)": "N/A（03/09）",
+    "殖利率(%)": "N/A（03/16）",
     "經理費(%)": "0.85",
-    "年化標準差(%)": "28.53（03/09）",
+    "年化標準差(%)": "17.71（03/16）",
     "總管理費用(%)": "1.12 (含 0.27 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -38,69 +38,69 @@
     "基準指數": "NYSE FANG+ Index",
     "官方網站連結": "https://www.ezmoney.com.tw/ETF/Fund/Info?fundCode=36YTW",
     "投資策略": "基金投資係採用指數化策略，以將本基金扣除各項必要費與匯率影響後儘可能追蹤標的指數之績效表現為操作目標。為達成操作目標，基金投資於標的指數成分股票總金額原則上不低於基淨資產價值之百分八十(含)。另為符合基金追蹤標的指數績效表現之目標以及資金調度需要，基金得投資於其他與標的指數相關之有價證券及期貨等證券衍生性商品，以使基金投資組合整體曝險儘可能貼近基金淨資產規模之100%。",
-    "文件下載": "基金概覽公開說明書簡式公開說明書年報"
+    "文件下載": "基金概覽公開說明書年報簡式公開說明書"
   },
   "sectors": [],
   "holdings": [
     {
-      "code": "NFLX.US",
-      "name": "Netflix",
-      "ratio": 10.25,
-      "shares": 1287208
-    },
-    {
       "code": "NVDA.US",
       "name": "NVIDIA",
-      "ratio": 10.21,
-      "shares": 713785
-    },
-    {
-      "code": "AVGO.US",
-      "name": "Broadcom",
-      "ratio": 9.95,
-      "shares": 374255
+      "ratio": 10.52,
+      "shares": 700756
     },
     {
       "code": "GOOGL.US",
       "name": "Alphabet - Class A Common Stock",
-      "ratio": 9.87,
-      "shares": 411211
+      "ratio": 10.17,
+      "shares": 403705
+    },
+    {
+      "code": "NFLX.US",
+      "name": "Netflix",
+      "ratio": 10.03,
+      "shares": 1263712
+    },
+    {
+      "code": "AVGO.US",
+      "name": "Broadcom",
+      "ratio": 9.86,
+      "shares": 367423
     },
     {
       "code": "META.US",
       "name": "Meta",
-      "ratio": 9.74,
-      "shares": 187859
-    },
-    {
-      "code": "AMZN.US",
-      "name": "Amazon",
-      "ratio": 9.45,
-      "shares": 551428
-    },
-    {
-      "code": "AAPL.US",
-      "name": "Apple",
-      "ratio": 9.29,
-      "shares": 448847
+      "ratio": 9.43,
+      "shares": 184430
     },
     {
       "code": "CRWD.US",
       "name": "CrowdStrike Holdings",
-      "ratio": 8.95,
-      "shares": 259594
+      "ratio": 9.38,
+      "shares": 254856
+    },
+    {
+      "code": "AMZN.US",
+      "name": "Amazon",
+      "ratio": 9.37,
+      "shares": 541362
+    },
+    {
+      "code": "AAPL.US",
+      "name": "Apple",
+      "ratio": 9.18,
+      "shares": 440653
     },
     {
       "code": "PLTR.US",
       "name": "Palantir Technologies",
-      "ratio": 8.7,
-      "shares": 688220
+      "ratio": 8.5,
+      "shares": 675657
     },
     {
       "code": "MSFT.US",
       "name": "Microsoft",
-      "ratio": 8.43,
-      "shares": 256268
+      "ratio": 8.29,
+      "shares": 251590
     }
   ]
 }
