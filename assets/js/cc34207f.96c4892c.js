@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkchicken_city=globalThis.webpackChunkchicken_city||[]).push([[3189],{39191(a){a.exports=JSON.parse('{"label":"\u6280\u8853\u65b0\u805e","permalink":"/blog/tags/\u6280\u8853\u65b0\u805e","allTagsPath":"/blog/tags","count":1}')}}]);
