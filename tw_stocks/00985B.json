@@ -1,7 +1,7 @@
 {
   "id": "00985B",
   "name": "群益ESG投等債0-5",
-  "fetched_at": "2026-03-16",
+  "fetched_at": "2026-03-23",
   "capital": {
     "ETF名稱": "群益ESG投等債0-5",
     "交易所代碼": "00985B",
@@ -14,17 +14,17 @@
     "上市日期": "2025/09/11",
     "淨值幣別": "台幣",
     "ETF規模": "5,195.26(百萬台幣)(2026/02/28)",
-    "ETF市價": "10.3700（03/16）",
-    "成交量(股)": "6,539,996（月均:9,646,740）",
-    "ETF淨值": "10.3317（03/13）",
+    "ETF市價": "10.3200（03/20）",
+    "成交量(股)": "12,746,542（月均:10,527,589）",
+    "ETF淨值": "10.3196（03/19）",
     "投資風格": "",
-    "折溢價(%)": "-0.02(月均:0.06)",
+    "折溢價(%)": "0.00(月均:0.07)",
     "投資標的": "公司債券",
     "配息頻率": "月配",
     "投資區域": "全球",
-    "殖利率(%)": "5.55（03/16）",
+    "殖利率(%)": "5.58（03/20）",
     "經理費(%)": "0.25",
-    "年化標準差(%)": "N/A（03/16）",
+    "年化標準差(%)": "N/A（03/20）",
     "總管理費用(%)": "",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -43,58 +43,53 @@
   "sectors": [
     {
       "name": "金融服務",
-      "amount_wan": 135188.1,
-      "ratio": 27.29
-    },
-    {
-      "name": "其他",
-      "amount_wan": 86789.8,
-      "ratio": 17.52
+      "amount_wan": 145357.7,
+      "ratio": 27.97
     },
     {
       "name": "汽車",
-      "amount_wan": 61624.7,
-      "ratio": 12.44
+      "amount_wan": 64441.7,
+      "ratio": 12.4
     },
     {
       "name": "科技",
-      "amount_wan": 35518.4,
-      "ratio": 7.17
+      "amount_wan": 35494.9,
+      "ratio": 6.83
     },
     {
       "name": "電信",
-      "amount_wan": 32744.3,
-      "ratio": 6.61
+      "amount_wan": 33416.2,
+      "ratio": 6.43
     },
     {
       "name": "公用事業",
-      "amount_wan": 30812.4,
-      "ratio": 6.22
-    },
-    {
-      "name": "保險",
-      "amount_wan": 26799.8,
-      "ratio": 5.41
+      "amount_wan": 30973.6,
+      "ratio": 5.96
     },
     {
       "name": "醫療保健",
-      "amount_wan": 26304.5,
-      "ratio": 5.31
+      "amount_wan": 28790.9,
+      "ratio": 5.54
     },
     {
       "name": "能源",
-      "amount_wan": 24719.3,
-      "ratio": 4.99
+      "amount_wan": 27907.4,
+      "ratio": 5.37
+    },
+    {
+      "name": "保險",
+      "amount_wan": 26972.0,
+      "ratio": 5.19
     },
     {
       "name": "不動產",
-      "amount_wan": 20855.3,
-      "ratio": 4.21
+      "amount_wan": 21307.3,
+      "ratio": 4.1
     },
     {
-      "name": "必需消費",
-      "amount_wan": 14019.1,
-      "ratio": 2.83
+      "name": "基礎工業",
+      "amount_wan": 15278.9,
+      "ratio": 2.94
     }
   ],
   "holdings": [
@@ -107,7 +102,7 @@
     {
       "code": "",
       "name": "DELL 6.2 07/15/30",
-      "ratio": 1.89,
+      "ratio": 1.88,
       "shares": null
     },
     {
@@ -124,12 +119,6 @@
     },
     {
       "code": "",
-      "name": "ARESSI 6.35 08/15/29",
-      "ratio": 1.78,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "EIX 6.95 11/15/29",
       "ratio": 1.77,
       "shares": null
@@ -138,6 +127,12 @@
       "code": "",
       "name": "F 7.35 11/04/27",
       "ratio": 1.74,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "ARESSI 6.35 08/15/29",
+      "ratio": 1.65,
       "shares": null
     },
     {
@@ -166,37 +161,31 @@
     },
     {
       "code": "",
-      "name": "TELEFO 8 1/4 09/15/30",
-      "ratio": 1.48,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "GM 5.85 04/06/30",
       "ratio": 1.48,
       "shares": null
     },
     {
       "code": "",
-      "name": "F 7.2 06/10/30",
+      "name": "TELEFO 8 1/4 09/15/30",
       "ratio": 1.43,
       "shares": null
     },
     {
       "code": "",
-      "name": "BACR 5.088 06/20/30",
-      "ratio": 1.41,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "BXP 6 3/4 12/01/27",
-      "ratio": 1.4,
+      "name": "F 7.2 06/10/30",
+      "ratio": 1.42,
       "shares": null
     },
     {
       "code": "",
       "name": "DOW 7 3/8 11/01/29",
+      "ratio": 1.4,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "BXP 6 3/4 12/01/27",
       "ratio": 1.4,
       "shares": null
     },
@@ -244,12 +233,6 @@
     },
     {
       "code": "",
-      "name": "OBDC 6.2 07/15/30",
-      "ratio": 1.31,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "COTY 6 5/8 07/15/30",
       "ratio": 1.28,
       "shares": null
@@ -274,14 +257,26 @@
     },
     {
       "code": "",
-      "name": "FG 6 1/2 06/04/29",
-      "ratio": 1.17,
+      "name": "AER 6.1 01/15/27",
+      "ratio": 1.16,
       "shares": null
     },
     {
       "code": "",
-      "name": "AER 6.1 01/15/27",
+      "name": "FG 6 1/2 06/04/29",
       "ratio": 1.16,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "BACR 5.088 06/20/30",
+      "ratio": 1.15,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "AZO 6 1/4 11/01/28",
+      "ratio": 1.15,
       "shares": null
     },
     {
@@ -298,14 +293,14 @@
     },
     {
       "code": "",
-      "name": "AZO 6 1/4 11/01/28",
+      "name": "ENBCN 6 11/15/28",
       "ratio": 1.14,
       "shares": null
     },
     {
       "code": "",
-      "name": "ENBCN 6 11/15/28",
-      "ratio": 1.14,
+      "name": "OBDC 6.2 07/15/30",
+      "ratio": 1.13,
       "shares": null
     },
     {
@@ -323,7 +318,7 @@
     {
       "code": "",
       "name": "OTF 6 3/4 04/04/29",
-      "ratio": 1.08,
+      "ratio": 1.09,
       "shares": null
     },
     {
@@ -400,6 +395,12 @@
     },
     {
       "code": "",
+      "name": "XPO 6 1/4 06/01/28",
+      "ratio": 0.85,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "HCA 5 7/8 02/01/29",
       "ratio": 0.85,
       "shares": null
@@ -408,12 +409,6 @@
       "code": "",
       "name": "CFG 5.841 01/23/30",
       "ratio": 0.85,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "XPO 6 1/4 06/01/28",
-      "ratio": 0.84,
       "shares": null
     },
     {
@@ -436,20 +431,14 @@
     },
     {
       "code": "",
-      "name": "RBACN 6 3/4 03/15/28",
-      "ratio": 0.73,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "R 5.65 03/01/28",
       "ratio": 0.71,
       "shares": null
     },
     {
       "code": "",
-      "name": "GEHC 5.857 03/15/30",
-      "ratio": 0.68,
+      "name": "RBACN 6 3/4 03/15/28",
+      "ratio": 0.7,
       "shares": null
     },
     {
@@ -461,6 +450,12 @@
     {
       "code": "",
       "name": "AMT 5.8 11/15/28",
+      "ratio": 0.66,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "GEHC 5.857 03/15/30",
       "ratio": 0.66,
       "shares": null
     },
@@ -497,7 +492,7 @@
     {
       "code": "",
       "name": "STLA 5 3/4 03/18/30",
-      "ratio": 0.58,
+      "ratio": 0.56,
       "shares": null
     },
     {
@@ -538,20 +533,8 @@
     },
     {
       "code": "",
-      "name": "WES 7 1/4 04/01/30",
-      "ratio": 0.48,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "SYY 5.95 04/01/30",
       "ratio": 0.47,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "OCINCC 7 3/4 09/16/27",
-      "ratio": 0.46,
       "shares": null
     },
     {
@@ -592,8 +575,8 @@
     },
     {
       "code": "",
-      "name": "AVOL 5 3/4 11/15/29",
-      "ratio": 0.4,
+      "name": "WES 7 1/4 04/01/30",
+      "ratio": 0.41,
       "shares": null
     },
     {
@@ -604,19 +587,19 @@
     },
     {
       "code": "",
-      "name": "F 6.8 05/12/28",
+      "name": "AVOL 5 3/4 11/15/29",
       "ratio": 0.4,
       "shares": null
     },
     {
       "code": "",
-      "name": "BAYNGR 6 1/8 11/21/26",
+      "name": "EDF 5.7 05/23/28",
       "ratio": 0.39,
       "shares": null
     },
     {
       "code": "",
-      "name": "EDF 5.7 05/23/28",
+      "name": "BAYNGR 6 1/8 11/21/26",
       "ratio": 0.39,
       "shares": null
     },
@@ -628,8 +611,14 @@
     },
     {
       "code": "",
-      "name": "PII 6.95 03/15/29",
-      "ratio": 0.34,
+      "name": "AALLN 5 5/8 04/01/30",
+      "ratio": 0.33,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "EDF 5.65 04/22/29",
+      "ratio": 0.33,
       "shares": null
     },
     {
@@ -646,20 +635,14 @@
     },
     {
       "code": "",
-      "name": "EDF 5.65 04/22/29",
-      "ratio": 0.33,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "AALLN 5 5/8 04/01/30",
-      "ratio": 0.33,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "AMGN 5 1/4 03/02/30",
       "ratio": 0.32,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "F 6.8 05/12/28",
+      "ratio": 0.27,
       "shares": null
     },
     {
@@ -678,12 +661,6 @@
       "code": "",
       "name": "CVS 5.4 06/01/29",
       "ratio": 0.26,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "BCRED 6 1/4 01/25/31",
-      "ratio": 0.25,
       "shares": null
     },
     {
@@ -712,14 +689,14 @@
     },
     {
       "code": "",
-      "name": "MHK 5.85 09/18/28",
+      "name": "SYENS 5.65 06/04/29",
       "ratio": 0.2,
       "shares": null
     },
     {
       "code": "",
-      "name": "SYENS 5.65 06/04/29",
-      "ratio": 0.2,
+      "name": "MHK 5.85 09/18/28",
+      "ratio": 0.19,
       "shares": null
     },
     {
@@ -754,12 +731,6 @@
     },
     {
       "code": "",
-      "name": "BXSL 5 1/8 01/31/31",
-      "ratio": 0.12,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "OKE 6.35 01/15/31",
       "ratio": 0.11,
       "shares": null
@@ -767,6 +738,18 @@
     {
       "code": "",
       "name": "OKE 5.8 11/01/30",
+      "ratio": 0.07,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "NI 5 1/4 03/30/28",
+      "ratio": 0.07,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "NGGLN 5.602 06/12/28",
       "ratio": 0.07,
       "shares": null
     },
@@ -808,25 +791,7 @@
     },
     {
       "code": "",
-      "name": "TMUS 4.95 03/15/28",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "SNPS 4.85 04/01/30",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "TTWO 4.95 03/28/28",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "VLTO 5.35 09/18/28",
       "ratio": 0.07,
       "shares": null
     },
@@ -844,19 +809,25 @@
     },
     {
       "code": "",
-      "name": "JCI 5 1/2 04/19/29",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "KDP 5.05 03/15/29",
+      "name": "HPQ 5.4 04/25/30",
       "ratio": 0.07,
       "shares": null
     },
     {
       "code": "",
       "name": "GM 5.8 06/23/28",
+      "ratio": 0.07,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "GLPI 5 3/4 06/01/28",
+      "ratio": 0.07,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "GM 5.65 01/17/29",
       "ratio": 0.07,
       "shares": null
     },
@@ -874,55 +845,13 @@
     },
     {
       "code": "",
-      "name": "MRVL 5 3/4 02/15/29",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "MCHP 5.05 03/15/29",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "NI 5 1/4 03/30/28",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "NGGLN 5.602 06/12/28",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "NXPI 5.55 12/01/28",
       "ratio": 0.07,
       "shares": null
     },
     {
       "code": "",
-      "name": "HPQ 5.4 04/25/30",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "KMI 5.15 06/01/30",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "LII 5 1/2 09/15/28",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "MAR 4.9 04/15/29",
+      "name": "MAR 5 10/15/27",
       "ratio": 0.07,
       "shares": null
     },
@@ -934,115 +863,25 @@
     },
     {
       "code": "",
-      "name": "BRITEL 5 1/8 12/04/28",
+      "name": "MRVL 5 3/4 02/15/29",
       "ratio": 0.07,
       "shares": null
     },
     {
       "code": "",
-      "name": "AVT 6 1/4 03/15/28",
+      "name": "JCI 5 1/2 04/19/29",
       "ratio": 0.07,
       "shares": null
     },
     {
       "code": "",
-      "name": "CRHID 5.2 05/21/29",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "CNP 5.4 06/01/29",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "CHTR 6.1 06/01/29",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "AMT 5 1/2 03/15/28",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "MTNA 6.55 11/29/27",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "AEP 5 3/4 11/01/27",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "AEP 5.2 01/15/29",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "ALLY 6.848 01/03/30",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "AMCR 4.8 03/17/28",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "AMCR 5.1 03/17/30",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "AMCR 5.45 05/23/29",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "EXR 5.9 01/15/31",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "EXC 5.15 03/15/28",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "EXC 5.15 03/15/29",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "GLPI 5 3/4 06/01/28",
+      "name": "KMI 5.15 06/01/30",
       "ratio": 0.07,
       "shares": null
     },
     {
       "code": "",
       "name": "F 5 7/8 11/07/29",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "F 5.918 03/20/28",
       "ratio": 0.07,
       "shares": null
     },
@@ -1060,7 +899,7 @@
     },
     {
       "code": "",
-      "name": "GM 5.65 01/17/29",
+      "name": "EXR 5.9 01/15/31",
       "ratio": 0.07,
       "shares": null
     },
@@ -1072,7 +911,49 @@
     },
     {
       "code": "",
-      "name": "CAH 5 11/15/29",
+      "name": "CNP 5.4 06/01/29",
+      "ratio": 0.07,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "CHTR 6.1 06/01/29",
+      "ratio": 0.07,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "ALLY 6.848 01/03/30",
+      "ratio": 0.07,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "AMCR 5.45 05/23/29",
+      "ratio": 0.07,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "AEP 5 3/4 11/01/27",
+      "ratio": 0.07,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "CRHID 5.2 05/21/29",
+      "ratio": 0.07,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "AVT 6 1/4 03/15/28",
+      "ratio": 0.07,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "MTNA 6.55 11/29/27",
       "ratio": 0.07,
       "shares": null
     },
@@ -1084,7 +965,43 @@
     },
     {
       "code": "",
+      "name": "ENGIFP 5 1/4 04/10/29",
+      "ratio": 0.07,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "AYR 5.95 02/15/29",
+      "ratio": 0.07,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "ZBH 5.35 12/01/28",
+      "ratio": 0.07,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "OKE 6 1/2 09/01/30",
+      "ratio": 0.07,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "PHIN 6 3/4 04/15/29",
+      "ratio": 0.07,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "URI 6 12/15/29",
+      "ratio": 0.07,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "WEIRLN 5.35 05/06/30",
       "ratio": 0.07,
       "shares": null
     },
@@ -1108,43 +1025,7 @@
     },
     {
       "code": "",
-      "name": "ENGIFP 5 1/4 04/10/29",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "ZBH 5.35 12/01/28",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "URI 6 12/15/29",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "WEIRLN 5.35 05/06/30",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "CPGX 6.042 08/15/28",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "OKE 6 1/2 09/01/30",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "PHIN 6 3/4 04/15/29",
       "ratio": 0.07,
       "shares": null
     },
@@ -1162,12 +1043,6 @@
     },
     {
       "code": "",
-      "name": "GSCRED 5 3/8 01/31/29",
-      "ratio": 0.06,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "ZBH 5.05 02/19/30",
       "ratio": 0.06,
       "shares": null
@@ -1180,25 +1055,25 @@
     },
     {
       "code": "",
-      "name": "WAB 4.9 05/29/30",
-      "ratio": 0.06,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "WMB 5.3 08/15/28",
       "ratio": 0.06,
       "shares": null
     },
     {
       "code": "",
-      "name": "TMUS 4.85 01/15/29",
+      "name": "VLO 5.15 02/15/30",
       "ratio": 0.06,
       "shares": null
     },
     {
       "code": "",
-      "name": "YARNO 4 3/4 06/01/28",
+      "name": "VLTO 5.35 09/18/28",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "TMUS 4.85 01/15/29",
       "ratio": 0.06,
       "shares": null
     },
@@ -1222,7 +1097,127 @@
     },
     {
       "code": "",
-      "name": "CHCOCH 5 1/8 06/30/27",
+      "name": "BACR 4.836 05/09/28",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "BXSL 5 1/8 01/31/31",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "AVY 4 7/8 12/06/28",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "BCRED 6 1/4 01/25/31",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "CAH 5 1/8 02/15/29",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "CAH 5 11/15/29",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "BRITEL 5 1/8 12/04/28",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "CVS 5 01/30/29",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "CVS 5 1/4 01/30/31",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "AEP 5.2 01/15/29",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "AEE 5.7 12/01/26",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "AMCR 4.8 03/17/28",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "AMCR 5.1 03/17/30",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "ARCC 5.95 07/15/29",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "ARCC 5 1/2 09/01/30",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "ARCC 5.1 01/15/31",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "TEAM 5 1/4 05/15/29",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "APP 5 1/8 12/01/29",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "AMH 4.95 06/15/30",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "AMT 5 1/2 03/15/28",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "AMGN 5.15 03/02/28",
       "ratio": 0.06,
       "shares": null
     },
@@ -1252,25 +1247,7 @@
     },
     {
       "code": "",
-      "name": "DLR 5.55 01/15/28",
-      "ratio": 0.06,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "EFX 5.1 12/15/27",
-      "ratio": 0.06,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "EFX 5.1 06/01/28",
-      "ratio": 0.06,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "F 5.73 09/05/30",
+      "name": "CHCOCH 5 1/8 06/30/27",
       "ratio": 0.06,
       "shares": null
     },
@@ -1282,19 +1259,13 @@
     },
     {
       "code": "",
+      "name": "DLR 5.55 01/15/28",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "FCNCA 5.231 03/12/31",
-      "ratio": 0.06,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "F 5.8 03/08/29",
-      "ratio": 0.06,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "F 5.85 05/17/27",
       "ratio": 0.06,
       "shares": null
     },
@@ -1312,91 +1283,49 @@
     },
     {
       "code": "",
-      "name": "AEE 5.7 12/01/26",
+      "name": "EFX 5.1 12/15/27",
       "ratio": 0.06,
       "shares": null
     },
     {
       "code": "",
-      "name": "AMH 4.95 06/15/30",
+      "name": "EFX 5.1 06/01/28",
       "ratio": 0.06,
       "shares": null
     },
     {
       "code": "",
-      "name": "APP 5 1/8 12/01/29",
+      "name": "EXC 5.15 03/15/28",
       "ratio": 0.06,
       "shares": null
     },
     {
       "code": "",
-      "name": "AMGN 5.15 03/02/28",
+      "name": "EXC 5.15 03/15/29",
       "ratio": 0.06,
       "shares": null
     },
     {
       "code": "",
-      "name": "ARCC 5.95 07/15/29",
+      "name": "F 5.918 03/20/28",
       "ratio": 0.06,
       "shares": null
     },
     {
       "code": "",
-      "name": "ARCC 5 1/2 09/01/30",
+      "name": "F 5.73 09/05/30",
       "ratio": 0.06,
       "shares": null
     },
     {
       "code": "",
-      "name": "ARCC 5.1 01/15/31",
+      "name": "F 5.8 03/08/29",
       "ratio": 0.06,
       "shares": null
     },
     {
       "code": "",
-      "name": "AJG 4.85 12/15/29",
-      "ratio": 0.06,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "TEAM 5 1/4 05/15/29",
-      "ratio": 0.06,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "CVS 5 01/30/29",
-      "ratio": 0.06,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "CVS 5 1/4 01/30/31",
-      "ratio": 0.06,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "BACR 4.836 05/09/28",
-      "ratio": 0.06,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "CAH 5 1/8 02/15/29",
-      "ratio": 0.06,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "AVY 4 7/8 12/06/28",
-      "ratio": 0.06,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "MAR 4 7/8 05/15/29",
+      "name": "F 5.85 05/17/27",
       "ratio": 0.06,
       "shares": null
     },
@@ -1414,19 +1343,31 @@
     },
     {
       "code": "",
-      "name": "MAR 5 10/15/27",
+      "name": "LEN 5.2 07/30/30",
       "ratio": 0.06,
       "shares": null
     },
     {
       "code": "",
-      "name": "KMI 5.1 08/01/29",
+      "name": "LII 5 1/2 09/15/28",
       "ratio": 0.06,
       "shares": null
     },
     {
       "code": "",
-      "name": "MSI 4.85 08/15/30",
+      "name": "KDP 5.05 03/15/29",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "KDP 5.1 03/15/27",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "MCHP 5.05 03/15/29",
       "ratio": 0.06,
       "shares": null
     },
@@ -1438,7 +1379,13 @@
     },
     {
       "code": "",
-      "name": "LEN 5.2 07/30/30",
+      "name": "MSI 4.85 08/15/30",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "KMI 5.1 08/01/29",
       "ratio": 0.06,
       "shares": null
     },
@@ -1456,7 +1403,7 @@
     },
     {
       "code": "",
-      "name": "KDP 5.1 03/15/27",
+      "name": "IEX 4.95 09/01/29",
       "ratio": 0.06,
       "shares": null
     },
@@ -1480,18 +1427,6 @@
     },
     {
       "code": "",
-      "name": "IEX 4.95 09/01/29",
-      "ratio": 0.06,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "VLO 5.15 02/15/30",
-      "ratio": 0.06,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "TACHEM 5 11/26/28",
       "ratio": 0.06,
       "shares": null
@@ -1504,19 +1439,13 @@
     },
     {
       "code": "",
+      "name": "TMUS 4.95 03/15/28",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "SYF 5 5/8 08/23/27",
-      "ratio": 0.06,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "SW 5.2 01/15/30",
-      "ratio": 0.06,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "LUV 5 1/8 06/15/27",
       "ratio": 0.06,
       "shares": null
     },
@@ -1528,7 +1457,7 @@
     },
     {
       "code": "",
-      "name": "PCG 5 06/04/28",
+      "name": "SW 5.2 01/15/30",
       "ratio": 0.06,
       "shares": null
     },
@@ -1540,19 +1469,13 @@
     },
     {
       "code": "",
-      "name": "OBDC 5.95 03/15/29",
+      "name": "LUV 5 1/8 06/15/27",
       "ratio": 0.06,
       "shares": null
     },
     {
       "code": "",
-      "name": "OKE 5.55 11/01/26",
-      "ratio": 0.06,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "ORLY 5 3/4 11/20/26",
+      "name": "PCG 5 06/04/28",
       "ratio": 0.06,
       "shares": null
     },
@@ -1570,6 +1493,18 @@
     },
     {
       "code": "",
+      "name": "ORLY 5 3/4 11/20/26",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "OKE 5.55 11/01/26",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "ORCL 4.8 08/03/28",
       "ratio": 0.06,
       "shares": null
@@ -1578,6 +1513,12 @@
       "code": "",
       "name": "NDAQ 5.35 06/28/28",
       "ratio": 0.05,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "GPC 4.95 08/15/29",
+      "ratio": 0.03,
       "shares": null
     },
     {
@@ -1601,12 +1542,6 @@
     {
       "code": "",
       "name": "GM 5.8 01/07/29",
-      "ratio": 0.03,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "GPC 4.95 08/15/29",
       "ratio": 0.03,
       "shares": null
     },
@@ -1648,14 +1583,80 @@
     },
     {
       "code": "",
+      "name": "NNN 4.6 02/15/31",
+      "ratio": 0.02,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "ILMN 4.75 12/12/30",
       "ratio": 0.02,
       "shares": null
     },
     {
       "code": "",
-      "name": "NNN 4.6 02/15/31",
-      "ratio": 0.02,
+      "name": "INTC 5 02/21/31",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "HPE 4.55 10/15/29",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "AMRZ 4.7 04/07/28",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "HLEND 5.45 01/14/28",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "JBHT 4.9 03/15/30",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "H 5 3/4 01/30/27",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "GM 4.6 01/08/31",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "GPN 5.3 08/15/29",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "GPN 4 7/8 11/15/30",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "HCA 5.2 06/01/28",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "HCA 5 5/8 09/01/28",
+      "ratio": 0.01,
       "shares": null
     },
     {
@@ -1690,13 +1691,19 @@
     },
     {
       "code": "",
-      "name": "KR 4 1/2 01/15/29",
+      "name": "MAR 4 7/8 05/15/29",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
-      "name": "LKQ 5 3/4 06/15/28",
+      "name": "MAR 4.9 04/15/29",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "KEYS 5.35 07/30/30",
       "ratio": 0.01,
       "shares": null
     },
@@ -1750,73 +1757,73 @@
     },
     {
       "code": "",
-      "name": "JBHT 4.9 03/15/30",
+      "name": "KR 4 1/2 01/15/29",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
-      "name": "H 5 3/4 01/30/27",
+      "name": "LKQ 5 3/4 06/15/28",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
-      "name": "INTC 5 02/21/31",
+      "name": "OMC 4 3/4 03/30/30",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
-      "name": "KEYS 5.35 07/30/30",
+      "name": "OHI 5.2 07/01/30",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
-      "name": "GPN 5.3 08/15/29",
+      "name": "NDSN 4 1/2 12/15/29",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
-      "name": "GPN 4 7/8 11/15/30",
+      "name": "NSC 5.05 08/01/30",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
-      "name": "GM 4.6 01/08/31",
+      "name": "ORCL 4.95 02/04/31",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
-      "name": "HPE 4.55 10/15/29",
+      "name": "PCG 5 1/4 07/01/30",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
-      "name": "AMRZ 4.7 04/07/28",
+      "name": "PVH 5 1/2 06/13/30",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
-      "name": "HLEND 5.45 01/14/28",
+      "name": "OCINCC 7 3/4 09/16/27",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
-      "name": "HCA 5.2 06/01/28",
+      "name": "PAYX 5.1 04/15/30",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
-      "name": "HCA 5 5/8 09/01/28",
+      "name": "OBDC 5.95 03/15/29",
       "ratio": 0.01,
       "shares": null
     },
@@ -1828,7 +1835,19 @@
     },
     {
       "code": "",
-      "name": "RPRX 5.15 09/02/29",
+      "name": "SOLV 5.4 03/01/29",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "SON 4.6 09/01/29",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "DGX 4 5/8 12/15/29",
       "ratio": 0.01,
       "shares": null
     },
@@ -1846,6 +1865,12 @@
     },
     {
       "code": "",
+      "name": "RPRX 5.15 09/02/29",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "SBUX 4.85 02/08/27",
       "ratio": 0.01,
       "shares": null
@@ -1858,13 +1883,7 @@
     },
     {
       "code": "",
-      "name": "SOLV 5.4 03/01/29",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "SON 4.6 09/01/29",
+      "name": "SNPS 4.85 04/01/30",
       "ratio": 0.01,
       "shares": null
     },
@@ -1900,72 +1919,6 @@
     },
     {
       "code": "",
-      "name": "VTR 4.75 11/15/30",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "VRSN 4 3/4 07/15/27",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "PCG 5 1/4 07/01/30",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "PVH 5 1/2 06/13/30",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "PAYX 5.1 04/15/30",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "DGX 4 5/8 12/15/29",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "ORCL 4.95 02/04/31",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "OMC 4 3/4 03/30/30",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "OHI 5.2 07/01/30",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "NDSN 4 1/2 12/15/29",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "NSC 5.05 08/01/30",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "FOXA 4.709 01/25/29",
       "ratio": 0.01,
       "shares": null
@@ -1979,6 +1932,18 @@
     {
       "code": "",
       "name": "GMT 4.7 04/01/29",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "EXPE 4 5/8 08/01/27",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "WTRG 4.8 08/15/27",
       "ratio": 0.01,
       "shares": null
     },
@@ -2008,55 +1973,7 @@
     },
     {
       "code": "",
-      "name": "EXPE 4 5/8 08/01/27",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "WTRG 4.8 08/15/27",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "ENBCN 4 1/2 02/15/31",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "EQIX 4.6 11/15/30",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "DG 5.2 07/05/28",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "DOW 4.8 01/15/31",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "DD 4.725 11/15/28",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "EIX 6 1/4 03/15/30",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "DELL 4.5 02/15/31",
       "ratio": 0.01,
       "shares": null
     },
@@ -2074,19 +1991,55 @@
     },
     {
       "code": "",
-      "name": "CAH 4 1/2 09/15/30",
+      "name": "DOW 4.8 01/15/31",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
-      "name": "CNC 4 5/8 12/15/29",
+      "name": "DD 4.725 11/15/28",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "ENBCN 4 1/2 02/15/31",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "EQIX 4.6 11/15/30",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "EIX 6 1/4 03/15/30",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
       "name": "STZ 4.8 05/01/30",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "DELL 4.5 02/15/31",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "CQP 4 1/2 10/01/29",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "LNG 4 5/8 10/15/28",
       "ratio": 0.01,
       "shares": null
     },
@@ -2116,79 +2069,43 @@
     },
     {
       "code": "",
-      "name": "BGC 6.15 04/02/30",
+      "name": "AN 4 3/4 06/01/30",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
-      "name": "BCRED 5.05 09/10/30",
+      "name": "ARW 5.15 08/21/29",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
-      "name": "BXSL 5.3 06/30/30",
+      "name": "AJG 4.85 12/15/29",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "AES 5.45 06/01/28",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "T 4.7 08/15/30",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "ARE 4.9 12/15/30",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
       "name": "BRO 4.9 06/23/30",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "BHF 5 5/8 05/15/30",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "OTF 6.1 03/15/28",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "BWP 4.8 05/03/29",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "BWA 4.95 08/15/29",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "CQP 4 1/2 10/01/29",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "LNG 4 5/8 10/15/28",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "CPB 5.2 03/19/27",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "CPB 5.2 03/21/29",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "CP 4.8 03/30/30",
       "ratio": 0.01,
       "shares": null
     },
@@ -2218,37 +2135,91 @@
     },
     {
       "code": "",
-      "name": "AN 4 3/4 06/01/30",
+      "name": "CAH 4 1/2 09/15/30",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
-      "name": "ARW 5.15 08/21/29",
+      "name": "CNC 4 5/8 12/15/29",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
-      "name": "AES 5.45 06/01/28",
+      "name": "CPB 5.2 03/19/27",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
-      "name": "T 4.7 08/15/30",
+      "name": "CPB 5.2 03/21/29",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
-      "name": "ARE 4.9 12/15/30",
+      "name": "CP 4.8 03/30/30",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
-      "name": "HLEND 5.85 06/05/30",
+      "name": "BCRED 5.05 09/10/30",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "BXSL 5.3 06/30/30",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "BGC 6.15 04/02/30",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "OTF 6.1 03/15/28",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "BWP 4.8 05/03/29",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "BWA 4.95 08/15/29",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "BHF 5 5/8 05/15/30",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "GSCRED 5 3/8 01/31/29",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "GSCRED 5.875 01/31/31",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "ACGCAP 4.8 10/24/30",
       "ratio": 0.01,
       "shares": null
     },
@@ -2260,7 +2231,7 @@
     },
     {
       "code": "",
-      "name": "GSCRED 5.875 01/31/31",
+      "name": "HLEND 5.85 06/05/30",
       "ratio": 0.01,
       "shares": null
     },
@@ -2278,25 +2249,25 @@
     },
     {
       "code": "",
+      "name": "YARNO 4 3/4 06/01/28",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "MAERSK 4 1/2 06/20/29",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
-      "name": "ACGCAP 4.8 10/24/30",
+      "name": "VRSN 4 3/4 07/15/27",
       "ratio": 0.01,
       "shares": null
     },
     {
       "code": "",
-      "name": "BCULC 6 1/8 06/15/29",
-      "ratio": 0.01,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "WTW 4.65 06/15/27",
+      "name": "VTR 4.75 11/15/30",
       "ratio": 0.01,
       "shares": null
     },
@@ -2309,6 +2280,24 @@
     {
       "code": "",
       "name": "WEC 4.75 01/15/28",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "WAB 4.9 05/29/30",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "WTW 4.65 06/15/27",
+      "ratio": 0.01,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "BCULC 6 1/8 06/15/29",
       "ratio": 0.01,
       "shares": null
     },

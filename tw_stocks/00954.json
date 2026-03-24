@@ -1,7 +1,7 @@
 {
   "id": "00954",
   "name": "中信日本半導體",
-  "fetched_at": "2026-03-16",
+  "fetched_at": "2026-03-23",
   "capital": {
     "ETF名稱": "中信日本半導體",
     "交易所代碼": "00954",
@@ -14,17 +14,17 @@
     "上市日期": "2024/08/20",
     "淨值幣別": "台幣",
     "ETF規模": "1,717.97(百萬台幣)(2026/02/28)",
-    "ETF市價": "14.5200（03/16）",
-    "成交量(股)": "3,414,148（月均:4,717,424）",
-    "ETF淨值": "14.4000（03/12）",
+    "ETF市價": "14.6000（03/20）",
+    "成交量(股)": "2,413,746（月均:4,185,160）",
+    "ETF淨值": "14.4900（03/19）",
     "投資風格": "",
-    "折溢價(%)": "0.00(月均:0.16)",
+    "折溢價(%)": "0.14(月均:0.04)",
     "投資標的": "股票型",
     "配息頻率": "年配",
     "投資區域": "日本",
-    "殖利率(%)": "N/A（03/16）",
+    "殖利率(%)": "N/A（03/20）",
     "經理費(%)": "0.6",
-    "年化標準差(%)": "40.26（03/16）",
+    "年化標準差(%)": "40.61（03/20）",
     "總管理費用(%)": "0.86 (含 0.26 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -43,234 +43,224 @@
   "sectors": [
     {
       "name": "資訊科技",
-      "amount_wan": 102929.0,
-      "ratio": 88.2
-    },
-    {
-      "name": "醫療保健",
-      "amount_wan": 8869.2,
-      "ratio": 7.6
-    },
-    {
-      "name": "工業",
-      "amount_wan": 2217.3,
-      "ratio": 1.9
+      "amount_wan": 165524.9,
+      "ratio": 98.3
     },
     {
       "name": "現金",
-      "amount_wan": 1633.8,
-      "ratio": 1.4
+      "amount_wan": 2694.2,
+      "ratio": 1.6
     },
     {
-      "name": "非日常生活消費",
-      "amount_wan": 1050.3,
-      "ratio": 0.9
+      "name": "工業",
+      "amount_wan": 336.8,
+      "ratio": 0.2
     }
   ],
   "holdings": [
     {
       "code": "6146.JP",
       "name": "DISCO",
-      "ratio": 15.8,
-      "shares": 18700
+      "ratio": 15.62,
+      "shares": 19000
     },
     {
       "code": "8035.JP",
       "name": "Tokyo Electron",
-      "ratio": 13.97,
-      "shares": 30000
+      "ratio": 14.2,
+      "shares": 30500
     },
     {
       "code": "6857.JP",
       "name": "Advantest",
-      "ratio": 13.93,
-      "shares": 48500
+      "ratio": 14.02,
+      "shares": 49400
     },
     {
       "code": "6723.JP",
       "name": "Renesas Electronics",
-      "ratio": 8.47,
-      "shares": 283500
-    },
-    {
-      "code": "6920.JP",
-      "name": "Lasertec Corporation",
-      "ratio": 6.29,
-      "shares": 13800
+      "ratio": 8.56,
+      "shares": 288700
     },
     {
       "code": "7735.JP",
       "name": "SCREEN Holdings",
-      "ratio": 5.75,
-      "shares": 25500
+      "ratio": 6.12,
+      "shares": 26000
+    },
+    {
+      "code": "6920.JP",
+      "name": "Lasertec Corporation",
+      "ratio": 5.86,
+      "shares": 14100
     },
     {
       "code": "6963.JP",
       "name": "ROHM",
-      "ratio": 5.01,
-      "shares": 125100
+      "ratio": 4.84,
+      "shares": 127200
     },
     {
       "code": "6525.JP",
       "name": "KOKUSAI ELECTRIC",
-      "ratio": 4.57,
-      "shares": 70600
+      "ratio": 4.59,
+      "shares": 71800
     },
     {
       "code": "7729.JP",
       "name": "Tokyo Seimitsu",
-      "ratio": 2.61,
-      "shares": 14900
+      "ratio": 2.57,
+      "shares": 15200
     },
     {
       "code": "3436.JP",
       "name": "SUMCO",
-      "ratio": 2.39,
-      "shares": 125800
+      "ratio": 2.55,
+      "shares": 128100
     },
     {
       "code": "6728.JP",
       "name": "Ulvac",
-      "ratio": 2.03,
-      "shares": 18300
+      "ratio": 2.02,
+      "shares": 18600
     },
     {
       "code": "6770.JP",
       "name": "ALPS ALPINE",
-      "ratio": 1.72,
-      "shares": 67000
+      "ratio": 1.79,
+      "shares": 68300
     },
     {
       "code": "6871.JP",
       "name": "MICRONICS",
-      "ratio": 1.58,
-      "shares": 12100
+      "ratio": 1.6,
+      "shares": 12400
     },
     {
       "code": "6526.JP",
       "name": "Socionext",
-      "ratio": 1.42,
-      "shares": 66300
-    },
-    {
-      "code": "6590.JP",
-      "name": "Shibaura Mechatronics",
-      "ratio": 1.32,
-      "shares": 23700
+      "ratio": 1.38,
+      "shares": 67500
     },
     {
       "code": "3132.JP",
       "name": "MACNICA HOLDINGS",
+      "ratio": 1.33,
+      "shares": 47200
+    },
+    {
+      "code": "6590.JP",
+      "name": "Shibaura Mechatronics",
       "ratio": 1.29,
-      "shares": 46300
+      "shares": 24200
     },
     {
       "code": "6323.JP",
       "name": "RORZE",
-      "ratio": 1.26,
-      "shares": 36400
+      "ratio": 1.22,
+      "shares": 37100
     },
     {
       "code": "268A.JP",
       "name": "Rigaku Holdings",
-      "ratio": 0.9,
-      "shares": 39100
+      "ratio": 0.96,
+      "shares": 39800
     },
     {
       "code": "6941.JP",
       "name": "YAMAICHI ELECTRONICS",
-      "ratio": 0.81,
-      "shares": 7500
-    },
-    {
-      "code": "6315.JP",
-      "name": "TOWA",
-      "ratio": 0.73,
-      "shares": 23300
+      "ratio": 0.79,
+      "shares": 7600
     },
     {
       "code": "429A.JP",
       "name": "Tekscend Photomask",
-      "ratio": 0.72,
-      "shares": 19500
+      "ratio": 0.71,
+      "shares": 19800
+    },
+    {
+      "code": "6315.JP",
+      "name": "TOWA",
+      "ratio": 0.71,
+      "shares": 23700
     },
     {
       "code": "167A.JP",
       "name": "Ryoyo Ryosan Holdings",
       "ratio": 0.69,
-      "shares": 18100
+      "shares": 18400
     },
     {
       "code": "6707.JP",
       "name": "Sanken Electric",
-      "ratio": 0.64,
-      "shares": 7700
+      "ratio": 0.62,
+      "shares": 7800
     },
     {
       "code": "6055.JP",
       "name": "JAPAN MATERIAL Co.,Ltd.",
-      "ratio": 0.55,
-      "shares": 25000
+      "ratio": 0.52,
+      "shares": 25400
     },
     {
       "code": "6875.JP",
       "name": "Megachips",
       "ratio": 0.46,
-      "shares": 4300
+      "shares": 4400
     },
     {
       "code": "6227.JP",
       "name": "AIMECHATEC",
-      "ratio": 0.41,
+      "ratio": 0.36,
       "shares": 1500
     },
     {
       "code": "6235.JP",
       "name": "OPTORUN",
-      "ratio": 0.38,
-      "shares": 10900
+      "ratio": 0.36,
+      "shares": 11200
     },
     {
       "code": "6855.JP",
       "name": "Japan Electronic Materials",
-      "ratio": 0.34,
-      "shares": 4000
+      "ratio": 0.33,
+      "shares": 4100
     },
     {
       "code": "6929.JP",
       "name": "Nippon Ceramic",
-      "ratio": 0.3,
-      "shares": 6900
+      "ratio": 0.29,
+      "shares": 7000
     },
     {
       "code": "6947.JP",
       "name": "Zuken",
       "ratio": 0.28,
-      "shares": 5300
+      "shares": 5400
+    },
+    {
+      "code": "6613.JP",
+      "name": "QD Laser",
+      "ratio": 0.25,
+      "shares": 13700
     },
     {
       "code": "2760.JP",
       "name": "Tokyo Electron Device",
       "ratio": 0.23,
-      "shares": 6100
+      "shares": 6200
     },
     {
       "code": "3445.JP",
       "name": "RS Technologies",
-      "ratio": 0.23,
-      "shares": 4600
+      "ratio": 0.22,
+      "shares": 4700
     },
     {
       "code": "7433.JP",
       "name": "Hakuto",
       "ratio": 0.21,
-      "shares": 4100
-    },
-    {
-      "code": "6613.JP",
-      "name": "QD Laser",
-      "ratio": 0.18,
-      "shares": 12700
+      "shares": 4200
     },
     {
       "code": "7717.JP",
@@ -281,14 +271,8 @@
     {
       "code": "6387.JP",
       "name": "SAMCO INC.",
-      "ratio": 0.13,
+      "ratio": 0.14,
       "shares": 1500
-    },
-    {
-      "code": "6627.JP",
-      "name": "Tera Probe, Inc.",
-      "ratio": 0.12,
-      "shares": 1100
     },
     {
       "code": "2737.JP",
@@ -297,16 +281,16 @@
       "shares": 800
     },
     {
+      "code": "6627.JP",
+      "name": "Tera Probe, Inc.",
+      "ratio": 0.11,
+      "shares": 1100
+    },
+    {
       "code": "6266.JP",
       "name": "TAZMO",
       "ratio": 0.1,
       "shares": 3600
-    },
-    {
-      "code": "6264.JP",
-      "name": "Marumae",
-      "ratio": 0.09,
-      "shares": 2200
     },
     {
       "code": "6677.JP",
@@ -315,9 +299,15 @@
       "shares": 2500
     },
     {
+      "code": "6264.JP",
+      "name": "Marumae",
+      "ratio": 0.08,
+      "shares": 2200
+    },
+    {
       "code": "6927.JP",
       "name": "Helios Techno Holding",
-      "ratio": 0.06,
+      "ratio": 0.05,
       "shares": 3600
     },
     {
@@ -339,16 +329,16 @@
       "shares": 1300
     },
     {
+      "code": "6337.JP",
+      "name": "TESEC",
+      "ratio": 0.03,
+      "shares": 800
+    },
+    {
       "code": "3321.JP",
       "name": "Mitachi",
       "ratio": 0.03,
       "shares": 1300
-    },
-    {
-      "code": "6337.JP",
-      "name": "TESEC",
-      "ratio": 0.02,
-      "shares": 800
     },
     {
       "code": "6338.JP",

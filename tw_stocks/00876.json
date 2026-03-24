@@ -1,7 +1,7 @@
 {
   "id": "00876",
   "name": "元大全球5G",
-  "fetched_at": "2026-03-16",
+  "fetched_at": "2026-03-23",
   "capital": {
     "ETF名稱": "元大全球5G",
     "交易所代碼": "00876",
@@ -14,17 +14,17 @@
     "上市日期": "2020/07/07",
     "淨值幣別": "台幣",
     "ETF規模": "5,105.58(百萬台幣)(2026/02/28)",
-    "ETF市價": "61.9000（03/16）",
-    "成交量(股)": "516,259（月均:379,443）",
-    "ETF淨值": "61.7500（03/13）",
+    "ETF市價": "60.9500（03/23）",
+    "成交量(股)": "76,549（月均:373,470）",
+    "ETF淨值": "62.3200（03/20）",
     "投資風格": "",
-    "折溢價(%)": "0.00(月均:0.13)",
+    "折溢價(%)": "1.49(月均:0.13)",
     "投資標的": "電信股",
     "配息頻率": "",
     "投資區域": "全球",
-    "殖利率(%)": "N/A（03/16）",
+    "殖利率(%)": "N/A（03/23）",
     "經理費(%)": "0.9",
-    "年化標準差(%)": "24.31（03/16）",
+    "年化標準差(%)": "28.42（03/23）",
     "總管理費用(%)": "1.22 (含 0.32 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -43,119 +43,125 @@
   "sectors": [
     {
       "name": "資訊科技",
-      "amount_wan": 402897.6,
-      "ratio": 86.8
+      "amount_wan": 447180.8,
+      "ratio": 88.04
     },
     {
       "name": "原材料",
-      "amount_wan": 25761.3,
-      "ratio": 5.55
-    },
-    {
-      "name": "現金",
-      "amount_wan": 16849.3,
-      "ratio": 3.63
+      "amount_wan": 29967.8,
+      "ratio": 5.9
     },
     {
       "name": "醫療保健",
-      "amount_wan": 13089.5,
-      "ratio": 2.82
+      "amount_wan": 13917.3,
+      "ratio": 2.74
+    },
+    {
+      "name": "現金",
+      "amount_wan": 10564.9,
+      "ratio": 2.08
     },
     {
       "name": "工業",
-      "amount_wan": 4177.5,
-      "ratio": 0.9
+      "amount_wan": 4876.1,
+      "ratio": 0.96
     },
     {
       "name": "非日常生活消費品",
-      "amount_wan": 1392.5,
-      "ratio": 0.3
+      "amount_wan": 1422.2,
+      "ratio": 0.28
     }
   ],
   "holdings": [
     {
       "code": "AMAT.US",
       "name": "Applied Materials",
-      "ratio": 8.02,
-      "shares": 35342
+      "ratio": 8.34,
+      "shares": 35366
     },
     {
       "code": "LRCX.US",
       "name": "Lam Research",
-      "ratio": 7.32,
-      "shares": 51886
+      "ratio": 7.82,
+      "shares": 51811
     },
     {
       "code": "",
       "name": "ASML HOLDING NV",
-      "ratio": 6.67,
-      "shares": 7421
+      "ratio": 6.43,
+      "shares": 7453
     },
     {
       "code": "2330.TW",
       "name": "台積電",
-      "ratio": 5.77,
+      "ratio": 5.67,
       "shares": 149000
     },
     {
       "code": "8035.JP",
       "name": "Tokyo Electron",
-      "ratio": 5.37,
-      "shares": 33600
+      "ratio": 5.56,
+      "shares": 33900
     },
     {
       "code": "GLW.US",
       "name": "Corning",
-      "ratio": 4.83,
-      "shares": 56298
+      "ratio": 4.66,
+      "shares": 56582
     },
     {
       "code": "2454.TW",
       "name": "聯發科",
-      "ratio": 4.07,
-      "shares": 114000
+      "ratio": 4.05,
+      "shares": 115000
     },
     {
       "code": "4063.JP",
       "name": "Shin-Etsu Chemical",
-      "ratio": 3.64,
-      "shares": 133600
+      "ratio": 3.59,
+      "shares": 134800
     },
     {
       "code": "QCOM.US",
       "name": "QUALCOMM",
-      "ratio": 3.21,
-      "shares": 37245
+      "ratio": 3.2,
+      "shares": 37268
     },
     {
       "code": "7741.JP",
       "name": "HOYA",
-      "ratio": 2.84,
-      "shares": 24500
+      "ratio": 2.87,
+      "shares": 24700
     },
     {
       "code": "TEL.US",
       "name": "TE Connectivity",
-      "ratio": 2.78,
-      "shares": 20982
+      "ratio": 2.72,
+      "shares": 21019
     },
     {
       "code": "MPWR.US",
       "name": "Monolithic Power Systems",
-      "ratio": 2.39,
-      "shares": 3417
-    },
-    {
-      "code": "KEYS.US",
-      "name": "Keysight Technologies",
-      "ratio": 2.28,
-      "shares": 12257
+      "ratio": 2.43,
+      "shares": 3447
     },
     {
       "code": "LITE.US",
       "name": "Lumentum",
-      "ratio": 2.09,
-      "shares": 5057
+      "ratio": 2.38,
+      "shares": 5102
+    },
+    {
+      "code": "KEYS.US",
+      "name": "Keysight Technologies",
+      "ratio": 2.25,
+      "shares": 12286
+    },
+    {
+      "code": "6981.JP",
+      "name": "Murata Mfg.",
+      "ratio": 2.05,
+      "shares": 131000
     },
     {
       "code": "6146.JP",
@@ -164,136 +170,130 @@
       "shares": 7000
     },
     {
-      "code": "6981.JP",
-      "name": "Murata Mfg.",
-      "ratio": 1.97,
-      "shares": 129800
+      "code": "3711.TW",
+      "name": "日月光投控",
+      "ratio": 1.79,
+      "shares": 251000
     },
     {
       "code": "",
       "name": "ASM INTERNATIONAL NV",
-      "ratio": 1.84,
-      "shares": 3518
-    },
-    {
-      "code": "3711.TW",
-      "name": "日月光投控",
-      "ratio": 1.76,
-      "shares": 249000
+      "ratio": 1.73,
+      "shares": 3533
     },
     {
       "code": "2383.TW",
       "name": "台光電",
-      "ratio": 1.35,
+      "ratio": 1.4,
       "shares": 24000
     },
     {
       "code": "6762.JP",
       "name": "TDK",
       "ratio": 1.24,
-      "shares": 138600
-    },
-    {
-      "code": "2303.TW",
-      "name": "聯電",
-      "ratio": 1.11,
-      "shares": 895000
+      "shares": 139900
     },
     {
       "code": "2345.TW",
       "name": "智邦",
-      "ratio": 1.09,
+      "ratio": 1.23,
       "shares": 37000
     },
     {
       "code": "3037.TW",
       "name": "欣興",
-      "ratio": 1.04,
+      "ratio": 1.13,
       "shares": 98255
     },
     {
-      "code": "6971.JP",
-      "name": "Kyocera",
-      "ratio": 1.03,
-      "shares": 97700
-    },
-    {
-      "code": "002475.SZ",
-      "name": "立訊精密",
-      "ratio": 1.01,
-      "shares": 212500
+      "code": "2303.TW",
+      "name": "聯電",
+      "ratio": 1.08,
+      "shares": 902000
     },
     {
       "code": "2360.TW",
       "name": "致茂",
-      "ratio": 0.98,
+      "ratio": 1.02,
       "shares": 31000
+    },
+    {
+      "code": "6971.JP",
+      "name": "Kyocera",
+      "ratio": 1.0,
+      "shares": 98500
+    },
+    {
+      "code": "002475.SZ",
+      "name": "立訊精密",
+      "ratio": 0.99,
+      "shares": 213600
     },
     {
       "code": "002371.SZ",
       "name": "北方華創",
-      "ratio": 0.8,
-      "shares": 18175
+      "ratio": 0.88,
+      "shares": 19575
     },
     {
       "code": "009150.KS",
       "name": "Samsung Elec Mech",
-      "ratio": 0.72,
-      "shares": 4065
-    },
-    {
-      "code": "6988.JP",
-      "name": "NITTO DENKO",
-      "ratio": 0.66,
-      "shares": 48400
+      "ratio": 0.84,
+      "shares": 4083
     },
     {
       "code": "002384.SZ",
       "name": "東山精密",
-      "ratio": 0.64,
-      "shares": 59800
+      "ratio": 0.67,
+      "shares": 60100
+    },
+    {
+      "code": "6988.JP",
+      "name": "NITTO DENKO",
+      "ratio": 0.65,
+      "shares": 48800
     },
     {
       "code": "4004.JP",
       "name": "Resonac",
-      "ratio": 0.61,
-      "shares": 13200
-    },
-    {
-      "code": "LSCC.US",
-      "name": "Lattice Semiconductor",
-      "ratio": 0.56,
-      "shares": 9756
-    },
-    {
-      "code": "000988.SZ",
-      "name": "華工科技",
-      "ratio": 0.54,
-      "shares": 47000
-    },
-    {
-      "code": "2449.TW",
-      "name": "京元電子",
-      "ratio": 0.54,
-      "shares": 88000
+      "ratio": 0.62,
+      "shares": 13300
     },
     {
       "code": "7735.JP",
       "name": "SCREEN Holdings",
-      "ratio": 0.53,
+      "ratio": 0.57,
       "shares": 6900
     },
     {
-      "code": "002463.SZ",
-      "name": "滬電股份",
-      "ratio": 0.49,
-      "shares": 62400
+      "code": "LSCC.US",
+      "name": "Lattice Semiconductor",
+      "ratio": 0.57,
+      "shares": 9798
+    },
+    {
+      "code": "2449.TW",
+      "name": "京元電子",
+      "ratio": 0.56,
+      "shares": 88000
     },
     {
       "code": "3665.TW",
       "name": "貿聯-KY",
-      "ratio": 0.47,
+      "ratio": 0.54,
       "shares": 14187
+    },
+    {
+      "code": "000988.SZ",
+      "name": "華工科技",
+      "ratio": 0.53,
+      "shares": 47200
+    },
+    {
+      "code": "002463.SZ",
+      "name": "滬電股份",
+      "ratio": 0.51,
+      "shares": 62700
     },
     {
       "code": "2059.TW",
@@ -302,16 +302,22 @@
       "shares": 6000
     },
     {
+      "code": "2313.TW",
+      "name": "華通",
+      "ratio": 0.4,
+      "shares": 86000
+    },
+    {
       "code": "3008.TW",
       "name": "大立光",
       "ratio": 0.39,
       "shares": 8000
     },
     {
-      "code": "2313.TW",
-      "name": "華通",
-      "ratio": 0.38,
-      "shares": 86000
+      "code": "2327.TW",
+      "name": "國巨",
+      "ratio": 0.39,
+      "shares": 69088
     },
     {
       "code": "1347.HK",
@@ -320,22 +326,10 @@
       "shares": 51000
     },
     {
-      "code": "2327.TW",
-      "name": "國巨",
-      "ratio": 0.37,
-      "shares": 69088
-    },
-    {
       "code": "2379.TW",
       "name": "瑞昱",
-      "ratio": 0.36,
+      "ratio": 0.37,
       "shares": 37000
-    },
-    {
-      "code": "6869.HK",
-      "name": "長飛光纖光纜",
-      "ratio": 0.35,
-      "shares": 26000
     },
     {
       "code": "3034.TW",
@@ -344,52 +338,46 @@
       "shares": 44000
     },
     {
-      "code": "600183.SH",
-      "name": "生益科技",
-      "ratio": 0.35,
-      "shares": 56900
-    },
-    {
       "code": "6525.JP",
       "name": "KOKUSAI ELECTRIC",
+      "ratio": 0.35,
+      "shares": 15400
+    },
+    {
+      "code": "6869.HK",
+      "name": "長飛光纖光纜",
       "ratio": 0.34,
-      "shares": 15300
+      "shares": 26000
     },
     {
       "code": "ESI.US",
       "name": "Element Solutions",
       "ratio": 0.34,
-      "shares": 16298
+      "shares": 16369
     },
     {
       "code": "VIAV.US",
       "name": "Viavi Solutions",
-      "ratio": 0.32,
-      "shares": 15919
+      "ratio": 0.33,
+      "shares": 16060
+    },
+    {
+      "code": "600183.SH",
+      "name": "生益科技",
+      "ratio": 0.33,
+      "shares": 57400
     },
     {
       "code": "AMKR.US",
       "name": "Amkor",
-      "ratio": 0.3,
-      "shares": 10373
+      "ratio": 0.32,
+      "shares": 10419
     },
     {
       "code": "1488.JP",
       "name": "iFreeETF Tokyo Stock Exchange REIT Index",
-      "ratio": 0.29,
-      "shares": 8500
-    },
-    {
-      "code": "600549.SH",
-      "name": "廈門鎢業",
-      "ratio": 0.28,
-      "shares": 47400
-    },
-    {
-      "code": "600584.SH",
-      "name": "長電科技",
-      "ratio": 0.28,
-      "shares": 64700
+      "ratio": 0.3,
+      "shares": 8600
     },
     {
       "code": "002916.SZ",
@@ -398,22 +386,22 @@
       "shares": 11310
     },
     {
+      "code": "600584.SH",
+      "name": "長電科技",
+      "ratio": 0.26,
+      "shares": 65000
+    },
+    {
+      "code": "600549.SH",
+      "name": "廈門鎢業",
+      "ratio": 0.25,
+      "shares": 47600
+    },
+    {
       "code": "603296.SH",
       "name": "華勤技術",
-      "ratio": 0.26,
-      "shares": 29800
-    },
-    {
-      "code": "002156.SZ",
-      "name": "通富微電",
       "ratio": 0.25,
-      "shares": 56800
-    },
-    {
-      "code": "002008.SZ",
-      "name": "大族激光",
-      "ratio": 0.24,
-      "shares": 36000
+      "shares": 30000
     },
     {
       "code": "6239.TW",
@@ -424,92 +412,74 @@
     {
       "code": "4958.TW",
       "name": "臻鼎-KY",
-      "ratio": 0.21,
+      "ratio": 0.23,
+      "shares": 54000
+    },
+    {
+      "code": "002156.SZ",
+      "name": "通富微電",
+      "ratio": 0.23,
       "shares": 53000
     },
     {
-      "code": "002049.SZ",
-      "name": "紫光國微",
-      "ratio": 0.21,
-      "shares": 29400
-    },
-    {
-      "code": "002281.SZ",
-      "name": "光迅科技",
-      "ratio": 0.21,
-      "shares": 24100
+      "code": "002008.SZ",
+      "name": "大族激光",
+      "ratio": 0.22,
+      "shares": 36200
     },
     {
       "code": "2324.TW",
       "name": "仁寶",
-      "ratio": 0.21,
-      "shares": 314000
+      "ratio": 0.22,
+      "shares": 316000
     },
     {
       "code": "BDC.US",
       "name": "Belden",
       "ratio": 0.21,
-      "shares": 2803
+      "shares": 2776
     },
     {
       "code": "OLED.US",
       "name": "Universal Display Corporation",
       "ratio": 0.2,
-      "shares": 3169
+      "shares": 3183
+    },
+    {
+      "code": "002049.SZ",
+      "name": "紫光國微",
+      "ratio": 0.2,
+      "shares": 29500
+    },
+    {
+      "code": "002281.SZ",
+      "name": "光迅科技",
+      "ratio": 0.19,
+      "shares": 24200
     },
     {
       "code": "7729.JP",
       "name": "Tokyo Seimitsu",
-      "ratio": 0.19,
-      "shares": 3100
-    },
-    {
-      "code": "002340.SZ",
-      "name": "格林美",
-      "ratio": 0.19,
-      "shares": 219100
-    },
-    {
-      "code": "6965.JP",
-      "name": "Hamamatsu Photonics",
       "ratio": 0.18,
-      "shares": 21300
+      "shares": 3100
     },
     {
       "code": "7731.JP",
       "name": "Nikon",
       "ratio": 0.17,
-      "shares": 20700
+      "shares": 20900
     },
     {
-      "code": "600498.SH",
-      "name": "烽火通信",
-      "ratio": 0.16,
-      "shares": 31500
+      "code": "002340.SZ",
+      "name": "格林美",
+      "ratio": 0.17,
+      "shares": 219100
     },
     {
-      "code": "002185.SZ",
-      "name": "華天科技",
-      "ratio": 0.16,
-      "shares": 118200
-    },
-    {
-      "code": "002273.SZ",
-      "name": "水晶光電",
-      "ratio": 0.15,
-      "shares": 55700
-    },
-    {
-      "code": "002938.SZ",
-      "name": "鵬鼎控股",
-      "ratio": 0.15,
-      "shares": 30462
-    },
-    {
-      "code": "603659.SH",
-      "name": "璞泰來",
-      "ratio": 0.15,
-      "shares": 46611
+      "code": "6965.JP",
+      "name": "Hamamatsu Photonics",
+      "ratio": 0.17,
+      "shares": 21500
     },
     {
       "code": "6415.TW",
@@ -518,10 +488,28 @@
       "shares": 26000
     },
     {
-      "code": "SXI.US",
-      "name": "Standex",
+      "code": "002185.SZ",
+      "name": "華天科技",
       "ratio": 0.15,
-      "shares": 864
+      "shares": 118700
+    },
+    {
+      "code": "002938.SZ",
+      "name": "鵬鼎控股",
+      "ratio": 0.15,
+      "shares": 30562
+    },
+    {
+      "code": "0285.HK",
+      "name": "比亞迪電子",
+      "ratio": 0.15,
+      "shares": 55500
+    },
+    {
+      "code": "000021.SZ",
+      "name": "深科技",
+      "ratio": 0.14,
+      "shares": 48500
     },
     {
       "code": "6728.JP",
@@ -530,34 +518,34 @@
       "shares": 3600
     },
     {
-      "code": "0285.HK",
-      "name": "比亞迪電子",
+      "code": "603659.SH",
+      "name": "璞泰來",
       "ratio": 0.14,
-      "shares": 55500
+      "shares": 46811
     },
     {
-      "code": "000021.SZ",
-      "name": "深科技",
+      "code": "600498.SH",
+      "name": "烽火通信",
       "ratio": 0.14,
-      "shares": 48200
+      "shares": 33400
     },
     {
-      "code": "002850.SZ",
-      "name": "科達利",
-      "ratio": 0.13,
-      "shares": 8100
+      "code": "PI.US",
+      "name": "Impinj",
+      "ratio": 0.14,
+      "shares": 2166
     },
     {
-      "code": "603083.SH",
-      "name": "劍橋科技",
-      "ratio": 0.13,
-      "shares": 11100
+      "code": "SXI.US",
+      "name": "Standex",
+      "ratio": 0.14,
+      "shares": 868
     },
     {
       "code": "600601.SH",
       "name": "方正科技",
       "ratio": 0.13,
-      "shares": 130200
+      "shares": 130800
     },
     {
       "code": "4626.JP",
@@ -566,106 +554,118 @@
       "shares": 6300
     },
     {
-      "code": "PI.US",
-      "name": "Impinj",
+      "code": "002273.SZ",
+      "name": "水晶光電",
       "ratio": 0.13,
-      "shares": 2147
-    },
-    {
-      "code": "603228.SH",
-      "name": "景旺電子",
-      "ratio": 0.12,
-      "shares": 19700
-    },
-    {
-      "code": "ACLS.US",
-      "name": "Axcelis Technologies, Inc.",
-      "ratio": 0.12,
-      "shares": 2211
-    },
-    {
-      "code": "4980.JP",
-      "name": "Dexerials",
-      "ratio": 0.12,
-      "shares": 12600
+      "shares": 56200
     },
     {
       "code": "002138.SZ",
       "name": "順絡電子",
       "ratio": 0.12,
-      "shares": 33200
+      "shares": 33300
     },
     {
-      "code": "002222.SZ",
-      "name": "福晶科技",
-      "ratio": 0.11,
-      "shares": 17400
+      "code": "002850.SZ",
+      "name": "科達利",
+      "ratio": 0.12,
+      "shares": 8100
     },
     {
-      "code": "002409.SZ",
-      "name": "雅克科技",
-      "ratio": 0.11,
-      "shares": 12900
+      "code": "4980.JP",
+      "name": "Dexerials",
+      "ratio": 0.12,
+      "shares": 12700
+    },
+    {
+      "code": "603083.SH",
+      "name": "劍橋科技",
+      "ratio": 0.12,
+      "shares": 11100
     },
     {
       "code": "6770.JP",
       "name": "ALPS ALPINE",
-      "ratio": 0.11,
-      "shares": 12700
+      "ratio": 0.12,
+      "shares": 12800
     },
     {
-      "code": "603920.SH",
-      "name": "世運電路",
+      "code": "ACLS.US",
+      "name": "Axcelis Technologies, Inc.",
+      "ratio": 0.12,
+      "shares": 2199
+    },
+    {
+      "code": "603228.SH",
+      "name": "景旺電子",
+      "ratio": 0.11,
+      "shares": 20000
+    },
+    {
+      "code": "002222.SZ",
+      "name": "福晶科技",
       "ratio": 0.1,
-      "shares": 18900
+      "shares": 17600
+    },
+    {
+      "code": "002409.SZ",
+      "name": "雅克科技",
+      "ratio": 0.1,
+      "shares": 13000
     },
     {
       "code": "KN.US",
       "name": "Knowles",
       "ratio": 0.1,
-      "shares": 6073
+      "shares": 6082
     },
     {
-      "code": "000636.SZ",
-      "name": "風華高科",
+      "code": "603920.SH",
+      "name": "世運電路",
       "ratio": 0.09,
-      "shares": 41300
+      "shares": 19100
     },
     {
       "code": "603160.SH",
       "name": "匯頂科技",
       "ratio": 0.08,
-      "shares": 12100
+      "shares": 12200
     },
     {
-      "code": "600171.SH",
-      "name": "上海貝嶺",
-      "ratio": 0.07,
-      "shares": 24800
-    },
-    {
-      "code": "603005.SH",
-      "name": "晶方科技",
-      "ratio": 0.07,
-      "shares": 25700
+      "code": "000636.SZ",
+      "name": "風華高科",
+      "ratio": 0.08,
+      "shares": 41500
     },
     {
       "code": "002484.SZ",
       "name": "江海股份",
       "ratio": 0.07,
-      "shares": 25100
+      "shares": 25200
+    },
+    {
+      "code": "600171.SH",
+      "name": "上海貝嶺",
+      "ratio": 0.07,
+      "shares": 24900
+    },
+    {
+      "code": "603005.SH",
+      "name": "晶方科技",
+      "ratio": 0.07,
+      "shares": 25800
     },
     {
       "code": "603341.SH",
       "name": "龍旗科技",
       "ratio": 0.06,
-      "shares": 15300
+      "shares": 15400
     },
     {
       "code": "600366.SH",
       "name": "寧波韻升",
-      "ratio": 0.05,
-      "shares": 36400
+      "ratio": 0.04,
+      "shares": 36500
     }
   ]
 }

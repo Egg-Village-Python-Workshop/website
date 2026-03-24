@@ -1,7 +1,7 @@
 {
   "id": "00636K",
   "name": "國泰中國A50+U",
-  "fetched_at": "2026-03-16",
+  "fetched_at": "2026-03-23",
   "capital": {
     "ETF名稱": "國泰中國A50+U",
     "交易所代碼": "00636K",
@@ -14,17 +14,17 @@
     "上市日期": "2017/10/24",
     "淨值幣別": "美元",
     "ETF規模": "3,604.61(百萬台幣)(2026/02/28)",
-    "ETF市價": "8.5100（03/16）",
+    "ETF市價": "8.5800（03/20）",
     "成交量(股)": "200（月均:215）",
-    "ETF淨值": "8.4900（03/13）",
+    "ETF淨值": "8.4900（03/20）",
     "投資風格": "",
-    "折溢價(%)": "0.35(月均:0.06)",
+    "折溢價(%)": "1.06(月均:0.22)",
     "投資標的": "股票型",
     "配息頻率": "",
     "投資區域": "中國",
-    "殖利率(%)": "N/A（03/16）",
+    "殖利率(%)": "N/A（03/20）",
     "經理費(%)": "0.95",
-    "年化標準差(%)": "13.56（03/16）",
+    "年化標準差(%)": "10.94（03/20）",
     "總管理費用(%)": "1.53 (含 0.58 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -43,354 +43,343 @@
   "sectors": [
     {
       "name": "金融",
-      "amount_wan": 115636.1,
-      "ratio": 30.64
+      "amount_wan": 109212.9,
+      "ratio": 30.3
     },
     {
       "name": "核心消費",
-      "amount_wan": 52270.2,
-      "ratio": 13.85
+      "amount_wan": 52011.3,
+      "ratio": 14.43
     },
     {
       "name": "資訊技術",
-      "amount_wan": 47288.5,
-      "ratio": 12.53
+      "amount_wan": 44946.7,
+      "ratio": 12.47
     },
     {
       "name": "工業",
-      "amount_wan": 39627.3,
-      "ratio": 10.5
+      "amount_wan": 38242.5,
+      "ratio": 10.61
     },
     {
       "name": "能源",
-      "amount_wan": 24833.1,
-      "ratio": 6.58
+      "amount_wan": 24005.2,
+      "ratio": 6.66
     },
     {
       "name": "原材料",
-      "amount_wan": 23474.4,
-      "ratio": 6.22
+      "amount_wan": 22130.9,
+      "ratio": 6.14
     },
     {
       "name": "通訊服務",
-      "amount_wan": 21247.8,
-      "ratio": 5.63
+      "amount_wan": 18490.5,
+      "ratio": 5.13
     },
     {
       "name": "醫療保健",
-      "amount_wan": 16303.8,
-      "ratio": 4.32
+      "amount_wan": 15715.1,
+      "ratio": 4.36
     },
     {
       "name": "非核心消費",
-      "amount_wan": 15096.1,
-      "ratio": 4.0
+      "amount_wan": 14597.8,
+      "ratio": 4.05
     },
     {
       "name": "其他合計",
-      "amount_wan": 12076.9,
-      "ratio": 3.2
-    },
-    {
-      "name": "其他",
-      "amount_wan": 9548.3,
-      "ratio": 2.53
+      "amount_wan": 11606.1,
+      "ratio": 3.22
     }
   ],
   "holdings": [
     {
       "code": "600519.SH",
       "name": "貴州茅臺",
-      "ratio": 8.9,
+      "ratio": 9.12,
       "shares": 44519
     },
     {
       "code": "300750.SZ",
       "name": "寧德時代",
-      "ratio": 8.76,
-      "shares": 156040
+      "ratio": 8.75,
+      "shares": 149340
     },
     {
       "code": "600036.SH",
       "name": "招商銀行",
-      "ratio": 4.11,
-      "shares": 731056
-    },
-    {
-      "code": "601899.SH",
-      "name": "紫金礦業",
-      "ratio": 3.69,
-      "shares": 729669
+      "ratio": 4.1,
+      "shares": 727556
     },
     {
       "code": "600900.SH",
       "name": "長江電力",
-      "ratio": 3.36,
-      "shares": 867129
+      "ratio": 3.35,
+      "shares": 869829
+    },
+    {
+      "code": "601899.SH",
+      "name": "紫金礦業",
+      "ratio": 3.3,
+      "shares": 734069
     },
     {
       "code": "601318.SH",
       "name": "中國平安",
-      "ratio": 3.3,
+      "ratio": 3.23,
       "shares": 381409
-    },
-    {
-      "code": "601138.SH",
-      "name": "工業富聯",
-      "ratio": 3.02,
-      "shares": 407050
     },
     {
       "code": "300308.SZ",
       "name": "中際旭創",
-      "ratio": 3.01,
-      "shares": 39300
+      "ratio": 3.12,
+      "shares": 36000
     },
     {
       "code": "601288.SH",
       "name": "農業銀行",
-      "ratio": 2.85,
-      "shares": 3048700
-    },
-    {
-      "code": "688041.SH",
-      "name": "海光信息",
-      "ratio": 2.75,
-      "shares": 82400
+      "ratio": 2.92,
+      "shares": 3046800
     },
     {
       "code": "601398.SH",
       "name": "工商銀行",
-      "ratio": 2.74,
-      "shares": 2693127
+      "ratio": 2.85,
+      "shares": 2676827
+    },
+    {
+      "code": "601138.SH",
+      "name": "工業富聯",
+      "ratio": 2.84,
+      "shares": 398350
     },
     {
       "code": "002594.SZ",
       "name": "比亞迪",
-      "ratio": 2.71,
-      "shares": 192601
+      "ratio": 2.79,
+      "shares": 190701
+    },
+    {
+      "code": "688041.SH",
+      "name": "海光信息",
+      "ratio": 2.57,
+      "shares": 83600
     },
     {
       "code": "688256.SH",
       "name": "寒武紀",
-      "ratio": 2.31,
-      "shares": 14900
+      "ratio": 2.21,
+      "shares": 15200
+    },
+    {
+      "code": "300502.SZ",
+      "name": "新易盛",
+      "ratio": 2.17,
+      "shares": 32000
     },
     {
       "code": "000858.SZ",
       "name": "五糧液",
       "ratio": 2.0,
-      "shares": 137550
+      "shares": 137650
     },
     {
       "code": "601166.SH",
       "name": "興業銀行",
-      "ratio": 2.0,
-      "shares": 749966
-    },
-    {
-      "code": "300502.SZ",
-      "name": "新易盛",
-      "ratio": 1.97,
-      "shares": 35300
+      "ratio": 1.99,
+      "shares": 748066
     },
     {
       "code": "601328.SH",
       "name": "交通銀行",
-      "ratio": 1.83,
-      "shares": 1890800
-    },
-    {
-      "code": "300274.SZ",
-      "name": "陽光電源",
-      "ratio": 1.82,
-      "shares": 73500
-    },
-    {
-      "code": "002475.SZ",
-      "name": "立訊精密",
-      "ratio": 1.79,
-      "shares": 256869
+      "ratio": 1.84,
+      "shares": 1881400
     },
     {
       "code": "600276.SH",
       "name": "恒瑞醫藥",
-      "ratio": 1.76,
-      "shares": 226086
+      "ratio": 1.77,
+      "shares": 226486
     },
     {
-      "code": "603993.SH",
-      "name": "洛陽鉬業",
+      "code": "601857.SH",
+      "name": "中國石油",
       "ratio": 1.74,
-      "shares": 622500
+      "shares": 1002400
+    },
+    {
+      "code": "002475.SZ",
+      "name": "立訊精密",
+      "ratio": 1.72,
+      "shares": 251369
+    },
+    {
+      "code": "300274.SZ",
+      "name": "陽光電源",
+      "ratio": 1.72,
+      "shares": 69900
     },
     {
       "code": "600000.SH",
       "name": "浦發銀行",
       "ratio": 1.71,
-      "shares": 1180325
+      "shares": 1172225
+    },
+    {
+      "code": "601088.SH",
+      "name": "中國神華",
+      "ratio": 1.68,
+      "shares": 239717
     },
     {
       "code": "300059.SZ",
       "name": "東方財富",
       "ratio": 1.67,
-      "shares": 559398
-    },
-    {
-      "code": "601857.SH",
-      "name": "中國石油",
-      "ratio": 1.67,
-      "shares": 979500
+      "shares": 581198
     },
     {
       "code": "002371.SZ",
       "name": "北方華創",
-      "ratio": 1.66,
-      "shares": 25673
-    },
-    {
-      "code": "601088.SH",
-      "name": "中國神華",
-      "ratio": 1.66,
-      "shares": 239317
+      "ratio": 1.67,
+      "shares": 25173
     },
     {
       "code": "600030.SH",
       "name": "中信證券",
-      "ratio": 1.57,
-      "shares": 432355
+      "ratio": 1.55,
+      "shares": 432655
     },
     {
-      "code": "002714.SZ",
-      "name": "牧原股份",
-      "ratio": 1.36,
-      "shares": 193641
-    },
-    {
-      "code": "601601.SH",
-      "name": "中國太保",
-      "ratio": 1.34,
-      "shares": 242637
+      "code": "603993.SH",
+      "name": "洛陽鉬業",
+      "ratio": 1.54,
+      "shares": 619100
     },
     {
       "code": "601988.SH",
       "name": "中國銀行",
-      "ratio": 1.33,
-      "shares": 1751240
+      "ratio": 1.36,
+      "shares": 1738140
     },
     {
-      "code": "601211.SH",
-      "name": "國泰海通",
-      "ratio": 1.27,
-      "shares": 500544
+      "code": "601601.SH",
+      "name": "中國太保",
+      "ratio": 1.35,
+      "shares": 243537
+    },
+    {
+      "code": "002714.SZ",
+      "name": "牧原股份",
+      "ratio": 1.35,
+      "shares": 192241
     },
     {
       "code": "601225.SH",
       "name": "陜西煤業",
-      "ratio": 1.27,
-      "shares": 343600
+      "ratio": 1.31,
+      "shares": 339700
+    },
+    {
+      "code": "601211.SH",
+      "name": "國泰海通",
+      "ratio": 1.24,
+      "shares": 497144
+    },
+    {
+      "code": "600309.SH",
+      "name": "萬華化學",
+      "ratio": 1.23,
+      "shares": 112300
+    },
+    {
+      "code": "A",
+      "name": "Suzhou TFC Optical Communication",
+      "ratio": 1.16,
+      "shares": 26300
     },
     {
       "code": "603259.SH",
       "name": "藥明康德",
-      "ratio": 1.13,
-      "shares": 87700
+      "ratio": 1.12,
+      "shares": 87100
     },
     {
       "code": "601816.SH",
       "name": "京滬高鐵",
       "ratio": 1.11,
-      "shares": 1545200
+      "shares": 1541900
+    },
+    {
+      "code": "000001.SZ",
+      "name": "平安銀行",
+      "ratio": 1.05,
+      "shares": 689480
     },
     {
       "code": "300760.SZ",
       "name": "邁瑞醫療",
-      "ratio": 1.09,
+      "ratio": 1.04,
       "shares": 43100
     },
     {
       "code": "601668.SH",
       "name": "中國建筑",
-      "ratio": 1.07,
-      "shares": 1464400
-    },
-    {
-      "code": "000001.SZ",
-      "name": "平安銀行",
-      "ratio": 1.06,
-      "shares": 687780
+      "ratio": 1.04,
+      "shares": 1467200
     },
     {
       "code": "600028.SH",
       "name": "中國石化",
       "ratio": 1.01,
-      "shares": 1133336
-    },
-    {
-      "code": "600809.SH",
-      "name": "山西汾酒",
-      "ratio": 0.97,
-      "shares": 43242
+      "shares": 1168136
     },
     {
       "code": "601939.SH",
       "name": "建設銀行",
-      "ratio": 0.97,
-      "shares": 750700
+      "ratio": 1.0,
+      "shares": 750000
     },
     {
       "code": "603288.SH",
       "name": "海天味業",
-      "ratio": 0.88,
-      "shares": 165537
-    },
-    {
-      "code": "600690.SH",
-      "name": "海爾智家",
-      "ratio": 0.79,
-      "shares": 221661
-    },
-    {
-      "code": "601766.SH",
-      "name": "中國中車",
-      "ratio": 0.78,
-      "shares": 862150
-    },
-    {
-      "code": "601818.SH",
-      "name": "光大銀行",
-      "ratio": 0.77,
-      "shares": 1644700
+      "ratio": 0.89,
+      "shares": 165937
     },
     {
       "code": "000651.SZ",
       "name": "格力電器",
       "ratio": 0.77,
-      "shares": 141828
+      "shares": 141928
+    },
+    {
+      "code": "600690.SH",
+      "name": "海爾智家",
+      "ratio": 0.76,
+      "shares": 219461
     },
     {
       "code": "601658.SH",
       "name": "郵儲銀行",
       "ratio": 0.74,
-      "shares": 1032700
+      "shares": 1032600
     },
     {
       "code": "601998.SH",
       "name": "中信銀行",
-      "ratio": 0.49,
-      "shares": 459151
+      "ratio": 0.51,
+      "shares": 454751
     },
     {
       "code": "601319.SH",
       "name": "中國人保",
-      "ratio": 0.44,
-      "shares": 367500
+      "ratio": 0.43,
+      "shares": 369400
     },
     {
       "code": "688235.SH",
       "name": "百濟神州",
-      "ratio": 0.14,
-      "shares": 4200
+      "ratio": 0.13,
+      "shares": 4000
     }
   ]
 }

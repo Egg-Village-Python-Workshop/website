@@ -1,7 +1,7 @@
 {
   "id": "00762",
   "name": "元大全球AI",
-  "fetched_at": "2026-03-16",
+  "fetched_at": "2026-03-23",
   "capital": {
     "ETF名稱": "元大全球AI",
     "交易所代碼": "00762",
@@ -14,17 +14,17 @@
     "上市日期": "2019/01/23",
     "淨值幣別": "台幣",
     "ETF規模": "4,258.71(百萬台幣)(2026/02/28)",
-    "ETF市價": "83.1000（03/16）",
-    "成交量(股)": "138,021（月均:407,541）",
-    "ETF淨值": "82.3900（03/13）",
+    "ETF市價": "80.9500（03/23）",
+    "成交量(股)": "263,115（月均:360,070）",
+    "ETF淨值": "81.5400（03/20）",
     "投資風格": "",
-    "折溢價(%)": "0.19(月均:-0.30)",
+    "折溢價(%)": "2.77(月均:-0.31)",
     "投資標的": "資訊科技股",
     "配息頻率": "",
     "投資區域": "全球",
-    "殖利率(%)": "N/A（03/16）",
+    "殖利率(%)": "N/A（03/23）",
     "經理費(%)": "0.9",
-    "年化標準差(%)": "23.93（03/16）",
+    "年化標準差(%)": "24.43（03/23）",
     "總管理費用(%)": "1.21 (含 0.31 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -43,309 +43,309 @@
   "sectors": [
     {
       "name": "資訊科技",
-      "amount_wan": 315518.9,
-      "ratio": 69.43
+      "amount_wan": 293406.9,
+      "ratio": 69.4
     },
     {
       "name": "通訊服務",
-      "amount_wan": 83071.9,
-      "ratio": 18.28
+      "amount_wan": 70603.7,
+      "ratio": 16.7
     },
     {
       "name": "房地產",
-      "amount_wan": 37536.9,
-      "ratio": 8.26
+      "amount_wan": 41305.3,
+      "ratio": 9.77
     },
     {
       "name": "現金",
-      "amount_wan": 16223.6,
-      "ratio": 3.57
+      "amount_wan": 15600.5,
+      "ratio": 3.69
     },
     {
       "name": "醫療保健",
-      "amount_wan": 1408.8,
-      "ratio": 0.31
+      "amount_wan": 1352.9,
+      "ratio": 0.32
     },
     {
       "name": "非日常生活消費品",
-      "amount_wan": 545.3,
-      "ratio": 0.12
+      "amount_wan": 380.5,
+      "ratio": 0.09
     },
     {
       "name": "工業",
-      "amount_wan": 136.3,
+      "amount_wan": 126.8,
       "ratio": 0.03
     }
   ],
   "holdings": [
     {
+      "code": "MSFT.US",
+      "name": "Microsoft",
+      "ratio": 7.98,
+      "shares": 27081
+    },
+    {
       "code": "NVDA.US",
       "name": "NVIDIA",
-      "ratio": 8.58,
-      "shares": 63388
+      "ratio": 7.92,
+      "shares": 59424
     },
     {
       "code": "META.US",
       "name": "Meta",
-      "ratio": 8.1,
-      "shares": 17571
-    },
-    {
-      "code": "MSFT.US",
-      "name": "Microsoft",
-      "ratio": 7.05,
-      "shares": 23722
-    },
-    {
-      "code": "AVGO.US",
-      "name": "Broadcom",
-      "ratio": 6.83,
-      "shares": 28222
-    },
-    {
-      "code": "EQIX.US",
-      "name": "Equinix",
-      "ratio": 6.04,
-      "shares": 8289
-    },
-    {
-      "code": "WDC.US",
-      "name": "Western Digital",
-      "ratio": 5.9,
-      "shares": 28864
-    },
-    {
-      "code": "INTC.US",
-      "name": "Intel",
-      "ratio": 5.33,
-      "shares": 155115
-    },
-    {
-      "code": "STX.US",
-      "name": "Seagate",
-      "ratio": 5.3,
-      "shares": 18393
+      "ratio": 7.81,
+      "shares": 17053
     },
     {
       "code": "GOOGL.US",
       "name": "Alphabet - Class A Common Stock",
-      "ratio": 4.69,
-      "shares": 20648
+      "ratio": 7.79,
+      "shares": 33538
+    },
+    {
+      "code": "WDC.US",
+      "name": "Western Digital",
+      "ratio": 5.3,
+      "shares": 23439
+    },
+    {
+      "code": "STX.US",
+      "name": "Seagate",
+      "ratio": 5.19,
+      "shares": 16369
     },
     {
       "code": "AMD.US",
       "name": "AMD",
-      "ratio": 4.23,
-      "shares": 29134
+      "ratio": 4.81,
+      "shares": 30958
+    },
+    {
+      "code": "EQIX.US",
+      "name": "Equinix",
+      "ratio": 4.66,
+      "shares": 6302
     },
     {
       "code": "PLTR.US",
       "name": "Palantir Technologies",
-      "ratio": 3.9,
-      "shares": 34399
-    },
-    {
-      "code": "SNOW.US",
-      "name": "Snowflake",
-      "ratio": 3.84,
-      "shares": 28602
+      "ratio": 4.64,
+      "shares": 39880
     },
     {
       "code": "",
       "name": "SAP SE",
-      "ratio": 3.75,
-      "shares": 26216
+      "ratio": 4.37,
+      "shares": 31809
+    },
+    {
+      "code": "AVGO.US",
+      "name": "Broadcom",
+      "ratio": 4.36,
+      "shares": 18221
+    },
+    {
+      "code": "INTC.US",
+      "name": "Intel",
+      "ratio": 4.35,
+      "shares": 128520
+    },
+    {
+      "code": "SNOW.US",
+      "name": "Snowflake",
+      "ratio": 3.65,
+      "shares": 28186
     },
     {
       "code": "DLR.US",
       "name": "Digital Realty Trust",
-      "ratio": 3.66,
-      "shares": 27155
+      "ratio": 3.59,
+      "shares": 26878
     },
     {
       "code": "MSTR.US",
       "name": "Strategy",
-      "ratio": 2.37,
-      "shares": 22601
+      "ratio": 2.71,
+      "shares": 25872
     },
     {
       "code": "285A.JP",
       "name": "Kioxia Holdings",
-      "ratio": 1.21,
+      "ratio": 1.33,
       "shares": 12200
     },
     {
       "code": "RDDT.US",
       "name": "Reddit",
-      "ratio": 1.16,
-      "shares": 11635
-    },
-    {
-      "code": "CRDO.US",
-      "name": "Credo",
-      "ratio": 1.1,
-      "shares": 12484
-    },
-    {
-      "code": "9888.HK",
-      "name": "百度集團－ＳＷ",
-      "ratio": 1.07,
-      "shares": 91350
+      "ratio": 1.24,
+      "shares": 11509
     },
     {
       "code": "ARM.US",
       "name": "Arm",
+      "ratio": 1.16,
+      "shares": 11372
+    },
+    {
+      "code": "9888.HK",
+      "name": "百度集團－ＳＷ",
+      "ratio": 1.04,
+      "shares": 91350
+    },
+    {
+      "code": "CRDO.US",
+      "name": "Credo",
       "ratio": 1.01,
-      "shares": 11671
+      "shares": 12717
     },
     {
       "code": "TYL.US",
       "name": "Tyler Technologies",
-      "ratio": 0.95,
-      "shares": 3632
+      "ratio": 0.96,
+      "shares": 3544
     },
     {
       "code": "NTAP.US",
       "name": "NetApp",
-      "ratio": 0.93,
-      "shares": 12556
+      "ratio": 0.95,
+      "shares": 12155
     },
     {
       "code": "LSCC.US",
       "name": "Lattice Semiconductor",
-      "ratio": 0.74,
-      "shares": 11548
+      "ratio": 0.77,
+      "shares": 11267
+    },
+    {
+      "code": "PSTG.US",
+      "name": "Everpure",
+      "ratio": 0.7,
+      "shares": 14588
     },
     {
       "code": "PINS.US",
       "name": "Pinterest",
       "ratio": 0.69,
-      "shares": 50301
-    },
-    {
-      "code": "PSTG.US",
-      "name": "Everpure",
-      "ratio": 0.69,
-      "shares": 14883
+      "shares": 48222
     },
     {
       "code": "DOCU.US",
       "name": "Docusign",
       "ratio": 0.6,
-      "shares": 16977
+      "shares": 16496
     },
     {
       "code": "3661.TW",
       "name": "世芯-KY",
-      "ratio": 0.52,
+      "ratio": 0.57,
       "shares": 7000
+    },
+    {
+      "code": "2337.TW",
+      "name": "旺宏",
+      "ratio": 0.55,
+      "shares": 143000
     },
     {
       "code": "CGNX.US",
       "name": "Cognex",
-      "ratio": 0.51,
-      "shares": 14149
+      "ratio": 0.52,
+      "shares": 13649
     },
     {
       "code": "2344.TW",
       "name": "華邦電",
-      "ratio": 0.37,
+      "ratio": 0.38,
       "shares": 144000
     },
     {
       "code": "",
       "name": "NEXTDC LTD",
-      "ratio": 0.37,
+      "ratio": 0.38,
       "shares": 53686
-    },
-    {
-      "code": "2337.TW",
-      "name": "旺宏",
-      "ratio": 0.36,
-      "shares": 143000
     },
     {
       "code": "SNAP.US",
       "name": "Snap",
       "ratio": 0.35,
-      "shares": 103644
+      "shares": 100451
     },
     {
       "code": "ESTC.US",
       "name": "Elastic",
-      "ratio": 0.3,
-      "shares": 7812
+      "ratio": 0.32,
+      "shares": 7811
     },
     {
-      "code": "CFLT.US",
-      "name": "Confluent",
-      "ratio": 0.3,
-      "shares": 12873
+      "code": "3443.TW",
+      "name": "創意",
+      "ratio": 0.32,
+      "shares": 5000
     },
     {
       "code": "RDNT.US",
       "name": "RadNet",
       "ratio": 0.29,
-      "shares": 6117
-    },
-    {
-      "code": "3443.TW",
-      "name": "創意",
-      "ratio": 0.27,
-      "shares": 5000
-    },
-    {
-      "code": "688041.SH",
-      "name": "海光信息",
-      "ratio": 0.25,
-      "shares": 9846
+      "shares": 6051
     },
     {
       "code": "9698.HK",
       "name": "萬國數據－ＳＷ",
-      "ratio": 0.25,
+      "ratio": 0.27,
       "shares": 63400
     },
     {
-      "code": "BOX.US",
-      "name": "Box",
-      "ratio": 0.23,
-      "shares": 12231
+      "code": "688041.SH",
+      "name": "海光信息",
+      "ratio": 0.24,
+      "shares": 9846
     },
     {
       "code": "",
       "name": "KEPPEL DC REIT",
-      "ratio": 0.22,
+      "ratio": 0.23,
       "shares": 164000
+    },
+    {
+      "code": "BOX.US",
+      "name": "Box",
+      "ratio": 0.22,
+      "shares": 11797
     },
     {
       "code": "",
       "name": "FASTLY INC - CLASS A",
+      "ratio": 0.18,
+      "shares": 9196
+    },
+    {
+      "code": "0268.HK",
+      "name": "金蝶國際",
       "ratio": 0.17,
-      "shares": 9265
+      "shares": 175000
     },
     {
       "code": "TDC.US",
       "name": "Teradata",
       "ratio": 0.16,
-      "shares": 7868
+      "shares": 7677
     },
     {
-      "code": "0268.HK",
-      "name": "金蝶國際",
+      "code": "2451.TW",
+      "name": "創見",
       "ratio": 0.15,
-      "shares": 175000
+      "shares": 20000
     },
     {
       "code": "AMBA.US",
       "name": "Ambarella",
-      "ratio": 0.14,
-      "shares": 3604
+      "ratio": 0.15,
+      "shares": 3546
     },
     {
       "code": "3896.HK",
       "name": "金山雲",
-      "ratio": 0.13,
+      "ratio": 0.14,
       "shares": 194000
     },
     {
@@ -355,22 +355,16 @@
       "shares": 15100
     },
     {
-      "code": "2451.TW",
-      "name": "創見",
-      "ratio": 0.11,
-      "shares": 20000
-    },
-    {
       "code": "CLBT.US",
       "name": "Cellebrite",
       "ratio": 0.11,
-      "shares": 9976
+      "shares": 10222
     },
     {
-      "code": "VNET.US",
-      "name": "VNET",
+      "code": "",
+      "name": "IONOS GROUP SE",
       "ratio": 0.1,
-      "shares": 13129
+      "shares": 4612
     },
     {
       "code": "5269.TW",
@@ -385,22 +379,22 @@
       "shares": 4745
     },
     {
-      "code": "",
-      "name": "IONOS GROUP SE",
+      "code": "VNET.US",
+      "name": "VNET",
       "ratio": 0.08,
-      "shares": 4274
+      "shares": 11951
     },
     {
       "code": "GENI.US",
       "name": "Genius Sports",
       "ratio": 0.07,
-      "shares": 18609
+      "shares": 18679
     },
     {
       "code": "MXL.US",
       "name": "MaxLinear",
       "ratio": 0.06,
-      "shares": 4450
+      "shares": 4330
     },
     {
       "code": "6526.TW",
@@ -409,16 +403,16 @@
       "shares": 5000
     },
     {
-      "code": "3035.TW",
-      "name": "智原",
-      "ratio": 0.06,
-      "shares": 16811
-    },
-    {
       "code": "1385.HK",
       "name": "上海復旦",
       "ratio": 0.06,
       "shares": 14000
+    },
+    {
+      "code": "3035.TW",
+      "name": "智原",
+      "ratio": 0.06,
+      "shares": 16811
     },
     {
       "code": "3923.JP",
@@ -430,25 +424,31 @@
       "code": "CCOI.US",
       "name": "Cogent Communications",
       "ratio": 0.05,
-      "shares": 3682
+      "shares": 3776
     },
     {
       "code": "MOMO.US",
       "name": "Hello Group",
       "ratio": 0.05,
-      "shares": 10080
+      "shares": 9980
     },
     {
       "code": "CGNT.US",
       "name": "Cognyte Software",
       "ratio": 0.04,
-      "shares": 6160
+      "shares": 6016
     },
     {
       "code": "9911.HK",
       "name": "赤子城科技",
       "ratio": 0.04,
       "shares": 44000
+    },
+    {
+      "code": "CLVT.US",
+      "name": "Clarivate",
+      "ratio": 0.04,
+      "shares": 18371
     },
     {
       "code": "4478.JP",
@@ -461,12 +461,6 @@
       "name": "威盛",
       "ratio": 0.03,
       "shares": 26000
-    },
-    {
-      "code": "CLVT.US",
-      "name": "Clarivate",
-      "ratio": 0.03,
-      "shares": 17590
     }
   ]
 }

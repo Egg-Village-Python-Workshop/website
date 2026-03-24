@@ -1,7 +1,7 @@
 {
   "id": "00917",
   "name": "中信特選金融",
-  "fetched_at": "2026-03-16",
+  "fetched_at": "2026-03-23",
   "capital": {
     "ETF名稱": "中信特選金融",
     "交易所代碼": "00917",
@@ -14,17 +14,17 @@
     "上市日期": "2022/08/26",
     "淨值幣別": "台幣",
     "ETF規模": "1,537.86(百萬台幣)(2026/02/28)",
-    "ETF市價": "20.1300（03/16）",
-    "成交量(股)": "2,555,074（月均:1,776,512）",
-    "ETF淨值": "19.9700（03/12）",
+    "ETF市價": "20.2600（03/20）",
+    "成交量(股)": "1,681,192（月均:1,795,698）",
+    "ETF淨值": "20.2000（03/19）",
     "投資風格": "",
-    "折溢價(%)": "1.45(月均:0.57)",
+    "折溢價(%)": "0.30(月均:0.46)",
     "投資標的": "股票型",
     "配息頻率": "年配",
     "投資區域": "全球",
-    "殖利率(%)": "17.39（03/16）",
+    "殖利率(%)": "17.28（03/20）",
     "經理費(%)": "0.9",
-    "年化標準差(%)": "39.79（03/16）",
+    "年化標準差(%)": "32.97（03/20）",
     "總管理費用(%)": "1.23 (含 0.33 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -43,22 +43,22 @@
   "sectors": [
     {
       "name": "金融",
-      "amount_wan": 143558.4,
-      "ratio": 93.8
-    },
-    {
-      "name": "現金",
-      "amount_wan": 4132.3,
-      "ratio": 2.7
+      "amount_wan": 142207.6,
+      "ratio": 94.6
     },
     {
       "name": "工業",
-      "amount_wan": 3673.1,
-      "ratio": 2.4
+      "amount_wan": 3758.1,
+      "ratio": 2.5
+    },
+    {
+      "name": "現金",
+      "amount_wan": 2705.9,
+      "ratio": 1.8
     },
     {
       "name": "資訊科技",
-      "amount_wan": 1683.5,
+      "amount_wan": 1653.6,
       "ratio": 1.1
     }
   ],
@@ -66,103 +66,103 @@
     {
       "code": "JPM.US",
       "name": "JPMorgan Chase",
-      "ratio": 10.21,
+      "ratio": 10.24,
       "shares": 16890
     },
     {
       "code": "MS.US",
       "name": "Morgan Stanley",
-      "ratio": 7.01,
+      "ratio": 7.25,
       "shares": 21240
     },
     {
       "code": "BAC.US",
       "name": "Bank of America",
-      "ratio": 6.23,
+      "ratio": 6.24,
       "shares": 62580
     },
     {
       "code": "BLK.US",
       "name": "BlackRock",
-      "ratio": 4.98,
+      "ratio": 5.12,
       "shares": 2530
     },
     {
       "code": "",
       "name": "匯豐控股",
-      "ratio": 4.92,
+      "ratio": 4.76,
       "shares": 146760
     },
     {
       "code": "SPGI.US",
       "name": "S&P Global",
-      "ratio": 4.78,
+      "ratio": 4.76,
       "shares": 5310
-    },
-    {
-      "code": "GS.US",
-      "name": "Goldman Sachs",
-      "ratio": 4.26,
-      "shares": 2555
     },
     {
       "code": "WFC.US",
       "name": "Wells Fargo",
-      "ratio": 4.25,
+      "ratio": 4.41,
       "shares": 26900
+    },
+    {
+      "code": "GS.US",
+      "name": "Goldman Sachs",
+      "ratio": 4.39,
+      "shares": 2555
     },
     {
       "code": "CME.US",
       "name": "CME Group Inc.",
-      "ratio": 4.18,
+      "ratio": 4.09,
       "shares": 6300
     },
     {
       "code": "C.US",
       "name": "Citigroup",
-      "ratio": 3.45,
+      "ratio": 3.54,
       "shares": 15300
     },
     {
       "code": "ICE.US",
       "name": "Intercontinental Exchange",
-      "ratio": 3.37,
+      "ratio": 3.33,
       "shares": 9945
     },
     {
       "code": "BX.US",
       "name": "Blackstone",
-      "ratio": 2.92,
+      "ratio": 3.0,
       "shares": 12840
     },
     {
       "code": "MCO.US",
       "name": "Moody's",
-      "ratio": 2.86,
+      "ratio": 2.87,
       "shares": 3125
     },
     {
       "code": "0388.HK",
       "name": "香港交易所",
-      "ratio": 2.29,
+      "ratio": 2.24,
       "shares": 20940
     },
     {
       "code": "",
       "name": "倫敦證券交易所",
-      "ratio": 1.97,
+      "ratio": 1.95,
       "shares": 7940
     },
     {
       "code": "",
       "name": "法國巴黎銀行",
-      "ratio": 1.76,
+      "ratio": 1.7,
       "shares": 8460
     },
     {
       "code": "0939.HK",
       "name": "建設銀行",
-      "ratio": 1.63,
+      "ratio": 1.65,
       "shares": 757940
     },
     {
@@ -172,130 +172,130 @@
       "shares": 1270
     },
     {
-      "code": "BK.US",
-      "name": "Bank of New York Mellon",
-      "ratio": 1.46,
-      "shares": 5890
+      "code": "NDAQ.US",
+      "name": "Nasdaq",
+      "ratio": 1.45,
+      "shares": 7920
     },
     {
       "code": "USB.US",
       "name": "U.S. Bancorp",
-      "ratio": 1.45,
+      "ratio": 1.44,
       "shares": 13310
     },
     {
       "code": "PNC.US",
       "name": "PNC Financial Services",
-      "ratio": 1.44,
+      "ratio": 1.43,
       "shares": 3350
     },
     {
-      "code": "NDAQ.US",
-      "name": "Nasdaq",
-      "ratio": 1.44,
-      "shares": 7920
+      "code": "BK.US",
+      "name": "Bank of New York Mellon",
+      "ratio": 1.43,
+      "shares": 5890
+    },
+    {
+      "code": "1398.HK",
+      "name": "工商銀行",
+      "ratio": 1.33,
+      "shares": 744520
     },
     {
       "code": "",
       "name": "勞埃德銀行集團",
-      "ratio": 1.35,
+      "ratio": 1.3,
       "shares": 503820
     },
     {
       "code": "",
       "name": "巴克萊集團",
-      "ratio": 1.3,
+      "ratio": 1.25,
       "shares": 118200
-    },
-    {
-      "code": "1398.HK",
-      "name": "工商銀行",
-      "ratio": 1.28,
-      "shares": 744520
     },
     {
       "code": "",
       "name": "益百利公開有限公司",
-      "ratio": 1.25,
+      "ratio": 1.2,
       "shares": 16040
     },
     {
       "code": "CBOE.US",
       "name": "Cboe Global Markets",
-      "ratio": 1.13,
+      "ratio": 1.1,
       "shares": 1830
     },
     {
       "code": "",
       "name": "國民西敏集團公開有限公司",
-      "ratio": 1.1,
+      "ratio": 1.01,
       "shares": 68420
     },
     {
       "code": "FICO.US",
       "name": "Fair Isaac",
-      "ratio": 0.97,
+      "ratio": 0.96,
       "shares": 403
     },
     {
       "code": "NTRS.US",
       "name": "Northern Trust Corporation",
-      "ratio": 0.95,
+      "ratio": 0.94,
       "shares": 3260
-    },
-    {
-      "code": "",
-      "name": "德意志銀行",
-      "ratio": 0.93,
-      "shares": 14940
     },
     {
       "code": "3988.HK",
       "name": "中國銀行",
-      "ratio": 0.89,
+      "ratio": 0.91,
       "shares": 717260
     },
     {
       "code": "",
-      "name": "法國興業銀行",
-      "ratio": 0.86,
-      "shares": 5510
+      "name": "德意志銀行",
+      "ratio": 0.9,
+      "shares": 14940
     },
     {
-      "code": "EFX.US",
-      "name": "Equifax",
-      "ratio": 0.84,
-      "shares": 2130
+      "code": "",
+      "name": "法國興業銀行",
+      "ratio": 0.82,
+      "shares": 5510
     },
     {
       "code": "",
       "name": "渣打集團",
-      "ratio": 0.84,
+      "ratio": 0.82,
       "shares": 19120
+    },
+    {
+      "code": "EFX.US",
+      "name": "Equifax",
+      "ratio": 0.8,
+      "shares": 2130
     },
     {
       "code": "TROW.US",
       "name": "T. Rowe Price Group",
-      "ratio": 0.71,
+      "ratio": 0.69,
       "shares": 3763
     },
     {
       "code": "PFG.US",
       "name": "Principal Financial",
-      "ratio": 0.7,
+      "ratio": 0.69,
       "shares": 3830
-    },
-    {
-      "code": "",
-      "name": "泛歐交易所",
-      "ratio": 0.56,
-      "shares": 1640
     },
     {
       "code": "TW.US",
       "name": "Tradeweb Markets",
       "ratio": 0.54,
       "shares": 2030
+    },
+    {
+      "code": "",
+      "name": "泛歐交易所",
+      "ratio": 0.54,
+      "shares": 1640
     },
     {
       "code": "TRU.US",
@@ -306,7 +306,7 @@
     {
       "code": "EQH.US",
       "name": "Equitable Holdings",
-      "ratio": 0.4,
+      "ratio": 0.39,
       "shares": 5000
     },
     {
@@ -324,13 +324,13 @@
     {
       "code": "",
       "name": "聖詹姆斯廣場公開有限公司",
-      "ratio": 0.34,
+      "ratio": 0.32,
       "shares": 9200
     },
     {
       "code": "",
       "name": "法國農業信貸銀行",
-      "ratio": 0.31,
+      "ratio": 0.3,
       "shares": 7690
     },
     {
@@ -342,19 +342,19 @@
     {
       "code": "BEN.US",
       "name": "Franklin Resources",
-      "ratio": 0.25,
+      "ratio": 0.24,
       "shares": 4850
     },
     {
       "code": "MKTX.US",
       "name": "MarketAxess Holdings, Inc.",
-      "ratio": 0.24,
+      "ratio": 0.23,
       "shares": 634
     },
     {
       "code": "",
       "name": "東方匯理資產管理有限責任公司",
-      "ratio": 0.19,
+      "ratio": 0.18,
       "shares": 1044
     },
     {

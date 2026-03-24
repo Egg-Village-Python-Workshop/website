@@ -1,7 +1,7 @@
 {
   "id": "00735",
   "name": "國泰臺韓科技",
-  "fetched_at": "2026-03-16",
+  "fetched_at": "2026-03-23",
   "capital": {
     "ETF名稱": "國泰臺韓科技",
     "交易所代碼": "00735",
@@ -14,17 +14,17 @@
     "上市日期": "2018/06/11",
     "淨值幣別": "台幣",
     "ETF規模": "3,617.26(百萬台幣)(2026/02/28)",
-    "ETF市價": "66.9000（03/13）",
-    "成交量(股)": "2,351,928（月均:4,409,627）",
-    "ETF淨值": "66.8200（03/13）",
+    "ETF市價": "69.2500（03/20）",
+    "成交量(股)": "1,979,105（月均:4,787,203）",
+    "ETF淨值": "69.4400（03/20）",
     "投資風格": "",
-    "折溢價(%)": "0.12(月均:0.63)",
+    "折溢價(%)": "-0.27(月均:0.70)",
     "投資標的": "資訊科技股",
     "配息頻率": "半年配",
     "投資區域": "台灣",
-    "殖利率(%)": "1.87（03/13）",
+    "殖利率(%)": "1.81（03/20）",
     "經理費(%)": "0.35",
-    "年化標準差(%)": "23.83（03/13）",
+    "年化標準差(%)": "28.45（03/20）",
     "總管理費用(%)": "0.66 (含 0.31 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -43,422 +43,417 @@
   "sectors": [
     {
       "name": "韓國股票",
-      "amount_wan": 76599.3,
-      "ratio": 43.84
+      "amount_wan": 169139.5,
+      "ratio": 46.76
     },
     {
       "name": "半導體業",
-      "amount_wan": 51648.6,
-      "ratio": 29.56
+      "amount_wan": 100015.1,
+      "ratio": 27.65
     },
     {
       "name": "電子零組件",
-      "amount_wan": 15917.4,
-      "ratio": 9.11
+      "amount_wan": 34218.6,
+      "ratio": 9.46
     },
     {
       "name": "電腦及週邊",
-      "amount_wan": 10937.8,
-      "ratio": 6.26
+      "amount_wan": 20509.4,
+      "ratio": 5.67
     },
     {
       "name": "其他電子業",
-      "amount_wan": 7897.6,
-      "ratio": 4.52
-    },
-    {
-      "name": "其他",
-      "amount_wan": 4944.7,
-      "ratio": 2.83
+      "amount_wan": 15445.4,
+      "ratio": 4.27
     },
     {
       "name": "通信網路業",
-      "amount_wan": 4403.1,
-      "ratio": 2.52
+      "amount_wan": 8319.5,
+      "ratio": 2.3
     },
     {
       "name": "光電業",
-      "amount_wan": 1432.7,
-      "ratio": 0.82
+      "amount_wan": 3146.9,
+      "ratio": 0.87
     },
     {
       "name": "電子通路業",
-      "amount_wan": 943.5,
-      "ratio": 0.54
+      "amount_wan": 1772.4,
+      "ratio": 0.49
     }
   ],
   "holdings": [
     {
-      "code": "005930.KS",
-      "name": "SAMSUNG ELEC",
-      "ratio": 22.86,
-      "shares": 265208
-    },
-    {
       "code": "2330.TW",
       "name": "台積電",
-      "ratio": 19.65,
-      "shares": 480800
+      "ratio": 19.2,
+      "shares": 505800
+    },
+    {
+      "code": "005930.KS",
+      "name": "SAMSUNG ELEC",
+      "ratio": 18.82,
+      "shares": 214208
     },
     {
       "code": "000660.KS",
       "name": "SK hynix",
-      "ratio": 12.92,
-      "shares": 30217
+      "ratio": 13.06,
+      "shares": 29440
     },
     {
       "code": "2308.TW",
       "name": "台達電",
-      "ratio": 4.91,
-      "shares": 161700
+      "ratio": 5.32,
+      "shares": 174700
     },
     {
       "code": "2454.TW",
       "name": "聯發科",
-      "ratio": 3.21,
-      "shares": 85200
+      "ratio": 3.02,
+      "shares": 86200
     },
     {
       "code": "2317.TW",
       "name": "鴻海",
-      "ratio": 3.06,
-      "shares": 651000
+      "ratio": 2.74,
+      "shares": 655000
     },
     {
       "code": "3711.TW",
       "name": "日月光投控",
-      "ratio": 2.01,
-      "shares": 268000
+      "ratio": 2.26,
+      "shares": 319000
     },
     {
       "code": "2383.TW",
       "name": "台光電",
-      "ratio": 1.42,
-      "shares": 24000
-    },
-    {
-      "code": "2382.TW",
-      "name": "廣達",
-      "ratio": 1.29,
-      "shares": 203200
+      "ratio": 1.62,
+      "shares": 28000
     },
     {
       "code": "2345.TW",
       "name": "智邦",
-      "ratio": 1.18,
-      "shares": 37900
+      "ratio": 1.49,
+      "shares": 44900
     },
     {
-      "code": "2303.TW",
-      "name": "聯電",
-      "ratio": 1.14,
-      "shares": 873000
+      "code": "2382.TW",
+      "name": "廣達",
+      "ratio": 1.41,
+      "shares": 240200
     },
     {
       "code": "3037.TW",
       "name": "欣興",
-      "ratio": 1.12,
-      "shares": 100315
-    },
-    {
-      "code": "035420.KS",
-      "name": "NAVER",
-      "ratio": 1.1,
-      "shares": 10455
+      "ratio": 1.31,
+      "shares": 114315
     },
     {
       "code": "3017.TW",
       "name": "奇鋐",
-      "ratio": 1.03,
-      "shares": 25100
+      "ratio": 1.23,
+      "shares": 29100
     },
     {
-      "code": "2360.TW",
-      "name": "致茂",
-      "ratio": 0.99,
-      "shares": 29400
+      "code": "2303.TW",
+      "name": "聯電",
+      "ratio": 1.23,
+      "shares": 1032000
     },
     {
       "code": "2412.TW",
       "name": "中華電",
-      "ratio": 0.84,
-      "shares": 281000
+      "ratio": 1.22,
+      "shares": 441000
     },
     {
-      "code": "006400.KS",
-      "name": "SAMSUNG SDI",
-      "ratio": 0.83,
-      "shares": 4536
+      "code": "035420.KS",
+      "name": "NAVER",
+      "ratio": 1.21,
+      "shares": 12351
     },
     {
-      "code": "2327.TW",
-      "name": "國巨",
-      "ratio": 0.8,
-      "shares": 140968
-    },
-    {
-      "code": "6669.TW",
-      "name": "緯穎",
-      "ratio": 0.8,
-      "shares": 9000
+      "code": "2360.TW",
+      "name": "致茂",
+      "ratio": 1.16,
+      "shares": 35400
     },
     {
       "code": "009150.KS",
       "name": "Samsung Elec Mech",
-      "ratio": 0.77,
-      "shares": 4094
+      "ratio": 0.99,
+      "shares": 4836
+    },
+    {
+      "code": "006400.KS",
+      "name": "SAMSUNG SDI",
+      "ratio": 0.95,
+      "shares": 5359
+    },
+    {
+      "code": "2327.TW",
+      "name": "國巨",
+      "ratio": 0.93,
+      "shares": 166968
+    },
+    {
+      "code": "6669.TW",
+      "name": "緯穎",
+      "ratio": 0.79,
+      "shares": 10000
     },
     {
       "code": "3231.TW",
       "name": "緯創",
-      "ratio": 0.69,
-      "shares": 235000
+      "ratio": 0.75,
+      "shares": 278000
     },
     {
       "code": "2357.TW",
       "name": "華碩",
-      "ratio": 0.67,
-      "shares": 52000
-    },
-    {
-      "code": "2301.TW",
-      "name": "光寶科",
-      "ratio": 0.59,
-      "shares": 161000
-    },
-    {
-      "code": "2344.TW",
-      "name": "華邦電",
-      "ratio": 0.55,
-      "shares": 230000
-    },
-    {
-      "code": "035720.KS",
-      "name": "Kakao",
-      "ratio": 0.54,
-      "shares": 22607
-    },
-    {
-      "code": "2449.TW",
-      "name": "京元電子",
-      "ratio": 0.54,
-      "shares": 83000
-    },
-    {
-      "code": "2368.TW",
-      "name": "金像電",
-      "ratio": 0.52,
-      "shares": 25500
-    },
-    {
-      "code": "042700.KS",
-      "name": "HANMI Semiconductor",
-      "ratio": 0.46,
-      "shares": 3177
-    },
-    {
-      "code": "2408.TW",
-      "name": "南亞科",
-      "ratio": 0.45,
-      "shares": 87000
+      "ratio": 0.74,
+      "shares": 62000
     },
     {
       "code": "3653.TW",
       "name": "健策",
-      "ratio": 0.43,
-      "shares": 6000
+      "ratio": 0.64,
+      "shares": 8000
+    },
+    {
+      "code": "2301.TW",
+      "name": "光寶科",
+      "ratio": 0.63,
+      "shares": 190000
+    },
+    {
+      "code": "2344.TW",
+      "name": "華邦電",
+      "ratio": 0.62,
+      "shares": 271000
+    },
+    {
+      "code": "2449.TW",
+      "name": "京元電子",
+      "ratio": 0.62,
+      "shares": 98000
+    },
+    {
+      "code": "2368.TW",
+      "name": "金像電",
+      "ratio": 0.59,
+      "shares": 29000
+    },
+    {
+      "code": "035720.KS",
+      "name": "Kakao",
+      "ratio": 0.59,
+      "shares": 26707
+    },
+    {
+      "code": "3045.TW",
+      "name": "台灣大",
+      "ratio": 0.54,
+      "shares": 238000
+    },
+    {
+      "code": "042700.KS",
+      "name": "HANMI Semiconductor",
+      "ratio": 0.51,
+      "shares": 3753
+    },
+    {
+      "code": "2408.TW",
+      "name": "南亞科",
+      "ratio": 0.5,
+      "shares": 103000
     },
     {
       "code": "3661.TW",
       "name": "世芯-KY",
-      "ratio": 0.42,
-      "shares": 6000
+      "ratio": 0.49,
+      "shares": 7000
+    },
+    {
+      "code": "6770.TW",
+      "name": "力積電",
+      "ratio": 0.46,
+      "shares": 293000
     },
     {
       "code": "3008.TW",
       "name": "大立光",
-      "ratio": 0.41,
-      "shares": 8000
+      "ratio": 0.46,
+      "shares": 9500
+    },
+    {
+      "code": "017670.KS",
+      "name": "SK Telecom",
+      "ratio": 0.45,
+      "shares": 12967
     },
     {
       "code": "2379.TW",
       "name": "瑞昱",
-      "ratio": 0.39,
-      "shares": 38100
+      "ratio": 0.45,
+      "shares": 45100
+    },
+    {
+      "code": "3443.TW",
+      "name": "創意",
+      "ratio": 0.44,
+      "shares": 8000
     },
     {
       "code": "3034.TW",
       "name": "聯詠",
-      "ratio": 0.38,
-      "shares": 44500
+      "ratio": 0.43,
+      "shares": 53500
+    },
+    {
+      "code": "4904.TW",
+      "name": "遠傳",
+      "ratio": 0.43,
+      "shares": 221000
+    },
+    {
+      "code": "2313.TW",
+      "name": "華通",
+      "ratio": 0.43,
+      "shares": 93000
+    },
+    {
+      "code": "2059.TW",
+      "name": "川湖",
+      "ratio": 0.42,
+      "shares": 6000
     },
     {
       "code": "3481.TW",
       "name": "群創",
       "ratio": 0.38,
-      "shares": 590887
-    },
-    {
-      "code": "2059.TW",
-      "name": "川湖",
-      "ratio": 0.37,
-      "shares": 5000
-    },
-    {
-      "code": "2313.TW",
-      "name": "華通",
-      "ratio": 0.36,
-      "shares": 78000
-    },
-    {
-      "code": "6770.TW",
-      "name": "力積電",
-      "ratio": 0.35,
-      "shares": 248000
-    },
-    {
-      "code": "3045.TW",
-      "name": "台灣大",
-      "ratio": 0.3,
-      "shares": 129000
-    },
-    {
-      "code": "3443.TW",
-      "name": "創意",
-      "ratio": 0.3,
-      "shares": 6000
-    },
-    {
-      "code": "3044.TW",
-      "name": "健鼎",
-      "ratio": 0.28,
-      "shares": 34000
-    },
-    {
-      "code": "352820.KS",
-      "name": "HYBE",
-      "ratio": 0.28,
-      "shares": 1629
+      "shares": 698887
     },
     {
       "code": "3533.TW",
       "name": "嘉澤",
-      "ratio": 0.27,
-      "shares": 7000
-    },
-    {
-      "code": "017670.KS",
-      "name": "SK Telecom",
-      "ratio": 0.27,
-      "shares": 7795
-    },
-    {
-      "code": "4904.TW",
-      "name": "遠傳",
-      "ratio": 0.26,
-      "shares": 131000
-    },
-    {
-      "code": "4938.TW",
-      "name": "和碩",
-      "ratio": 0.25,
-      "shares": 152500
+      "ratio": 0.34,
+      "shares": 8000
     },
     {
       "code": "3036.TW",
       "name": "文曄",
-      "ratio": 0.25,
-      "shares": 49000
+      "ratio": 0.3,
+      "shares": 58000
     },
     {
-      "code": "259960.KS",
-      "name": "KRAFTON",
-      "ratio": 0.25,
-      "shares": 2176
+      "code": "3044.TW",
+      "name": "健鼎",
+      "ratio": 0.3,
+      "shares": 40000
     },
     {
-      "code": "6239.TW",
-      "name": "力成",
-      "ratio": 0.23,
-      "shares": 51300
+      "code": "352820.KS",
+      "name": "HYBE",
+      "ratio": 0.29,
+      "shares": 1925
     },
     {
-      "code": "018260.KS",
-      "name": "SAMSUNG SDS",
-      "ratio": 0.22,
-      "shares": 2923
-    },
-    {
-      "code": "2324.TW",
-      "name": "仁寶",
-      "ratio": 0.22,
-      "shares": 306000
-    },
-    {
-      "code": "2356.TW",
-      "name": "英業達",
-      "ratio": 0.22,
-      "shares": 233000
-    },
-    {
-      "code": "4958.TW",
-      "name": "臻鼎-KY",
-      "ratio": 0.21,
-      "shares": 52000
+      "code": "4938.TW",
+      "name": "和碩",
+      "ratio": 0.29,
+      "shares": 180500
     },
     {
       "code": "3702.TW",
       "name": "大聯大",
-      "ratio": 0.2,
-      "shares": 123800
+      "ratio": 0.28,
+      "shares": 146800
+    },
+    {
+      "code": "4958.TW",
+      "name": "臻鼎-KY",
+      "ratio": 0.27,
+      "shares": 62000
+    },
+    {
+      "code": "259960.KS",
+      "name": "KRAFTON",
+      "ratio": 0.27,
+      "shares": 2571
+    },
+    {
+      "code": "6239.TW",
+      "name": "力成",
+      "ratio": 0.25,
+      "shares": 61300
+    },
+    {
+      "code": "018260.KS",
+      "name": "SAMSUNG SDS",
+      "ratio": 0.25,
+      "shares": 3453
+    },
+    {
+      "code": "2324.TW",
+      "name": "仁寶",
+      "ratio": 0.25,
+      "shares": 362000
     },
     {
       "code": "2376.TW",
       "name": "技嘉",
-      "ratio": 0.2,
-      "shares": 40100
+      "ratio": 0.24,
+      "shares": 47100
+    },
+    {
+      "code": "2356.TW",
+      "name": "英業達",
+      "ratio": 0.24,
+      "shares": 276000
     },
     {
       "code": "2474.TW",
       "name": "可成",
-      "ratio": 0.19,
-      "shares": 46000
+      "ratio": 0.21,
+      "shares": 55000
     },
     {
       "code": "2409.TW",
       "name": "友達",
-      "ratio": 0.18,
-      "shares": 507400
+      "ratio": 0.19,
+      "shares": 600400
     },
     {
       "code": "2347.TW",
       "name": "聯強",
-      "ratio": 0.15,
-      "shares": 100000
-    },
-    {
-      "code": "3706.TW",
-      "name": "神達",
-      "ratio": 0.14,
-      "shares": 75000
+      "ratio": 0.19,
+      "shares": 118000
     },
     {
       "code": "2353.TW",
       "name": "宏碁",
-      "ratio": 0.13,
-      "shares": 225000
+      "ratio": 0.15,
+      "shares": 266000
     },
     {
       "code": "2385.TW",
       "name": "群光",
-      "ratio": 0.13,
-      "shares": 47500
+      "ratio": 0.15,
+      "shares": 56500
+    },
+    {
+      "code": "3706.TW",
+      "name": "神達",
+      "ratio": 0.15,
+      "shares": 88000
     },
     {
       "code": "2377.TW",
       "name": "微星",
-      "ratio": 0.11,
-      "shares": 53500
+      "ratio": 0.12,
+      "shares": 62500
     },
     {
       "code": "030200.KS",

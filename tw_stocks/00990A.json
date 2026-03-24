@@ -1,7 +1,7 @@
 {
   "id": "00990A",
   "name": "主動元大AI新經濟",
-  "fetched_at": "2026-03-16",
+  "fetched_at": "2026-03-23",
   "capital": {
     "ETF名稱": "主動元大AI新經濟",
     "交易所代碼": "00990A",
@@ -14,17 +14,17 @@
     "上市日期": "2025/12/22",
     "淨值幣別": "台幣",
     "ETF規模": "24,124.71(百萬台幣)(2026/02/28)",
-    "ETF市價": "12.0400（03/16）",
-    "成交量(股)": "21,059,172（月均:43,435,718）",
-    "ETF淨值": "11.9800（03/13）",
+    "ETF市價": "12.6000（03/20）",
+    "成交量(股)": "33,546,079（月均:38,977,405）",
+    "ETF淨值": "12.2800（03/19）",
     "投資風格": "",
-    "折溢價(%)": "-0.58(月均:-0.13)",
+    "折溢價(%)": "2.61(月均:-0.40)",
     "投資標的": "股票型",
     "配息頻率": "",
     "投資區域": "全球",
-    "殖利率(%)": "N/A（03/16）",
+    "殖利率(%)": "N/A（03/20）",
     "經理費(%)": "0.9",
-    "年化標準差(%)": "N/A（03/16）",
+    "年化標準差(%)": "N/A（03/20）",
     "總管理費用(%)": "0.13",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -43,382 +43,354 @@
   "sectors": [
     {
       "name": "資訊科技",
-      "amount_wan": 1524307.6,
-      "ratio": 70.88
+      "amount_wan": 1839668.8,
+      "ratio": 76.46
     },
     {
       "name": "工業",
-      "amount_wan": 187742.7,
-      "ratio": 8.73
-    },
-    {
-      "name": "通訊服務",
-      "amount_wan": 157205.0,
-      "ratio": 7.31
+      "amount_wan": 262259.9,
+      "ratio": 10.9
     },
     {
       "name": "原材料",
-      "amount_wan": 115914.5,
-      "ratio": 5.39
+      "amount_wan": 156634.1,
+      "ratio": 6.51
     },
     {
       "name": "現金",
-      "amount_wan": 100430.5,
-      "ratio": 4.67
+      "amount_wan": 75790.7,
+      "ratio": 3.15
     },
     {
-      "name": "非日常生活消費品",
-      "amount_wan": 59355.1,
-      "ratio": 2.76
-    },
-    {
-      "name": "能源",
-      "amount_wan": 5591.4,
-      "ratio": 0.26
+      "name": "通訊服務",
+      "amount_wan": 71700.4,
+      "ratio": 2.98
     }
   ],
   "holdings": [
     {
-      "code": "MU.US",
-      "name": "Micron",
-      "ratio": 6.8,
-      "shares": 115471
-    },
-    {
       "code": "LITE.US",
       "name": "Lumentum",
-      "ratio": 6.0,
-      "shares": 69752
+      "ratio": 7.6,
+      "shares": 78752
+    },
+    {
+      "code": "MU.US",
+      "name": "Micron",
+      "ratio": 6.67,
+      "shares": 115471
     },
     {
       "code": "SNDK.US",
       "name": "Sandisk",
-      "ratio": 5.7,
-      "shares": 62333
-    },
-    {
-      "code": "2330.TW",
-      "name": "台積電",
-      "ratio": 4.52,
-      "shares": 561000
+      "ratio": 6.38,
+      "shares": 65833
     },
     {
       "code": "2308.TW",
       "name": "台達電",
-      "ratio": 3.75,
+      "ratio": 3.97,
       "shares": 628000
+    },
+    {
+      "code": "2330.TW",
+      "name": "台積電",
+      "ratio": 3.91,
+      "shares": 497000
     },
     {
       "code": "TER.US",
       "name": "Teradyne",
-      "ratio": 3.67,
-      "shares": 92600
-    },
-    {
-      "code": "NVDA.US",
-      "name": "NVIDIA",
-      "ratio": 3.61,
-      "shares": 145050
-    },
-    {
-      "code": "GOOGL.US",
-      "name": "Alphabet - Class A Common Stock",
-      "ratio": 3.07,
-      "shares": 73500
-    },
-    {
-      "code": "CIEN.US",
-      "name": "Ciena",
-      "ratio": 2.44,
-      "shares": 52342
-    },
-    {
-      "code": "5706.JP",
-      "name": "Mitsui Kinzoku",
-      "ratio": 2.24,
-      "shares": 81700
-    },
-    {
-      "code": "005930.KS",
-      "name": "SAMSUNG ELEC",
-      "ratio": 2.11,
-      "shares": 124366
-    },
-    {
-      "code": "",
-      "name": "AIXTRON SE",
-      "ratio": 2.0,
-      "shares": 389839
-    },
-    {
-      "code": "GEV.US",
-      "name": "GE Vernova",
-      "ratio": 2.0,
-      "shares": 18000
-    },
-    {
-      "code": "INTC.US",
-      "name": "Intel",
-      "ratio": 1.99,
-      "shares": 315300
-    },
-    {
-      "code": "AMAT.US",
-      "name": "Applied Materials",
-      "ratio": 1.94,
-      "shares": 41100
-    },
-    {
-      "code": "5801.JP",
-      "name": "Furukawa Electric",
-      "ratio": 1.81,
-      "shares": 68000
-    },
-    {
-      "code": "",
-      "name": "SIEMENS ENERGY AG",
-      "ratio": 1.79,
-      "shares": 78915
+      "ratio": 3.18,
+      "shares": 80100
     },
     {
       "code": "TSEM.US",
       "name": "Tower Semiconductor",
-      "ratio": 1.78,
-      "shares": 103049
+      "ratio": 2.81,
+      "shares": 125849
     },
     {
-      "code": "AVGO.US",
-      "name": "Broadcom",
-      "ratio": 1.64,
-      "shares": 36742
+      "code": "CIEN.US",
+      "name": "Ciena",
+      "ratio": 2.75,
+      "shares": 52342
     },
     {
-      "code": "KEYS.US",
-      "name": "Keysight Technologies",
-      "ratio": 1.62,
-      "shares": 41900
+      "code": "005930.KS",
+      "name": "SAMSUNG ELEC",
+      "ratio": 2.61,
+      "shares": 143231
     },
     {
-      "code": "2383.TW",
-      "name": "台光電",
-      "ratio": 1.61,
-      "shares": 138000
+      "code": "GOOGL.US",
+      "name": "Alphabet - Class A Common Stock",
+      "ratio": 2.53,
+      "shares": 61600
     },
     {
-      "code": "WDC.US",
-      "name": "Western Digital",
-      "ratio": 1.56,
-      "shares": 41462
+      "code": "5706.JP",
+      "name": "Mitsui Kinzoku",
+      "ratio": 2.19,
+      "shares": 81700
     },
     {
-      "code": "5016.JP",
-      "name": "JX Advanced Metals",
-      "ratio": 1.55,
-      "shares": 441300
+      "code": "",
+      "name": "AIXTRON SE",
+      "ratio": 2.15,
+      "shares": 418565
     },
     {
-      "code": "BE.US",
-      "name": "Bloom Energy",
-      "ratio": 1.52,
-      "shares": 71100
+      "code": "GEV.US",
+      "name": "GE Vernova",
+      "ratio": 2.09,
+      "shares": 18000
     },
     {
-      "code": "SMTC.US",
-      "name": "Semtech",
-      "ratio": 1.49,
-      "shares": 127300
+      "code": "AMAT.US",
+      "name": "Applied Materials",
+      "ratio": 2.01,
+      "shares": 41100
+    },
+    {
+      "code": "NVDA.US",
+      "name": "NVIDIA",
+      "ratio": 1.97,
+      "shares": 83550
+    },
+    {
+      "code": "5801.JP",
+      "name": "Furukawa Electric",
+      "ratio": 1.87,
+      "shares": 73600
     },
     {
       "code": "3653.TW",
       "name": "健策",
-      "ratio": 1.48,
-      "shares": 106000
+      "ratio": 1.81,
+      "shares": 110000
     },
     {
-      "code": "COHR.US",
-      "name": "Coherent",
-      "ratio": 1.29,
-      "shares": 38397
+      "code": "",
+      "name": "SIEMENS ENERGY AG",
+      "ratio": 1.74,
+      "shares": 78915
     },
     {
-      "code": "LMT.US",
-      "name": "Lockheed Martin",
-      "ratio": 1.29,
-      "shares": 14422
+      "code": "2383.TW",
+      "name": "台光電",
+      "ratio": 1.73,
+      "shares": 144000
+    },
+    {
+      "code": "WDC.US",
+      "name": "Western Digital",
+      "ratio": 1.66,
+      "shares": 41462
+    },
+    {
+      "code": "KEYS.US",
+      "name": "Keysight Technologies",
+      "ratio": 1.59,
+      "shares": 41900
     },
     {
       "code": "6787.JP",
       "name": "Meiko Electronics",
-      "ratio": 1.22,
-      "shares": 59700
-    },
-    {
-      "code": "GLW.US",
-      "name": "Corning",
-      "ratio": 1.15,
-      "shares": 64295
-    },
-    {
-      "code": "6941.JP",
-      "name": "YAMAICHI ELECTRONICS",
-      "ratio": 1.12,
-      "shares": 145200
-    },
-    {
-      "code": "6834.JP",
-      "name": "SEIKOH GIKEN",
-      "ratio": 1.06,
-      "shares": 44600
-    },
-    {
-      "code": "3037.TW",
-      "name": "欣興",
-      "ratio": 1.04,
-      "shares": 475000
-    },
-    {
-      "code": "5802.JP",
-      "name": "Sumitomo Electric",
-      "ratio": 1.0,
-      "shares": 111200
-    },
-    {
-      "code": "6590.JP",
-      "name": "Shibaura Mechatronics",
-      "ratio": 0.99,
-      "shares": 249500
-    },
-    {
-      "code": "4971.JP",
-      "name": "MEC",
-      "ratio": 0.97,
-      "shares": 160000
-    },
-    {
-      "code": "2449.TW",
-      "name": "京元電子",
-      "ratio": 0.95,
-      "shares": 746000
-    },
-    {
-      "code": "5803.JP",
-      "name": "Fujikura",
-      "ratio": 0.87,
-      "shares": 37900
-    },
-    {
-      "code": "6146.JP",
-      "name": "DISCO",
-      "ratio": 0.82,
-      "shares": 13600
-    },
-    {
-      "code": "2313.TW",
-      "name": "華通",
-      "ratio": 0.81,
-      "shares": 888000
-    },
-    {
-      "code": "CAMT.US",
-      "name": "Camtek",
-      "ratio": 0.78,
-      "shares": 37700
-    },
-    {
-      "code": "",
-      "name": "AIMECHATEC LTD",
-      "ratio": 0.77,
-      "shares": 39900
-    },
-    {
-      "code": "2368.TW",
-      "name": "金像電",
-      "ratio": 0.77,
-      "shares": 190000
-    },
-    {
-      "code": "2360.TW",
-      "name": "致茂",
-      "ratio": 0.68,
-      "shares": 103000
-    },
-    {
-      "code": "AEHR.US",
-      "name": "Aehr Test Systems",
-      "ratio": 0.68,
-      "shares": 138085
-    },
-    {
-      "code": "",
-      "name": "BE SEMICONDUCTOR INDUSTRIES",
-      "ratio": 0.68,
-      "shares": 23048
-    },
-    {
-      "code": "6855.JP",
-      "name": "Japan Electronic Materials",
-      "ratio": 0.65,
-      "shares": 106000
-    },
-    {
-      "code": "",
-      "name": "S.O.I.T.E.C.",
-      "ratio": 0.65,
-      "shares": 69766
-    },
-    {
-      "code": "",
-      "name": "NOKIA CORP-SPON ADR",
-      "ratio": 0.65,
-      "shares": 571500
-    },
-    {
-      "code": "CAT.US",
-      "name": "Caterpillar",
-      "ratio": 0.61,
-      "shares": 6360
-    },
-    {
-      "code": "3110.JP",
-      "name": "Nittobo",
-      "ratio": 0.59,
-      "shares": 30800
-    },
-    {
-      "code": "3017.TW",
-      "name": "奇鋐",
-      "ratio": 0.56,
-      "shares": 70000
-    },
-    {
-      "code": "",
-      "name": "SUNCALL CORP",
-      "ratio": 0.52,
-      "shares": 281000
-    },
-    {
-      "code": "",
-      "name": "RIGAKU HOLDINGS CORP",
-      "ratio": 0.49,
-      "shares": 299100
+      "ratio": 1.59,
+      "shares": 73200
     },
     {
       "code": "",
       "name": "CIRCLE INTERNET GROUP INC",
-      "ratio": 0.48,
-      "shares": 30312
+      "ratio": 1.56,
+      "shares": 90812
     },
     {
-      "code": "RKLB.US",
-      "name": "Rocket Lab",
-      "ratio": 0.19,
-      "shares": 19800
+      "code": "",
+      "name": "智邦",
+      "ratio": 1.52,
+      "shares": 221000
+    },
+    {
+      "code": "BE.US",
+      "name": "Bloom Energy",
+      "ratio": 1.46,
+      "shares": 71100
+    },
+    {
+      "code": "5016.JP",
+      "name": "JX Advanced Metals",
+      "ratio": 1.44,
+      "shares": 441300
+    },
+    {
+      "code": "2313.TW",
+      "name": "華通",
+      "ratio": 1.42,
+      "shares": 1490000
+    },
+    {
+      "code": "2360.TW",
+      "name": "致茂",
+      "ratio": 1.34,
+      "shares": 198000
+    },
+    {
+      "code": "2368.TW",
+      "name": "金像電",
+      "ratio": 1.24,
+      "shares": 294000
+    },
+    {
+      "code": "",
+      "name": "S.O.I.T.E.C.",
+      "ratio": 1.17,
+      "shares": 142945
+    },
+    {
+      "code": "3017.TW",
+      "name": "奇鋐",
+      "ratio": 1.14,
+      "shares": 130000
+    },
+    {
+      "code": "3037.TW",
+      "name": "欣興",
+      "ratio": 1.13,
+      "shares": 475000
+    },
+    {
+      "code": "6941.JP",
+      "name": "YAMAICHI ELECTRONICS",
+      "ratio": 1.11,
+      "shares": 145200
+    },
+    {
+      "code": "GLW.US",
+      "name": "Corning",
+      "ratio": 1.09,
+      "shares": 64295
+    },
+    {
+      "code": "",
+      "name": "NOKIA CORP-SPON ADR",
+      "ratio": 1.03,
+      "shares": 945396
+    },
+    {
+      "code": "COHR.US",
+      "name": "Coherent",
+      "ratio": 1.03,
+      "shares": 29697
+    },
+    {
+      "code": "009150.KS",
+      "name": "Samsung Elec Mech",
+      "ratio": 1.03,
+      "shares": 24303
+    },
+    {
+      "code": "6834.JP",
+      "name": "SEIKOH GIKEN",
+      "ratio": 1.01,
+      "shares": 44600
+    },
+    {
+      "code": "2449.TW",
+      "name": "京元電子",
+      "ratio": 0.98,
+      "shares": 746000
+    },
+    {
+      "code": "6590.JP",
+      "name": "Shibaura Mechatronics",
+      "ratio": 0.97,
+      "shares": 249500
+    },
+    {
+      "code": "",
+      "name": "ASML HOLDING NV-NY REG SHS",
+      "ratio": 0.96,
+      "shares": 5320
+    },
+    {
+      "code": "5802.JP",
+      "name": "Sumitomo Electric",
+      "ratio": 0.95,
+      "shares": 111200
+    },
+    {
+      "code": "4971.JP",
+      "name": "MEC",
+      "ratio": 0.94,
+      "shares": 160000
+    },
+    {
+      "code": "",
+      "name": "RIGAKU HOLDINGS CORP",
+      "ratio": 0.9,
+      "shares": 510700
+    },
+    {
+      "code": "",
+      "name": "AIMECHATEC LTD",
+      "ratio": 0.88,
+      "shares": 50500
+    },
+    {
+      "code": "5803.JP",
+      "name": "Fujikura",
+      "ratio": 0.83,
+      "shares": 37900
+    },
+    {
+      "code": "4062.JP",
+      "name": "IBIDEN",
+      "ratio": 0.69,
+      "shares": 96900
+    },
+    {
+      "code": "",
+      "name": "PLANET LABS PBC",
+      "ratio": 0.63,
+      "shares": 136600
+    },
+    {
+      "code": "6855.JP",
+      "name": "Japan Electronic Materials",
+      "ratio": 0.62,
+      "shares": 106000
+    },
+    {
+      "code": "3110.JP",
+      "name": "Nittobo",
+      "ratio": 0.57,
+      "shares": 30800
     },
     {
       "code": "6274.TW",
       "name": "台燿",
-      "ratio": 0.03,
-      "shares": 12000
+      "ratio": 0.51,
+      "shares": 214000
+    },
+    {
+      "code": "",
+      "name": "SUNCALL CORP",
+      "ratio": 0.48,
+      "shares": 281000
+    },
+    {
+      "code": "",
+      "name": "SUSS MICROTEC SE",
+      "ratio": 0.46,
+      "shares": 51632
+    },
+    {
+      "code": "RKLB.US",
+      "name": "Rocket Lab",
+      "ratio": 0.45,
+      "shares": 48686
     }
   ]
 }
