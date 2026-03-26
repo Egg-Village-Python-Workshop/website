@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkchicken_city=globalThis.webpackChunkchicken_city||[]).push([[1829],{71829(c,e,i){i.d(e,{createPacketServices:()=>a.$});var a=i(80790);i(56100)}}]);

@@ -1,0 +1,1 @@
+(globalThis.webpackChunkchicken_city=globalThis.webpackChunkchicken_city||[]).push([[9170],{37291(c,h,i){"use strict";i.d(h,{A:()=>s});var k=i(36430);i(73953)(k),i(42945)(k);const s=k},99056(){}}]);

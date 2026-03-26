@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkchicken_city=globalThis.webpackChunkchicken_city||[]).push([[7492],{47526(a){a.exports=JSON.parse('{"blogBasePath":"/finance","blogTitle":"Blog","authorsListPath":"/finance/authors"}')}}]);

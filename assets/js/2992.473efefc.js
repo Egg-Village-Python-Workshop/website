@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkchicken_city=self.webpackChunkchicken_city||[]).push([["2992"],{41235(c,e,k){k.r(e)}}]);
