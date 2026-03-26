@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkchicken_city=globalThis.webpackChunkchicken_city||[]).push([[8800],{68800(c,e,i){i.d(e,{createInfoServices:()=>h.v});var h=i(12680);i(56100)}}]);

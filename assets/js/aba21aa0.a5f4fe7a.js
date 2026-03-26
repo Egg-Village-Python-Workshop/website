@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchicken_city=self.webpackChunkchicken_city||[]).push([["3747"],{27093(c){c.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);

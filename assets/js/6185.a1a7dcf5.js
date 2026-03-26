@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchicken_city=self.webpackChunkchicken_city||[]).push([["6185"],{68800(c,e,i){i.d(e,{createInfoServices:()=>k.v});var k=i(12680);i(68592)}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchicken_city=self.webpackChunkchicken_city||[]).push([["582"],{71829(c,e,k){k.d(e,{createPacketServices:()=>i.$});var i=k(80790);k(68592)}}]);
