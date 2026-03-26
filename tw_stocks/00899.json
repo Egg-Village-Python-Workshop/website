@@ -1,7 +1,7 @@
 {
   "id": "00899",
   "name": "FT潔淨能源",
-  "fetched_at": "2026-03-23",
+  "fetched_at": "2026-03-26",
   "capital": {
     "ETF名稱": "FT潔淨能源",
     "交易所代碼": "00899",
@@ -14,17 +14,17 @@
     "上市日期": "2022/01/21",
     "淨值幣別": "台幣",
     "ETF規模": "419.60(百萬台幣)(2026/02/28)",
-    "ETF市價": "23.9900（03/20）",
-    "成交量(股)": "173,115（月均:235,664）",
-    "ETF淨值": "23.4700（03/19）",
+    "ETF市價": "24.0200（03/26）",
+    "成交量(股)": "144,589（月均:216,142）",
+    "ETF淨值": "24.0900（03/25）",
     "投資風格": "",
-    "折溢價(%)": "2.22(月均:-0.39)",
+    "折溢價(%)": "-1.91(月均:-0.40)",
     "投資標的": "新能源",
     "配息頻率": "",
     "投資區域": "全球",
-    "殖利率(%)": "N/A（03/20）",
+    "殖利率(%)": "N/A（03/26）",
     "經理費(%)": "0.9",
-    "年化標準差(%)": "21.24（03/20）",
+    "年化標準差(%)": "15.84（03/26）",
     "總管理費用(%)": "1.552 (含 0.652 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -38,7 +38,7 @@
     "基準指數": "NASDAQ Clean Edge Green Energy Total Return",
     "官方網站連結": "https://www.ftft.com.tw/etf/product/details/?id=130",
     "投資策略": "經理公司係採用指數化策略，將本基金扣除各項必要費用後儘可能追蹤「標普全球潔淨能源精選指數」指數之績效表現為操作目標。為達成前述操作目標，原則上，指數化策略將以完全複製法為主，惟遇特殊情形(包括但不限於成分股公司事件因素、成分股流動性不足、預期標的指數成分股即將異動、基金因應申贖或指數調整因不同幣別換匯時間差異及其他市場因素等情況使基金難以使用完全複製法策略管理投資組合)，經理公司得視實際需要以最佳化模擬指數表現，以追求貼近標的指數之績效表現，本基金自上市日起，投資於標的指數成分股票總金額應達本基金淨資產價值之90%(含)以上，及加計下列有價證券投資及證券相關商品交易之整體曝險儘可能貼近基金淨資產規模之100%。",
-    "文件下載": "基金概覽公開說明書年報簡式公開說明書"
+    "文件下載": "基金概覽年報簡式公開說明書公開說明書"
   },
   "sectors": [
     {
@@ -76,86 +76,92 @@
     {
       "code": "",
       "name": "啟發可再生能源有限公",
-      "ratio": 5.79,
+      "ratio": 5.61,
       "shares": 10436
+    },
+    {
+      "code": "NXT.US",
+      "name": "Nextpower",
+      "ratio": 5.48,
+      "shares": 5583
     },
     {
       "code": "",
       "name": "Nordex SE",
-      "ratio": 5.44,
+      "ratio": 5.29,
       "shares": 13392
     },
     {
       "code": "BE.US",
       "name": "Bloom Energy",
-      "ratio": 5.35,
+      "ratio": 5.21,
       "shares": 4615
     },
     {
       "code": "ENPH.US",
       "name": "Enphase Energy",
-      "ratio": 4.99,
+      "ratio": 4.69,
       "shares": 14652
-    },
-    {
-      "code": "NXT.US",
-      "name": "Nextpower",
-      "ratio": 4.93,
-      "shares": 5583
     },
     {
       "code": "9502.JP",
       "name": "Chuden",
-      "ratio": 4.52,
+      "ratio": 4.48,
       "shares": 36300
     },
     {
       "code": "",
-      "name": "Verbund AG",
-      "ratio": 4.19,
-      "shares": 6930
-    },
-    {
-      "code": "",
-      "name": "EDP有限責任公司",
-      "ratio": 4.08,
-      "shares": 107044
-    },
-    {
-      "code": "",
       "name": "沃旭能源股份有限公司",
-      "ratio": 4.07,
+      "ratio": 4.16,
       "shares": 24653
     },
     {
       "code": "",
-      "name": "子午線能源有限公司",
-      "ratio": 4.0,
-      "shares": 161776
-    },
-    {
-      "code": "",
-      "name": "聯通電力有限公司",
-      "ratio": 3.99,
-      "shares": 97747
+      "name": "EDP有限責任公司",
+      "ratio": 4.11,
+      "shares": 107044
     },
     {
       "code": "",
       "name": "EDP雷諾韋斯有限責任",
-      "ratio": 3.97,
+      "ratio": 4.04,
       "shares": 34326
     },
     {
       "code": "BEPC.US",
       "name": "Brookfield Renewable",
-      "ratio": 3.97,
+      "ratio": 4.0,
       "shares": 13338
+    },
+    {
+      "code": "",
+      "name": "聯通電力有限公司",
+      "ratio": 3.91,
+      "shares": 97747
+    },
+    {
+      "code": "",
+      "name": "Verbund AG",
+      "ratio": 3.88,
+      "shares": 6930
+    },
+    {
+      "code": "",
+      "name": "子午線能源有限公司",
+      "ratio": 3.87,
+      "shares": 161776
     },
     {
       "code": "ICLN.US",
       "name": "iShares Global Clean Energy ETF",
-      "ratio": 3.7,
+      "ratio": 3.76,
       "shares": 26571
+    },
+    {
+      "code": "ORA.US",
+      "name": "Ormat Technologies",
+      "ratio": 3.62,
+      "shares": 4349
     },
     {
       "code": "0916.HK",
@@ -164,99 +170,93 @@
       "shares": 458000
     },
     {
-      "code": "ORA.US",
-      "name": "Ormat Technologies",
-      "ratio": 3.57,
-      "shares": 4349
-    },
-    {
       "code": "CWEN.US",
       "name": "Clearway Energy - Class C",
-      "ratio": 3.36,
+      "ratio": 3.43,
       "shares": 11638
-    },
-    {
-      "code": "PLUG.US",
-      "name": "Plug Power",
-      "ratio": 3.29,
-      "shares": 190901
     },
     {
       "code": "",
       "name": "維斯塔斯風力系統股份",
-      "ratio": 3.26,
+      "ratio": 3.38,
       "shares": 17502
+    },
+    {
+      "code": "PLUG.US",
+      "name": "Plug Power",
+      "ratio": 3.26,
+      "shares": 190901
     },
     {
       "code": "SEDG.US",
       "name": "SolarEdge Technologies",
-      "ratio": 3.07,
+      "ratio": 2.96,
       "shares": 7677
     },
     {
       "code": "FSLR.US",
       "name": "First Solar",
-      "ratio": 3.01,
+      "ratio": 2.94,
       "shares": 2020
     },
     {
       "code": "",
-      "name": "索拉利亞能源與環境有",
-      "ratio": 2.18,
-      "shares": 10989
+      "name": "Boralex Inc",
+      "ratio": 2.42,
+      "shares": 12116
     },
     {
       "code": "",
-      "name": "Boralex Inc",
-      "ratio": 1.93,
-      "shares": 12116
+      "name": "索拉利亞能源與環境有",
+      "ratio": 2.23,
+      "shares": 10989
     },
     {
       "code": "2208.HK",
       "name": "金風科技",
-      "ratio": 1.62,
+      "ratio": 1.57,
       "shares": 105700
     },
     {
       "code": "",
       "name": "爾格股份公司",
-      "ratio": 1.41,
+      "ratio": 1.31,
       "shares": 7085
-    },
-    {
-      "code": "REX.US",
-      "name": "Rex American Resources Corp.",
-      "ratio": 1.17,
-      "shares": 3929
-    },
-    {
-      "code": "336260.KS",
-      "name": "Doosan Fuel Cell",
-      "ratio": 1.16,
-      "shares": 5279
     },
     {
       "code": "ARRY.US",
       "name": "Array Technologies",
-      "ratio": 1.08,
+      "ratio": 1.22,
       "shares": 20935
+    },
+    {
+      "code": "REX.US",
+      "name": "Rex American Resources Corp.",
+      "ratio": 1.22,
+      "shares": 3929
     },
     {
       "code": "SHLS.US",
       "name": "Shoals Technologies",
-      "ratio": 1.08,
+      "ratio": 1.19,
       "shares": 22940
+    },
+    {
+      "code": "336260.KS",
+      "name": "Doosan Fuel Cell",
+      "ratio": 1.04,
+      "shares": 5279
     },
     {
       "code": "",
       "name": "阿馳奧納可再生能源有",
-      "ratio": 0.82,
+      "ratio": 0.83,
       "shares": 4471
     },
     {
       "code": "RNW.US",
       "name": "ReNew Energy",
-      "ratio": 0.71,
+      "ratio": 0.65,
       "shares": 18106
     }
   ]

@@ -1,7 +1,7 @@
 {
   "id": "00757",
   "name": "統一FANG+",
-  "fetched_at": "2026-03-23",
+  "fetched_at": "2026-03-26",
   "capital": {
     "ETF名稱": "統一FANG+",
     "交易所代碼": "00757",
@@ -14,17 +14,17 @@
     "上市日期": "2018/12/06",
     "淨值幣別": "台幣",
     "ETF規模": "37,751.68(百萬台幣)(2026/02/28)",
-    "ETF市價": "106.6500（03/23）",
-    "成交量(股)": "1,162,586（月均:3,013,081）",
-    "ETF淨值": "107.2800（03/20）",
+    "ETF市價": "106.6000（03/26）",
+    "成交量(股)": "2,350,267（月均:2,601,642）",
+    "ETF淨值": "106.8800（03/25）",
     "投資風格": "",
-    "折溢價(%)": "1.84(月均:-0.27)",
+    "折溢價(%)": "0.67(月均:-0.47)",
     "投資標的": "股票型",
     "配息頻率": "",
     "投資區域": "美國",
-    "殖利率(%)": "N/A（03/23）",
+    "殖利率(%)": "N/A（03/26）",
     "經理費(%)": "0.85",
-    "年化標準差(%)": "18.29（03/23）",
+    "年化標準差(%)": "14.36（03/26）",
     "總管理費用(%)": "1.12 (含 0.27 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -43,70 +43,64 @@
   "sectors": [],
   "holdings": [
     {
+      "code": "PLTR.US",
+      "name": "Palantir Technologies",
+      "ratio": 9.87,
+      "shares": 719175
+    },
+    {
       "code": "AAPL.US",
       "name": "Apple",
-      "ratio": 9.62,
-      "shares": 443976
-    },
-    {
-      "code": "GOOGL.US",
-      "name": "Alphabet - Class A Common Stock",
-      "ratio": 9.6,
-      "shares": 365015
-    },
-    {
-      "code": "AVGO.US",
-      "name": "Broadcom",
-      "ratio": 9.58,
-      "shares": 353047
+      "ratio": 9.84,
+      "shares": 439579
     },
     {
       "code": "AMZN.US",
       "name": "Amazon",
-      "ratio": 9.52,
-      "shares": 530252
+      "ratio": 9.82,
+      "shares": 523507
     },
     {
-      "code": "PLTR.US",
-      "name": "Palantir Technologies",
-      "ratio": 9.5,
-      "shares": 721558
-    },
-    {
-      "code": "NFLX.US",
-      "name": "Netflix",
-      "ratio": 9.48,
-      "shares": 1181570
+      "code": "AVGO.US",
+      "name": "Broadcom",
+      "ratio": 9.82,
+      "shares": 347762
     },
     {
       "code": "NVDA.US",
       "name": "NVIDIA",
-      "ratio": 9.42,
-      "shares": 623950
+      "ratio": 9.64,
+      "shares": 609027
+    },
+    {
+      "code": "NFLX.US",
+      "name": "Netflix",
+      "ratio": 9.49,
+      "shares": 1160173
     },
     {
       "code": "META.US",
       "name": "Meta",
-      "ratio": 9.38,
-      "shares": 180764
+      "ratio": 9.41,
+      "shares": 178450
     },
     {
       "code": "MSFT.US",
       "name": "Microsoft",
-      "ratio": 9.36,
-      "shares": 280284
+      "ratio": 9.22,
+      "shares": 280427
+    },
+    {
+      "code": "GOOGL.US",
+      "name": "Alphabet - Class A Common Stock",
+      "ratio": 9.2,
+      "shares": 357075
     },
     {
       "code": "",
       "name": "MICRON TECHNOLOGY INC",
-      "ratio": 8.02,
-      "shares": 216967
-    },
-    {
-      "code": "CRWD.US",
-      "name": "CrowdStrike Holdings",
-      "ratio": 0.89,
-      "shares": 24882
+      "ratio": 8.06,
+      "shares": 237949
     }
   ]
 }

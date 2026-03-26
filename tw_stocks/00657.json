@@ -1,7 +1,7 @@
 {
   "id": "00657",
   "name": "國泰日經225",
-  "fetched_at": "2026-03-23",
+  "fetched_at": "2026-03-26",
   "capital": {
     "ETF名稱": "國泰日經225",
     "交易所代碼": "00657",
@@ -14,17 +14,17 @@
     "上市日期": "2016/05/09",
     "淨值幣別": "台幣",
     "ETF規模": "526.02(百萬台幣)(2026/02/28)",
-    "ETF市價": "62.7500（03/20）",
-    "成交量(股)": "27,350（月均:184,386）",
-    "ETF淨值": "62.8100（03/19）",
+    "ETF市價": "62.5500（03/26）",
+    "成交量(股)": "46,053（月均:168,736）",
+    "ETF淨值": "63.0500（03/26）",
     "投資風格": "",
-    "折溢價(%)": "0.14(月均:-0.07)",
+    "折溢價(%)": "-0.79(月均:-0.14)",
     "投資標的": "股票型",
     "配息頻率": "",
     "投資區域": "日本",
-    "殖利率(%)": "N/A（03/20）",
+    "殖利率(%)": "N/A（03/26）",
     "經理費(%)": "0.45",
-    "年化標準差(%)": "21.82（03/20）",
+    "年化標準差(%)": "19.10（03/26）",
     "總管理費用(%)": "1.3 (含 0.85 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -96,73 +96,73 @@
     {
       "code": "6857.JP",
       "name": "Advantest",
-      "ratio": 11.15,
+      "ratio": 10.62,
       "shares": 11100
     },
     {
       "code": "9983.JP",
       "name": "Fast Retailing",
-      "ratio": 8.77,
+      "ratio": 8.5,
       "shares": 3300
     },
     {
       "code": "8035.JP",
       "name": "Tokyo Electron",
-      "ratio": 6.92,
+      "ratio": 7.09,
       "shares": 4200
     },
     {
       "code": "9984.JP",
       "name": "SoftBank Group",
-      "ratio": 4.96,
+      "ratio": 5.3,
       "shares": 33300
-    },
-    {
-      "code": "6762.JP",
-      "name": "TDK",
-      "ratio": 1.84,
-      "shares": 20700
     },
     {
       "code": "9433.JP",
       "name": "KDDI",
-      "ratio": 1.82,
+      "ratio": 1.84,
       "shares": 16300
+    },
+    {
+      "code": "6762.JP",
+      "name": "TDK",
+      "ratio": 1.81,
+      "shares": 20700
     },
     {
       "code": "4063.JP",
       "name": "Shin-Etsu Chemical",
-      "ratio": 1.81,
+      "ratio": 1.78,
       "shares": 6800
     },
     {
       "code": "6954.JP",
       "name": "FANUC",
-      "ratio": 1.69,
+      "ratio": 1.65,
       "shares": 6800
-    },
-    {
-      "code": "4519.JP",
-      "name": "CHUGAI PHARMACEUTICAL",
-      "ratio": 1.49,
-      "shares": 4100
     },
     {
       "code": "5803.JP",
       "name": "Fujikura",
-      "ratio": 1.48,
+      "ratio": 1.64,
       "shares": 1397
     },
     {
-      "code": "9766.JP",
-      "name": "KONAMI GROUP",
-      "ratio": 1.19,
-      "shares": 1400
+      "code": "4519.JP",
+      "name": "CHUGAI PHARMACEUTICAL",
+      "ratio": 1.44,
+      "shares": 4100
     },
     {
       "code": "6367.JP",
       "name": "Daikin Industries",
-      "ratio": 1.14,
+      "ratio": 1.2,
+      "shares": 1400
+    },
+    {
+      "code": "9766.JP",
+      "name": "KONAMI GROUP",
+      "ratio": 1.13,
       "shares": 1400
     },
     {
@@ -180,98 +180,110 @@
     {
       "code": "8015.JP",
       "name": "Toyota Tsusho",
-      "ratio": 1.08,
+      "ratio": 1.06,
+      "shares": 4100
+    },
+    {
+      "code": "8058.JP",
+      "name": "Mitsubishi",
+      "ratio": 0.97,
       "shares": 4100
     },
     {
       "code": "7203.JP",
       "name": "TOYOTA MOTOR",
-      "ratio": 0.95,
+      "ratio": 0.96,
       "shares": 6800
-    },
-    {
-      "code": "6758.JP",
-      "name": "SONY GROUP",
-      "ratio": 0.95,
-      "shares": 6900
     },
     {
       "code": "4543.JP",
       "name": "Terumo",
-      "ratio": 0.94,
+      "ratio": 0.96,
       "shares": 11000
     },
     {
       "code": "4062.JP",
       "name": "IBIDEN",
-      "ratio": 0.93,
+      "ratio": 0.95,
       "shares": 2700
     },
     {
-      "code": "8058.JP",
-      "name": "Mitsubishi",
-      "ratio": 0.93,
-      "shares": 4100
+      "code": "6758.JP",
+      "name": "SONY GROUP",
+      "ratio": 0.92,
+      "shares": 6900
     },
     {
       "code": "6988.JP",
       "name": "NITTO DENKO",
-      "ratio": 0.91,
+      "ratio": 0.9,
       "shares": 6800
     },
     {
       "code": "6146.JP",
       "name": "DISCO",
-      "ratio": 0.87,
+      "ratio": 0.84,
       "shares": 300
     },
     {
       "code": "7741.JP",
       "name": "HOYA",
-      "ratio": 0.81,
+      "ratio": 0.82,
       "shares": 700
-    },
-    {
-      "code": "6920.JP",
-      "name": "Lasertec Corporation",
-      "ratio": 0.73,
-      "shares": 500
-    },
-    {
-      "code": "7832.JP",
-      "name": "Bandai Namco Holdings",
-      "ratio": 0.72,
-      "shares": 4100
     },
     {
       "code": "8031.JP",
       "name": "MITSUI",
-      "ratio": 0.71,
+      "ratio": 0.72,
       "shares": 2700
     },
     {
-      "code": "9735.JP",
-      "name": "Secom",
-      "ratio": 0.68,
-      "shares": 2700
+      "code": "6920.JP",
+      "name": "Lasertec Corporation",
+      "ratio": 0.72,
+      "shares": 500
     },
     {
       "code": "4503.JP",
       "name": "Astellas Pharma",
-      "ratio": 0.68,
+      "ratio": 0.72,
       "shares": 6800
+    },
+    {
+      "code": "7832.JP",
+      "name": "Bandai Namco Holdings",
+      "ratio": 0.68,
+      "shares": 4100
+    },
+    {
+      "code": "8766.JP",
+      "name": "Tokio Marine Holdings",
+      "ratio": 0.66,
+      "shares": 2100
+    },
+    {
+      "code": "9735.JP",
+      "name": "Secom",
+      "ratio": 0.66,
+      "shares": 2700
     },
     {
       "code": "4578.JP",
       "name": "Otsuka Holdings",
-      "ratio": 0.63,
+      "ratio": 0.65,
       "shares": 1400
     },
     {
       "code": "4507.JP",
       "name": "Shionogi",
-      "ratio": 0.58,
+      "ratio": 0.59,
       "shares": 4100
+    },
+    {
+      "code": "8001.JP",
+      "name": "Itochu",
+      "ratio": 0.59,
+      "shares": 6900
     },
     {
       "code": "5802.JP",
@@ -280,33 +292,21 @@
       "shares": 1400
     },
     {
-      "code": "8001.JP",
-      "name": "Itochu",
-      "ratio": 0.58,
-      "shares": 6900
+      "code": "8830.JP",
+      "name": "Sumitomo Realty & Development",
+      "ratio": 0.53,
+      "shares": 2756
     },
     {
       "code": "7974.JP",
       "name": "Nintendo",
-      "ratio": 0.55,
+      "ratio": 0.51,
       "shares": 1350
-    },
-    {
-      "code": "8830.JP",
-      "name": "Sumitomo Realty & Development",
-      "ratio": 0.54,
-      "shares": 2756
-    },
-    {
-      "code": "8766.JP",
-      "name": "Tokio Marine Holdings",
-      "ratio": 0.53,
-      "shares": 2100
     },
     {
       "code": "6981.JP",
       "name": "Murata Mfg.",
-      "ratio": 0.52,
+      "ratio": 0.51,
       "shares": 3300
     },
     {
@@ -316,21 +316,21 @@
       "shares": 4100
     },
     {
-      "code": "4568.JP",
-      "name": "Daiichi Sankyo",
-      "ratio": 0.5,
-      "shares": 4100
-    },
-    {
       "code": "2802.JP",
       "name": "Ajinomoto",
-      "ratio": 0.5,
+      "ratio": 0.51,
       "shares": 2700
+    },
+    {
+      "code": "4568.JP",
+      "name": "Daiichi Sankyo",
+      "ratio": 0.49,
+      "shares": 4100
     },
     {
       "code": "7735.JP",
       "name": "SCREEN Holdings",
-      "ratio": 0.48,
+      "ratio": 0.47,
       "shares": 572
     },
     {
@@ -342,43 +342,37 @@
     {
       "code": "7269.JP",
       "name": "SUZUKI MOTOR",
-      "ratio": 0.44,
+      "ratio": 0.45,
       "shares": 5500
-    },
-    {
-      "code": "6861.JP",
-      "name": "Keyence",
-      "ratio": 0.43,
-      "shares": 174
     },
     {
       "code": "6902.JP",
       "name": "Denso",
-      "ratio": 0.43,
+      "ratio": 0.44,
       "shares": 5400
     },
     {
-      "code": "7453.JP",
-      "name": "Ryohin Keikaku",
-      "ratio": 0.41,
-      "shares": 2800
-    },
-    {
-      "code": "9843.JP",
-      "name": "Nitori Holdings",
-      "ratio": 0.38,
-      "shares": 3400
+      "code": "6861.JP",
+      "name": "Keyence",
+      "ratio": 0.42,
+      "shares": 174
     },
     {
       "code": "2801.JP",
       "name": "KIKKOMAN",
-      "ratio": 0.38,
+      "ratio": 0.4,
       "shares": 6760
+    },
+    {
+      "code": "7453.JP",
+      "name": "Ryohin Keikaku",
+      "ratio": 0.4,
+      "shares": 2800
     },
     {
       "code": "6301.JP",
       "name": "Komatsu",
-      "ratio": 0.37,
+      "ratio": 0.38,
       "shares": 1400
     },
     {
@@ -388,16 +382,28 @@
       "shares": 2700
     },
     {
+      "code": "7751.JP",
+      "name": "Canon",
+      "ratio": 0.37,
+      "shares": 2000
+    },
+    {
+      "code": "9843.JP",
+      "name": "Nitori Holdings",
+      "ratio": 0.37,
+      "shares": 3400
+    },
+    {
+      "code": "3382.JP",
+      "name": "Seven & I Holdings",
+      "ratio": 0.36,
+      "shares": 4100
+    },
+    {
       "code": "4021.JP",
       "name": "Nissan Chemical",
       "ratio": 0.36,
       "shares": 1400
-    },
-    {
-      "code": "7751.JP",
-      "name": "Canon",
-      "ratio": 0.36,
-      "shares": 2000
     },
     {
       "code": "4452.JP",
@@ -406,15 +412,9 @@
       "shares": 1400
     },
     {
-      "code": "3382.JP",
-      "name": "Seven & I Holdings",
-      "ratio": 0.35,
-      "shares": 4100
-    },
-    {
       "code": "2914.JP",
       "name": "Japan Tobacco",
-      "ratio": 0.34,
+      "ratio": 0.35,
       "shares": 1400
     },
     {
@@ -424,28 +424,28 @@
       "shares": 1400
     },
     {
-      "code": "8267.JP",
-      "name": "Aeon",
-      "ratio": 0.33,
-      "shares": 4100
-    },
-    {
       "code": "8053.JP",
       "name": "Sumitomo",
-      "ratio": 0.33,
+      "ratio": 0.34,
       "shares": 1400
     },
     {
       "code": "8002.JP",
       "name": "Marubeni",
-      "ratio": 0.32,
+      "ratio": 0.33,
       "shares": 1400
     },
     {
-      "code": "8801.JP",
-      "name": "Mitsui Fudosan",
+      "code": "8267.JP",
+      "name": "Aeon",
       "ratio": 0.32,
-      "shares": 4176
+      "shares": 4100
+    },
+    {
+      "code": "7733.JP",
+      "name": "Olympus",
+      "ratio": 0.32,
+      "shares": 5400
     },
     {
       "code": "6305.JP",
@@ -456,30 +456,6 @@
     {
       "code": "6841.JP",
       "name": "Yokogawa Electric",
-      "ratio": 0.31,
-      "shares": 1400
-    },
-    {
-      "code": "4704.JP",
-      "name": "Trend Micro",
-      "ratio": 0.31,
-      "shares": 1400
-    },
-    {
-      "code": "7733.JP",
-      "name": "Olympus",
-      "ratio": 0.31,
-      "shares": 5400
-    },
-    {
-      "code": "1721.JP",
-      "name": "Comsys Holdings",
-      "ratio": 0.3,
-      "shares": 1400
-    },
-    {
-      "code": "1925.JP",
-      "name": "DAIWA HOUSE",
       "ratio": 0.3,
       "shares": 1400
     },
@@ -490,57 +466,39 @@
       "shares": 1313
     },
     {
+      "code": "4704.JP",
+      "name": "Trend Micro",
+      "ratio": 0.3,
+      "shares": 1400
+    },
+    {
+      "code": "1721.JP",
+      "name": "Comsys Holdings",
+      "ratio": 0.3,
+      "shares": 1400
+    },
+    {
+      "code": "8801.JP",
+      "name": "Mitsui Fudosan",
+      "ratio": 0.3,
+      "shares": 4176
+    },
+    {
+      "code": "1925.JP",
+      "name": "DAIWA HOUSE",
+      "ratio": 0.29,
+      "shares": 1400
+    },
+    {
       "code": "3659.JP",
       "name": "NEXON Co.,Ltd.",
       "ratio": 0.29,
       "shares": 2400
     },
     {
-      "code": "6501.JP",
-      "name": "Hitachi",
-      "ratio": 0.28,
-      "shares": 1380
-    },
-    {
-      "code": "7011.JP",
-      "name": "Mitsubishi Heavy",
-      "ratio": 0.28,
-      "shares": 1390
-    },
-    {
-      "code": "6361.JP",
-      "name": "Ebara",
-      "ratio": 0.28,
-      "shares": 1420
-    },
-    {
       "code": "8591.JP",
       "name": "ORIX",
       "ratio": 0.28,
-      "shares": 1400
-    },
-    {
-      "code": "8802.JP",
-      "name": "Mitsubishi Estate",
-      "ratio": 0.27,
-      "shares": 1394
-    },
-    {
-      "code": "6273.JP",
-      "name": "SMC",
-      "ratio": 0.27,
-      "shares": 100
-    },
-    {
-      "code": "6532.JP",
-      "name": "BayCurrent",
-      "ratio": 0.27,
-      "shares": 1400
-    },
-    {
-      "code": "6645.JP",
-      "name": "Omron",
-      "ratio": 0.27,
       "shares": 1400
     },
     {
@@ -550,16 +508,52 @@
       "shares": 4100
     },
     {
+      "code": "6501.JP",
+      "name": "Hitachi",
+      "ratio": 0.27,
+      "shares": 1380
+    },
+    {
+      "code": "6273.JP",
+      "name": "SMC",
+      "ratio": 0.27,
+      "shares": 100
+    },
+    {
+      "code": "6361.JP",
+      "name": "Ebara",
+      "ratio": 0.27,
+      "shares": 1420
+    },
+    {
       "code": "6506.JP",
       "name": "Yaskawa Electric",
       "ratio": 0.26,
       "shares": 1400
     },
     {
-      "code": "4307.JP",
-      "name": "Nomura Research Institute",
-      "ratio": 0.25,
+      "code": "6532.JP",
+      "name": "BayCurrent",
+      "ratio": 0.26,
       "shares": 1400
+    },
+    {
+      "code": "6645.JP",
+      "name": "Omron",
+      "ratio": 0.26,
+      "shares": 1400
+    },
+    {
+      "code": "7011.JP",
+      "name": "Mitsubishi Heavy",
+      "ratio": 0.26,
+      "shares": 1390
+    },
+    {
+      "code": "8802.JP",
+      "name": "Mitsubishi Estate",
+      "ratio": 0.26,
+      "shares": 1394
     },
     {
       "code": "8253.JP",
@@ -568,10 +562,28 @@
       "shares": 1400
     },
     {
+      "code": "5713.JP",
+      "name": "Sumitomo Metal Mining",
+      "ratio": 0.25,
+      "shares": 639
+    },
+    {
       "code": "4523.JP",
       "name": "Eisai",
-      "ratio": 0.24,
+      "ratio": 0.25,
       "shares": 1200
+    },
+    {
+      "code": "4307.JP",
+      "name": "Nomura Research Institute",
+      "ratio": 0.25,
+      "shares": 1400
+    },
+    {
+      "code": "5333.JP",
+      "name": "NGK Insulators",
+      "ratio": 0.24,
+      "shares": 1400
     },
     {
       "code": "6976.JP",
@@ -580,16 +592,22 @@
       "shares": 1400
     },
     {
-      "code": "5713.JP",
-      "name": "Sumitomo Metal Mining",
-      "ratio": 0.24,
-      "shares": 639
+      "code": "5801.JP",
+      "name": "Furukawa Electric",
+      "ratio": 0.23,
+      "shares": 168
     },
     {
-      "code": "5333.JP",
-      "name": "NGK Insulators",
+      "code": "1802.JP",
+      "name": "OBAYASHI",
       "ratio": 0.23,
       "shares": 1400
+    },
+    {
+      "code": "2413.JP",
+      "name": "M3",
+      "ratio": 0.22,
+      "shares": 3300
     },
     {
       "code": "5706.JP",
@@ -604,22 +622,16 @@
       "shares": 2700
     },
     {
-      "code": "2413.JP",
-      "name": "M3",
-      "ratio": 0.22,
-      "shares": 3300
-    },
-    {
-      "code": "1802.JP",
-      "name": "OBAYASHI",
-      "ratio": 0.22,
+      "code": "1928.JP",
+      "name": "Sekisui House",
+      "ratio": 0.21,
       "shares": 1400
     },
     {
-      "code": "5801.JP",
-      "name": "Furukawa Electric",
+      "code": "4385.JP",
+      "name": "Mercari",
       "ratio": 0.21,
-      "shares": 168
+      "shares": 1400
     },
     {
       "code": "8697.JP",
@@ -630,7 +642,7 @@
     {
       "code": "8725.JP",
       "name": "MS&AD Insurance Group Holdings",
-      "ratio": 0.2,
+      "ratio": 0.21,
       "shares": 1200
     },
     {
@@ -640,44 +652,26 @@
       "shares": 800
     },
     {
-      "code": "6702.JP",
-      "name": "Fujitsu",
-      "ratio": 0.2,
-      "shares": 1410
-    },
-    {
       "code": "2282.JP",
       "name": "NH Foods",
       "ratio": 0.2,
       "shares": 692
     },
     {
-      "code": "1928.JP",
-      "name": "Sekisui House",
+      "code": "6963.JP",
+      "name": "ROHM",
       "ratio": 0.2,
       "shares": 1400
     },
     {
-      "code": "4385.JP",
-      "name": "Mercari",
-      "ratio": 0.2,
-      "shares": 1400
+      "code": "6702.JP",
+      "name": "Fujitsu",
+      "ratio": 0.19,
+      "shares": 1410
     },
     {
       "code": "3092.JP",
       "name": "ZOZO",
-      "ratio": 0.19,
-      "shares": 4100
-    },
-    {
-      "code": "6963.JP",
-      "name": "ROHM",
-      "ratio": 0.19,
-      "shares": 1400
-    },
-    {
-      "code": "7272.JP",
-      "name": "Yamaha Motor",
       "ratio": 0.19,
       "shares": 4100
     },
@@ -688,16 +682,16 @@
       "shares": 4100
     },
     {
+      "code": "7272.JP",
+      "name": "Yamaha Motor",
+      "ratio": 0.19,
+      "shares": 4100
+    },
+    {
       "code": "8252.JP",
       "name": "Marui",
       "ratio": 0.18,
       "shares": 1400
-    },
-    {
-      "code": "1812.JP",
-      "name": "KAJIMA",
-      "ratio": 0.18,
-      "shares": 690
     },
     {
       "code": "5101.JP",
@@ -718,28 +712,22 @@
       "shares": 2700
     },
     {
-      "code": "1803.JP",
-      "name": "SHIMZ",
-      "ratio": 0.17,
-      "shares": 1386
-    },
-    {
-      "code": "1801.JP",
-      "name": "TAISEI",
-      "ratio": 0.17,
-      "shares": 235
-    },
-    {
       "code": "3099.JP",
       "name": "Isetan Mitsukoshi",
       "ratio": 0.17,
       "shares": 1400
     },
     {
-      "code": "5332.JP",
-      "name": "TOTO",
+      "code": "1812.JP",
+      "name": "KAJIMA",
       "ratio": 0.17,
-      "shares": 700
+      "shares": 690
+    },
+    {
+      "code": "1803.JP",
+      "name": "SHIMZ",
+      "ratio": 0.17,
+      "shares": 1386
     },
     {
       "code": "7912.JP",
@@ -748,22 +736,22 @@
       "shares": 1398
     },
     {
+      "code": "9201.JP",
+      "name": "Japan Airlines",
+      "ratio": 0.16,
+      "shares": 1400
+    },
+    {
       "code": "8306.JP",
       "name": "MUFG",
       "ratio": 0.16,
       "shares": 1400
     },
     {
-      "code": "7013.JP",
-      "name": "IHI",
+      "code": "1801.JP",
+      "name": "TAISEI",
       "ratio": 0.16,
-      "shares": 983
-    },
-    {
-      "code": "6479.JP",
-      "name": "MINEBEA MITSUMI",
-      "ratio": 0.16,
-      "shares": 1400
+      "shares": 235
     },
     {
       "code": "4661.JP",
@@ -778,22 +766,22 @@
       "shares": 1400
     },
     {
-      "code": "2503.JP",
-      "name": "Kirin Holdings",
-      "ratio": 0.15,
-      "shares": 1400
-    },
-    {
-      "code": "6723.JP",
-      "name": "Renesas Electronics",
-      "ratio": 0.15,
-      "shares": 1400
-    },
-    {
       "code": "6752.JP",
       "name": "Panasonic Holdings",
-      "ratio": 0.15,
+      "ratio": 0.16,
       "shares": 1400
+    },
+    {
+      "code": "6479.JP",
+      "name": "MINEBEA MITSUMI",
+      "ratio": 0.16,
+      "shares": 1400
+    },
+    {
+      "code": "5332.JP",
+      "name": "TOTO",
+      "ratio": 0.16,
+      "shares": 700
     },
     {
       "code": "6326.JP",
@@ -814,10 +802,10 @@
       "shares": 1400
     },
     {
-      "code": "9201.JP",
-      "name": "Japan Airlines",
-      "ratio": 0.15,
-      "shares": 1400
+      "code": "7013.JP",
+      "name": "IHI",
+      "ratio": 0.14,
+      "shares": 983
     },
     {
       "code": "9107.JP",
@@ -826,14 +814,20 @@
       "shares": 1230
     },
     {
-      "code": "7911.JP",
-      "name": "TOPPAN",
+      "code": "6723.JP",
+      "name": "Renesas Electronics",
       "ratio": 0.14,
-      "shares": 696
+      "shares": 1400
     },
     {
       "code": "4151.JP",
       "name": "Kyowa Kirin",
+      "ratio": 0.14,
+      "shares": 1400
+    },
+    {
+      "code": "2503.JP",
+      "name": "Kirin Holdings",
       "ratio": 0.14,
       "shares": 1400
     },
@@ -844,21 +838,45 @@
       "shares": 1400
     },
     {
-      "code": "6113.JP",
-      "name": "AMADA",
-      "ratio": 0.13,
-      "shares": 1400
-    },
-    {
       "code": "6770.JP",
       "name": "ALPS ALPINE",
       "ratio": 0.13,
       "shares": 1400
     },
     {
+      "code": "6113.JP",
+      "name": "AMADA",
+      "ratio": 0.13,
+      "shares": 1400
+    },
+    {
+      "code": "7911.JP",
+      "name": "TOPPAN",
+      "ratio": 0.13,
+      "shares": 696
+    },
+    {
+      "code": "9434.JP",
+      "name": "SoftBank",
+      "ratio": 0.12,
+      "shares": 13600
+    },
+    {
+      "code": "9104.JP",
+      "name": "MOL",
+      "ratio": 0.12,
+      "shares": 404
+    },
+    {
+      "code": "8331.JP",
+      "name": "Chiba Bank",
+      "ratio": 0.12,
+      "shares": 1372
+    },
+    {
       "code": "6701.JP",
       "name": "NEC",
-      "ratio": 0.13,
+      "ratio": 0.12,
       "shares": 730
     },
     {
@@ -868,10 +886,10 @@
       "shares": 260
     },
     {
-      "code": "7012.JP",
-      "name": "Kawasaki Heavy",
+      "code": "6526.JP",
+      "name": "Socionext",
       "ratio": 0.12,
-      "shares": 170
+      "shares": 1400
     },
     {
       "code": "2002.JP",
@@ -880,22 +898,34 @@
       "shares": 1400
     },
     {
-      "code": "9104.JP",
-      "name": "MOL",
+      "code": "4506.JP",
+      "name": "Sumitomo Pharma",
       "ratio": 0.12,
-      "shares": 404
+      "shares": 1400
     },
     {
-      "code": "9434.JP",
-      "name": "SoftBank",
-      "ratio": 0.12,
-      "shares": 13600
+      "code": "2871.JP",
+      "name": "Nichirei",
+      "ratio": 0.11,
+      "shares": 1344
     },
     {
-      "code": "8331.JP",
-      "name": "Chiba Bank",
-      "ratio": 0.12,
-      "shares": 1372
+      "code": "7012.JP",
+      "name": "Kawasaki Heavy",
+      "ratio": 0.11,
+      "shares": 170
+    },
+    {
+      "code": "6178.JP",
+      "name": "JAPAN POST HOLDINGS",
+      "ratio": 0.11,
+      "shares": 1400
+    },
+    {
+      "code": "5214.JP",
+      "name": "Nippon Electric Glass",
+      "ratio": 0.11,
+      "shares": 400
     },
     {
       "code": "8804.JP",
@@ -916,69 +946,9 @@
       "shares": 1400
     },
     {
-      "code": "2871.JP",
-      "name": "Nichirei",
-      "ratio": 0.11,
-      "shares": 1344
-    },
-    {
-      "code": "4506.JP",
-      "name": "Sumitomo Pharma",
-      "ratio": 0.11,
-      "shares": 1400
-    },
-    {
-      "code": "6178.JP",
-      "name": "JAPAN POST HOLDINGS",
-      "ratio": 0.11,
-      "shares": 1400
-    },
-    {
-      "code": "5214.JP",
-      "name": "Nippon Electric Glass",
-      "ratio": 0.11,
-      "shares": 400
-    },
-    {
-      "code": "5631.JP",
-      "name": "JSW",
-      "ratio": 0.1,
-      "shares": 237
-    },
-    {
-      "code": "6473.JP",
-      "name": "JTEKT",
-      "ratio": 0.1,
-      "shares": 1400
-    },
-    {
-      "code": "6526.JP",
-      "name": "Socionext",
-      "ratio": 0.1,
-      "shares": 1400
-    },
-    {
-      "code": "2501.JP",
-      "name": "SAPPORO HOLDINGS",
-      "ratio": 0.1,
-      "shares": 1500
-    },
-    {
-      "code": "3405.JP",
-      "name": "Kuraray",
-      "ratio": 0.1,
-      "shares": 1400
-    },
-    {
-      "code": "1605.JP",
-      "name": "INPEX CORPORATION",
-      "ratio": 0.1,
-      "shares": 500
-    },
-    {
       "code": "8233.JP",
       "name": "Takashimaya",
-      "ratio": 0.1,
+      "ratio": 0.11,
       "shares": 1376
     },
     {
@@ -1000,16 +970,34 @@
       "shares": 2011
     },
     {
-      "code": "9432.JP",
-      "name": "NTT",
-      "ratio": 0.09,
-      "shares": 13800
+      "code": "5714.JP",
+      "name": "DOWA HOLDINGS",
+      "ratio": 0.1,
+      "shares": 242
     },
     {
-      "code": "8316.JP",
-      "name": "SMFG",
+      "code": "6473.JP",
+      "name": "JTEKT",
+      "ratio": 0.1,
+      "shares": 1400
+    },
+    {
+      "code": "2501.JP",
+      "name": "SAPPORO HOLDINGS",
+      "ratio": 0.1,
+      "shares": 1500
+    },
+    {
+      "code": "1605.JP",
+      "name": "INPEX CORPORATION",
+      "ratio": 0.1,
+      "shares": 500
+    },
+    {
+      "code": "3405.JP",
+      "name": "Kuraray",
       "ratio": 0.09,
-      "shares": 398
+      "shares": 1400
     },
     {
       "code": "3407.JP",
@@ -1018,10 +1006,16 @@
       "shares": 1333
     },
     {
-      "code": "5714.JP",
-      "name": "DOWA HOLDINGS",
+      "code": "6952.JP",
+      "name": "Casio",
       "ratio": 0.09,
-      "shares": 242
+      "shares": 1400
+    },
+    {
+      "code": "5631.JP",
+      "name": "JSW",
+      "ratio": 0.09,
+      "shares": 237
     },
     {
       "code": "6103.JP",
@@ -1030,14 +1024,38 @@
       "shares": 582
     },
     {
-      "code": "7186.JP",
-      "name": "Yokohama Financial",
+      "code": "8601.JP",
+      "name": "Daiwa Securities Group",
+      "ratio": 0.09,
+      "shares": 1371
+    },
+    {
+      "code": "8316.JP",
+      "name": "SMFG",
+      "ratio": 0.09,
+      "shares": 398
+    },
+    {
+      "code": "9432.JP",
+      "name": "NTT",
+      "ratio": 0.09,
+      "shares": 13800
+    },
+    {
+      "code": "9531.JP",
+      "name": "Tokyo Gas",
+      "ratio": 0.08,
+      "shares": 236
+    },
+    {
+      "code": "7752.JP",
+      "name": "Ricoh",
       "ratio": 0.08,
       "shares": 1400
     },
     {
-      "code": "6952.JP",
-      "name": "Casio",
+      "code": "7186.JP",
+      "name": "Yokohama Financial",
       "ratio": 0.08,
       "shares": 1400
     },
@@ -1072,36 +1090,6 @@
       "shares": 167
     },
     {
-      "code": "8601.JP",
-      "name": "Daiwa Securities Group",
-      "ratio": 0.08,
-      "shares": 1371
-    },
-    {
-      "code": "7752.JP",
-      "name": "Ricoh",
-      "ratio": 0.08,
-      "shares": 1400
-    },
-    {
-      "code": "7202.JP",
-      "name": "Isuzu",
-      "ratio": 0.07,
-      "shares": 700
-    },
-    {
-      "code": "8604.JP",
-      "name": "Nomura Holdings",
-      "ratio": 0.07,
-      "shares": 1400
-    },
-    {
-      "code": "9531.JP",
-      "name": "Tokyo Gas",
-      "ratio": 0.07,
-      "shares": 236
-    },
-    {
       "code": "4042.JP",
       "name": "Tosoh",
       "ratio": 0.07,
@@ -1120,34 +1108,16 @@
       "shares": 1400
     },
     {
-      "code": "5201.JP",
-      "name": "AGC",
-      "ratio": 0.06,
-      "shares": 238
+      "code": "7202.JP",
+      "name": "Isuzu",
+      "ratio": 0.07,
+      "shares": 700
     },
     {
-      "code": "3402.JP",
-      "name": "Toray",
-      "ratio": 0.06,
-      "shares": 1389
-    },
-    {
-      "code": "4751.JP",
-      "name": "CyberAgent",
-      "ratio": 0.06,
-      "shares": 1100
-    },
-    {
-      "code": "9532.JP",
-      "name": "Osaka Gas",
-      "ratio": 0.06,
-      "shares": 237
-    },
-    {
-      "code": "9602.JP",
-      "name": "TOHO",
-      "ratio": 0.06,
-      "shares": 835
+      "code": "8604.JP",
+      "name": "Nomura Holdings",
+      "ratio": 0.07,
+      "shares": 1400
     },
     {
       "code": "8354.JP",
@@ -1168,22 +1138,40 @@
       "shares": 407
     },
     {
-      "code": "9005.JP",
-      "name": "TOKYU",
-      "ratio": 0.05,
-      "shares": 644
+      "code": "9532.JP",
+      "name": "Osaka Gas",
+      "ratio": 0.06,
+      "shares": 237
     },
     {
-      "code": "8309.JP",
-      "name": "Sumitomo Mitsui Trust Group",
-      "ratio": 0.05,
-      "shares": 234
+      "code": "9602.JP",
+      "name": "TOHO",
+      "ratio": 0.06,
+      "shares": 835
     },
     {
-      "code": "8795.JP",
-      "name": "T&D Holdings",
-      "ratio": 0.05,
-      "shares": 300
+      "code": "5201.JP",
+      "name": "AGC",
+      "ratio": 0.06,
+      "shares": 238
+    },
+    {
+      "code": "6674.JP",
+      "name": "Gs Yuasa",
+      "ratio": 0.06,
+      "shares": 256
+    },
+    {
+      "code": "3402.JP",
+      "name": "Toray",
+      "ratio": 0.06,
+      "shares": 1389
+    },
+    {
+      "code": "4751.JP",
+      "name": "CyberAgent",
+      "ratio": 0.06,
+      "shares": 1100
     },
     {
       "code": "4183.JP",
@@ -1210,10 +1198,40 @@
       "shares": 239
     },
     {
-      "code": "6674.JP",
-      "name": "Gs Yuasa",
+      "code": "9005.JP",
+      "name": "TOKYU",
       "ratio": 0.05,
-      "shares": 256
+      "shares": 644
+    },
+    {
+      "code": "8411.JP",
+      "name": "Mizuho Financial",
+      "ratio": 0.05,
+      "shares": 170
+    },
+    {
+      "code": "8309.JP",
+      "name": "Sumitomo Mitsui Trust Group",
+      "ratio": 0.05,
+      "shares": 234
+    },
+    {
+      "code": "8795.JP",
+      "name": "T&D Holdings",
+      "ratio": 0.05,
+      "shares": 300
+    },
+    {
+      "code": "9007.JP",
+      "name": "Odakyu Electric Railway",
+      "ratio": 0.04,
+      "shares": 646
+    },
+    {
+      "code": "9008.JP",
+      "name": "Keio",
+      "ratio": 0.04,
+      "shares": 237
     },
     {
       "code": "5711.JP",
@@ -1252,42 +1270,6 @@
       "shares": 1400
     },
     {
-      "code": "8411.JP",
-      "name": "Mizuho Financial",
-      "ratio": 0.04,
-      "shares": 170
-    },
-    {
-      "code": "9007.JP",
-      "name": "Odakyu Electric Railway",
-      "ratio": 0.04,
-      "shares": 646
-    },
-    {
-      "code": "9008.JP",
-      "name": "Keio",
-      "ratio": 0.04,
-      "shares": 237
-    },
-    {
-      "code": "9021.JP",
-      "name": "West Japan Railway",
-      "ratio": 0.03,
-      "shares": 238
-    },
-    {
-      "code": "8750.JP",
-      "name": "Dai-ichi Life Holdings",
-      "ratio": 0.03,
-      "shares": 564
-    },
-    {
-      "code": "9001.JP",
-      "name": "Tobu Railway",
-      "ratio": 0.03,
-      "shares": 234
-    },
-    {
       "code": "4902.JP",
       "name": "Konica Minolta",
       "ratio": 0.03,
@@ -1318,10 +1300,52 @@
       "shares": 113
     },
     {
+      "code": "5233.JP",
+      "name": "Taiheiyo Cement",
+      "ratio": 0.03,
+      "shares": 169
+    },
+    {
       "code": "6753.JP",
       "name": "Sharp",
       "ratio": 0.03,
       "shares": 1400
+    },
+    {
+      "code": "9021.JP",
+      "name": "West Japan Railway",
+      "ratio": 0.03,
+      "shares": 238
+    },
+    {
+      "code": "8750.JP",
+      "name": "Dai-ichi Life Holdings",
+      "ratio": 0.03,
+      "shares": 564
+    },
+    {
+      "code": "9001.JP",
+      "name": "Tobu Railway",
+      "ratio": 0.03,
+      "shares": 234
+    },
+    {
+      "code": "9202.JP",
+      "name": "ANA Holdings",
+      "ratio": 0.02,
+      "shares": 166
+    },
+    {
+      "code": "9502.JP",
+      "name": "Chuden",
+      "ratio": 0.02,
+      "shares": 170
+    },
+    {
+      "code": "9503.JP",
+      "name": "KEPCO",
+      "ratio": 0.02,
+      "shares": 171
     },
     {
       "code": "7201.JP",
@@ -1330,10 +1354,10 @@
       "shares": 1400
     },
     {
-      "code": "5233.JP",
-      "name": "Taiheiyo Cement",
+      "code": "8304.JP",
+      "name": "AOZORA BANK, LTD.",
       "ratio": 0.02,
-      "shares": 169
+      "shares": 166
     },
     {
       "code": "5401.JP",
@@ -1358,48 +1382,6 @@
       "name": "UBE",
       "ratio": 0.02,
       "shares": 169
-    },
-    {
-      "code": "9202.JP",
-      "name": "ANA Holdings",
-      "ratio": 0.02,
-      "shares": 166
-    },
-    {
-      "code": "9502.JP",
-      "name": "Chuden",
-      "ratio": 0.02,
-      "shares": 170
-    },
-    {
-      "code": "9503.JP",
-      "name": "KEPCO",
-      "ratio": 0.02,
-      "shares": 171
-    },
-    {
-      "code": "7205.JP",
-      "name": "Hino Motors",
-      "ratio": 0.02,
-      "shares": 1400
-    },
-    {
-      "code": "8304.JP",
-      "name": "AOZORA BANK, LTD.",
-      "ratio": 0.02,
-      "shares": 166
-    },
-    {
-      "code": "8308.JP",
-      "name": "Resona",
-      "ratio": 0.01,
-      "shares": 168
-    },
-    {
-      "code": "7261.JP",
-      "name": "Mazda Motor",
-      "ratio": 0.01,
-      "shares": 300
     },
     {
       "code": "4689.JP",
@@ -1432,14 +1414,26 @@
       "shares": 300
     },
     {
-      "code": "7211.JP",
-      "name": "Mitsubishi Motors",
-      "ratio": 0.0,
+      "code": "7261.JP",
+      "name": "Mazda Motor",
+      "ratio": 0.01,
+      "shares": 300
+    },
+    {
+      "code": "8308.JP",
+      "name": "Resona",
+      "ratio": 0.01,
       "shares": 168
     },
     {
       "code": "9501.JP",
       "name": "Tokyo Electric Power Company Holdings",
+      "ratio": 0.0,
+      "shares": 168
+    },
+    {
+      "code": "7211.JP",
+      "name": "Mitsubishi Motors",
       "ratio": 0.0,
       "shares": 168
     }
