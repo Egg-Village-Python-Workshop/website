@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchicken_city=self.webpackChunkchicken_city||[]).push([["5759"],{85010(e,c,i){i.d(c,{createTreemapServices:()=>k.d});var k=i(38153);i(68592)}}]);
