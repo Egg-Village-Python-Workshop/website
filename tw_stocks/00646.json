@@ -1,7 +1,7 @@
 {
   "id": "00646",
   "name": "元大S&P500",
-  "fetched_at": "2026-03-26",
+  "fetched_at": "2026-03-30",
   "capital": {
     "ETF名稱": "元大S&P500",
     "交易所代碼": "00646",
@@ -14,17 +14,17 @@
     "上市日期": "2015/12/14",
     "淨值幣別": "台幣",
     "ETF規模": "34,880.96(百萬台幣)(2026/02/28)",
-    "ETF市價": "65.9500（03/26）",
-    "成交量(股)": "1,455,398（月均:3,293,433）",
-    "ETF淨值": "66.2200（03/25）",
+    "ETF市價": "65.4500（03/27）",
+    "成交量(股)": "3,398,383（月均:3,319,417）",
+    "ETF淨值": "63.9100（03/26）",
     "投資風格": "",
-    "折溢價(%)": "0.27(月均:0.16)",
+    "折溢價(%)": "2.41(月均:0.27)",
     "投資標的": "股票型",
     "配息頻率": "年配",
     "投資區域": "美國",
-    "殖利率(%)": "N/A（03/26）",
+    "殖利率(%)": "N/A（03/27）",
     "經理費(%)": "0.3",
-    "年化標準差(%)": "12.01（03/26）",
+    "年化標準差(%)": "12.05（03/27）",
     "總管理費用(%)": "0.36 (含 0.06 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -106,61 +106,61 @@
     {
       "code": "NVDA.US",
       "name": "NVIDIA",
-      "ratio": 7.56,
+      "ratio": 7.36,
       "shares": 461196
     },
     {
       "code": "AAPL.US",
       "name": "Apple",
-      "ratio": 6.46,
+      "ratio": 6.57,
       "shares": 278637
     },
     {
       "code": "MSFT.US",
       "name": "Microsoft",
-      "ratio": 4.8,
+      "ratio": 4.81,
       "shares": 140933
     },
     {
       "code": "AMZN.US",
       "name": "Amazon",
-      "ratio": 3.6,
+      "ratio": 3.59,
       "shares": 185404
     },
     {
       "code": "GOOGL.US",
       "name": "Alphabet - Class A Common Stock",
-      "ratio": 2.95,
+      "ratio": 2.89,
       "shares": 110497
     },
     {
       "code": "AVGO.US",
       "name": "Broadcom",
-      "ratio": 2.63,
+      "ratio": 2.6,
       "shares": 89986
     },
     {
       "code": "GOOG.US",
       "name": "Alphabet - Class C Capital Stock",
-      "ratio": 2.36,
+      "ratio": 2.32,
       "shares": 88760
     },
     {
       "code": "META.US",
       "name": "Meta",
-      "ratio": 2.27,
+      "ratio": 2.12,
       "shares": 41511
     },
     {
       "code": "TSLA.US",
       "name": "Tesla",
-      "ratio": 1.89,
+      "ratio": 1.85,
       "shares": 53378
     },
     {
       "code": "BRK.B.US",
       "name": "Berkshire Hathaway - Class B",
-      "ratio": 1.52,
+      "ratio": 1.54,
       "shares": 34803
     },
     {
@@ -178,86 +178,80 @@
     {
       "code": "XOM.US",
       "name": "Exxon Mobil",
-      "ratio": 1.19,
+      "ratio": 1.22,
       "shares": 79314
     },
     {
       "code": "JNJ.US",
       "name": "Johnson & Johnson",
-      "ratio": 1.01,
+      "ratio": 1.02,
       "shares": 45738
     },
     {
       "code": "WMT.US",
       "name": "Walmart",
-      "ratio": 0.94,
+      "ratio": 0.95,
       "shares": 83197
     },
     {
       "code": "V.US",
       "name": "Visa",
-      "ratio": 0.89,
+      "ratio": 0.91,
       "shares": 31906
-    },
-    {
-      "code": "MU.US",
-      "name": "Micron",
-      "ratio": 0.75,
-      "shares": 21361
     },
     {
       "code": "COST.US",
       "name": "Costco",
-      "ratio": 0.75,
+      "ratio": 0.77,
       "shares": 8424
     },
     {
       "code": "MA.US",
       "name": "Mastercard",
-      "ratio": 0.71,
+      "ratio": 0.72,
       "shares": 15457
+    },
+    {
+      "code": "MU.US",
+      "name": "Micron",
+      "ratio": 0.71,
+      "shares": 21361
     },
     {
       "code": "NFLX.US",
       "name": "Netflix",
-      "ratio": 0.68,
+      "ratio": 0.7,
       "shares": 80134
     },
     {
       "code": "CVX.US",
       "name": "Chevron",
-      "ratio": 0.67,
+      "ratio": 0.69,
       "shares": 35577
     },
     {
       "code": "ABBV.US",
       "name": "AbbVie",
-      "ratio": 0.64,
+      "ratio": 0.66,
       "shares": 33544
-    },
-    {
-      "code": "AMD.US",
-      "name": "AMD",
-      "ratio": 0.63,
-      "shares": 30944
     },
     {
       "code": "PLTR.US",
       "name": "Palantir Technologies",
-      "ratio": 0.62,
+      "ratio": 0.6,
       "shares": 43355
+    },
+    {
+      "code": "AMD.US",
+      "name": "AMD",
+      "ratio": 0.59,
+      "shares": 30944
     },
     {
       "code": "PG.US",
       "name": "Procter & Gamble",
-      "ratio": 0.58,
+      "ratio": 0.59,
       "shares": 44108
-    },
-    {
-      "code": "CAT.US",
-      "name": "Caterpillar",
-      "ratio": 0.58,
-      "shares": 8831
     },
     {
       "code": "HD.US",
@@ -266,21 +260,27 @@
       "shares": 18894
     },
     {
+      "code": "CAT.US",
+      "name": "Caterpillar",
+      "ratio": 0.58,
+      "shares": 8831
+    },
+    {
       "code": "CSCO.US",
       "name": "Cisco",
-      "ratio": 0.56,
+      "ratio": 0.57,
       "shares": 74989
     },
     {
       "code": "BAC.US",
       "name": "Bank of America",
-      "ratio": 0.56,
+      "ratio": 0.57,
       "shares": 125936
     },
     {
       "code": "GE.US",
       "name": "GE Aerospace",
-      "ratio": 0.54,
+      "ratio": 0.53,
       "shares": 19906
     },
     {
@@ -288,12 +288,6 @@
       "name": "Merck",
       "ratio": 0.52,
       "shares": 47107
-    },
-    {
-      "code": "LRCX.US",
-      "name": "Lam Research",
-      "ratio": 0.51,
-      "shares": 23701
     },
     {
       "code": "KO.US",
@@ -304,8 +298,14 @@
     {
       "code": "AMAT.US",
       "name": "Applied Materials",
-      "ratio": 0.51,
+      "ratio": 0.48,
       "shares": 15064
+    },
+    {
+      "code": "LRCX.US",
+      "name": "Lam Research",
+      "ratio": 0.47,
+      "shares": 23701
     },
     {
       "code": "RTX.US",
@@ -326,12 +326,6 @@
       "shares": 5692
     },
     {
-      "code": "GEV.US",
-      "name": "GE Vernova",
-      "ratio": 0.43,
-      "shares": 5115
-    },
-    {
       "code": "WFC.US",
       "name": "Wells Fargo",
       "ratio": 0.43,
@@ -344,22 +338,22 @@
       "shares": 17192
     },
     {
+      "code": "GEV.US",
+      "name": "GE Vernova",
+      "ratio": 0.42,
+      "shares": 5115
+    },
+    {
       "code": "LIN.US",
       "name": "Linde",
-      "ratio": 0.4,
+      "ratio": 0.41,
       "shares": 8862
     },
     {
       "code": "IBM.US",
       "name": "IBM",
-      "ratio": 0.39,
+      "ratio": 0.4,
       "shares": 17741
-    },
-    {
-      "code": "INTC.US",
-      "name": "Intel",
-      "ratio": 0.39,
-      "shares": 89113
     },
     {
       "code": "MCD.US",
@@ -370,8 +364,14 @@
     {
       "code": "VZ.US",
       "name": "Verizon Communications",
-      "ratio": 0.37,
+      "ratio": 0.38,
       "shares": 80036
+    },
+    {
+      "code": "INTC.US",
+      "name": "Intel",
+      "ratio": 0.37,
+      "shares": 89113
     },
     {
       "code": "PEP.US",
@@ -380,22 +380,10 @@
       "shares": 25938
     },
     {
-      "code": "MS.US",
-      "name": "Morgan Stanley",
-      "ratio": 0.35,
-      "shares": 22834
-    },
-    {
       "code": "T.US",
       "name": "AT&T",
-      "ratio": 0.35,
+      "ratio": 0.36,
       "shares": 132866
-    },
-    {
-      "code": "KLAC.US",
-      "name": "KLA",
-      "ratio": 0.35,
-      "shares": 2488
     },
     {
       "code": "C.US",
@@ -404,28 +392,40 @@
       "shares": 33166
     },
     {
-      "code": "AMGN.US",
-      "name": "Amgen Inc.",
-      "ratio": 0.33,
-      "shares": 10220
+      "code": "MS.US",
+      "name": "Morgan Stanley",
+      "ratio": 0.35,
+      "shares": 22834
     },
     {
       "code": "NEE.US",
       "name": "NextEra Energy",
-      "ratio": 0.33,
+      "ratio": 0.34,
       "shares": 39526
     },
     {
-      "code": "TMO.US",
-      "name": "Thermo Fisher Scientific",
-      "ratio": 0.32,
-      "shares": 7131
+      "code": "KLAC.US",
+      "name": "KLA",
+      "ratio": 0.34,
+      "shares": 2488
+    },
+    {
+      "code": "AMGN.US",
+      "name": "Amgen Inc.",
+      "ratio": 0.34,
+      "shares": 10220
     },
     {
       "code": "ABT.US",
       "name": "Abbott",
       "ratio": 0.32,
       "shares": 33003
+    },
+    {
+      "code": "TMO.US",
+      "name": "Thermo Fisher Scientific",
+      "ratio": 0.32,
+      "shares": 7131
     },
     {
       "code": "TJX.US",
@@ -440,46 +440,34 @@
       "shares": 17225
     },
     {
-      "code": "DIS.US",
-      "name": "Disney",
-      "ratio": 0.3,
-      "shares": 33622
-    },
-    {
       "code": "GILD.US",
       "name": "Gilead Sciences",
       "ratio": 0.3,
       "shares": 23547
     },
     {
-      "code": "ISRG.US",
-      "name": "Intuitive Surgical",
-      "ratio": 0.29,
-      "shares": 6740
-    },
-    {
       "code": "CRM.US",
       "name": "Salesforce",
-      "ratio": 0.29,
+      "ratio": 0.3,
       "shares": 17609
+    },
+    {
+      "code": "DIS.US",
+      "name": "Disney",
+      "ratio": 0.3,
+      "shares": 33622
     },
     {
       "code": "COP.US",
       "name": "ConocoPhillips",
-      "ratio": 0.28,
+      "ratio": 0.29,
       "shares": 23253
     },
     {
-      "code": "AXP.US",
-      "name": "American Express",
-      "ratio": 0.28,
-      "shares": 10165
-    },
-    {
-      "code": "APH.US",
-      "name": "Amphenol",
-      "ratio": 0.28,
-      "shares": 23330
+      "code": "ISRG.US",
+      "name": "Intuitive Surgical",
+      "ratio": 0.29,
+      "shares": 6740
     },
     {
       "code": "SCHW.US",
@@ -490,8 +478,14 @@
     {
       "code": "PFE.US",
       "name": "Pfizer",
-      "ratio": 0.27,
+      "ratio": 0.28,
       "shares": 107911
+    },
+    {
+      "code": "AXP.US",
+      "name": "American Express",
+      "ratio": 0.28,
+      "shares": 10165
     },
     {
       "code": "BA.US",
@@ -506,34 +500,22 @@
       "shares": 9274
     },
     {
+      "code": "APH.US",
+      "name": "Amphenol",
+      "ratio": 0.27,
+      "shares": 23330
+    },
+    {
       "code": "UBER.US",
       "name": "Uber",
       "ratio": 0.26,
       "shares": 39062
     },
     {
-      "code": "UNP.US",
-      "name": "Union Pacific",
-      "ratio": 0.25,
-      "shares": 11262
-    },
-    {
-      "code": "BLK.US",
-      "name": "BlackRock",
-      "ratio": 0.25,
-      "shares": 2739
-    },
-    {
       "code": "DE.US",
       "name": "Deere",
-      "ratio": 0.25,
+      "ratio": 0.26,
       "shares": 4785
-    },
-    {
-      "code": "HON.US",
-      "name": "Honeywell",
-      "ratio": 0.25,
-      "shares": 12050
     },
     {
       "code": "ETN.US",
@@ -542,16 +524,34 @@
       "shares": 7372
     },
     {
+      "code": "HON.US",
+      "name": "Honeywell",
+      "ratio": 0.25,
+      "shares": 12050
+    },
+    {
+      "code": "UNP.US",
+      "name": "Union Pacific",
+      "ratio": 0.25,
+      "shares": 11262
+    },
+    {
+      "code": "QCOM.US",
+      "name": "QUALCOMM",
+      "ratio": 0.25,
+      "shares": 20251
+    },
+    {
+      "code": "BLK.US",
+      "name": "BlackRock",
+      "ratio": 0.25,
+      "shares": 2739
+    },
+    {
       "code": "BKNG.US",
       "name": "Booking Holdings",
       "ratio": 0.24,
       "shares": 612
-    },
-    {
-      "code": "ANET.US",
-      "name": "Arista Networks",
-      "ratio": 0.24,
-      "shares": 19598
     },
     {
       "code": "WELL.US",
@@ -560,16 +560,16 @@
       "shares": 13243
     },
     {
-      "code": "QCOM.US",
-      "name": "QUALCOMM",
-      "ratio": 0.24,
-      "shares": 20251
-    },
-    {
       "code": "LOW.US",
       "name": "Lowe's",
       "ratio": 0.23,
       "shares": 10646
+    },
+    {
+      "code": "LMT.US",
+      "name": "Lockheed Martin",
+      "ratio": 0.22,
+      "shares": 3843
     },
     {
       "code": "PANW.US",
@@ -584,16 +584,10 @@
       "shares": 5808
     },
     {
-      "code": "LMT.US",
-      "name": "Lockheed Martin",
+      "code": "ANET.US",
+      "name": "Arista Networks",
       "ratio": 0.22,
-      "shares": 3843
-    },
-    {
-      "code": "INTU.US",
-      "name": "Intuit",
-      "ratio": 0.21,
-      "shares": 5281
+      "shares": 19598
     },
     {
       "code": "ACN.US",
@@ -608,18 +602,6 @@
       "shares": 38651
     },
     {
-      "code": "APP.US",
-      "name": "Applovin",
-      "ratio": 0.21,
-      "shares": 5143
-    },
-    {
-      "code": "DHR.US",
-      "name": "Danaher",
-      "ratio": 0.21,
-      "shares": 11941
-    },
-    {
       "code": "PLD.US",
       "name": "Prologis",
       "ratio": 0.21,
@@ -632,28 +614,22 @@
       "shares": 11124
     },
     {
-      "code": "PH.US",
-      "name": "Parker Hannifin",
-      "ratio": 0.2,
-      "shares": 2396
+      "code": "INTU.US",
+      "name": "Intuit",
+      "ratio": 0.21,
+      "shares": 5281
     },
     {
-      "code": "SYK.US",
-      "name": "Stryker",
-      "ratio": 0.2,
-      "shares": 6537
+      "code": "DHR.US",
+      "name": "Danaher",
+      "ratio": 0.21,
+      "shares": 11941
     },
     {
-      "code": "MDT.US",
-      "name": "Medtronic",
-      "ratio": 0.2,
-      "shares": 24332
-    },
-    {
-      "code": "VRTX.US",
-      "name": "Vertex Pharmaceuticals",
-      "ratio": 0.2,
-      "shares": 4821
+      "code": "CB.US",
+      "name": "Chubb",
+      "ratio": 0.21,
+      "shares": 6903
     },
     {
       "code": "COF.US",
@@ -662,16 +638,40 @@
       "shares": 11864
     },
     {
-      "code": "CB.US",
-      "name": "Chubb",
+      "code": "PH.US",
+      "name": "Parker Hannifin",
       "ratio": 0.2,
-      "shares": 6903
+      "shares": 2396
     },
     {
-      "code": "GLW.US",
-      "name": "Corning",
+      "code": "MDT.US",
+      "name": "Medtronic",
       "ratio": 0.2,
-      "shares": 14818
+      "shares": 24332
+    },
+    {
+      "code": "SYK.US",
+      "name": "Stryker",
+      "ratio": 0.2,
+      "shares": 6537
+    },
+    {
+      "code": "VRTX.US",
+      "name": "Vertex Pharmaceuticals",
+      "ratio": 0.2,
+      "shares": 4821
+    },
+    {
+      "code": "SO.US",
+      "name": "Southern",
+      "ratio": 0.19,
+      "shares": 20898
+    },
+    {
+      "code": "APP.US",
+      "name": "Applovin",
+      "ratio": 0.19,
+      "shares": 5143
     },
     {
       "code": "MCK.US",
@@ -704,22 +704,16 @@
       "shares": 19852
     },
     {
-      "code": "SO.US",
-      "name": "Southern",
-      "ratio": 0.18,
-      "shares": 20898
+      "code": "CME.US",
+      "name": "CME Group Inc.",
+      "ratio": 0.19,
+      "shares": 6844
     },
     {
-      "code": "SBUX.US",
-      "name": "Starbucks",
-      "ratio": 0.18,
-      "shares": 21623
-    },
-    {
-      "code": "",
-      "name": "VERTIV HOLDINGS CO-A",
-      "ratio": 0.18,
-      "shares": 7261
+      "code": "GLW.US",
+      "name": "Corning",
+      "ratio": 0.19,
+      "shares": 14818
     },
     {
       "code": "CMCSA.US",
@@ -728,10 +722,16 @@
       "shares": 68105
     },
     {
-      "code": "CME.US",
-      "name": "CME Group Inc.",
+      "code": "DUK.US",
+      "name": "Duke Energy",
       "ratio": 0.18,
-      "shares": 6844
+      "shares": 14759
+    },
+    {
+      "code": "CRWD.US",
+      "name": "CrowdStrike Holdings",
+      "ratio": 0.18,
+      "shares": 4785
     },
     {
       "code": "BSX.US",
@@ -740,82 +740,34 @@
       "shares": 28147
     },
     {
+      "code": "SBUX.US",
+      "name": "Starbucks",
+      "ratio": 0.18,
+      "shares": 21623
+    },
+    {
+      "code": "TMUS.US",
+      "name": "T-Mobile US",
+      "ratio": 0.18,
+      "shares": 8992
+    },
+    {
+      "code": "",
+      "name": "VERTIV HOLDINGS CO-A",
+      "ratio": 0.17,
+      "shares": 7261
+    },
+    {
       "code": "ADBE.US",
       "name": "Adobe",
       "ratio": 0.17,
       "shares": 7743
     },
     {
-      "code": "CRWD.US",
-      "name": "CrowdStrike Holdings",
-      "ratio": 0.17,
-      "shares": 4785
-    },
-    {
       "code": "EQIX.US",
       "name": "Equinix",
       "ratio": 0.17,
       "shares": 1865
-    },
-    {
-      "code": "DUK.US",
-      "name": "Duke Energy",
-      "ratio": 0.17,
-      "shares": 14759
-    },
-    {
-      "code": "HWM.US",
-      "name": "Howmet Aerospace",
-      "ratio": 0.17,
-      "shares": 7610
-    },
-    {
-      "code": "WDC.US",
-      "name": "Western Digital",
-      "ratio": 0.17,
-      "shares": 6435
-    },
-    {
-      "code": "TT.US",
-      "name": "Trane Technologies",
-      "ratio": 0.17,
-      "shares": 4201
-    },
-    {
-      "code": "TMUS.US",
-      "name": "T-Mobile US",
-      "ratio": 0.17,
-      "shares": 8992
-    },
-    {
-      "code": "SNDK.US",
-      "name": "Sandisk",
-      "ratio": 0.17,
-      "shares": 2801
-    },
-    {
-      "code": "STX.US",
-      "name": "Seagate",
-      "ratio": 0.16,
-      "shares": 4139
-    },
-    {
-      "code": "NOC.US",
-      "name": "Northrop Grumman",
-      "ratio": 0.16,
-      "shares": 2532
-    },
-    {
-      "code": "WMB.US",
-      "name": "Williams",
-      "ratio": 0.16,
-      "shares": 23178
-    },
-    {
-      "code": "ICE.US",
-      "name": "Intercontinental Exchange",
-      "ratio": 0.16,
-      "shares": 10778
     },
     {
       "code": "GD.US",
@@ -836,10 +788,58 @@
       "shares": 5914
     },
     {
-      "code": "JCI.US",
-      "name": "Johnson Controls",
+      "code": "NOC.US",
+      "name": "Northrop Grumman",
+      "ratio": 0.16,
+      "shares": 2532
+    },
+    {
+      "code": "HWM.US",
+      "name": "Howmet Aerospace",
+      "ratio": 0.16,
+      "shares": 7610
+    },
+    {
+      "code": "ICE.US",
+      "name": "Intercontinental Exchange",
+      "ratio": 0.16,
+      "shares": 10778
+    },
+    {
+      "code": "WMB.US",
+      "name": "Williams",
+      "ratio": 0.16,
+      "shares": 23178
+    },
+    {
+      "code": "WDC.US",
+      "name": "Western Digital",
+      "ratio": 0.16,
+      "shares": 6435
+    },
+    {
+      "code": "TT.US",
+      "name": "Trane Technologies",
+      "ratio": 0.16,
+      "shares": 4201
+    },
+    {
+      "code": "SNDK.US",
+      "name": "Sandisk",
+      "ratio": 0.16,
+      "shares": 2801
+    },
+    {
+      "code": "STX.US",
+      "name": "Seagate",
       "ratio": 0.15,
-      "shares": 11617
+      "shares": 4139
+    },
+    {
+      "code": "PNC.US",
+      "name": "PNC Financial Services",
+      "ratio": 0.15,
+      "shares": 7666
     },
     {
       "code": "WM.US",
@@ -848,22 +848,76 @@
       "shares": 7043
     },
     {
+      "code": "ADP.US",
+      "name": "Automatic Data Processing",
+      "ratio": 0.15,
+      "shares": 7642
+    },
+    {
+      "code": "BX.US",
+      "name": "Blackstone",
+      "ratio": 0.15,
+      "shares": 14210
+    },
+    {
       "code": "MRSH.US",
       "name": "Marsh",
       "ratio": 0.15,
       "shares": 9188
     },
     {
-      "code": "PWR.US",
-      "name": "Quanta Services",
-      "ratio": 0.15,
-      "shares": 2830
+      "code": "ORLY.US",
+      "name": "O'Reilly Automotive",
+      "ratio": 0.14,
+      "shares": 15979
     },
     {
-      "code": "PNC.US",
-      "name": "PNC Financial Services",
+      "code": "JCI.US",
+      "name": "Johnson Controls",
       "ratio": 0.14,
-      "shares": 7666
+      "shares": 11617
+    },
+    {
+      "code": "CDNS.US",
+      "name": "Cadence Design Systems",
+      "ratio": 0.14,
+      "shares": 5166
+    },
+    {
+      "code": "EOG.US",
+      "name": "EOG Resources, Inc.",
+      "ratio": 0.14,
+      "shares": 10298
+    },
+    {
+      "code": "FCX.US",
+      "name": "Freeport-McMoran",
+      "ratio": 0.14,
+      "shares": 27277
+    },
+    {
+      "code": "BK.US",
+      "name": "Bank of New York Mellon",
+      "ratio": 0.14,
+      "shares": 13062
+    },
+    {
+      "code": "AMT.US",
+      "name": "American Tower",
+      "ratio": 0.14,
+      "shares": 8885
+    },
+    {
+      "code": "USB.US",
+      "name": "U.S. Bancorp",
+      "ratio": 0.14,
+      "shares": 29502
+    },
+    {
+      "code": "PWR.US",
+      "name": "Quanta Services",
+      "ratio": 0.14,
+      "shares": 2830
     },
     {
       "code": "SNPS.US",
@@ -876,120 +930,6 @@
       "name": "SLB",
       "ratio": 0.14,
       "shares": 28380
-    },
-    {
-      "code": "MMM.US",
-      "name": "3M",
-      "ratio": 0.14,
-      "shares": 9996
-    },
-    {
-      "code": "USB.US",
-      "name": "U.S. Bancorp",
-      "ratio": 0.14,
-      "shares": 29502
-    },
-    {
-      "code": "FCX.US",
-      "name": "Freeport-McMoran",
-      "ratio": 0.14,
-      "shares": 27277
-    },
-    {
-      "code": "EOG.US",
-      "name": "EOG Resources, Inc.",
-      "ratio": 0.14,
-      "shares": 10298
-    },
-    {
-      "code": "BK.US",
-      "name": "Bank of New York Mellon",
-      "ratio": 0.14,
-      "shares": 13062
-    },
-    {
-      "code": "ADP.US",
-      "name": "Automatic Data Processing",
-      "ratio": 0.14,
-      "shares": 7642
-    },
-    {
-      "code": "AMT.US",
-      "name": "American Tower",
-      "ratio": 0.14,
-      "shares": 8885
-    },
-    {
-      "code": "BX.US",
-      "name": "Blackstone",
-      "ratio": 0.14,
-      "shares": 14210
-    },
-    {
-      "code": "CMI.US",
-      "name": "Cummins",
-      "ratio": 0.13,
-      "shares": 2622
-    },
-    {
-      "code": "CDNS.US",
-      "name": "Cadence Design Systems",
-      "ratio": 0.13,
-      "shares": 5166
-    },
-    {
-      "code": "CSX.US",
-      "name": "CSX",
-      "ratio": 0.13,
-      "shares": 35293
-    },
-    {
-      "code": "EMR.US",
-      "name": "Emerson Electric",
-      "ratio": 0.13,
-      "shares": 10666
-    },
-    {
-      "code": "FDX.US",
-      "name": "FedEx",
-      "ratio": 0.13,
-      "shares": 4105
-    },
-    {
-      "code": "HCA.US",
-      "name": "HCA Healthcare",
-      "ratio": 0.13,
-      "shares": 2971
-    },
-    {
-      "code": "UPS.US",
-      "name": "UPS",
-      "ratio": 0.13,
-      "shares": 14025
-    },
-    {
-      "code": "MDLZ.US",
-      "name": "Mondelez International",
-      "ratio": 0.13,
-      "shares": 24328
-    },
-    {
-      "code": "MAR.US",
-      "name": "Marriott International",
-      "ratio": 0.13,
-      "shares": 4174
-    },
-    {
-      "code": "MSI.US",
-      "name": "Motorola Solutions",
-      "ratio": 0.13,
-      "shares": 3144
-    },
-    {
-      "code": "ORLY.US",
-      "name": "O'Reilly Automotive",
-      "ratio": 0.13,
-      "shares": 15979
     },
     {
       "code": "SHW.US",
@@ -1010,34 +950,88 @@
       "shares": 7647
     },
     {
-      "code": "RCL.US",
-      "name": "Royal Caribbean Cruises",
-      "ratio": 0.12,
-      "shares": 4775
-    },
-    {
-      "code": "ROST.US",
-      "name": "Ross Stores, Inc.",
-      "ratio": 0.12,
-      "shares": 6139
-    },
-    {
-      "code": "MPC.US",
-      "name": "Marathon Petroleum",
-      "ratio": 0.12,
-      "shares": 5599
+      "code": "UPS.US",
+      "name": "UPS",
+      "ratio": 0.13,
+      "shares": 14025
     },
     {
       "code": "VLO.US",
       "name": "Valero Energy",
-      "ratio": 0.12,
+      "ratio": 0.13,
       "shares": 5789
     },
     {
-      "code": "WBD.US",
-      "name": "Warner Bros. Discovery",
+      "code": "EMR.US",
+      "name": "Emerson Electric",
+      "ratio": 0.13,
+      "shares": 10666
+    },
+    {
+      "code": "FDX.US",
+      "name": "FedEx",
+      "ratio": 0.13,
+      "shares": 4105
+    },
+    {
+      "code": "CI.US",
+      "name": "Cigna Group",
+      "ratio": 0.13,
+      "shares": 5000
+    },
+    {
+      "code": "CMI.US",
+      "name": "Cummins",
+      "ratio": 0.13,
+      "shares": 2622
+    },
+    {
+      "code": "CSX.US",
+      "name": "CSX",
+      "ratio": 0.13,
+      "shares": 35293
+    },
+    {
+      "code": "HCA.US",
+      "name": "HCA Healthcare",
+      "ratio": 0.13,
+      "shares": 2971
+    },
+    {
+      "code": "MPC.US",
+      "name": "Marathon Petroleum",
+      "ratio": 0.13,
+      "shares": 5599
+    },
+    {
+      "code": "MSI.US",
+      "name": "Motorola Solutions",
+      "ratio": 0.13,
+      "shares": 3144
+    },
+    {
+      "code": "MMM.US",
+      "name": "3M",
+      "ratio": 0.13,
+      "shares": 9996
+    },
+    {
+      "code": "MDLZ.US",
+      "name": "Mondelez International",
+      "ratio": 0.13,
+      "shares": 24328
+    },
+    {
+      "code": "MAR.US",
+      "name": "Marriott International",
+      "ratio": 0.13,
+      "shares": 4174
+    },
+    {
+      "code": "MCO.US",
+      "name": "Moody's",
       "ratio": 0.12,
-      "shares": 47038
+      "shares": 2912
     },
     {
       "code": "HLT.US",
@@ -1052,10 +1046,28 @@
       "shares": 4978
     },
     {
+      "code": "LHX.US",
+      "name": "L3Harris Technologies",
+      "ratio": 0.12,
+      "shares": 3545
+    },
+    {
       "code": "KMI.US",
       "name": "Kinder Morgan",
       "ratio": 0.12,
       "shares": 37157
+    },
+    {
+      "code": "CRH.US",
+      "name": "CRH",
+      "ratio": 0.12,
+      "shares": 12721
+    },
+    {
+      "code": "CL.US",
+      "name": "Colgate-Palmolive",
+      "ratio": 0.12,
+      "shares": 15299
     },
     {
       "code": "GM.US",
@@ -1070,22 +1082,28 @@
       "shares": 4838
     },
     {
-      "code": "CRH.US",
-      "name": "CRH",
+      "code": "WBD.US",
+      "name": "Warner Bros. Discovery",
       "ratio": 0.12,
-      "shares": 12721
+      "shares": 47038
     },
     {
-      "code": "CI.US",
-      "name": "Cigna Group",
+      "code": "RCL.US",
+      "name": "Royal Caribbean Cruises",
       "ratio": 0.12,
-      "shares": 5000
+      "shares": 4775
     },
     {
-      "code": "CL.US",
-      "name": "Colgate-Palmolive",
+      "code": "ROST.US",
+      "name": "Ross Stores, Inc.",
       "ratio": 0.12,
-      "shares": 15299
+      "shares": 6139
+    },
+    {
+      "code": "TDG.US",
+      "name": "TransDigm Group",
+      "ratio": 0.12,
+      "shares": 1072
     },
     {
       "code": "AON.US",
@@ -1100,58 +1118,16 @@
       "shares": 10265
     },
     {
+      "code": "APD.US",
+      "name": "Air Products and Chemicals",
+      "ratio": 0.12,
+      "shares": 4226
+    },
+    {
       "code": "BKR.US",
       "name": "Baker Hughes",
       "ratio": 0.11,
       "shares": 18756
-    },
-    {
-      "code": "APD.US",
-      "name": "Air Products and Chemicals",
-      "ratio": 0.11,
-      "shares": 4226
-    },
-    {
-      "code": "",
-      "name": "CIENA CORP",
-      "ratio": 0.11,
-      "shares": 2673
-    },
-    {
-      "code": "COR.US",
-      "name": "Cencora",
-      "ratio": 0.11,
-      "shares": 3692
-    },
-    {
-      "code": "ELV.US",
-      "name": "Elevance Health",
-      "ratio": 0.11,
-      "shares": 4189
-    },
-    {
-      "code": "LHX.US",
-      "name": "L3Harris Technologies",
-      "ratio": 0.11,
-      "shares": 3545
-    },
-    {
-      "code": "KKR.US",
-      "name": "KKR",
-      "ratio": 0.11,
-      "shares": 13028
-    },
-    {
-      "code": "TRV.US",
-      "name": "Travelers",
-      "ratio": 0.11,
-      "shares": 4104
-    },
-    {
-      "code": "TDG.US",
-      "name": "TransDigm Group",
-      "ratio": 0.11,
-      "shares": 1072
     },
     {
       "code": "TEL.US",
@@ -1160,28 +1136,34 @@
       "shares": 5569
     },
     {
-      "code": "MCO.US",
-      "name": "Moody's",
-      "ratio": 0.11,
-      "shares": 2912
-    },
-    {
-      "code": "NSC.US",
-      "name": "Norfolk Southern",
-      "ratio": 0.11,
-      "shares": 4262
-    },
-    {
-      "code": "NKE.US",
-      "name": "NIKE",
-      "ratio": 0.11,
-      "shares": 22614
-    },
-    {
       "code": "SRE.US",
       "name": "Sempra",
       "ratio": 0.11,
       "shares": 12387
+    },
+    {
+      "code": "TRV.US",
+      "name": "Travelers",
+      "ratio": 0.11,
+      "shares": 4104
+    },
+    {
+      "code": "ELV.US",
+      "name": "Elevance Health",
+      "ratio": 0.11,
+      "shares": 4189
+    },
+    {
+      "code": "COR.US",
+      "name": "Cencora",
+      "ratio": 0.11,
+      "shares": 3692
+    },
+    {
+      "code": "KKR.US",
+      "name": "KKR",
+      "ratio": 0.11,
+      "shares": 13028
     },
     {
       "code": "PCAR.US",
@@ -1190,10 +1172,16 @@
       "shares": 9972
     },
     {
-      "code": "SPG.US",
-      "name": "Simon Property Group Inc.",
-      "ratio": 0.1,
-      "shares": 6172
+      "code": "NKE.US",
+      "name": "NIKE",
+      "ratio": 0.11,
+      "shares": 22614
+    },
+    {
+      "code": "NSC.US",
+      "name": "Norfolk Southern",
+      "ratio": 0.11,
+      "shares": 4262
     },
     {
       "code": "O.US",
@@ -1208,22 +1196,16 @@
       "shares": 11942
     },
     {
-      "code": "TFC.US",
-      "name": "Truist Financial",
-      "ratio": 0.1,
-      "shares": 23961
-    },
-    {
-      "code": "",
-      "name": "LUMENTUM HOLDINGS INC",
-      "ratio": 0.1,
-      "shares": 1355
-    },
-    {
       "code": "HOOD.US",
       "name": "Robinhood Markets",
       "ratio": 0.1,
       "shares": 15000
+    },
+    {
+      "code": "",
+      "name": "CIENA CORP",
+      "ratio": 0.1,
+      "shares": 2673
     },
     {
       "code": "CTAS.US",
@@ -1232,28 +1214,46 @@
       "shares": 6451
     },
     {
-      "code": "CTVA.US",
-      "name": "Corteva",
-      "ratio": 0.1,
-      "shares": 12764
-    },
-    {
       "code": "DASH.US",
       "name": "DoorDash",
       "ratio": 0.1,
       "shares": 7095
     },
     {
-      "code": "DELL.US",
-      "name": "Dell",
+      "code": "CTVA.US",
+      "name": "Corteva",
       "ratio": 0.1,
-      "shares": 5640
+      "shares": 12764
     },
     {
       "code": "DLR.US",
       "name": "Digital Realty Trust",
       "ratio": 0.1,
       "shares": 6129
+    },
+    {
+      "code": "TRGP.US",
+      "name": "Targa Resources",
+      "ratio": 0.1,
+      "shares": 4074
+    },
+    {
+      "code": "ABNB.US",
+      "name": "Airbnb",
+      "ratio": 0.1,
+      "shares": 8039
+    },
+    {
+      "code": "TFC.US",
+      "name": "Truist Financial",
+      "ratio": 0.1,
+      "shares": 23961
+    },
+    {
+      "code": "SPG.US",
+      "name": "Simon Property Group Inc.",
+      "ratio": 0.1,
+      "shares": 6172
     },
     {
       "code": "AZO.US",
@@ -1268,10 +1268,22 @@
       "shares": 4877
     },
     {
-      "code": "ABNB.US",
-      "name": "Airbnb",
+      "code": "ALL.US",
+      "name": "Allstate",
       "ratio": 0.1,
-      "shares": 8039
+      "shares": 4935
+    },
+    {
+      "code": "AME.US",
+      "name": "AMETEK",
+      "ratio": 0.09,
+      "shares": 4369
+    },
+    {
+      "code": "APO.US",
+      "name": "Apollo Global Management",
+      "ratio": 0.09,
+      "shares": 8813
     },
     {
       "code": "AFL.US",
@@ -1286,64 +1298,10 @@
       "shares": 3940
     },
     {
-      "code": "AME.US",
-      "name": "AMETEK",
-      "ratio": 0.09,
-      "shares": 4369
-    },
-    {
-      "code": "ALL.US",
-      "name": "Allstate",
-      "ratio": 0.09,
-      "shares": 4935
-    },
-    {
-      "code": "APO.US",
-      "name": "Apollo Global Management",
-      "ratio": 0.09,
-      "shares": 8813
-    },
-    {
-      "code": "D.US",
-      "name": "Dominion Energy",
-      "ratio": 0.09,
-      "shares": 16207
-    },
-    {
-      "code": "",
-      "name": "COHERENT CORP",
-      "ratio": 0.09,
-      "shares": 3558
-    },
-    {
       "code": "CAH.US",
       "name": "Cardinal Health",
       "ratio": 0.09,
       "shares": 4466
-    },
-    {
-      "code": "KEYS.US",
-      "name": "Keysight Technologies",
-      "ratio": 0.09,
-      "shares": 3255
-    },
-    {
-      "code": "FTNT.US",
-      "name": "Fortinet",
-      "ratio": 0.09,
-      "shares": 11997
-    },
-    {
-      "code": "FIX.US",
-      "name": "Comfort Systems USA",
-      "ratio": 0.09,
-      "shares": 668
-    },
-    {
-      "code": "FAST.US",
-      "name": "Fastenal",
-      "ratio": 0.09,
-      "shares": 21792
     },
     {
       "code": "TGT.US",
@@ -1352,22 +1310,58 @@
       "shares": 8594
     },
     {
-      "code": "TER.US",
-      "name": "Teradyne",
-      "ratio": 0.09,
-      "shares": 2972
-    },
-    {
-      "code": "TRGP.US",
-      "name": "Targa Resources",
-      "ratio": 0.09,
-      "shares": 4074
-    },
-    {
       "code": "ZTS.US",
       "name": "Zoetis",
       "ratio": 0.09,
       "shares": 8012
+    },
+    {
+      "code": "VST.US",
+      "name": "Vistra",
+      "ratio": 0.09,
+      "shares": 6045
+    },
+    {
+      "code": "DELL.US",
+      "name": "Dell",
+      "ratio": 0.09,
+      "shares": 5640
+    },
+    {
+      "code": "D.US",
+      "name": "Dominion Energy",
+      "ratio": 0.09,
+      "shares": 16207
+    },
+    {
+      "code": "EXC.US",
+      "name": "Exelon",
+      "ratio": 0.09,
+      "shares": 19414
+    },
+    {
+      "code": "FAST.US",
+      "name": "Fastenal",
+      "ratio": 0.09,
+      "shares": 21792
+    },
+    {
+      "code": "FTNT.US",
+      "name": "Fortinet",
+      "ratio": 0.09,
+      "shares": 11997
+    },
+    {
+      "code": "KEYS.US",
+      "name": "Keysight Technologies",
+      "ratio": 0.09,
+      "shares": 3255
+    },
+    {
+      "code": "",
+      "name": "LUMENTUM HOLDINGS INC",
+      "ratio": 0.09,
+      "shares": 1355
     },
     {
       "code": "NXPI.US",
@@ -1376,28 +1370,82 @@
       "shares": 4777
     },
     {
-      "code": "MPWR.US",
-      "name": "Monolithic Power Systems",
-      "ratio": 0.09,
-      "shares": 924
-    },
-    {
       "code": "MNST.US",
       "name": "Monster Beverage",
       "ratio": 0.09,
       "shares": 13536
     },
     {
-      "code": "RSG.US",
-      "name": "Republic Services",
-      "ratio": 0.08,
-      "shares": 3819
+      "code": "MPWR.US",
+      "name": "Monolithic Power Systems",
+      "ratio": 0.09,
+      "shares": 924
     },
     {
       "code": "OXY.US",
       "name": "Occidental Petroleum",
       "ratio": 0.08,
       "shares": 13650
+    },
+    {
+      "code": "IDXX.US",
+      "name": "IDEXX Laboratories",
+      "ratio": 0.08,
+      "shares": 1516
+    },
+    {
+      "code": "FIX.US",
+      "name": "Comfort Systems USA",
+      "ratio": 0.08,
+      "shares": 668
+    },
+    {
+      "code": "GWW.US",
+      "name": "W.W. Grainger",
+      "ratio": 0.08,
+      "shares": 830
+    },
+    {
+      "code": "F.US",
+      "name": "Ford Motor",
+      "ratio": 0.08,
+      "shares": 74373
+    },
+    {
+      "code": "EW.US",
+      "name": "Edwards Lifesciences",
+      "ratio": 0.08,
+      "shares": 11014
+    },
+    {
+      "code": "ETR.US",
+      "name": "Entergy",
+      "ratio": 0.08,
+      "shares": 8585
+    },
+    {
+      "code": "EA.US",
+      "name": "Electronic Arts",
+      "ratio": 0.08,
+      "shares": 4275
+    },
+    {
+      "code": "DAL.US",
+      "name": "Delta Air",
+      "ratio": 0.08,
+      "shares": 12328
+    },
+    {
+      "code": "CVNA.US",
+      "name": "Carvana",
+      "ratio": 0.08,
+      "shares": 2684
+    },
+    {
+      "code": "",
+      "name": "COHERENT CORP",
+      "ratio": 0.08,
+      "shares": 3558
     },
     {
       "code": "XEL.US",
@@ -1418,52 +1466,16 @@
       "shares": 1196
     },
     {
-      "code": "VST.US",
-      "name": "Vistra",
+      "code": "TER.US",
+      "name": "Teradyne",
       "ratio": 0.08,
-      "shares": 6045
+      "shares": 2972
     },
     {
-      "code": "F.US",
-      "name": "Ford Motor",
+      "code": "RSG.US",
+      "name": "Republic Services",
       "ratio": 0.08,
-      "shares": 74373
-    },
-    {
-      "code": "ETR.US",
-      "name": "Entergy",
-      "ratio": 0.08,
-      "shares": 8585
-    },
-    {
-      "code": "EW.US",
-      "name": "Edwards Lifesciences",
-      "ratio": 0.08,
-      "shares": 11014
-    },
-    {
-      "code": "EXC.US",
-      "name": "Exelon",
-      "ratio": 0.08,
-      "shares": 19414
-    },
-    {
-      "code": "EA.US",
-      "name": "Electronic Arts",
-      "ratio": 0.08,
-      "shares": 4275
-    },
-    {
-      "code": "GWW.US",
-      "name": "W.W. Grainger",
-      "ratio": 0.08,
-      "shares": 830
-    },
-    {
-      "code": "IDXX.US",
-      "name": "IDEXX Laboratories",
-      "ratio": 0.08,
-      "shares": 1516
+      "shares": 3819
     },
     {
       "code": "CARR.US",
@@ -1472,28 +1484,10 @@
       "shares": 14912
     },
     {
-      "code": "DAL.US",
-      "name": "Delta Air",
-      "ratio": 0.08,
-      "shares": 12328
-    },
-    {
-      "code": "CVNA.US",
-      "name": "Carvana",
-      "ratio": 0.08,
-      "shares": 2684
-    },
-    {
       "code": "BDX.US",
       "name": "BD",
       "ratio": 0.08,
       "shares": 5404
-    },
-    {
-      "code": "AMP.US",
-      "name": "Ameriprise Financial",
-      "ratio": 0.07,
-      "shares": 1733
     },
     {
       "code": "AIG.US",
@@ -1502,16 +1496,58 @@
       "shares": 10184
     },
     {
-      "code": "DDOG.US",
-      "name": "Datadog",
+      "code": "AMP.US",
+      "name": "Ameriprise Financial",
       "ratio": 0.07,
-      "shares": 6230
+      "shares": 1733
     },
     {
-      "code": "CBRE.US",
-      "name": "CBRE Group",
+      "code": "ROK.US",
+      "name": "Rockwell Automation",
       "ratio": 0.07,
-      "shares": 5515
+      "shares": 2132
+    },
+    {
+      "code": "ROP.US",
+      "name": "Roper Technologies",
+      "ratio": 0.07,
+      "shares": 2023
+    },
+    {
+      "code": "PYPL.US",
+      "name": "PayPal",
+      "ratio": 0.07,
+      "shares": 17474
+    },
+    {
+      "code": "PSA.US",
+      "name": "Public Storage",
+      "ratio": 0.07,
+      "shares": 2998
+    },
+    {
+      "code": "SYY.US",
+      "name": "Sysco Corp.",
+      "ratio": 0.07,
+      "shares": 9090
+    },
+    {
+      "code": "VTR.US",
+      "name": "Ventas",
+      "ratio": 0.07,
+      "shares": 9014
+    },
+    {
+      "code": "WAB.US",
+      "name": "Wabtec",
+      "ratio": 0.07,
+      "shares": 3236
+    },
+    {
+      "code": "WEC.US",
+      "name": "WEC Energy",
+      "ratio": 0.07,
+      "shares": 6177
     },
     {
       "code": "COIN.US",
@@ -1526,22 +1562,16 @@
       "shares": 24719
     },
     {
-      "code": "GRMN.US",
-      "name": "Garmin",
+      "code": "CBRE.US",
+      "name": "CBRE Group",
       "ratio": 0.07,
-      "shares": 3103
+      "shares": 5515
     },
     {
-      "code": "HIG.US",
-      "name": "The Hartford",
+      "code": "DDOG.US",
+      "name": "Datadog",
       "ratio": 0.07,
-      "shares": 5293
-    },
-    {
-      "code": "KR.US",
-      "name": "Kroger",
-      "ratio": 0.07,
-      "shares": 11050
+      "shares": 6230
     },
     {
       "code": "EBAY.US",
@@ -1562,22 +1592,34 @@
       "shares": 11844
     },
     {
+      "code": "FANG.US",
+      "name": "Diamondback Energy",
+      "ratio": 0.07,
+      "shares": 3535
+    },
+    {
+      "code": "GRMN.US",
+      "name": "Garmin",
+      "ratio": 0.07,
+      "shares": 3103
+    },
+    {
       "code": "FITB.US",
       "name": "Fifth Third",
       "ratio": 0.07,
       "shares": 17082
     },
     {
-      "code": "VTR.US",
-      "name": "Ventas",
+      "code": "HIG.US",
+      "name": "The Hartford",
       "ratio": 0.07,
-      "shares": 9014
+      "shares": 5293
     },
     {
-      "code": "WAB.US",
-      "name": "Wabtec",
+      "code": "KR.US",
+      "name": "Kroger",
       "ratio": 0.07,
-      "shares": 3236
+      "shares": 11050
     },
     {
       "code": "PEG.US",
@@ -1586,28 +1628,10 @@
       "shares": 9474
     },
     {
-      "code": "PYPL.US",
-      "name": "PayPal",
+      "code": "NUE.US",
+      "name": "Nucor",
       "ratio": 0.07,
-      "shares": 17474
-    },
-    {
-      "code": "PSA.US",
-      "name": "Public Storage",
-      "ratio": 0.07,
-      "shares": 2998
-    },
-    {
-      "code": "ROK.US",
-      "name": "Rockwell Automation",
-      "ratio": 0.07,
-      "shares": 2132
-    },
-    {
-      "code": "SYY.US",
-      "name": "Sysco Corp.",
-      "ratio": 0.07,
-      "shares": 9090
+      "shares": 4344
     },
     {
       "code": "MSCI.US",
@@ -1616,34 +1640,16 @@
       "shares": 1394
     },
     {
-      "code": "MET.US",
-      "name": "MetLife, Inc.",
-      "ratio": 0.07,
-      "shares": 10447
-    },
-    {
-      "code": "NUE.US",
-      "name": "Nucor",
-      "ratio": 0.07,
-      "shares": 4344
-    },
-    {
       "code": "NDAQ.US",
       "name": "Nasdaq",
       "ratio": 0.07,
       "shares": 8523
     },
     {
-      "code": "NRG.US",
-      "name": "NRG Energy",
-      "ratio": 0.06,
-      "shares": 4031
-    },
-    {
-      "code": "ODFL.US",
-      "name": "Old Dominion Freight Line",
-      "ratio": 0.06,
-      "shares": 3492
+      "code": "MET.US",
+      "name": "MetLife, Inc.",
+      "ratio": 0.07,
+      "shares": 10447
     },
     {
       "code": "MCHP.US",
@@ -1652,76 +1658,22 @@
       "shares": 10270
     },
     {
+      "code": "MTB.US",
+      "name": "M&T Bank",
+      "ratio": 0.06,
+      "shares": 2882
+    },
+    {
       "code": "MLM.US",
       "name": "Martin Marietta Materials",
       "ratio": 0.06,
       "shares": 1145
     },
     {
-      "code": "STT.US",
-      "name": "State Street",
+      "code": "ODFL.US",
+      "name": "Old Dominion Freight Line",
       "ratio": 0.06,
-      "shares": 5297
-    },
-    {
-      "code": "RMD.US",
-      "name": "ResMed",
-      "ratio": 0.06,
-      "shares": 2765
-    },
-    {
-      "code": "ROP.US",
-      "name": "Roper Technologies",
-      "ratio": 0.06,
-      "shares": 2023
-    },
-    {
-      "code": "PRU.US",
-      "name": "Prudential Financial",
-      "ratio": 0.06,
-      "shares": 6605
-    },
-    {
-      "code": "VMC.US",
-      "name": "Vulcan Materials",
-      "ratio": 0.06,
-      "shares": 2508
-    },
-    {
-      "code": "WEC.US",
-      "name": "WEC Energy",
-      "ratio": 0.06,
-      "shares": 6177
-    },
-    {
-      "code": "TTWO.US",
-      "name": "Take-Two",
-      "ratio": 0.06,
-      "shares": 3304
-    },
-    {
-      "code": "XYZ.US",
-      "name": "Block",
-      "ratio": 0.06,
-      "shares": 10394
-    },
-    {
-      "code": "FANG.US",
-      "name": "Diamondback Energy",
-      "ratio": 0.06,
-      "shares": 3535
-    },
-    {
-      "code": "GEHC.US",
-      "name": "GE HealthCare",
-      "ratio": 0.06,
-      "shares": 8650
-    },
-    {
-      "code": "EME.US",
-      "name": "EMCOR Group",
-      "ratio": 0.06,
-      "shares": 850
+      "shares": 3492
     },
     {
       "code": "KVUE.US",
@@ -1742,16 +1694,16 @@
       "shares": 25785
     },
     {
+      "code": "HBAN.US",
+      "name": "Huntington Bancshares",
+      "ratio": 0.06,
+      "shares": 38524
+    },
+    {
       "code": "HPE.US",
       "name": "HP Enterprise",
       "ratio": 0.06,
       "shares": 25220
-    },
-    {
-      "code": "HAL.US",
-      "name": "Halliburton",
-      "ratio": 0.06,
-      "shares": 15896
     },
     {
       "code": "HSY.US",
@@ -1760,10 +1712,28 @@
       "shares": 2812
     },
     {
-      "code": "CCI.US",
-      "name": "Crown Castle",
+      "code": "HAL.US",
+      "name": "Halliburton",
       "ratio": 0.06,
-      "shares": 8265
+      "shares": 15896
+    },
+    {
+      "code": "GEHC.US",
+      "name": "GE HealthCare",
+      "ratio": 0.06,
+      "shares": 8650
+    },
+    {
+      "code": "DVN.US",
+      "name": "Devon Energy",
+      "ratio": 0.06,
+      "shares": 11772
+    },
+    {
+      "code": "EME.US",
+      "name": "EMCOR Group",
+      "ratio": 0.06,
+      "shares": 850
     },
     {
       "code": "DHI.US",
@@ -1772,10 +1742,52 @@
       "shares": 5113
     },
     {
-      "code": "ACGL.US",
-      "name": "Arch Capital Group",
+      "code": "CCI.US",
+      "name": "Crown Castle",
       "ratio": 0.06,
-      "shares": 6785
+      "shares": 8265
+    },
+    {
+      "code": "XYZ.US",
+      "name": "Block",
+      "ratio": 0.06,
+      "shares": 10394
+    },
+    {
+      "code": "A.US",
+      "name": "Agilent",
+      "ratio": 0.06,
+      "shares": 5368
+    },
+    {
+      "code": "VMC.US",
+      "name": "Vulcan Materials",
+      "ratio": 0.06,
+      "shares": 2508
+    },
+    {
+      "code": "TTWO.US",
+      "name": "Take-Two",
+      "ratio": 0.06,
+      "shares": 3304
+    },
+    {
+      "code": "STT.US",
+      "name": "State Street",
+      "ratio": 0.06,
+      "shares": 5297
+    },
+    {
+      "code": "PRU.US",
+      "name": "Prudential Financial",
+      "ratio": 0.06,
+      "shares": 6605
+    },
+    {
+      "code": "RMD.US",
+      "name": "ResMed",
+      "ratio": 0.06,
+      "shares": 2765
     },
     {
       "code": "ADM.US",
@@ -1784,10 +1796,10 @@
       "shares": 9121
     },
     {
-      "code": "A.US",
-      "name": "Agilent",
+      "code": "ACGL.US",
+      "name": "Arch Capital Group",
       "ratio": 0.06,
-      "shares": 5368
+      "shares": 6785
     },
     {
       "code": "AXON.US",
@@ -1820,28 +1832,70 @@
       "shares": 5246
     },
     {
-      "code": "DG.US",
-      "name": "Dollar General",
+      "code": "PPL.US",
+      "name": "PPL",
       "ratio": 0.05,
-      "shares": 4178
+      "shares": 14040
     },
     {
-      "code": "CTRA.US",
-      "name": "Coterra Energy",
+      "code": "TDY.US",
+      "name": "Teledyne Technologies",
       "ratio": 0.05,
-      "shares": 14399
+      "shares": 891
     },
     {
-      "code": "CTSH.US",
-      "name": "Cognizant",
+      "code": "TPL.US",
+      "name": "Texas Pacific Land",
       "ratio": 0.05,
-      "shares": 9077
+      "shares": 1099
     },
     {
-      "code": "CPRT.US",
-      "name": "Copart",
+      "code": "TPR.US",
+      "name": "Tapestry",
       "ratio": 0.05,
-      "shares": 16902
+      "shares": 3843
+    },
+    {
+      "code": "VRSK.US",
+      "name": "Verisk Analytics",
+      "ratio": 0.05,
+      "shares": 2645
+    },
+    {
+      "code": "VICI.US",
+      "name": "VICI Properties",
+      "ratio": 0.05,
+      "shares": 20285
+    },
+    {
+      "code": "UAL.US",
+      "name": "United Airlines",
+      "ratio": 0.05,
+      "shares": 6138
+    },
+    {
+      "code": "XYL.US",
+      "name": "Xylem",
+      "ratio": 0.05,
+      "shares": 4623
+    },
+    {
+      "code": "WTW.US",
+      "name": "Willis Towers Watson",
+      "ratio": 0.05,
+      "shares": 1805
+    },
+    {
+      "code": "WDAY.US",
+      "name": "Workday",
+      "ratio": 0.05,
+      "shares": 4014
+    },
+    {
+      "code": "WAT.US",
+      "name": "Waters",
+      "ratio": 0.05,
+      "shares": 1861
     },
     {
       "code": "CCL.US",
@@ -1860,6 +1914,90 @@
       "name": "CenterPoint Energy",
       "ratio": 0.05,
       "shares": 12391
+    },
+    {
+      "code": "CPRT.US",
+      "name": "Copart",
+      "ratio": 0.05,
+      "shares": 16902
+    },
+    {
+      "code": "DOV.US",
+      "name": "Dover",
+      "ratio": 0.05,
+      "shares": 2560
+    },
+    {
+      "code": "DOW.US",
+      "name": "Dow",
+      "ratio": 0.05,
+      "shares": 13618
+    },
+    {
+      "code": "DTE.US",
+      "name": "DTE Energy",
+      "ratio": 0.05,
+      "shares": 3942
+    },
+    {
+      "code": "DG.US",
+      "name": "Dollar General",
+      "ratio": 0.05,
+      "shares": 4178
+    },
+    {
+      "code": "CTRA.US",
+      "name": "Coterra Energy",
+      "ratio": 0.05,
+      "shares": 14399
+    },
+    {
+      "code": "CTSH.US",
+      "name": "Cognizant",
+      "ratio": 0.05,
+      "shares": 9077
+    },
+    {
+      "code": "EIX.US",
+      "name": "Edison International",
+      "ratio": 0.05,
+      "shares": 7303
+    },
+    {
+      "code": "EXE.US",
+      "name": "Expand Energy",
+      "ratio": 0.05,
+      "shares": 4520
+    },
+    {
+      "code": "EXPE.US",
+      "name": "Expedia Group",
+      "ratio": 0.05,
+      "shares": 2221
+    },
+    {
+      "code": "EXR.US",
+      "name": "Extra Space",
+      "ratio": 0.05,
+      "shares": 4028
+    },
+    {
+      "code": "ES.US",
+      "name": "Eversource Energy",
+      "ratio": 0.05,
+      "shares": 7121
+    },
+    {
+      "code": "FI.US",
+      "name": "Fiserv",
+      "ratio": 0.05,
+      "shares": 10208
+    },
+    {
+      "code": "FE.US",
+      "name": "FirstEnergy",
+      "ratio": 0.05,
+      "shares": 9867
     },
     {
       "code": "HUBB.US",
@@ -1892,130 +2030,10 @@
       "shares": 5615
     },
     {
-      "code": "HBAN.US",
-      "name": "Huntington Bancshares",
-      "ratio": 0.05,
-      "shares": 38524
-    },
-    {
       "code": "JBL.US",
       "name": "Jabil",
       "ratio": 0.05,
       "shares": 2004
-    },
-    {
-      "code": "EXE.US",
-      "name": "Expand Energy",
-      "ratio": 0.05,
-      "shares": 4520
-    },
-    {
-      "code": "EIX.US",
-      "name": "Edison International",
-      "ratio": 0.05,
-      "shares": 7303
-    },
-    {
-      "code": "DVN.US",
-      "name": "Devon Energy",
-      "ratio": 0.05,
-      "shares": 11772
-    },
-    {
-      "code": "DOV.US",
-      "name": "Dover",
-      "ratio": 0.05,
-      "shares": 2560
-    },
-    {
-      "code": "DOW.US",
-      "name": "Dow",
-      "ratio": 0.05,
-      "shares": 13618
-    },
-    {
-      "code": "DTE.US",
-      "name": "DTE Energy",
-      "ratio": 0.05,
-      "shares": 3942
-    },
-    {
-      "code": "EXPE.US",
-      "name": "Expedia Group",
-      "ratio": 0.05,
-      "shares": 2221
-    },
-    {
-      "code": "EXR.US",
-      "name": "Extra Space",
-      "ratio": 0.05,
-      "shares": 4028
-    },
-    {
-      "code": "FI.US",
-      "name": "Fiserv",
-      "ratio": 0.05,
-      "shares": 10208
-    },
-    {
-      "code": "TPL.US",
-      "name": "Texas Pacific Land",
-      "ratio": 0.05,
-      "shares": 1099
-    },
-    {
-      "code": "TPR.US",
-      "name": "Tapestry",
-      "ratio": 0.05,
-      "shares": 3843
-    },
-    {
-      "code": "TDY.US",
-      "name": "Teledyne Technologies",
-      "ratio": 0.05,
-      "shares": 891
-    },
-    {
-      "code": "WDAY.US",
-      "name": "Workday",
-      "ratio": 0.05,
-      "shares": 4014
-    },
-    {
-      "code": "XYL.US",
-      "name": "Xylem",
-      "ratio": 0.05,
-      "shares": 4623
-    },
-    {
-      "code": "WTW.US",
-      "name": "Willis Towers Watson",
-      "ratio": 0.05,
-      "shares": 1805
-    },
-    {
-      "code": "VICI.US",
-      "name": "VICI Properties",
-      "ratio": 0.05,
-      "shares": 20285
-    },
-    {
-      "code": "UAL.US",
-      "name": "United Airlines",
-      "ratio": 0.05,
-      "shares": 6138
-    },
-    {
-      "code": "WAT.US",
-      "name": "Waters",
-      "ratio": 0.05,
-      "shares": 1861
-    },
-    {
-      "code": "PPL.US",
-      "name": "PPL",
-      "ratio": 0.05,
-      "shares": 14040
     },
     {
       "code": "OTIS.US",
@@ -2036,15 +2054,15 @@
       "shares": 3537
     },
     {
-      "code": "MTB.US",
-      "name": "M&T Bank",
+      "code": "NRG.US",
+      "name": "NRG Energy",
       "ratio": 0.05,
-      "shares": 2882
+      "shares": 4031
     },
     {
       "code": "MTD.US",
       "name": "Mettler Toledo",
-      "ratio": 0.04,
+      "ratio": 0.05,
       "shares": 386
     },
     {
@@ -2072,36 +2090,6 @@
       "shares": 7478
     },
     {
-      "code": "LYV.US",
-      "name": "Live Nation Entertainment",
-      "ratio": 0.04,
-      "shares": 2997
-    },
-    {
-      "code": "PPG.US",
-      "name": "PPG",
-      "ratio": 0.04,
-      "shares": 4259
-    },
-    {
-      "code": "Q.US",
-      "name": "Qnity",
-      "ratio": 0.04,
-      "shares": 3975
-    },
-    {
-      "code": "RF.US",
-      "name": "Regions Financial",
-      "ratio": 0.04,
-      "shares": 16474
-    },
-    {
-      "code": "RJF.US",
-      "name": "Raymond James",
-      "ratio": 0.04,
-      "shares": 3329
-    },
-    {
       "code": "PCG.US",
       "name": "PG&E",
       "ratio": 0.04,
@@ -2112,6 +2100,162 @@
       "name": "PulteGroup",
       "ratio": 0.04,
       "shares": 3647
+    },
+    {
+      "code": "LDOS.US",
+      "name": "Leidos",
+      "ratio": 0.04,
+      "shares": 2427
+    },
+    {
+      "code": "LH.US",
+      "name": "Labcorp",
+      "ratio": 0.04,
+      "shares": 1573
+    },
+    {
+      "code": "LYB.US",
+      "name": "LyondellBasell",
+      "ratio": 0.04,
+      "shares": 4887
+    },
+    {
+      "code": "LYV.US",
+      "name": "Live Nation Entertainment",
+      "ratio": 0.04,
+      "shares": 2997
+    },
+    {
+      "code": "HUM.US",
+      "name": "Humana",
+      "ratio": 0.04,
+      "shares": 2289
+    },
+    {
+      "code": "FICO.US",
+      "name": "Fair Isaac",
+      "ratio": 0.04,
+      "shares": 450
+    },
+    {
+      "code": "FIS.US",
+      "name": "Fidelity National Information Se",
+      "ratio": 0.04,
+      "shares": 9828
+    },
+    {
+      "code": "FSLR.US",
+      "name": "First Solar",
+      "ratio": 0.04,
+      "shares": 2037
+    },
+    {
+      "code": "EQR.US",
+      "name": "Equity Residential",
+      "ratio": 0.04,
+      "shares": 6525
+    },
+    {
+      "code": "DXCM.US",
+      "name": "DexCom",
+      "ratio": 0.04,
+      "shares": 7304
+    },
+    {
+      "code": "EFX.US",
+      "name": "Equifax",
+      "ratio": 0.04,
+      "shares": 2285
+    },
+    {
+      "code": "DGX.US",
+      "name": "Quest Diagnostics",
+      "ratio": 0.04,
+      "shares": 2088
+    },
+    {
+      "code": "DRI.US",
+      "name": "Darden Restaurants",
+      "ratio": 0.04,
+      "shares": 2185
+    },
+    {
+      "code": "CPAY.US",
+      "name": "Corpay",
+      "ratio": 0.04,
+      "shares": 1328
+    },
+    {
+      "code": "CMS.US",
+      "name": "CMS Energy",
+      "ratio": 0.04,
+      "shares": 5816
+    },
+    {
+      "code": "CF.US",
+      "name": "CF Industries Holdings Inc.",
+      "ratio": 0.04,
+      "shares": 2960
+    },
+    {
+      "code": "CFG.US",
+      "name": "Citizens Financial Group",
+      "ratio": 0.04,
+      "shares": 8066
+    },
+    {
+      "code": "CHD.US",
+      "name": "Church & Dwight",
+      "ratio": 0.04,
+      "shares": 4492
+    },
+    {
+      "code": "CHRW.US",
+      "name": "C.H. Robinson Worldwide",
+      "ratio": 0.04,
+      "shares": 2251
+    },
+    {
+      "code": "CINF.US",
+      "name": "Cincinnati Financial",
+      "ratio": 0.04,
+      "shares": 2961
+    },
+    {
+      "code": "WSM.US",
+      "name": "Williams-Sonoma",
+      "ratio": 0.04,
+      "shares": 2266
+    },
+    {
+      "code": "ULTA.US",
+      "name": "Ulta Beauty",
+      "ratio": 0.04,
+      "shares": 842
+    },
+    {
+      "code": "VRSN.US",
+      "name": "VeriSign",
+      "ratio": 0.04,
+      "shares": 1566
+    },
+    {
+      "code": "VLTO.US",
+      "name": "Veralto",
+      "ratio": 0.04,
+      "shares": 4712
+    },
+    {
+      "code": "SYF.US",
+      "name": "Synchrony",
+      "ratio": 0.04,
+      "shares": 6597
+    },
+    {
+      "code": "TSCO.US",
+      "name": "Tractor Supply",
+      "ratio": 0.04,
+      "shares": 10029
     },
     {
       "code": "STZ.US",
@@ -2138,160 +2282,28 @@
       "shares": 2605
     },
     {
-      "code": "ULTA.US",
-      "name": "Ulta Beauty",
+      "code": "PPG.US",
+      "name": "PPG",
       "ratio": 0.04,
-      "shares": 842
+      "shares": 4259
     },
     {
-      "code": "VRSK.US",
-      "name": "Verisk Analytics",
+      "code": "Q.US",
+      "name": "Qnity",
       "ratio": 0.04,
-      "shares": 2645
+      "shares": 3975
     },
     {
-      "code": "VRSN.US",
-      "name": "VeriSign",
+      "code": "RF.US",
+      "name": "Regions Financial",
       "ratio": 0.04,
-      "shares": 1566
+      "shares": 16474
     },
     {
-      "code": "VLTO.US",
-      "name": "Veralto",
+      "code": "RJF.US",
+      "name": "Raymond James",
       "ratio": 0.04,
-      "shares": 4712
-    },
-    {
-      "code": "WSM.US",
-      "name": "Williams-Sonoma",
-      "ratio": 0.04,
-      "shares": 2266
-    },
-    {
-      "code": "SYF.US",
-      "name": "Synchrony",
-      "ratio": 0.04,
-      "shares": 6597
-    },
-    {
-      "code": "TSCO.US",
-      "name": "Tractor Supply",
-      "ratio": 0.04,
-      "shares": 10029
-    },
-    {
-      "code": "FE.US",
-      "name": "FirstEnergy",
-      "ratio": 0.04,
-      "shares": 9867
-    },
-    {
-      "code": "FICO.US",
-      "name": "Fair Isaac",
-      "ratio": 0.04,
-      "shares": 450
-    },
-    {
-      "code": "FIS.US",
-      "name": "Fidelity National Information Se",
-      "ratio": 0.04,
-      "shares": 9828
-    },
-    {
-      "code": "FSLR.US",
-      "name": "First Solar",
-      "ratio": 0.04,
-      "shares": 2037
-    },
-    {
-      "code": "DRI.US",
-      "name": "Darden Restaurants",
-      "ratio": 0.04,
-      "shares": 2185
-    },
-    {
-      "code": "DXCM.US",
-      "name": "DexCom",
-      "ratio": 0.04,
-      "shares": 7304
-    },
-    {
-      "code": "EFX.US",
-      "name": "Equifax",
-      "ratio": 0.04,
-      "shares": 2285
-    },
-    {
-      "code": "ES.US",
-      "name": "Eversource Energy",
-      "ratio": 0.04,
-      "shares": 7121
-    },
-    {
-      "code": "EQR.US",
-      "name": "Equity Residential",
-      "ratio": 0.04,
-      "shares": 6525
-    },
-    {
-      "code": "LDOS.US",
-      "name": "Leidos",
-      "ratio": 0.04,
-      "shares": 2427
-    },
-    {
-      "code": "LH.US",
-      "name": "Labcorp",
-      "ratio": 0.04,
-      "shares": 1573
-    },
-    {
-      "code": "HUM.US",
-      "name": "Humana",
-      "ratio": 0.04,
-      "shares": 2289
-    },
-    {
-      "code": "CMS.US",
-      "name": "CMS Energy",
-      "ratio": 0.04,
-      "shares": 5816
-    },
-    {
-      "code": "CINF.US",
-      "name": "Cincinnati Financial",
-      "ratio": 0.04,
-      "shares": 2961
-    },
-    {
-      "code": "CFG.US",
-      "name": "Citizens Financial Group",
-      "ratio": 0.04,
-      "shares": 8066
-    },
-    {
-      "code": "CHD.US",
-      "name": "Church & Dwight",
-      "ratio": 0.04,
-      "shares": 4492
-    },
-    {
-      "code": "CHRW.US",
-      "name": "C.H. Robinson Worldwide",
-      "ratio": 0.04,
-      "shares": 2251
-    },
-    {
-      "code": "CPAY.US",
-      "name": "Corpay",
-      "ratio": 0.04,
-      "shares": 1328
-    },
-    {
-      "code": "DGX.US",
-      "name": "Quest Diagnostics",
-      "ratio": 0.04,
-      "shares": 2088
+      "shares": 3329
     },
     {
       "code": "ALB.US",
@@ -2318,22 +2330,16 @@
       "shares": 4038
     },
     {
-      "code": "APA.US",
-      "name": "APA",
+      "code": "BALL.US",
+      "name": "Ball",
       "ratio": 0.03,
-      "shares": 6731
+      "shares": 5086
     },
     {
       "code": "BG.US",
       "name": "Bunge",
       "ratio": 0.03,
       "shares": 2569
-    },
-    {
-      "code": "BALL.US",
-      "name": "Ball",
-      "ratio": 0.03,
-      "shares": 5086
     },
     {
       "code": "BR.US",
@@ -2348,262 +2354,46 @@
       "shares": 5556
     },
     {
-      "code": "AMCR.US",
-      "name": "Amcor",
-      "ratio": 0.03,
-      "shares": 8769
-    },
-    {
       "code": "AKAM.US",
       "name": "Akamai",
       "ratio": 0.03,
       "shares": 2730
     },
     {
-      "code": "DLTR.US",
-      "name": "Dollar Tree, Inc.",
+      "code": "AMCR.US",
+      "name": "Amcor",
       "ratio": 0.03,
-      "shares": 3510
+      "shares": 8769
     },
     {
-      "code": "DD.US",
-      "name": "DuPont de Nemours",
+      "code": "APA.US",
+      "name": "APA",
       "ratio": 0.03,
-      "shares": 7766
-    },
-    {
-      "code": "CSGP.US",
-      "name": "CoStar Group",
-      "ratio": 0.03,
-      "shares": 8044
-    },
-    {
-      "code": "CHTR.US",
-      "name": "Charter Communications",
-      "ratio": 0.03,
-      "shares": 1634
-    },
-    {
-      "code": "CDW.US",
-      "name": "CDW",
-      "ratio": 0.03,
-      "shares": 2471
-    },
-    {
-      "code": "CF.US",
-      "name": "CF Industries Holdings Inc.",
-      "ratio": 0.03,
-      "shares": 2960
-    },
-    {
-      "code": "CNC.US",
-      "name": "Centene",
-      "ratio": 0.03,
-      "shares": 8867
-    },
-    {
-      "code": "IFF.US",
-      "name": "International Flavors & Fragranc",
-      "ratio": 0.03,
-      "shares": 4861
-    },
-    {
-      "code": "INCY.US",
-      "name": "Incyte",
-      "ratio": 0.03,
-      "shares": 3173
-    },
-    {
-      "code": "GPC.US",
-      "name": "Genuine Parts",
-      "ratio": 0.03,
-      "shares": 2640
-    },
-    {
-      "code": "GPN.US",
-      "name": "Global Payments",
-      "ratio": 0.03,
-      "shares": 4517
-    },
-    {
-      "code": "HPQ.US",
-      "name": "HP",
-      "ratio": 0.03,
-      "shares": 17423
-    },
-    {
-      "code": "HII.US",
-      "name": "Huntington Ingalls Industries",
-      "ratio": 0.03,
-      "shares": 745
-    },
-    {
-      "code": "HOLX.US",
-      "name": "Hologic",
-      "ratio": 0.03,
-      "shares": 4224
-    },
-    {
-      "code": "LII.US",
-      "name": "Lennox International Inc.",
-      "ratio": 0.03,
-      "shares": 606
-    },
-    {
-      "code": "LNT.US",
-      "name": "Alliant Energy",
-      "ratio": 0.03,
-      "shares": 4879
-    },
-    {
-      "code": "LEN.US",
-      "name": "Lennar - Class A",
-      "ratio": 0.03,
-      "shares": 4095
-    },
-    {
-      "code": "L.US",
-      "name": "Loews",
-      "ratio": 0.03,
-      "shares": 3207
-    },
-    {
-      "code": "IP.US",
-      "name": "International Paper",
-      "ratio": 0.03,
-      "shares": 10022
-    },
-    {
-      "code": "J.US",
-      "name": "Jacobs Solutions",
-      "ratio": 0.03,
-      "shares": 2229
-    },
-    {
-      "code": "JBHT.US",
-      "name": "J.B. Hunt Transport Services",
-      "ratio": 0.03,
-      "shares": 1418
-    },
-    {
-      "code": "KEY.US",
-      "name": "KeyCorp",
-      "ratio": 0.03,
-      "shares": 17784
-    },
-    {
-      "code": "KHC.US",
-      "name": "Kraft Heinz",
-      "ratio": 0.03,
-      "shares": 16176
-    },
-    {
-      "code": "KIM.US",
-      "name": "Kimco Realty",
-      "ratio": 0.03,
-      "shares": 12794
-    },
-    {
-      "code": "ESS.US",
-      "name": "Essex Property Trust, Inc.",
-      "ratio": 0.03,
-      "shares": 1223
-    },
-    {
-      "code": "EVRG.US",
-      "name": "Evergy",
-      "ratio": 0.03,
-      "shares": 4369
-    },
-    {
-      "code": "EXPD.US",
-      "name": "Expeditors",
-      "ratio": 0.03,
-      "shares": 2544
-    },
-    {
-      "code": "EL.US",
-      "name": "Estee Lauder",
-      "ratio": 0.03,
-      "shares": 4692
-    },
-    {
-      "code": "GIS.US",
-      "name": "General Mills",
-      "ratio": 0.03,
-      "shares": 10127
-    },
-    {
-      "code": "FTV.US",
-      "name": "Fortive",
-      "ratio": 0.03,
-      "shares": 5948
-    },
-    {
-      "code": "FFIV.US",
-      "name": "F5",
-      "ratio": 0.03,
-      "shares": 1073
-    },
-    {
-      "code": "TSN.US",
-      "name": "Tyson Foods",
-      "ratio": 0.03,
-      "shares": 5353
-    },
-    {
-      "code": "TXT.US",
-      "name": "Textron",
-      "ratio": 0.03,
-      "shares": 3305
-    },
-    {
-      "code": "TRMB.US",
-      "name": "Trimble",
-      "ratio": 0.03,
-      "shares": 4516
-    },
-    {
-      "code": "TROW.US",
-      "name": "T. Rowe Price Group",
-      "ratio": 0.03,
-      "shares": 4149
-    },
-    {
-      "code": "WST.US",
-      "name": "West Pharmaceutical Services",
-      "ratio": 0.03,
-      "shares": 1365
-    },
-    {
-      "code": "WRB.US",
-      "name": "W.R. Berkley",
-      "ratio": 0.03,
-      "shares": 5655
-    },
-    {
-      "code": "WY.US",
-      "name": "Weyerhaeuser",
-      "ratio": 0.03,
-      "shares": 13675
-    },
-    {
-      "code": "VTRS.US",
-      "name": "Viatris",
-      "ratio": 0.03,
-      "shares": 21860
-    },
-    {
-      "code": "ZBH.US",
-      "name": "Zimmer Biomet",
-      "ratio": 0.03,
-      "shares": 3761
+      "shares": 6731
     },
     {
       "code": "ROL.US",
       "name": "Rollins",
       "ratio": 0.03,
       "shares": 5570
+    },
+    {
+      "code": "PTC.US",
+      "name": "PTC",
+      "ratio": 0.03,
+      "shares": 2258
+    },
+    {
+      "code": "PFG.US",
+      "name": "Principal Financial",
+      "ratio": 0.03,
+      "shares": 3755
+    },
+    {
+      "code": "PODD.US",
+      "name": "Insulet",
+      "ratio": 0.03,
+      "shares": 1335
     },
     {
       "code": "",
@@ -2624,28 +2414,214 @@
       "shares": 985
     },
     {
-      "code": "PKG.US",
-      "name": "Packaging Corporation of America",
+      "code": "TSN.US",
+      "name": "Tyson Foods",
       "ratio": 0.03,
-      "shares": 1696
+      "shares": 5353
     },
     {
-      "code": "PFG.US",
-      "name": "Principal Financial",
+      "code": "TRMB.US",
+      "name": "Trimble",
       "ratio": 0.03,
-      "shares": 3755
+      "shares": 4516
     },
     {
-      "code": "PODD.US",
-      "name": "Insulet",
+      "code": "TROW.US",
+      "name": "T. Rowe Price Group",
       "ratio": 0.03,
-      "shares": 1335
+      "shares": 4149
     },
     {
-      "code": "PTC.US",
-      "name": "PTC",
+      "code": "TXT.US",
+      "name": "Textron",
       "ratio": 0.03,
-      "shares": 2258
+      "shares": 3305
+    },
+    {
+      "code": "TYL.US",
+      "name": "Tyler Technologies",
+      "ratio": 0.03,
+      "shares": 817
+    },
+    {
+      "code": "WST.US",
+      "name": "West Pharmaceutical Services",
+      "ratio": 0.03,
+      "shares": 1365
+    },
+    {
+      "code": "WRB.US",
+      "name": "W.R. Berkley",
+      "ratio": 0.03,
+      "shares": 5655
+    },
+    {
+      "code": "WY.US",
+      "name": "Weyerhaeuser",
+      "ratio": 0.03,
+      "shares": 13675
+    },
+    {
+      "code": "ZBH.US",
+      "name": "Zimmer Biomet",
+      "ratio": 0.03,
+      "shares": 3761
+    },
+    {
+      "code": "VTRS.US",
+      "name": "Viatris",
+      "ratio": 0.03,
+      "shares": 21860
+    },
+    {
+      "code": "CDW.US",
+      "name": "CDW",
+      "ratio": 0.03,
+      "shares": 2471
+    },
+    {
+      "code": "CHTR.US",
+      "name": "Charter Communications",
+      "ratio": 0.03,
+      "shares": 1634
+    },
+    {
+      "code": "CNC.US",
+      "name": "Centene",
+      "ratio": 0.03,
+      "shares": 8867
+    },
+    {
+      "code": "DLTR.US",
+      "name": "Dollar Tree, Inc.",
+      "ratio": 0.03,
+      "shares": 3510
+    },
+    {
+      "code": "CSGP.US",
+      "name": "CoStar Group",
+      "ratio": 0.03,
+      "shares": 8044
+    },
+    {
+      "code": "DD.US",
+      "name": "DuPont de Nemours",
+      "ratio": 0.03,
+      "shares": 7766
+    },
+    {
+      "code": "EL.US",
+      "name": "Estee Lauder",
+      "ratio": 0.03,
+      "shares": 4692
+    },
+    {
+      "code": "ESS.US",
+      "name": "Essex Property Trust, Inc.",
+      "ratio": 0.03,
+      "shares": 1223
+    },
+    {
+      "code": "EVRG.US",
+      "name": "Evergy",
+      "ratio": 0.03,
+      "shares": 4369
+    },
+    {
+      "code": "EXPD.US",
+      "name": "Expeditors",
+      "ratio": 0.03,
+      "shares": 2544
+    },
+    {
+      "code": "FTV.US",
+      "name": "Fortive",
+      "ratio": 0.03,
+      "shares": 5948
+    },
+    {
+      "code": "FFIV.US",
+      "name": "F5",
+      "ratio": 0.03,
+      "shares": 1073
+    },
+    {
+      "code": "GIS.US",
+      "name": "General Mills",
+      "ratio": 0.03,
+      "shares": 10127
+    },
+    {
+      "code": "GPC.US",
+      "name": "Genuine Parts",
+      "ratio": 0.03,
+      "shares": 2640
+    },
+    {
+      "code": "GPN.US",
+      "name": "Global Payments",
+      "ratio": 0.03,
+      "shares": 4517
+    },
+    {
+      "code": "HOLX.US",
+      "name": "Hologic",
+      "ratio": 0.03,
+      "shares": 4224
+    },
+    {
+      "code": "IEX.US",
+      "name": "IDEX Corp.",
+      "ratio": 0.03,
+      "shares": 1421
+    },
+    {
+      "code": "IFF.US",
+      "name": "International Flavors & Fragranc",
+      "ratio": 0.03,
+      "shares": 4861
+    },
+    {
+      "code": "INCY.US",
+      "name": "Incyte",
+      "ratio": 0.03,
+      "shares": 3173
+    },
+    {
+      "code": "HPQ.US",
+      "name": "HP",
+      "ratio": 0.03,
+      "shares": 17423
+    },
+    {
+      "code": "HII.US",
+      "name": "Huntington Ingalls Industries",
+      "ratio": 0.03,
+      "shares": 745
+    },
+    {
+      "code": "IP.US",
+      "name": "International Paper",
+      "ratio": 0.03,
+      "shares": 10022
+    },
+    {
+      "code": "J.US",
+      "name": "Jacobs Solutions",
+      "ratio": 0.03,
+      "shares": 2229
+    },
+    {
+      "code": "JBHT.US",
+      "name": "J.B. Hunt Transport Services",
+      "ratio": 0.03,
+      "shares": 1418
+    },
+    {
+      "code": "MAA.US",
+      "name": "Mid-America Apartment",
+      "ratio": 0.03,
+      "shares": 2219
     },
     {
       "code": "LULU.US",
@@ -2666,16 +2642,46 @@
       "shares": 5738
     },
     {
-      "code": "LYB.US",
-      "name": "LyondellBasell",
+      "code": "LNT.US",
+      "name": "Alliant Energy",
       "ratio": 0.03,
-      "shares": 4887
+      "shares": 4879
     },
     {
-      "code": "MRNA.US",
-      "name": "Moderna",
+      "code": "LEN.US",
+      "name": "Lennar - Class A",
       "ratio": 0.03,
-      "shares": 6600
+      "shares": 4095
+    },
+    {
+      "code": "L.US",
+      "name": "Loews",
+      "ratio": 0.03,
+      "shares": 3207
+    },
+    {
+      "code": "KEY.US",
+      "name": "KeyCorp",
+      "ratio": 0.03,
+      "shares": 17784
+    },
+    {
+      "code": "KHC.US",
+      "name": "Kraft Heinz",
+      "ratio": 0.03,
+      "shares": 16176
+    },
+    {
+      "code": "KIM.US",
+      "name": "Kimco Realty",
+      "ratio": 0.03,
+      "shares": 12794
+    },
+    {
+      "code": "PKG.US",
+      "name": "Packaging Corporation of America",
+      "ratio": 0.03,
+      "shares": 1696
     },
     {
       "code": "NVR.US",
@@ -2684,10 +2690,10 @@
       "shares": 53
     },
     {
-      "code": "NWSA.US",
-      "name": "News Corp - Class A",
-      "ratio": 0.02,
-      "shares": 7027
+      "code": "MRNA.US",
+      "name": "Moderna",
+      "ratio": 0.03,
+      "shares": 6600
     },
     {
       "code": "NDSN.US",
@@ -2702,148 +2708,28 @@
       "shares": 8640
     },
     {
-      "code": "MKC.US",
-      "name": "McCormick - Common Stock Non-Vot",
-      "ratio": 0.02,
-      "shares": 4813
-    },
-    {
-      "code": "MAA.US",
-      "name": "Mid-America Apartment",
-      "ratio": 0.02,
-      "shares": 2219
-    },
-    {
       "code": "MAS.US",
       "name": "Masco",
       "ratio": 0.02,
       "shares": 3864
     },
     {
-      "code": "RL.US",
-      "name": "Ralph Lauren",
+      "code": "MKC.US",
+      "name": "McCormick - Common Stock Non-Vot",
       "ratio": 0.02,
-      "shares": 734
+      "shares": 4813
     },
     {
-      "code": "REG.US",
-      "name": "Regency Centers",
+      "code": "NWSA.US",
+      "name": "News Corp - Class A",
       "ratio": 0.02,
-      "shares": 3124
+      "shares": 7027
     },
     {
-      "code": "PNR.US",
-      "name": "Pentair",
+      "code": "LII.US",
+      "name": "Lennox International Inc.",
       "ratio": 0.02,
-      "shares": 3106
-    },
-    {
-      "code": "PNW.US",
-      "name": "Pinnacle West",
-      "ratio": 0.02,
-      "shares": 2272
-    },
-    {
-      "code": "SJM.US",
-      "name": "J. M. Smucker",
-      "ratio": 0.02,
-      "shares": 2025
-    },
-    {
-      "code": "RVTY.US",
-      "name": "Revvity",
-      "ratio": 0.02,
-      "shares": 2152
-    },
-    {
-      "code": "SOLV.US",
-      "name": "Solventum",
-      "ratio": 0.02,
-      "shares": 2798
-    },
-    {
-      "code": "SWK.US",
-      "name": "Stanley Black & Decker",
-      "ratio": 0.02,
-      "shares": 2940
-    },
-    {
-      "code": "ZBRA.US",
-      "name": "Zebra Technologies",
-      "ratio": 0.02,
-      "shares": 934
-    },
-    {
-      "code": "TKO.US",
-      "name": "TKO",
-      "ratio": 0.02,
-      "shares": 1258
-    },
-    {
-      "code": "TYL.US",
-      "name": "Tyler Technologies",
-      "ratio": 0.02,
-      "shares": 817
-    },
-    {
-      "code": "UDR.US",
-      "name": "UDR",
-      "ratio": 0.02,
-      "shares": 5708
-    },
-    {
-      "code": "UHS.US",
-      "name": "Universal Health Services",
-      "ratio": 0.02,
-      "shares": 1048
-    },
-    {
-      "code": "TTD.US",
-      "name": "Trade Desk",
-      "ratio": 0.02,
-      "shares": 8357
-    },
-    {
-      "code": "FOXA.US",
-      "name": "Fox - Class A",
-      "ratio": 0.02,
-      "shares": 3809
-    },
-    {
-      "code": "GEN.US",
-      "name": "Gen",
-      "ratio": 0.02,
-      "shares": 10461
-    },
-    {
-      "code": "GDDY.US",
-      "name": "GoDaddy",
-      "ratio": 0.02,
-      "shares": 2500
-    },
-    {
-      "code": "GL.US",
-      "name": "Globe Life",
-      "ratio": 0.02,
-      "shares": 1511
-    },
-    {
-      "code": "GNRC.US",
-      "name": "Generac",
-      "ratio": 0.02,
-      "shares": 1114
-    },
-    {
-      "code": "EG.US",
-      "name": "Everest Group",
-      "ratio": 0.02,
-      "shares": 772
-    },
-    {
-      "code": "DPZ.US",
-      "name": "Domino’s Pizza",
-      "ratio": 0.02,
-      "shares": 590
+      "shares": 606
     },
     {
       "code": "JKHY.US",
@@ -2864,10 +2750,10 @@
       "shares": 1337
     },
     {
-      "code": "HAS.US",
-      "name": "Hasbro",
+      "code": "HST.US",
+      "name": "Host Hotels & Resorts",
       "ratio": 0.02,
-      "shares": 2530
+      "shares": 12138
     },
     {
       "code": "INVH.US",
@@ -2876,22 +2762,64 @@
       "shares": 10704
     },
     {
-      "code": "HST.US",
-      "name": "Host Hotels & Resorts",
+      "code": "HAS.US",
+      "name": "Hasbro",
       "ratio": 0.02,
-      "shares": 12138
+      "shares": 2530
     },
     {
-      "code": "IEX.US",
-      "name": "IDEX Corp.",
+      "code": "GL.US",
+      "name": "Globe Life",
       "ratio": 0.02,
-      "shares": 1421
+      "shares": 1511
     },
     {
-      "code": "CLX.US",
-      "name": "Clorox",
+      "code": "GEN.US",
+      "name": "Gen",
       "ratio": 0.02,
-      "shares": 2295
+      "shares": 10461
+    },
+    {
+      "code": "GNRC.US",
+      "name": "Generac",
+      "ratio": 0.02,
+      "shares": 1114
+    },
+    {
+      "code": "GDDY.US",
+      "name": "GoDaddy",
+      "ratio": 0.02,
+      "shares": 2500
+    },
+    {
+      "code": "FOXA.US",
+      "name": "Fox - Class A",
+      "ratio": 0.02,
+      "shares": 3809
+    },
+    {
+      "code": "EG.US",
+      "name": "Everest Group",
+      "ratio": 0.02,
+      "shares": 772
+    },
+    {
+      "code": "DOC.US",
+      "name": "Healthpeak Properties",
+      "ratio": 0.02,
+      "shares": 13191
+    },
+    {
+      "code": "DECK.US",
+      "name": "Deckers Outdoor Corporation",
+      "ratio": 0.02,
+      "shares": 2694
+    },
+    {
+      "code": "DPZ.US",
+      "name": "Domino’s Pizza",
+      "ratio": 0.02,
+      "shares": 590
     },
     {
       "code": "COO.US",
@@ -2906,16 +2834,106 @@
       "shares": 1963
     },
     {
-      "code": "DECK.US",
-      "name": "Deckers Outdoor Corporation",
+      "code": "CLX.US",
+      "name": "Clorox",
       "ratio": 0.02,
-      "shares": 2694
+      "shares": 2295
     },
     {
-      "code": "DOC.US",
-      "name": "Healthpeak Properties",
+      "code": "ZBRA.US",
+      "name": "Zebra Technologies",
       "ratio": 0.02,
-      "shares": 13191
+      "shares": 934
+    },
+    {
+      "code": "UDR.US",
+      "name": "UDR",
+      "ratio": 0.02,
+      "shares": 5708
+    },
+    {
+      "code": "UHS.US",
+      "name": "Universal Health Services",
+      "ratio": 0.02,
+      "shares": 1048
+    },
+    {
+      "code": "TKO.US",
+      "name": "TKO",
+      "ratio": 0.02,
+      "shares": 1258
+    },
+    {
+      "code": "TTD.US",
+      "name": "Trade Desk",
+      "ratio": 0.02,
+      "shares": 8357
+    },
+    {
+      "code": "SJM.US",
+      "name": "J. M. Smucker",
+      "ratio": 0.02,
+      "shares": 2025
+    },
+    {
+      "code": "SOLV.US",
+      "name": "Solventum",
+      "ratio": 0.02,
+      "shares": 2798
+    },
+    {
+      "code": "SWK.US",
+      "name": "Stanley Black & Decker",
+      "ratio": 0.02,
+      "shares": 2940
+    },
+    {
+      "code": "SWKS.US",
+      "name": "Skyworks Solutions",
+      "ratio": 0.02,
+      "shares": 2854
+    },
+    {
+      "code": "PNR.US",
+      "name": "Pentair",
+      "ratio": 0.02,
+      "shares": 3106
+    },
+    {
+      "code": "PNW.US",
+      "name": "Pinnacle West",
+      "ratio": 0.02,
+      "shares": 2272
+    },
+    {
+      "code": "RVTY.US",
+      "name": "Revvity",
+      "ratio": 0.02,
+      "shares": 2152
+    },
+    {
+      "code": "RL.US",
+      "name": "Ralph Lauren",
+      "ratio": 0.02,
+      "shares": 734
+    },
+    {
+      "code": "REG.US",
+      "name": "Regency Centers",
+      "ratio": 0.02,
+      "shares": 3124
+    },
+    {
+      "code": "ALLE.US",
+      "name": "Allegion plc",
+      "ratio": 0.02,
+      "shares": 1633
+    },
+    {
+      "code": "ALGN.US",
+      "name": "Align Technology",
+      "ratio": 0.02,
+      "shares": 1266
     },
     {
       "code": "AIZ.US",
@@ -2928,18 +2946,6 @@
       "name": "The AES Corporation",
       "ratio": 0.02,
       "shares": 13516
-    },
-    {
-      "code": "ALGN.US",
-      "name": "Align Technology",
-      "ratio": 0.02,
-      "shares": 1266
-    },
-    {
-      "code": "ALLE.US",
-      "name": "Allegion plc",
-      "ratio": 0.02,
-      "shares": 1633
     },
     {
       "code": "BLDR.US",
@@ -2990,70 +2996,22 @@
       "shares": 1511
     },
     {
-      "code": "AOS.US",
-      "name": "A. O. Smith",
-      "ratio": 0.01,
-      "shares": 2134
-    },
-    {
-      "code": "CPB.US",
-      "name": "Campbell's",
-      "ratio": 0.01,
-      "shares": 3735
-    },
-    {
-      "code": "CRL.US",
-      "name": "Charles River",
-      "ratio": 0.01,
-      "shares": 934
-    },
-    {
       "code": "CAG.US",
       "name": "Conagra Brands",
       "ratio": 0.01,
       "shares": 9079
     },
     {
-      "code": "HRL.US",
-      "name": "Hormel Foods",
+      "code": "AOS.US",
+      "name": "A. O. Smith",
       "ratio": 0.01,
-      "shares": 5534
+      "shares": 2134
     },
     {
-      "code": "HSIC.US",
-      "name": "Henry Schein",
+      "code": "POOL.US",
+      "name": "Pool",
       "ratio": 0.01,
-      "shares": 1899
-    },
-    {
-      "code": "DVA.US",
-      "name": "DaVita",
-      "ratio": 0.01,
-      "shares": 634
-    },
-    {
-      "code": "ERIE.US",
-      "name": "Erie Indemnity",
-      "ratio": 0.01,
-      "shares": 482
-    },
-    {
-      "code": "EPAM.US",
-      "name": "EPAM Systems",
-      "ratio": 0.01,
-      "shares": 1048
-    },
-    {
-      "code": "FOX.US",
-      "name": "Fox - Class B",
-      "ratio": 0.01,
-      "shares": 2687
-    },
-    {
-      "code": "FDS.US",
-      "name": "FactSet Research",
-      "ratio": 0.01,
-      "shares": 704
+      "shares": 622
     },
     {
       "code": "TECH.US",
@@ -3068,28 +3026,76 @@
       "shares": 3213
     },
     {
-      "code": "WYNN.US",
-      "name": "Wynn Resorts, Limited",
-      "ratio": 0.01,
-      "shares": 1602
-    },
-    {
-      "code": "SWKS.US",
-      "name": "Skyworks Solutions",
-      "ratio": 0.01,
-      "shares": 2854
-    },
-    {
       "code": "SMCI.US",
       "name": "Super Micro Computer",
       "ratio": 0.01,
       "shares": 6451
     },
     {
-      "code": "POOL.US",
-      "name": "Pool",
+      "code": "WYNN.US",
+      "name": "Wynn Resorts, Limited",
       "ratio": 0.01,
-      "shares": 622
+      "shares": 1602
+    },
+    {
+      "code": "CRL.US",
+      "name": "Charles River",
+      "ratio": 0.01,
+      "shares": 934
+    },
+    {
+      "code": "CPB.US",
+      "name": "Campbell's",
+      "ratio": 0.01,
+      "shares": 3735
+    },
+    {
+      "code": "DVA.US",
+      "name": "DaVita",
+      "ratio": 0.01,
+      "shares": 634
+    },
+    {
+      "code": "EPAM.US",
+      "name": "EPAM Systems",
+      "ratio": 0.01,
+      "shares": 1048
+    },
+    {
+      "code": "FDS.US",
+      "name": "FactSet Research",
+      "ratio": 0.01,
+      "shares": 704
+    },
+    {
+      "code": "ERIE.US",
+      "name": "Erie Indemnity",
+      "ratio": 0.01,
+      "shares": 482
+    },
+    {
+      "code": "FOX.US",
+      "name": "Fox - Class B",
+      "ratio": 0.01,
+      "shares": 2687
+    },
+    {
+      "code": "HRL.US",
+      "name": "Hormel Foods",
+      "ratio": 0.01,
+      "shares": 5534
+    },
+    {
+      "code": "HSIC.US",
+      "name": "Henry Schein",
+      "ratio": 0.01,
+      "shares": 1899
+    },
+    {
+      "code": "NWS.US",
+      "name": "News Corp - Class B",
+      "ratio": 0.01,
+      "shares": 2319
     },
     {
       "code": "MGM.US",
@@ -3104,22 +3110,16 @@
       "shares": 6024
     },
     {
-      "code": "NWS.US",
-      "name": "News Corp - Class B",
-      "ratio": 0.01,
-      "shares": 2319
+      "code": "FRT.US",
+      "name": "Federal Realty Investment Trust",
+      "ratio": 0.0,
+      "shares": 244
     },
     {
       "code": "PSKY.US",
       "name": "Paramount Skydance",
       "ratio": 0.0,
       "shares": 5898
-    },
-    {
-      "code": "FRT.US",
-      "name": "Federal Realty Investment Trust",
-      "ratio": 0.0,
-      "shares": 244
     }
   ]
 }
