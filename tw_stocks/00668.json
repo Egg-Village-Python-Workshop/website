@@ -1,7 +1,7 @@
 {
   "id": "00668",
   "name": "國泰美國道瓊",
-  "fetched_at": "2026-03-30",
+  "fetched_at": "2026-04-06",
   "capital": {
     "ETF名稱": "國泰美國道瓊",
     "交易所代碼": "00668",
@@ -9,22 +9,22 @@
     "交易單位": "1000 股/張",
     "發行公司": "國泰投信",
     "交易所": "TSE",
-    "成立日期": "2016/10/03（已成立9年）",
+    "成立日期": "2016/10/03（已成立10年）",
     "計價幣別": "台幣",
     "上市日期": "2016/10/17",
     "淨值幣別": "台幣",
-    "ETF規模": "623.30(百萬台幣)(2026/02/28)",
-    "ETF市價": "52.7500（03/30）",
-    "成交量(股)": "102,187（月均:114,768）",
-    "ETF淨值": "52.5700（03/27）",
+    "ETF規模": "624.95(百萬台幣)(2026/03/31)",
+    "ETF市價": "53.8500（04/02）",
+    "成交量(股)": "101,963（月均:117,490）",
+    "ETF淨值": "54.3000（04/01）",
     "投資風格": "",
-    "折溢價(%)": "2.43(月均:0.22)",
+    "折溢價(%)": "-0.28(月均:0.20)",
     "投資標的": "股票型",
     "配息頻率": "",
     "投資區域": "美國",
-    "殖利率(%)": "N/A（03/30）",
+    "殖利率(%)": "N/A（04/02）",
     "經理費(%)": "0.45",
-    "年化標準差(%)": "13.07（03/30）",
+    "年化標準差(%)": "11.93（04/02）",
     "總管理費用(%)": "1.3 (含 0.85 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -43,102 +43,91 @@
   "sectors": [
     {
       "name": "金融",
-      "amount_wan": 16329.8,
-      "ratio": 26.31
-    },
-    {
-      "name": "資訊技術",
-      "amount_wan": 10973.4,
-      "ratio": 17.68
+      "amount_wan": 16148.9,
+      "ratio": 25.91
     },
     {
       "name": "工業",
-      "amount_wan": 9440.4,
-      "ratio": 15.21
+      "amount_wan": 10227.8,
+      "ratio": 16.41
     },
     {
-      "name": "非核心消費",
-      "amount_wan": 7354.9,
-      "ratio": 11.85
+      "name": "資訊技術",
+      "amount_wan": 10153.1,
+      "ratio": 16.29
     },
     {
       "name": "醫療保健",
-      "amount_wan": 7174.9,
-      "ratio": 11.56
+      "amount_wan": 7572.7,
+      "ratio": 12.15
     },
     {
-      "name": "其他",
-      "amount_wan": 3109.6,
-      "ratio": 5.01
-    },
-    {
-      "name": "原材料",
-      "amount_wan": 2631.6,
-      "ratio": 4.24
+      "name": "非核心消費",
+      "amount_wan": 7223.7,
+      "ratio": 11.59
     },
     {
       "name": "核心消費",
-      "amount_wan": 2569.6,
-      "ratio": 4.14
+      "amount_wan": 2711.2,
+      "ratio": 4.35
+    },
+    {
+      "name": "原材料",
+      "amount_wan": 2655.1,
+      "ratio": 4.26
     },
     {
       "name": "能源",
-      "amount_wan": 1315.8,
-      "ratio": 2.12
+      "amount_wan": 1358.7,
+      "ratio": 2.18
     },
     {
       "name": "通訊服務",
-      "amount_wan": 1166.9,
-      "ratio": 1.88
+      "amount_wan": 1134.3,
+      "ratio": 1.82
     }
   ],
   "holdings": [
     {
       "code": "GS.US",
       "name": "Goldman Sachs",
-      "ratio": 10.43,
+      "ratio": 10.84,
       "shares": 2474
     },
     {
       "code": "CAT.US",
       "name": "Caterpillar",
-      "ratio": 9.03,
+      "ratio": 9.2,
       "shares": 2474
     },
     {
       "code": "MSFT.US",
       "name": "Microsoft",
-      "ratio": 4.63,
+      "ratio": 4.65,
       "shares": 2474
     },
     {
       "code": "AMGN.US",
       "name": "Amgen Inc.",
-      "ratio": 4.53,
+      "ratio": 4.45,
       "shares": 2474
     },
     {
       "code": "HD.US",
       "name": "Home Depot",
-      "ratio": 4.18,
+      "ratio": 4.15,
       "shares": 2474
     },
     {
       "code": "SHW.US",
       "name": "Sherwin-Williams",
-      "ratio": 4.09,
+      "ratio": 4.1,
       "shares": 2474
     },
     {
       "code": "MCD.US",
       "name": "McDonald's",
-      "ratio": 3.97,
-      "shares": 2474
-    },
-    {
-      "code": "V.US",
-      "name": "Visa",
-      "ratio": 3.84,
+      "ratio": 3.87,
       "shares": 2474
     },
     {
@@ -148,129 +137,135 @@
       "shares": 2474
     },
     {
-      "code": "TRV.US",
-      "name": "Travelers",
-      "ratio": 3.7,
+      "code": "V.US",
+      "name": "Visa",
+      "ratio": 3.76,
       "shares": 2474
     },
     {
       "code": "JPM.US",
       "name": "JPMorgan Chase",
-      "ratio": 3.67,
+      "ratio": 3.72,
+      "shares": 2474
+    },
+    {
+      "code": "TRV.US",
+      "name": "Travelers",
+      "ratio": 3.66,
       "shares": 2474
     },
     {
       "code": "UNH.US",
       "name": "UnitedHealth",
-      "ratio": 3.36,
+      "ratio": 3.45,
       "shares": 2474
     },
     {
       "code": "AAPL.US",
       "name": "Apple",
-      "ratio": 3.23,
+      "ratio": 3.22,
       "shares": 2474
     },
     {
       "code": "JNJ.US",
       "name": "Johnson & Johnson",
-      "ratio": 3.12,
+      "ratio": 3.08,
       "shares": 2474
     },
     {
       "code": "IBM.US",
       "name": "IBM",
-      "ratio": 3.07,
+      "ratio": 3.06,
       "shares": 2474
     },
     {
       "code": "HON.US",
       "name": "Honeywell",
-      "ratio": 2.9,
-      "shares": 2474
-    },
-    {
-      "code": "CVX.US",
-      "name": "Chevron",
-      "ratio": 2.74,
+      "ratio": 2.87,
       "shares": 2474
     },
     {
       "code": "AMZN.US",
       "name": "Amazon",
-      "ratio": 2.59,
+      "ratio": 2.65,
       "shares": 2474
     },
     {
       "code": "BA.US",
       "name": "Boeing",
-      "ratio": 2.47,
+      "ratio": 2.61,
+      "shares": 2474
+    },
+    {
+      "code": "CVX.US",
+      "name": "Chevron",
+      "ratio": 2.49,
       "shares": 2474
     },
     {
       "code": "CRM.US",
       "name": "Salesforce",
-      "ratio": 2.33,
+      "ratio": 2.35,
       "shares": 2474
     },
     {
       "code": "",
       "name": "NVIDIA CORPORATION",
-      "ratio": 2.18,
+      "ratio": 2.21,
       "shares": 2474
     },
     {
       "code": "MMM.US",
       "name": "3M",
-      "ratio": 1.86,
+      "ratio": 1.83,
       "shares": 2474
     },
     {
       "code": "PG.US",
       "name": "Procter & Gamble",
-      "ratio": 1.85,
+      "ratio": 1.82,
       "shares": 2474
     },
     {
       "code": "WMT.US",
       "name": "Walmart",
-      "ratio": 1.6,
+      "ratio": 1.57,
       "shares": 2474
     },
     {
       "code": "MRK.US",
       "name": "Merck",
-      "ratio": 1.55,
+      "ratio": 1.52,
       "shares": 2474
     },
     {
       "code": "DIS.US",
       "name": "Disney",
-      "ratio": 1.2,
+      "ratio": 1.22,
       "shares": 2474
     },
     {
       "code": "CSCO.US",
       "name": "Cisco",
-      "ratio": 1.04,
+      "ratio": 0.98,
       "shares": 2474
     },
     {
       "code": "KO.US",
       "name": "Coca-Cola",
-      "ratio": 0.98,
-      "shares": 2474
-    },
-    {
-      "code": "NKE.US",
-      "name": "NIKE",
-      "ratio": 0.67,
+      "ratio": 0.96,
       "shares": 2474
     },
     {
       "code": "VZ.US",
       "name": "Verizon Communications",
-      "ratio": 0.65,
+      "ratio": 0.62,
+      "shares": 2474
+    },
+    {
+      "code": "NKE.US",
+      "name": "NIKE",
+      "ratio": 0.56,
       "shares": 2474
     }
   ]

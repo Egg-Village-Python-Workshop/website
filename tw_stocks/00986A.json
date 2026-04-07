@@ -1,7 +1,7 @@
 {
   "id": "00986A",
   "name": "主動台新龍頭成長",
-  "fetched_at": "2026-03-30",
+  "fetched_at": "2026-04-06",
   "capital": {
     "ETF名稱": "主動台新龍頭成長",
     "交易所代碼": "00986A",
@@ -13,18 +13,18 @@
     "計價幣別": "台幣",
     "上市日期": "2025/08/27",
     "淨值幣別": "台幣",
-    "ETF規模": "662.49(百萬台幣)(2026/02/28)",
-    "ETF市價": "11.6800（03/27）",
-    "成交量(股)": "375,629（月均:990,015）",
-    "ETF淨值": "11.3500（03/26）",
+    "ETF規模": "578.75(百萬台幣)(2026/03/31)",
+    "ETF市價": "11.7000（04/02）",
+    "成交量(股)": "434,406（月均:826,519）",
+    "ETF淨值": "11.9300（04/01）",
     "投資風格": "",
-    "折溢價(%)": "2.91(月均:0.13)",
+    "折溢價(%)": "-3.10(月均:0.10)",
     "投資標的": "股票型",
     "配息頻率": "年配",
     "投資區域": "全球",
-    "殖利率(%)": "N/A（03/27）",
+    "殖利率(%)": "N/A（04/02）",
     "經理費(%)": "1",
-    "年化標準差(%)": "N/A（03/27）",
+    "年化標準差(%)": "N/A（04/02）",
     "總管理費用(%)": "0.51",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -86,20 +86,26 @@
     {
       "code": "2330.TW",
       "name": "台積電",
-      "ratio": 8.58,
+      "ratio": 8.51,
       "shares": 27000
     },
     {
       "code": "LITE.US",
       "name": "Lumentum",
-      "ratio": 7.58,
+      "ratio": 8.3,
       "shares": 2000
     },
     {
       "code": "GOOGL.US",
       "name": "Alphabet - Class A Common Stock",
-      "ratio": 6.95,
+      "ratio": 7.27,
       "shares": 4500
+    },
+    {
+      "code": "NVDA.US",
+      "name": "NVIDIA",
+      "ratio": 6.68,
+      "shares": 7000
     },
     {
       "code": "AVGO.US",
@@ -108,172 +114,154 @@
       "shares": 3900
     },
     {
-      "code": "NVDA.US",
-      "name": "NVIDIA",
-      "ratio": 6.59,
-      "shares": 7000
-    },
-    {
       "code": "MU.US",
       "name": "Micron",
-      "ratio": 4.89,
+      "ratio": 4.99,
       "shares": 2500
     },
     {
       "code": "TER.US",
       "name": "Teradyne",
-      "ratio": 3.92,
+      "ratio": 4.07,
       "shares": 2399
-    },
-    {
-      "code": "META.US",
-      "name": "Meta",
-      "ratio": 3.74,
-      "shares": 1243
     },
     {
       "code": "8306.JP",
       "name": "MUFG",
-      "ratio": 3.73,
+      "ratio": 3.85,
       "shares": 40000
     },
     {
       "code": "GEV.US",
       "name": "GE Vernova",
-      "ratio": 3.6,
+      "ratio": 3.64,
       "shares": 750
     },
     {
       "code": "AMZN.US",
       "name": "Amazon",
-      "ratio": 3.42,
+      "ratio": 3.43,
       "shares": 3000
     },
     {
       "code": "MSFT.US",
       "name": "Microsoft",
-      "ratio": 3.22,
+      "ratio": 3.21,
       "shares": 1600
     },
     {
       "code": "LRCX.US",
       "name": "Lam Research",
-      "ratio": 2.35,
+      "ratio": 2.44,
       "shares": 2021
     },
     {
       "code": "WMT.US",
       "name": "Walmart",
-      "ratio": 2.28,
+      "ratio": 2.3,
       "shares": 3400
-    },
-    {
-      "code": "7011.JP",
-      "name": "Mitsubishi Heavy",
-      "ratio": 2.18,
-      "shares": 14000
     },
     {
       "code": "HWM.US",
       "name": "Howmet Aerospace",
-      "ratio": 2.16,
+      "ratio": 2.21,
       "shares": 1700
+    },
+    {
+      "code": "7011.JP",
+      "name": "Mitsubishi Heavy",
+      "ratio": 2.2,
+      "shares": 14000
     },
     {
       "code": "",
       "name": "施奈德電機公司",
-      "ratio": 2.12,
+      "ratio": 2.11,
       "shares": 1400
     },
     {
       "code": "",
       "name": "Siemens Energy AG",
-      "ratio": 2.1,
+      "ratio": 2.11,
       "shares": 2200
-    },
-    {
-      "code": "CRWD.US",
-      "name": "CrowdStrike Holdings",
-      "ratio": 2.03,
-      "shares": 938
-    },
-    {
-      "code": "6501.JP",
-      "name": "Hitachi",
-      "ratio": 1.98,
-      "shares": 12000
     },
     {
       "code": "",
       "name": "英飛凌科技股份有限公司",
-      "ratio": 1.98,
+      "ratio": 2.02,
       "shares": 8000
+    },
+    {
+      "code": "CRWD.US",
+      "name": "CrowdStrike Holdings",
+      "ratio": 2.0,
+      "shares": 938
     },
     {
       "code": "ETN.US",
       "name": "Eaton",
-      "ratio": 1.96,
+      "ratio": 1.98,
       "shares": 1000
+    },
+    {
+      "code": "6501.JP",
+      "name": "Hitachi",
+      "ratio": 1.95,
+      "shares": 12000
     },
     {
       "code": "COHR.US",
       "name": "Coherent",
-      "ratio": 1.74,
-      "shares": 1300
-    },
-    {
-      "code": "NET.US",
-      "name": "Cloudflare",
-      "ratio": 1.39,
-      "shares": 1200
-    },
-    {
-      "code": "CAT.US",
-      "name": "Caterpillar",
-      "ratio": 1.35,
-      "shares": 350
-    },
-    {
-      "code": "BWXT.US",
-      "name": "BWX Technologies",
-      "ratio": 1.24,
-      "shares": 1100
-    },
-    {
-      "code": "SNOW.US",
-      "name": "Snowflake",
-      "ratio": 1.16,
-      "shares": 1300
-    },
-    {
-      "code": "VRTX.US",
-      "name": "Vertex Pharmaceuticals",
-      "ratio": 1.04,
-      "shares": 417
-    },
-    {
-      "code": "GS.US",
-      "name": "Goldman Sachs",
-      "ratio": 0.9,
-      "shares": 200
-    },
-    {
-      "code": "LLY.US",
-      "name": "Eli Lilly",
-      "ratio": 0.89,
-      "shares": 180
-    },
-    {
-      "code": "C.US",
-      "name": "Citigroup",
-      "ratio": 0.8,
+      "ratio": 1.75,
       "shares": 1300
     },
     {
       "code": "",
       "name": "嘉能可公司",
-      "ratio": 0.66,
-      "shares": 30000
+      "ratio": 1.62,
+      "shares": 40000
+    },
+    {
+      "code": "CAT.US",
+      "name": "Caterpillar",
+      "ratio": 1.39,
+      "shares": 350
+    },
+    {
+      "code": "NET.US",
+      "name": "Cloudflare",
+      "ratio": 1.34,
+      "shares": 1200
+    },
+    {
+      "code": "BWXT.US",
+      "name": "BWX Technologies",
+      "ratio": 1.27,
+      "shares": 1100
+    },
+    {
+      "code": "VRTX.US",
+      "name": "Vertex Pharmaceuticals",
+      "ratio": 1.09,
+      "shares": 450
+    },
+    {
+      "code": "SNOW.US",
+      "name": "Snowflake",
+      "ratio": 1.08,
+      "shares": 1300
+    },
+    {
+      "code": "GS.US",
+      "name": "Goldman Sachs",
+      "ratio": 0.93,
+      "shares": 200
+    },
+    {
+      "code": "LLY.US",
+      "name": "Eli Lilly",
+      "ratio": 0.93,
+      "shares": 180
     }
   ]
 }

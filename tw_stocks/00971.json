@@ -1,7 +1,7 @@
 {
   "id": "00971",
   "name": "野村美國研發龍頭",
-  "fetched_at": "2026-03-30",
+  "fetched_at": "2026-04-06",
   "capital": {
     "ETF名稱": "野村美國研發龍頭",
     "交易所代碼": "00971",
@@ -13,18 +13,18 @@
     "計價幣別": "台幣",
     "上市日期": "2025/01/09",
     "淨值幣別": "台幣",
-    "ETF規模": "1,402.03(百萬台幣)(2026/02/28)",
-    "ETF市價": "14.6500（03/27）",
-    "成交量(股)": "367,915（月均:735,931）",
-    "ETF淨值": "14.5200（03/26）",
+    "ETF規模": "1,272.44(百萬台幣)(2026/03/31)",
+    "ETF市價": "14.6300（04/02）",
+    "成交量(股)": "300,511（月均:682,476）",
+    "ETF淨值": "14.8400（04/01）",
     "投資風格": "",
-    "折溢價(%)": "2.20(月均:-0.07)",
+    "折溢價(%)": "-0.81(月均:0.12)",
     "投資標的": "股票型",
     "配息頻率": "年配",
     "投資區域": "北美",
-    "殖利率(%)": "6.83（03/27）",
+    "殖利率(%)": "6.84（04/02）",
     "經理費(%)": "0.6",
-    "年化標準差(%)": "13.80（03/27）",
+    "年化標準差(%)": "13.55（04/02）",
     "總管理費用(%)": "1.02 (含 0.42 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -74,87 +74,87 @@
   ],
   "holdings": [
     {
-      "code": "AAPL.US",
-      "name": "Apple",
+      "code": "GOOGL.US",
+      "name": "Alphabet - Class A Common Stock",
       "ratio": 8.11,
-      "shares": 12568
+      "shares": 10916
     },
     {
       "code": "NVDA.US",
       "name": "NVIDIA",
-      "ratio": 7.96,
+      "ratio": 8.04,
       "shares": 18320
     },
     {
-      "code": "GOOGL.US",
-      "name": "Alphabet - Class A Common Stock",
-      "ratio": 7.77,
-      "shares": 10916
+      "code": "AAPL.US",
+      "name": "Apple",
+      "ratio": 8.03,
+      "shares": 12568
     },
     {
       "code": "AMZN.US",
       "name": "Amazon",
-      "ratio": 7.65,
+      "ratio": 7.79,
       "shares": 14802
     },
     {
       "code": "MSFT.US",
       "name": "Microsoft",
-      "ratio": 6.54,
+      "ratio": 6.52,
       "shares": 7065
     },
     {
       "code": "NFLX.US",
       "name": "Netflix",
-      "ratio": 4.42,
+      "ratio": 4.35,
       "shares": 18220
     },
     {
       "code": "ABBV.US",
       "name": "AbbVie",
-      "ratio": 4.06,
+      "ratio": 4.02,
       "shares": 7477
     },
     {
       "code": "AVGO.US",
       "name": "Broadcom",
-      "ratio": 3.85,
+      "ratio": 3.87,
       "shares": 4936
     },
     {
       "code": "LLY.US",
       "name": "Eli Lilly",
-      "ratio": 3.62,
+      "ratio": 3.79,
       "shares": 1590
-    },
-    {
-      "code": "TSLA.US",
-      "name": "Tesla",
-      "ratio": 3.57,
-      "shares": 3799
     },
     {
       "code": "META.US",
       "name": "Meta",
-      "ratio": 3.53,
+      "ratio": 3.75,
       "shares": 2588
+    },
+    {
+      "code": "TSLA.US",
+      "name": "Tesla",
+      "ratio": 3.62,
+      "shares": 3799
     },
     {
       "code": "GILD.US",
       "name": "Gilead Sciences",
-      "ratio": 2.66,
+      "ratio": 2.68,
       "shares": 7642
     },
     {
       "code": "ISRG.US",
       "name": "Intuitive Surgical",
-      "ratio": 2.54,
+      "ratio": 2.51,
       "shares": 2167
     },
     {
       "code": "BA.US",
       "name": "Boeing",
-      "ratio": 2.38,
+      "ratio": 2.5,
       "shares": 4821
     },
     {
@@ -166,37 +166,37 @@
     {
       "code": "ETN.US",
       "name": "Eaton",
-      "ratio": 2.22,
+      "ratio": 2.19,
       "shares": 2395
     },
     {
       "code": "BKNG.US",
       "name": "Booking Holdings",
-      "ratio": 2.09,
+      "ratio": 2.07,
       "shares": 198
     },
     {
       "code": "VRTX.US",
       "name": "Vertex Pharmaceuticals",
-      "ratio": 1.77,
+      "ratio": 1.76,
       "shares": 1577
     },
     {
       "code": "BSX.US",
       "name": "Boston Scientific",
-      "ratio": 1.64,
+      "ratio": 1.41,
       "shares": 9118
     },
     {
       "code": "MU.US",
       "name": "Micron",
-      "ratio": 1.42,
+      "ratio": 1.4,
       "shares": 1528
     },
     {
       "code": "REGN.US",
       "name": "Regeneron Pharmaceuticals",
-      "ratio": 1.19,
+      "ratio": 1.21,
       "shares": 623
     },
     {
@@ -208,32 +208,32 @@
     {
       "code": "PLTR.US",
       "name": "Palantir Technologies",
-      "ratio": 1.11,
+      "ratio": 1.09,
       "shares": 2986
-    },
-    {
-      "code": "CSCO.US",
-      "name": "Cisco",
-      "ratio": 1.01,
-      "shares": 4889
-    },
-    {
-      "code": "AMAT.US",
-      "name": "Applied Materials",
-      "ratio": 0.95,
-      "shares": 1084
     },
     {
       "code": "TEL.US",
       "name": "TE Connectivity",
-      "ratio": 0.95,
+      "ratio": 0.96,
       "shares": 1819
+    },
+    {
+      "code": "AMAT.US",
+      "name": "Applied Materials",
+      "ratio": 0.96,
+      "shares": 1084
     },
     {
       "code": "LRCX.US",
       "name": "Lam Research",
-      "ratio": 0.94,
+      "ratio": 0.95,
       "shares": 1709
+    },
+    {
+      "code": "CSCO.US",
+      "name": "Cisco",
+      "ratio": 0.95,
+      "shares": 4889
     },
     {
       "code": "ORCL.US",
@@ -244,7 +244,7 @@
     {
       "code": "DASH.US",
       "name": "DoorDash",
-      "ratio": 0.82,
+      "ratio": 0.81,
       "shares": 2158
     },
     {
@@ -268,19 +268,19 @@
     {
       "code": "RBLX.US",
       "name": "Roblox",
-      "ratio": 0.51,
+      "ratio": 0.54,
       "shares": 3737
     },
     {
       "code": "AXON.US",
       "name": "Axon Enterprise",
-      "ratio": 0.51,
+      "ratio": 0.49,
       "shares": 460
     },
     {
       "code": "ANET.US",
       "name": "Arista Networks",
-      "ratio": 0.45,
+      "ratio": 0.44,
       "shares": 1426
     },
     {
@@ -304,38 +304,38 @@
     {
       "code": "PANW.US",
       "name": "Palo Alto",
-      "ratio": 0.35,
+      "ratio": 0.36,
       "shares": 905
     },
     {
       "code": "ADBE.US",
       "name": "Adobe",
-      "ratio": 0.35,
+      "ratio": 0.34,
       "shares": 571
     },
     {
       "code": "CRWD.US",
       "name": "CrowdStrike Holdings",
-      "ratio": 0.32,
+      "ratio": 0.33,
       "shares": 332
     },
     {
       "code": "MRVL.US",
       "name": "Marvell",
-      "ratio": 0.29,
+      "ratio": 0.31,
       "shares": 1174
-    },
-    {
-      "code": "MSI.US",
-      "name": "Motorola Solutions",
-      "ratio": 0.26,
-      "shares": 227
     },
     {
       "code": "CDNS.US",
       "name": "Cadence Design Systems",
       "ratio": 0.26,
       "shares": 371
+    },
+    {
+      "code": "MSI.US",
+      "name": "Motorola Solutions",
+      "ratio": 0.25,
+      "shares": 227
     },
     {
       "code": "SNPS.US",
@@ -346,7 +346,7 @@
     {
       "code": "NET.US",
       "name": "Cloudflare",
-      "ratio": 0.21,
+      "ratio": 0.2,
       "shares": 399
     },
     {
@@ -364,7 +364,7 @@
     {
       "code": "SNOW.US",
       "name": "Snowflake",
-      "ratio": 0.17,
+      "ratio": 0.16,
       "shares": 428
     },
     {
