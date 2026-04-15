@@ -1,7 +1,7 @@
 {
   "id": "00983A",
   "name": "主動中信ARK創新",
-  "fetched_at": "2026-04-06",
+  "fetched_at": "2026-04-13",
   "capital": {
     "ETF名稱": "主動中信ARK創新",
     "交易所代碼": "00983A",
@@ -14,17 +14,17 @@
     "上市日期": "2025/06/18",
     "淨值幣別": "台幣",
     "ETF規模": "2,991.34(百萬台幣)(2026/03/31)",
-    "ETF市價": "10.2500（04/02）",
-    "成交量(股)": "2,112,730（月均:3,049,210）",
-    "ETF淨值": "10.4900（04/01）",
+    "ETF市價": "10.4500（04/13）",
+    "成交量(股)": "3,126,292（月均:2,681,390）",
+    "ETF淨值": "10.6100（04/10）",
     "投資風格": "",
-    "折溢價(%)": "-0.86(月均:0.12)",
+    "折溢價(%)": "-0.47(月均:0.24)",
     "投資標的": "股票型",
     "配息頻率": "年配",
     "投資區域": "美國",
-    "殖利率(%)": "N/A（04/02）",
+    "殖利率(%)": "N/A（04/13）",
     "經理費(%)": "1",
-    "年化標準差(%)": "N/A（04/02）",
+    "年化標準差(%)": "N/A（04/13）",
     "總管理費用(%)": "0.6",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -81,212 +81,206 @@
     {
       "code": "TSLA.US",
       "name": "Tesla",
-      "ratio": 8.78,
+      "ratio": 7.9,
       "shares": 21823
-    },
-    {
-      "code": "PLTR.US",
-      "name": "Palantir Technologies",
-      "ratio": 7.0,
-      "shares": 45310
-    },
-    {
-      "code": "TEM.US",
-      "name": "Tempus",
-      "ratio": 5.71,
-      "shares": 115068
-    },
-    {
-      "code": "ROKU.US",
-      "name": "Roku",
-      "ratio": 5.64,
-      "shares": 56302
     },
     {
       "code": "TER.US",
       "name": "Teradyne",
-      "ratio": 5.6,
+      "ratio": 6.51,
       "shares": 17000
+    },
+    {
+      "code": "PLTR.US",
+      "name": "Palantir Technologies",
+      "ratio": 6.04,
+      "shares": 45310
+    },
+    {
+      "code": "ROKU.US",
+      "name": "Roku",
+      "ratio": 6.01,
+      "shares": 56302
+    },
+    {
+      "code": "TEM.US",
+      "name": "Tempus",
+      "ratio": 5.15,
+      "shares": 115068
     },
     {
       "code": "SHOP.US",
       "name": "Shopify",
-      "ratio": 5.43,
+      "ratio": 5.01,
       "shares": 43449
     },
     {
       "code": "AMD.US",
       "name": "AMD",
-      "ratio": 3.82,
+      "ratio": 4.39,
       "shares": 17202
     },
     {
       "code": "CRCL.US",
       "name": "Circle",
-      "ratio": 3.77,
-      "shares": 39349
+      "ratio": 3.7,
+      "shares": 40349
     },
     {
       "code": "TXG.US",
       "name": "10x Genomics",
-      "ratio": 2.93,
+      "ratio": 3.06,
       "shares": 126095
+    },
+    {
+      "code": "COIN.US",
+      "name": "Coinbase",
+      "ratio": 2.97,
+      "shares": 17000
     },
     {
       "code": "CRSP.US",
       "name": "CRISPR Therapeutics",
-      "ratio": 2.79,
+      "ratio": 2.89,
       "shares": 54223
-    },
-    {
-      "code": "HOOD.US",
-      "name": "Robinhood Markets",
-      "ratio": 2.75,
-      "shares": 37150
     },
     {
       "code": "BEAM.US",
       "name": "Beam Therapeutics",
-      "ratio": 2.54,
+      "ratio": 2.84,
       "shares": 99465
     },
     {
       "code": "ADR",
       "name": "TSMC",
-      "ratio": 2.52,
+      "ratio": 2.7,
       "shares": 6994
-    },
-    {
-      "code": "KTOS.US",
-      "name": "Kratos Defense & Security",
-      "ratio": 2.45,
-      "shares": 34329
-    },
-    {
-      "code": "COIN.US",
-      "name": "Coinbase",
-      "ratio": 2.37,
-      "shares": 13000
     },
     {
       "code": "BWXT.US",
       "name": "BWX Technologies",
-      "ratio": 2.36,
+      "ratio": 2.52,
       "shares": 10526
+    },
+    {
+      "code": "KTOS.US",
+      "name": "Kratos Defense & Security",
+      "ratio": 2.51,
+      "shares": 34329
     },
     {
       "code": "AMZN.US",
       "name": "Amazon",
-      "ratio": 2.21,
+      "ratio": 2.47,
       "shares": 9936
     },
     {
       "code": "NVDA.US",
       "name": "NVIDIA",
-      "ratio": 2.2,
+      "ratio": 2.33,
       "shares": 11846
-    },
-    {
-      "code": "ILMN.US",
-      "name": "Illumina",
-      "ratio": 2.06,
-      "shares": 15453
     },
     {
       "code": "XYZ.US",
       "name": "Block",
-      "ratio": 1.91,
+      "ratio": 1.97,
       "shares": 30344
+    },
+    {
+      "code": "ILMN.US",
+      "name": "Illumina",
+      "ratio": 1.95,
+      "shares": 15453
     },
     {
       "code": "TWST.US",
       "name": "Twist Bioscience",
-      "ratio": 1.9,
+      "ratio": 1.81,
       "shares": 36271
-    },
-    {
-      "code": "NTRA.US",
-      "name": "Natera",
-      "ratio": 1.72,
-      "shares": 8000
-    },
-    {
-      "code": "ABNB.US",
-      "name": "Airbnb",
-      "ratio": 1.65,
-      "shares": 12486
     },
     {
       "code": "META.US",
       "name": "Meta",
-      "ratio": 1.58,
+      "ratio": 1.7,
       "shares": 2592
-    },
-    {
-      "code": "SOFI.US",
-      "name": "SoFi Technologies",
-      "ratio": 1.35,
-      "shares": 82155
     },
     {
       "code": "CRWV.US",
       "name": "CoreWeave",
-      "ratio": 1.31,
+      "ratio": 1.69,
       "shares": 15887
+    },
+    {
+      "code": "ABNB.US",
+      "name": "Airbnb",
+      "ratio": 1.68,
+      "shares": 12486
+    },
+    {
+      "code": "NTRA.US",
+      "name": "Natera",
+      "ratio": 1.61,
+      "shares": 8000
+    },
+    {
+      "code": "SOFI.US",
+      "name": "SoFi Technologies",
+      "ratio": 1.39,
+      "shares": 82155
     },
     {
       "code": "BMNR.US",
       "name": "BitMine",
-      "ratio": 1.11,
+      "ratio": 1.19,
       "shares": 53552
-    },
-    {
-      "code": "PSTG.US",
-      "name": "Everpure",
-      "ratio": 1.1,
-      "shares": 17065
-    },
-    {
-      "code": "DE.US",
-      "name": "Deere",
-      "ratio": 1.08,
-      "shares": 1791
     },
     {
       "code": "AVGO.US",
       "name": "Broadcom",
-      "ratio": 1.01,
+      "ratio": 1.18,
       "shares": 3039
+    },
+    {
+      "code": "DE.US",
+      "name": "Deere",
+      "ratio": 1.13,
+      "shares": 1791
+    },
+    {
+      "code": "PSTG.US",
+      "name": "Everpure",
+      "ratio": 1.08,
+      "shares": 17065
     },
     {
       "code": "BIDU.US",
       "name": "Baidu",
-      "ratio": 0.92,
+      "ratio": 0.88,
       "shares": 7791
-    },
-    {
-      "code": "VCYT.US",
-      "name": "Veracyte",
-      "ratio": 0.83,
-      "shares": 24281
     },
     {
       "code": "GOOGL.US",
       "name": "Alphabet - Class A Common Stock",
-      "ratio": 0.81,
+      "ratio": 0.86,
       "shares": 2595
     },
     {
       "code": "BABA.US",
       "name": "Alibaba Group",
-      "ratio": 0.8,
+      "ratio": 0.81,
       "shares": 6114
     },
     {
       "code": "MELI.US",
       "name": "MercadoLibre",
-      "ratio": 0.8,
+      "ratio": 0.81,
       "shares": 439
+    },
+    {
+      "code": "VCYT.US",
+      "name": "Veracyte",
+      "ratio": 0.79,
+      "shares": 24281
     },
     {
       "code": "NTLA.US",
@@ -297,8 +291,14 @@
     {
       "code": "CCJ.US",
       "name": "Cameco",
-      "ratio": 0.27,
+      "ratio": 0.28,
       "shares": 2300
+    },
+    {
+      "code": "",
+      "name": "Bullish",
+      "ratio": 0.26,
+      "shares": 6870
     },
     {
       "code": "CERS.US",
