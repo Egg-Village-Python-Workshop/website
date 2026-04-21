@@ -1,7 +1,7 @@
 {
   "id": "00717",
   "name": "富邦美國特別股",
-  "fetched_at": "2026-04-13",
+  "fetched_at": "2026-04-20",
   "capital": {
     "ETF名稱": "富邦美國特別股",
     "交易所代碼": "00717",
@@ -14,22 +14,22 @@
     "上市日期": "2017/11/29",
     "淨值幣別": "台幣",
     "ETF規模": "2,121.74(百萬台幣)(2026/03/31)",
-    "ETF市價": "15.0000（04/13）",
-    "成交量(股)": "272,818（月均:211,703）",
-    "ETF淨值": "15.1000（04/10）",
+    "ETF市價": "14.9800（04/20）",
+    "成交量(股)": "179,533（月均:210,317）",
+    "ETF淨值": "15.2800（04/17）",
     "投資風格": "",
-    "折溢價(%)": "-0.60(月均:-0.46)",
+    "折溢價(%)": "-0.72(月均:-0.56)",
     "投資標的": "股票型",
     "配息頻率": "季配",
     "投資區域": "美國",
-    "殖利率(%)": "3.76（04/13）",
+    "殖利率(%)": "3.77（04/20）",
     "經理費(%)": "0.6",
-    "年化標準差(%)": "7.69（04/13）",
+    "年化標準差(%)": "9.11（04/20）",
     "總管理費用(%)": "0.91 (含 0.31 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
     "放空交易": "Y",
-    "成分股數": 222,
+    "成分股數": 221,
     "槓桿多空註記": "",
     "經銷商": "",
     "保管機構": "中國信託銀行",
@@ -43,97 +43,97 @@
   "sectors": [
     {
       "name": "金融(上市特別股)",
-      "amount_wan": 142699.5,
-      "ratio": 65.54
+      "amount_wan": 139270.9,
+      "ratio": 65.64
     },
     {
       "name": "房地產(上市特別股)",
-      "amount_wan": 15916.0,
-      "ratio": 7.31
+      "amount_wan": 15297.7,
+      "ratio": 7.21
     },
     {
       "name": "工業(上市特別股)",
-      "amount_wan": 14500.7,
-      "ratio": 6.66
+      "amount_wan": 13197.2,
+      "ratio": 6.22
     },
     {
       "name": "資訊技術(上市特別股)",
-      "amount_wan": 12606.5,
-      "ratio": 5.79
+      "amount_wan": 12709.2,
+      "ratio": 5.99
     },
     {
       "name": "其他資產",
-      "amount_wan": 10821.1,
-      "ratio": 4.97
-    },
-    {
-      "name": "通訊服務(上市特別股)",
-      "amount_wan": 5900.5,
-      "ratio": 2.71
+      "amount_wan": 10990.6,
+      "ratio": 5.18
     },
     {
       "name": "原材料(上市特別股)",
-      "amount_wan": 5813.4,
-      "ratio": 2.67
+      "amount_wan": 5813.6,
+      "ratio": 2.74
+    },
+    {
+      "name": "通訊服務(上市特別股)",
+      "amount_wan": 5601.4,
+      "ratio": 2.64
     },
     {
       "name": "核心消費(上市特別股)",
-      "amount_wan": 4681.2,
-      "ratio": 2.15
+      "amount_wan": 4689.0,
+      "ratio": 2.21
     },
     {
       "name": "公用事業(上市特別股)",
-      "amount_wan": 3701.4,
-      "ratio": 1.7
+      "amount_wan": 3628.2,
+      "ratio": 1.71
     },
     {
       "name": "醫療保健(上市特別股)",
-      "amount_wan": 1088.6,
-      "ratio": 0.5
+      "amount_wan": 976.0,
+      "ratio": 0.46
     }
   ],
   "holdings": [
     {
       "code": "",
       "name": "BOEING CO/THE 6 2027/10/15",
-      "ratio": 6.04,
-      "shares": 59104
+      "ratio": 5.37,
+      "shares": 50829
     },
     {
       "code": "",
       "name": "ALBEMARLE CORP 7.25 2027/3/1",
-      "ratio": 2.61,
-      "shares": 25214
+      "ratio": 2.53,
+      "shares": 21684
     },
     {
       "code": "C.US",
       "name": "Citigroup",
-      "ratio": 2.25,
-      "shares": 50495
+      "ratio": 2.07,
+      "shares": 46455
     },
     {
       "code": "",
       "name": "STRATEGY INC 10 PERP A.",
-      "ratio": 1.79,
+      "ratio": 1.78,
       "shares": 12119
     },
     {
       "code": "",
       "name": "HP ENTERPRISE CO 7.625 2027/9/1",
-      "ratio": 1.73,
-      "shares": 17241
+      "ratio": 1.68,
+      "shares": 15862
     },
     {
       "code": "JPM.US",
       "name": "JPMorgan Chase",
-      "ratio": 1.59,
-      "shares": 42717
+      "ratio": 1.48,
+      "shares": 39300
     },
     {
-      "code": "",
-      "name": "KKR & CO INC 6.25 2028/3/1 D",
-      "ratio": 1.41,
-      "shares": 24049
+      "code": "MCHPP.US",
+      "name": "Microchip Technology DEP SHS REP",
+      "ratio": 1.39,
+      "shares": 13728
     },
     {
       "code": "JPM.US",
@@ -142,76 +142,64 @@
       "shares": 36711
     },
     {
-      "code": "AFT.US",
-      "name": "Apollo Senior Floating Rate Fund",
-      "ratio": 1.3,
-      "shares": 15863
-    },
-    {
-      "code": "WFC.US",
-      "name": "Wells Fargo",
-      "ratio": 1.3,
-      "shares": 45646
-    },
-    {
-      "code": "MCHPP.US",
-      "name": "Microchip Technology DEP SHS REP",
-      "ratio": 1.27,
-      "shares": 13728
-    },
-    {
       "code": "JPM.US",
       "name": "JPMorgan Chase",
-      "ratio": 1.15,
+      "ratio": 1.16,
       "shares": 40212
     },
     {
       "code": "JPM.US",
       "name": "JPMorgan Chase",
-      "ratio": 1.14,
+      "ratio": 1.16,
       "shares": 43193
     },
     {
       "code": "BAC.US",
       "name": "Bank of America",
-      "ratio": 1.12,
+      "ratio": 1.13,
       "shares": 30058
+    },
+    {
+      "code": "WFC.US",
+      "name": "Wells Fargo",
+      "ratio": 1.12,
+      "shares": 39256
+    },
+    {
+      "code": "",
+      "name": "KKR & CO INC 6.25 2028/3/1 D",
+      "ratio": 1.11,
+      "shares": 16834
+    },
+    {
+      "code": "",
+      "name": "ORACLE CORP 6.5 2029/1/15 D",
+      "ratio": 1.1,
+      "shares": 14318
     },
     {
       "code": "T.US",
       "name": "AT&T",
-      "ratio": 1.01,
+      "ratio": 1.02,
       "shares": 36947
     },
     {
       "code": "BAC.US",
       "name": "Bank of America",
-      "ratio": 0.99,
+      "ratio": 1.01,
       "shares": 30528
     },
     {
       "code": "COF.US",
       "name": "Capital One Financial",
-      "ratio": 0.95,
+      "ratio": 0.96,
       "shares": 33476
     },
     {
       "code": "JPM.US",
       "name": "JPMorgan Chase",
-      "ratio": 0.92,
+      "ratio": 0.93,
       "shares": 32778
-    },
-    {
-      "code": "MS.US",
-      "name": "Morgan Stanley",
-      "ratio": 0.88,
-      "shares": 23227
-    },
-    {
-      "code": "MS.US",
-      "name": "Morgan Stanley",
-      "ratio": 0.87,
-      "shares": 23661
     },
     {
       "code": "",
@@ -228,19 +216,19 @@
     {
       "code": "DUK.US",
       "name": "Duke Energy",
-      "ratio": 0.83,
+      "ratio": 0.84,
       "shares": 22772
     },
     {
       "code": "MS.US",
       "name": "Morgan Stanley",
-      "ratio": 0.81,
+      "ratio": 0.83,
       "shares": 23047
     },
     {
       "code": "ALL.US",
       "name": "Allstate",
-      "ratio": 0.79,
+      "ratio": 0.81,
       "shares": 26013
     },
     {
@@ -250,46 +238,58 @@
       "shares": 26678
     },
     {
-      "code": "MS.US",
-      "name": "Morgan Stanley",
-      "ratio": 0.77,
-      "shares": 20678
-    },
-    {
       "code": "WFC.US",
       "name": "Wells Fargo",
-      "ratio": 0.77,
+      "ratio": 0.78,
       "shares": 27393
     },
     {
       "code": "BAC.US",
       "name": "Bank of America",
-      "ratio": 0.76,
+      "ratio": 0.77,
       "shares": 25142
     },
     {
       "code": "BAC.US",
       "name": "Bank of America",
-      "ratio": 0.76,
+      "ratio": 0.77,
       "shares": 29695
     },
     {
       "code": "WFC.US",
       "name": "Wells Fargo",
-      "ratio": 0.75,
+      "ratio": 0.76,
       "shares": 29247
-    },
-    {
-      "code": "COF.US",
-      "name": "Capital One Financial",
-      "ratio": 0.74,
-      "shares": 27473
     },
     {
       "code": "MS.US",
       "name": "Morgan Stanley",
-      "ratio": 0.74,
+      "ratio": 0.76,
+      "shares": 19975
+    },
+    {
+      "code": "MS.US",
+      "name": "Morgan Stanley",
+      "ratio": 0.76,
+      "shares": 20348
+    },
+    {
+      "code": "AFT.US",
+      "name": "Apollo Senior Floating Rate Fund",
+      "ratio": 0.76,
+      "shares": 7931
+    },
+    {
+      "code": "MS.US",
+      "name": "Morgan Stanley",
+      "ratio": 0.76,
       "shares": 28860
+    },
+    {
+      "code": "COF.US",
+      "name": "Capital One Financial",
+      "ratio": 0.76,
+      "shares": 27473
     },
     {
       "code": "MS.US",
@@ -298,28 +298,22 @@
       "shares": 19898
     },
     {
-      "code": "MET.US",
-      "name": "MetLife, Inc.",
-      "ratio": 0.69,
-      "shares": 24889
-    },
-    {
       "code": "MS.US",
       "name": "Morgan Stanley",
-      "ratio": 0.69,
+      "ratio": 0.7,
       "shares": 24257
-    },
-    {
-      "code": "",
-      "name": "PG&E CORP 6 2027/12/1 A",
-      "ratio": 0.69,
-      "shares": 10410
     },
     {
       "code": "USB.US",
       "name": "U.S. Bancorp",
-      "ratio": 0.66,
+      "ratio": 0.67,
       "shares": 23975
+    },
+    {
+      "code": "MS.US",
+      "name": "Morgan Stanley",
+      "ratio": 0.67,
+      "shares": 17783
     },
     {
       "code": "BAC.US",
@@ -328,22 +322,28 @@
       "shares": 17939
     },
     {
+      "code": "",
+      "name": "PG&E CORP 6 2027/12/1 A",
+      "ratio": 0.66,
+      "shares": 10410
+    },
+    {
       "code": "SCHW.US",
       "name": "Charles Schwab",
-      "ratio": 0.65,
+      "ratio": 0.66,
       "shares": 17937
+    },
+    {
+      "code": "MET.US",
+      "name": "MetLife, Inc.",
+      "ratio": 0.66,
+      "shares": 22898
     },
     {
       "code": "MTB.US",
       "name": "M&T Bank",
-      "ratio": 0.64,
+      "ratio": 0.65,
       "shares": 16555
-    },
-    {
-      "code": "BAC.US",
-      "name": "Bank of America",
-      "ratio": 0.62,
-      "shares": 23746
     },
     {
       "code": "JPM.US",
@@ -352,16 +352,28 @@
       "shares": 21029
     },
     {
+      "code": "BAC.US",
+      "name": "Bank of America",
+      "ratio": 0.62,
+      "shares": 23746
+    },
+    {
       "code": "ATH.US",
       "name": "Athene Holding",
-      "ratio": 0.6,
+      "ratio": 0.61,
       "shares": 17131
     },
     {
       "code": "WFC.US",
       "name": "Wells Fargo",
-      "ratio": 0.58,
+      "ratio": 0.59,
       "shares": 22282
+    },
+    {
+      "code": "EQH.US",
+      "name": "Equitable Holdings",
+      "ratio": 0.58,
+      "shares": 19349
     },
     {
       "code": "MET.US",
@@ -370,40 +382,28 @@
       "shares": 17048
     },
     {
-      "code": "BAC.US",
-      "name": "Bank of America",
-      "ratio": 0.58,
-      "shares": 23085
-    },
-    {
-      "code": "EQH.US",
-      "name": "Equitable Holdings",
-      "ratio": 0.57,
-      "shares": 19349
-    },
-    {
       "code": "ALL.US",
       "name": "Allstate",
-      "ratio": 0.57,
+      "ratio": 0.58,
       "shares": 14959
-    },
-    {
-      "code": "",
-      "name": "ARES MANAGEMENT CORP 6.75 2027/10/1 B",
-      "ratio": 0.56,
-      "shares": 11118
     },
     {
       "code": "WFC.US",
       "name": "Wells Fargo",
-      "ratio": 0.55,
+      "ratio": 0.56,
       "shares": 15650
     },
     {
       "code": "TFC.US",
       "name": "Truist Financial",
-      "ratio": 0.55,
+      "ratio": 0.56,
       "shares": 19764
+    },
+    {
+      "code": "KEY.US",
+      "name": "KeyCorp",
+      "ratio": 0.55,
+      "shares": 14879
     },
     {
       "code": "",
@@ -412,16 +412,28 @@
       "shares": 18735
     },
     {
-      "code": "KEY.US",
-      "name": "KeyCorp",
-      "ratio": 0.54,
-      "shares": 14879
+      "code": "STRF.US",
+      "name": "Strategy 10.00% SER A PERPETUAL",
+      "ratio": 0.52,
+      "shares": 3531
     },
     {
       "code": "",
       "name": "CHS INC 7.875 PERP 1",
       "ratio": 0.52,
       "shares": 13419
+    },
+    {
+      "code": "SYF.US",
+      "name": "Synchrony",
+      "ratio": 0.51,
+      "shares": 17392
+    },
+    {
+      "code": "BRKRP.US",
+      "name": "Bruker 6.375% CONV PREF SER A",
+      "ratio": 0.51,
+      "shares": 1080
     },
     {
       "code": "",
@@ -432,32 +444,20 @@
     {
       "code": "SYF.US",
       "name": "Synchrony",
-      "ratio": 0.51,
-      "shares": 17392
-    },
-    {
-      "code": "STRF.US",
-      "name": "Strategy 10.00% SER A PERPETUAL",
-      "ratio": 0.51,
-      "shares": 3531
-    },
-    {
-      "code": "TDS.US",
-      "name": "Telephone and Data Systems",
       "ratio": 0.5,
-      "shares": 17845
+      "shares": 12924
+    },
+    {
+      "code": "BAC.US",
+      "name": "Bank of America",
+      "ratio": 0.5,
+      "shares": 19853
     },
     {
       "code": "",
       "name": "CHS INC 7.5 PERP 4",
       "ratio": 0.49,
       "shares": 13036
-    },
-    {
-      "code": "SYF.US",
-      "name": "Synchrony",
-      "ratio": 0.49,
-      "shares": 12924
     },
     {
       "code": "BAC.US",
@@ -468,44 +468,50 @@
     {
       "code": "",
       "name": "BANC OF CALIFORNIA INC 7.75 PERP F",
-      "ratio": 0.48,
+      "ratio": 0.49,
       "shares": 12919
     },
     {
-      "code": "BRKRP.US",
-      "name": "Bruker 6.375% CONV PREF SER A",
-      "ratio": 0.48,
-      "shares": 1080
+      "code": "",
+      "name": "JACKSON FINANCIAL INC 8 PERP",
+      "ratio": 0.47,
+      "shares": 12183
     },
     {
       "code": "KEY.US",
       "name": "KeyCorp",
-      "ratio": 0.46,
+      "ratio": 0.47,
       "shares": 12589
     },
     {
       "code": "RF.US",
       "name": "Regions Financial",
-      "ratio": 0.46,
+      "ratio": 0.47,
       "shares": 12796
-    },
-    {
-      "code": "",
-      "name": "JACKSON FINANCIAL INC 8 PERP",
-      "ratio": 0.46,
-      "shares": 12183
     },
     {
       "code": "TFC.US",
       "name": "Truist Financial",
-      "ratio": 0.45,
+      "ratio": 0.46,
       "shares": 14430
     },
     {
       "code": "USB.US",
       "name": "U.S. Bancorp",
-      "ratio": 0.45,
+      "ratio": 0.46,
       "shares": 19344
+    },
+    {
+      "code": "",
+      "name": "ARES MANAGEMENT CORP 6.75 2027/10/1 B",
+      "ratio": 0.46,
+      "shares": 7783
+    },
+    {
+      "code": "TDS.US",
+      "name": "Telephone and Data Systems",
+      "ratio": 0.44,
+      "shares": 15347
     },
     {
       "code": "ALL.US",
@@ -514,22 +520,16 @@
       "shares": 11495
     },
     {
-      "code": "",
-      "name": "LINCOLN NATIONAL CORP 9 PERP D",
-      "ratio": 0.44,
-      "shares": 11203
-    },
-    {
       "code": "AGNCP.US",
       "name": "AGNC Investment 6.125% CUM RED P",
-      "ratio": 0.43,
+      "ratio": 0.44,
       "shares": 12054
     },
     {
       "code": "",
-      "name": "FIFTH THIRD BANCORP 6.625 PERP I",
-      "ratio": 0.43,
-      "shares": 11520
+      "name": "LINCOLN NATIONAL CORP 9 PERP D",
+      "ratio": 0.44,
+      "shares": 11203
     },
     {
       "code": "",
@@ -539,39 +539,39 @@
     },
     {
       "code": "",
-      "name": "CHS INC 7.1 PERP 2",
+      "name": "FIFTH THIRD BANCORP 6.625 PERP I",
       "ratio": 0.43,
-      "shares": 11518
-    },
-    {
-      "code": "",
-      "name": "AXIS CAPITAL HLDGS LTD 5.5 PERP E",
-      "ratio": 0.42,
-      "shares": 14597
+      "shares": 11520
     },
     {
       "code": "MET.US",
       "name": "MetLife, Inc.",
-      "ratio": 0.42,
+      "ratio": 0.43,
       "shares": 13708
+    },
+    {
+      "code": "",
+      "name": "AXIS CAPITAL HLDGS LTD 5.5 PERP E",
+      "ratio": 0.43,
+      "shares": 14597
     },
     {
       "code": "ATH.US",
       "name": "Athene Holding",
-      "ratio": 0.41,
+      "ratio": 0.42,
       "shares": 11300
-    },
-    {
-      "code": "RITM.US",
-      "name": "Rithm Capital",
-      "ratio": 0.41,
-      "shares": 11247
     },
     {
       "code": "SCHW.US",
       "name": "Charles Schwab",
-      "ratio": 0.41,
+      "ratio": 0.42,
       "shares": 15484
+    },
+    {
+      "code": "RITM.US",
+      "name": "Rithm Capital",
+      "ratio": 0.42,
+      "shares": 11247
     },
     {
       "code": "USB.US",
@@ -580,9 +580,15 @@
       "shares": 12604
     },
     {
+      "code": "STRK.US",
+      "name": "Strategy 8.00% SERIES A PERPETUA",
+      "ratio": 0.41,
+      "shares": 3591
+    },
+    {
       "code": "COF.US",
       "name": "Capital One Financial",
-      "ratio": 0.4,
+      "ratio": 0.41,
       "shares": 16266
     },
     {
@@ -592,21 +598,21 @@
       "shares": 10647
     },
     {
-      "code": "RITM.US",
-      "name": "Rithm Capital",
-      "ratio": 0.39,
-      "shares": 10870
+      "code": "",
+      "name": "CHS INC 7.1 PERP 2",
+      "ratio": 0.4,
+      "shares": 10597
     },
     {
-      "code": "STRK.US",
-      "name": "Strategy 8.00% SERIES A PERPETUA",
-      "ratio": 0.39,
-      "shares": 3591
+      "code": "RITM.US",
+      "name": "Rithm Capital",
+      "ratio": 0.4,
+      "shares": 10870
     },
     {
       "code": "",
       "name": "MICROSTRATEGY INC 10 PERP A",
-      "ratio": 0.39,
+      "ratio": 0.4,
       "shares": 3456
     },
     {
@@ -624,13 +630,13 @@
     {
       "code": "PSA.US",
       "name": "Public Storage",
-      "ratio": 0.37,
+      "ratio": 0.38,
       "shares": 13821
     },
     {
       "code": "KEY.US",
       "name": "KeyCorp",
-      "ratio": 0.37,
+      "ratio": 0.38,
       "shares": 11717
     },
     {
@@ -640,10 +646,10 @@
       "shares": 9600
     },
     {
-      "code": "ACGLN.US",
-      "name": "Arch Capital Group DEP SHS EACH",
+      "code": "TDS.US",
+      "name": "Telephone and Data Systems",
       "ratio": 0.36,
-      "shares": 14365
+      "shares": 11443
     },
     {
       "code": "PSA.US",
@@ -658,15 +664,9 @@
       "shares": 11277
     },
     {
-      "code": "TDS.US",
-      "name": "Telephone and Data Systems",
-      "ratio": 0.35,
-      "shares": 11443
-    },
-    {
       "code": "MS.US",
       "name": "Morgan Stanley",
-      "ratio": 0.35,
+      "ratio": 0.36,
       "shares": 11769
     },
     {
@@ -684,14 +684,20 @@
     {
       "code": "HBANP.US",
       "name": "Huntington Bancshares Incorporat",
-      "ratio": 0.34,
+      "ratio": 0.35,
       "shares": 13694
     },
     {
       "code": "CFG.US",
       "name": "Citizens Financial Group",
-      "ratio": 0.34,
+      "ratio": 0.35,
       "shares": 12272
+    },
+    {
+      "code": "RF.US",
+      "name": "Regions Financial",
+      "ratio": 0.35,
+      "shares": 9111
     },
     {
       "code": "SCE.US",
@@ -700,16 +706,16 @@
       "shares": 12739
     },
     {
-      "code": "RF.US",
-      "name": "Regions Financial",
-      "ratio": 0.34,
-      "shares": 9111
-    },
-    {
       "code": "",
       "name": "HARTFORD FINL SVCS GRP 6 PERP G",
       "ratio": 0.34,
       "shares": 9196
+    },
+    {
+      "code": "ACGLN.US",
+      "name": "Arch Capital Group DEP SHS EACH",
+      "ratio": 0.34,
+      "shares": 13216
     },
     {
       "code": "CHSCP.US",
@@ -726,14 +732,8 @@
     {
       "code": "",
       "name": "AGNC INVESTMENT CORP 10.76648 PERP C",
-      "ratio": 0.32,
+      "ratio": 0.33,
       "shares": 8712
-    },
-    {
-      "code": "BHFAN.US",
-      "name": "Brighthouse Financial DEP SHS RE",
-      "ratio": 0.32,
-      "shares": 16272
     },
     {
       "code": "RLJ.US",
@@ -748,21 +748,33 @@
       "shares": 11228
     },
     {
+      "code": "RNR.US",
+      "name": "RenaissanceRe Holdings Ltd.",
+      "ratio": 0.32,
+      "shares": 13602
+    },
+    {
       "code": "",
       "name": "HUNTINGTON BANCSHARES 6.875 PERP J",
       "ratio": 0.32,
       "shares": 8440
     },
     {
-      "code": "RNR.US",
-      "name": "RenaissanceRe Holdings Ltd.",
-      "ratio": 0.31,
-      "shares": 13602
+      "code": "BHFAN.US",
+      "name": "Brighthouse Financial DEP SHS RE",
+      "ratio": 0.32,
+      "shares": 16272
+    },
+    {
+      "code": "",
+      "name": "CHIMERA INVESTMENT CORP 8 PERP B",
+      "ratio": 0.32,
+      "shares": 8893
     },
     {
       "code": "RITM.US",
       "name": "Rithm Capital",
-      "ratio": 0.31,
+      "ratio": 0.32,
       "shares": 8450
     },
     {
@@ -770,12 +782,6 @@
       "name": "U.S. Bancorp",
       "ratio": 0.31,
       "shares": 13951
-    },
-    {
-      "code": "",
-      "name": "CHIMERA INVESTMENT CORP 8 PERP B",
-      "ratio": 0.31,
-      "shares": 8893
     },
     {
       "code": "FCNCP.US",
@@ -786,20 +792,14 @@
     {
       "code": "VOYA.US",
       "name": "Voya Financial",
-      "ratio": 0.29,
+      "ratio": 0.3,
       "shares": 8453
     },
     {
-      "code": "BHFAO.US",
-      "name": "Brighthouse Financial 6.75% DEP",
-      "ratio": 0.29,
-      "shares": 11589
-    },
-    {
-      "code": "DHCNI.US",
-      "name": "Diversified Healthcare Trust 5.6",
-      "ratio": 0.29,
-      "shares": 10942
+      "code": "ATH.US",
+      "name": "Athene Holding",
+      "ratio": 0.3,
+      "shares": 10141
     },
     {
       "code": "TCBIO.US",
@@ -808,10 +808,10 @@
       "shares": 8977
     },
     {
-      "code": "ATH.US",
-      "name": "Athene Holding",
+      "code": "PSA.US",
+      "name": "Public Storage",
       "ratio": 0.29,
-      "shares": 10141
+      "shares": 12327
     },
     {
       "code": "PSA.US",
@@ -820,27 +820,21 @@
       "shares": 8701
     },
     {
-      "code": "PSA.US",
-      "name": "Public Storage",
+      "code": "BHFAO.US",
+      "name": "Brighthouse Financial 6.75% DEP",
       "ratio": 0.29,
-      "shares": 12327
-    },
-    {
-      "code": "",
-      "name": "BRIGHTHOUSE FINANCIAL IN 6.6 PERP A",
-      "ratio": 0.28,
-      "shares": 11676
+      "shares": 11589
     },
     {
       "code": "DLR.US",
       "name": "Digital Realty Trust",
-      "ratio": 0.28,
+      "ratio": 0.29,
       "shares": 9694
     },
     {
       "code": "",
       "name": "ARCH CAPITAL GROUP LTD 5.45 PERP F",
-      "ratio": 0.28,
+      "ratio": 0.29,
       "shares": 9430
     },
     {
@@ -850,28 +844,46 @@
       "shares": 11307
     },
     {
-      "code": "PSA.US",
-      "name": "Public Storage",
+      "code": "HPP.US",
+      "name": "Hudson Pacific Properties Inc.",
       "ratio": 0.28,
-      "shares": 9447
+      "shares": 13045
     },
     {
       "code": "",
-      "name": "SCE TRUST VIII 6.95 PERP N",
-      "ratio": 0.27,
-      "shares": 7822
-    },
-    {
-      "code": "",
-      "name": "TWO HARBORS INV CORP 7.625 PERP B",
-      "ratio": 0.27,
-      "shares": 7513
+      "name": "BRIGHTHOUSE FINANCIAL IN 6.6 PERP A",
+      "ratio": 0.28,
+      "shares": 11676
     },
     {
       "code": "PBI.US",
       "name": "Pitney Bowes",
-      "ratio": 0.27,
+      "ratio": 0.28,
       "shares": 9273
+    },
+    {
+      "code": "",
+      "name": "TWO HARBORS INV CORP 7.625 PERP B",
+      "ratio": 0.28,
+      "shares": 7513
+    },
+    {
+      "code": "",
+      "name": "SCE TRUST VIII 6.95 PERP N",
+      "ratio": 0.28,
+      "shares": 7822
+    },
+    {
+      "code": "DHCNI.US",
+      "name": "Diversified Healthcare Trust 5.6",
+      "ratio": 0.27,
+      "shares": 10067
+    },
+    {
+      "code": "",
+      "name": "AGNC INVESTMENT CORP 6.875 PERP D",
+      "ratio": 0.27,
+      "shares": 7456
     },
     {
       "code": "COF.US",
@@ -881,32 +893,14 @@
     },
     {
       "code": "",
-      "name": "AGNC INVESTMENT CORP 6.875 PERP D",
-      "ratio": 0.27,
-      "shares": 7456
-    },
-    {
-      "code": "",
       "name": "CHIMERA INVESTMENT CORP 7.75 PERP C",
       "ratio": 0.27,
       "shares": 8212
     },
     {
-      "code": "HPP.US",
-      "name": "Hudson Pacific Properties Inc.",
-      "ratio": 0.26,
-      "shares": 13045
-    },
-    {
-      "code": "OZKAP.US",
-      "name": "Bank OZK 4.625% Series A Non-Cum",
-      "ratio": 0.26,
-      "shares": 10528
-    },
-    {
       "code": "UMH.US",
       "name": "UMH Properties",
-      "ratio": 0.26,
+      "ratio": 0.27,
       "shares": 8236
     },
     {
@@ -918,7 +912,19 @@
     {
       "code": "PSA.US",
       "name": "Public Storage",
-      "ratio": 0.25,
+      "ratio": 0.26,
+      "shares": 8691
+    },
+    {
+      "code": "OZKAP.US",
+      "name": "Bank OZK 4.625% Series A Non-Cum",
+      "ratio": 0.26,
+      "shares": 10528
+    },
+    {
+      "code": "PSA.US",
+      "name": "Public Storage",
+      "ratio": 0.26,
       "shares": 9054
     },
     {
@@ -934,22 +940,16 @@
       "shares": 9683
     },
     {
-      "code": "",
-      "name": "NATIONAL STORAGE AFFILIA 6 PERP A",
-      "ratio": 0.25,
-      "shares": 7390
-    },
-    {
       "code": "BAC.US",
       "name": "Bank of America",
       "ratio": 0.25,
       "shares": 8767
     },
     {
-      "code": "SF.US",
-      "name": "Stifel Financial Corp.",
+      "code": "",
+      "name": "NATIONAL STORAGE AFFILIA 6 PERP A",
       "ratio": 0.25,
-      "shares": 9917
+      "shares": 7390
     },
     {
       "code": "",
@@ -958,34 +958,40 @@
       "shares": 8664
     },
     {
+      "code": "SF.US",
+      "name": "Stifel Financial Corp.",
+      "ratio": 0.25,
+      "shares": 9917
+    },
+    {
       "code": "ALL.US",
       "name": "Allstate",
-      "ratio": 0.24,
+      "ratio": 0.25,
       "shares": 8660
+    },
+    {
+      "code": "AHL.US",
+      "name": "Aspen Insurance Holdings",
+      "ratio": 0.25,
+      "shares": 7926
     },
     {
       "code": "PSA.US",
       "name": "Public Storage",
-      "ratio": 0.24,
+      "ratio": 0.25,
       "shares": 8175
     },
     {
       "code": "",
       "name": "WAFD INC 4.875 PERP A",
-      "ratio": 0.24,
+      "ratio": 0.25,
       "shares": 9959
     },
     {
-      "code": "AHL.US",
-      "name": "Aspen Insurance Holdings",
-      "ratio": 0.24,
-      "shares": 7926
-    },
-    {
-      "code": "MFA.US",
-      "name": "MFA Financial",
-      "ratio": 0.24,
-      "shares": 7010
+      "code": "VNO.US",
+      "name": "VORNADO REALTY TRUST",
+      "ratio": 0.25,
+      "shares": 9260
     },
     {
       "code": "JSM.US",
@@ -994,46 +1000,52 @@
       "shares": 8836
     },
     {
+      "code": "MFA.US",
+      "name": "MFA Financial",
+      "ratio": 0.24,
+      "shares": 7010
+    },
+    {
+      "code": "VNO.US",
+      "name": "VORNADO REALTY TRUST",
+      "ratio": 0.24,
+      "shares": 9056
+    },
+    {
+      "code": "",
+      "name": "FIFTH THIRD BANCORP 4.95 PERP K",
+      "ratio": 0.24,
+      "shares": 8250
+    },
+    {
+      "code": "VNO.US",
+      "name": "VORNADO REALTY TRUST",
+      "ratio": 0.24,
+      "shares": 10242
+    },
+    {
+      "code": "RNR.US",
+      "name": "RenaissanceRe Holdings Ltd.",
+      "ratio": 0.24,
+      "shares": 7378
+    },
+    {
+      "code": "FBRT.US",
+      "name": "Franklin BSP Realty Trust",
+      "ratio": 0.24,
+      "shares": 8046
+    },
+    {
       "code": "MTB.US",
       "name": "M&T Bank",
       "ratio": 0.24,
       "shares": 6391
     },
     {
-      "code": "VNO.US",
-      "name": "VORNADO REALTY TRUST",
-      "ratio": 0.23,
-      "shares": 9260
-    },
-    {
-      "code": "",
-      "name": "FIFTH THIRD BANCORP 4.95 PERP K",
-      "ratio": 0.23,
-      "shares": 8250
-    },
-    {
-      "code": "FBRT.US",
-      "name": "Franklin BSP Realty Trust",
-      "ratio": 0.23,
-      "shares": 8046
-    },
-    {
       "code": "EQH.US",
       "name": "Equitable Holdings",
-      "ratio": 0.23,
+      "ratio": 0.24,
       "shares": 9615
-    },
-    {
-      "code": "VNO.US",
-      "name": "VORNADO REALTY TRUST",
-      "ratio": 0.23,
-      "shares": 9056
-    },
-    {
-      "code": "RNR.US",
-      "name": "RenaissanceRe Holdings Ltd.",
-      "ratio": 0.23,
-      "shares": 7378
     },
     {
       "code": "",
@@ -1042,40 +1054,28 @@
       "shares": 6602
     },
     {
-      "code": "VNO.US",
-      "name": "VORNADO REALTY TRUST",
-      "ratio": 0.23,
-      "shares": 10242
-    },
-    {
       "code": "PMT.US",
       "name": "PennyMac Mortgage Investment Tru",
       "ratio": 0.23,
       "shares": 8387
     },
     {
-      "code": "KIM.US",
-      "name": "Kimco Realty",
-      "ratio": 0.22,
-      "shares": 7600
-    },
-    {
       "code": "DLR.US",
       "name": "Digital Realty Trust",
-      "ratio": 0.22,
+      "ratio": 0.23,
       "shares": 6763
+    },
+    {
+      "code": "KIM.US",
+      "name": "Kimco Realty",
+      "ratio": 0.23,
+      "shares": 7600
     },
     {
       "code": "",
       "name": "FIFTH THIRD BANCORP 6 PERP A",
-      "ratio": 0.22,
+      "ratio": 0.23,
       "shares": 6321
-    },
-    {
-      "code": "DBRG.US",
-      "name": "DigitalBridge",
-      "ratio": 0.22,
-      "shares": 9147
     },
     {
       "code": "PSA.US",
@@ -1084,22 +1084,28 @@
       "shares": 8040
     },
     {
+      "code": "DBRG.US",
+      "name": "DigitalBridge",
+      "ratio": 0.22,
+      "shares": 9147
+    },
+    {
       "code": "KIM.US",
       "name": "Kimco Realty",
-      "ratio": 0.21,
+      "ratio": 0.22,
       "shares": 7401
+    },
+    {
+      "code": "",
+      "name": "SL GREEN REALTY CORP 6.5 PERP I",
+      "ratio": 0.22,
+      "shares": 6979
     },
     {
       "code": "SCE.US",
       "name": "SCE TRUST II 5.1 PERP",
       "ratio": 0.21,
       "shares": 7717
-    },
-    {
-      "code": "",
-      "name": "SL GREEN REALTY CORP 6.5 PERP I",
-      "ratio": 0.21,
-      "shares": 6979
     },
     {
       "code": "PSA.US",
@@ -1144,28 +1150,34 @@
       "shares": 5527
     },
     {
+      "code": "AHL.US",
+      "name": "Aspen Insurance Holdings",
+      "ratio": 0.2,
+      "shares": 6395
+    },
+    {
       "code": "PMT.US",
       "name": "PennyMac Mortgage Investment Tru",
       "ratio": 0.2,
       "shares": 5655
     },
     {
-      "code": "AHL.US",
-      "name": "Aspen Insurance Holdings",
-      "ratio": 0.19,
-      "shares": 6395
-    },
-    {
-      "code": "BHFAM.US",
-      "name": "Brighthouse Financial 4.625% DEP",
-      "ratio": 0.19,
-      "shares": 10811
-    },
-    {
       "code": "CMS.US",
       "name": "CMS Energy",
-      "ratio": 0.19,
+      "ratio": 0.2,
       "shares": 7598
+    },
+    {
+      "code": "",
+      "name": "SHIFT4 PAYMENTS INC 6 2028/5/1",
+      "ratio": 0.19,
+      "shares": 2164
+    },
+    {
+      "code": "",
+      "name": "BANK OF AMERICA CORP 6.39819 PERP 4",
+      "ratio": 0.19,
+      "shares": 6464
     },
     {
       "code": "",
@@ -1174,10 +1186,10 @@
       "shares": 6491
     },
     {
-      "code": "",
-      "name": "BANK OF AMERICA CORP 6.39819 PERP 4",
+      "code": "BHFAM.US",
+      "name": "Brighthouse Financial 4.625% DEP",
       "ratio": 0.19,
-      "shares": 6464
+      "shares": 10811
     },
     {
       "code": "FCNCO.US",
@@ -1192,15 +1204,15 @@
       "shares": 5101
     },
     {
-      "code": "",
-      "name": "SHIFT4 PAYMENTS INC 6 2028/5/1",
-      "ratio": 0.18,
-      "shares": 2164
+      "code": "ADC.US",
+      "name": "Agree Realty Corporation",
+      "ratio": 0.17,
+      "shares": 6877
     },
     {
       "code": "ABR.US",
       "name": "Arbor Realty Trust",
-      "ratio": 0.18,
+      "ratio": 0.17,
       "shares": 6905
     },
     {
@@ -1210,15 +1222,9 @@
       "shares": 4994
     },
     {
-      "code": "ADC.US",
-      "name": "Agree Realty Corporation",
-      "ratio": 0.17,
-      "shares": 6877
-    },
-    {
       "code": "",
       "name": "CHIMERA INVESTMENT CORP 8 PERP A",
-      "ratio": 0.16,
+      "ratio": 0.17,
       "shares": 5092
     },
     {
@@ -1246,6 +1252,12 @@
       "shares": 4154
     },
     {
+      "code": "",
+      "name": "QXO INC 5.5 2028/5/15",
+      "ratio": 0.16,
+      "shares": 1536
+    },
+    {
       "code": "LANDO.US",
       "name": "Gladstone Land 6.00% CUM REDEEMA",
       "ratio": 0.15,
@@ -1254,14 +1266,8 @@
     {
       "code": "RITM.US",
       "name": "Rithm Capital",
-      "ratio": 0.14,
+      "ratio": 0.15,
       "shares": 3824
-    },
-    {
-      "code": "",
-      "name": "QXO INC 5.5 2028/5/15",
-      "ratio": 0.14,
-      "shares": 1536
     },
     {
       "code": "PSA.US",
@@ -1332,20 +1338,20 @@
     {
       "code": "",
       "name": "VALLEY NATIONAL BANCORP 8.25 PERP C",
-      "ratio": 0.03,
+      "ratio": 0.04,
       "shares": 921
-    },
-    {
-      "code": "MBINL.US",
-      "name": "Merchants Bancorp DEP SHS REPSTG",
-      "ratio": 0.03,
-      "shares": 898
     },
     {
       "code": "AHL.US",
       "name": "Aspen Insurance Holdings",
       "ratio": 0.03,
       "shares": 879
+    },
+    {
+      "code": "MBINL.US",
+      "name": "Merchants Bancorp DEP SHS REPSTG",
+      "ratio": 0.03,
+      "shares": 898
     },
     {
       "code": "UMBFO.US",
@@ -1409,21 +1415,57 @@
     },
     {
       "code": "",
-      "name": "FARMER MAC 6.5 PERP H",
-      "ratio": 0.01,
-      "shares": 347
-    },
-    {
-      "code": "",
       "name": "AMERICAN NATIONAL GROUP 7.375 PERP .",
       "ratio": 0.01,
       "shares": 275
     },
     {
       "code": "",
+      "name": "CITIGROUP INC 6.25 PERP II",
+      "ratio": 0.01,
+      "shares": 237
+    },
+    {
+      "code": "",
       "name": "TRITON INTERNATIONAL LTD 7.625 PERP",
       "ratio": 0.01,
       "shares": 138
+    },
+    {
+      "code": "",
+      "name": "WHIRLPOOL CORP 8.5 2029/2/15 A",
+      "ratio": 0.0,
+      "shares": 78
+    },
+    {
+      "code": "FCNCN.US",
+      "name": "First Citizens BancShares DEL DE",
+      "ratio": 0.0,
+      "shares": 118
+    },
+    {
+      "code": "",
+      "name": "FIRST HORIZON CORP 6.75 PERP H",
+      "ratio": 0.0,
+      "shares": 118
+    },
+    {
+      "code": "",
+      "name": "RITHM CAPITAL CORP 8.75 PERP F",
+      "ratio": 0.0,
+      "shares": 74
+    },
+    {
+      "code": "",
+      "name": "PINNACLE FINANCL PARTNRS 6.75 PERP C",
+      "ratio": 0.0,
+      "shares": 67
+    },
+    {
+      "code": "",
+      "name": "TRITON INTERNATIONAL LTD 7.5 PERP G",
+      "ratio": 0.0,
+      "shares": 52
     }
   ]
 }

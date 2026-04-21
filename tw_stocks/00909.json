@@ -1,7 +1,7 @@
 {
   "id": "00909",
   "name": "國泰數位支付服務",
-  "fetched_at": "2026-04-13",
+  "fetched_at": "2026-04-20",
   "capital": {
     "ETF名稱": "國泰數位支付服務",
     "交易所代碼": "00909",
@@ -14,17 +14,17 @@
     "上市日期": "2022/07/13",
     "淨值幣別": "台幣",
     "ETF規模": "7,402.60(百萬台幣)(2026/03/31)",
-    "ETF市價": "39.8800（04/13）",
-    "成交量(股)": "3,328,405（月均:3,679,204）",
-    "ETF淨值": "40.1800（04/10）",
+    "ETF市價": "44.3100（04/17）",
+    "成交量(股)": "8,714,621（月均:4,576,471）",
+    "ETF淨值": "45.9600（04/16）",
     "投資風格": "",
-    "折溢價(%)": "-0.47(月均:0.38)",
+    "折溢價(%)": "-3.59(月均:0.03)",
     "投資標的": "資訊科技股",
     "配息頻率": "年配",
     "投資區域": "全球",
-    "殖利率(%)": "6.90（04/13）",
+    "殖利率(%)": "6.21（04/17）",
     "經理費(%)": "0.8",
-    "年化標準差(%)": "36.93（04/13）",
+    "年化標準差(%)": "38.71（04/17）",
     "總管理費用(%)": "1.08 (含 0.28 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -43,200 +43,200 @@
   "sectors": [
     {
       "name": "金融",
-      "amount_wan": 404077.5,
-      "ratio": 51.09
+      "amount_wan": 482057.4,
+      "ratio": 65.12
     },
     {
       "name": "資訊技術",
-      "amount_wan": 324353.4,
-      "ratio": 41.01
+      "amount_wan": 202979.3,
+      "ratio": 27.42
     },
     {
       "name": "通訊服務",
-      "amount_wan": 60504.8,
-      "ratio": 7.65
+      "amount_wan": 51744.2,
+      "ratio": 6.99
     }
   ],
   "holdings": [
     {
       "code": "CRCL.US",
       "name": "Circle",
-      "ratio": 6.51,
-      "shares": 191660
+      "ratio": 6.42,
+      "shares": 180057
     },
     {
       "code": "AMD.US",
       "name": "AMD",
-      "ratio": 6.15,
-      "shares": 64989
-    },
-    {
-      "code": "NVDA.US",
-      "name": "NVIDIA",
-      "ratio": 5.89,
-      "shares": 80902
+      "ratio": 5.72,
+      "shares": 61054
     },
     {
       "code": "WULF.US",
       "name": "TeraWulf",
-      "ratio": 5.81,
-      "shares": 797764
+      "ratio": 5.2,
+      "shares": 749467
+    },
+    {
+      "code": "NVDA.US",
+      "name": "NVIDIA",
+      "ratio": 5.16,
+      "shares": 76004
     },
     {
       "code": "XYZ.US",
       "name": "Block",
-      "ratio": 5.48,
-      "shares": 228452
-    },
-    {
-      "code": "V.US",
-      "name": "Visa",
-      "ratio": 5.39,
-      "shares": 45892
-    },
-    {
-      "code": "MA.US",
-      "name": "Mastercard",
-      "ratio": 5.37,
-      "shares": 27927
+      "ratio": 5.15,
+      "shares": 214621
     },
     {
       "code": "",
       "name": "HUT 8 MINING CORP",
-      "ratio": 5.25,
-      "shares": 205852
+      "ratio": 4.88,
+      "shares": 193352
     },
     {
       "code": "CIFR.US",
       "name": "Cipher Digital",
-      "ratio": 4.8,
-      "shares": 752815
+      "ratio": 4.61,
+      "shares": 707240
     },
     {
-      "code": "PYPL.US",
-      "name": "PayPal",
-      "ratio": 4.62,
-      "shares": 264834
+      "code": "V.US",
+      "name": "Visa",
+      "ratio": 4.6,
+      "shares": 43114
     },
     {
-      "code": "RIOT.US",
-      "name": "Riot Platforms",
-      "ratio": 4.54,
-      "shares": 708448
+      "code": "MA.US",
+      "name": "Mastercard",
+      "ratio": 4.6,
+      "shares": 26236
     },
     {
       "code": "MSTR.US",
       "name": "Strategy",
-      "ratio": 4.31,
-      "shares": 86733
+      "ratio": 4.57,
+      "shares": 81482
     },
     {
-      "code": "CORZ.US",
-      "name": "Core Scientific",
-      "ratio": 4.18,
-      "shares": 590796
-    },
-    {
-      "code": "APLD.US",
-      "name": "Applied Digital",
-      "ratio": 4.08,
-      "shares": 402844
+      "code": "PYPL.US",
+      "name": "PayPal",
+      "ratio": 4.25,
+      "shares": 248801
     },
     {
       "code": "COIN.US",
       "name": "Coinbase",
-      "ratio": 4.05,
-      "shares": 62477
+      "ratio": 4.07,
+      "shares": 58695
     },
     {
-      "code": "",
-      "name": "BitMine Immersion Technologi",
-      "ratio": 3.97,
-      "shares": 483517
+      "code": "RIOT.US",
+      "name": "Riot Platforms",
+      "ratio": 4.06,
+      "shares": 665558
     },
     {
-      "code": "IREN.US",
-      "name": "IREN",
-      "ratio": 3.95,
-      "shares": 260574
+      "code": "APLD.US",
+      "name": "Applied Digital",
+      "ratio": 4.01,
+      "shares": 378456
     },
     {
       "code": "HOOD.US",
       "name": "Robinhood Markets",
-      "ratio": 3.7,
-      "shares": 138554
+      "ratio": 3.97,
+      "shares": 130166
+    },
+    {
+      "code": "IREN.US",
+      "name": "IREN",
+      "ratio": 3.96,
+      "shares": 244799
+    },
+    {
+      "code": "CORZ.US",
+      "name": "Core Scientific",
+      "ratio": 3.71,
+      "shares": 555029
+    },
+    {
+      "code": "",
+      "name": "BitMine Immersion Technologi",
+      "ratio": 3.51,
+      "shares": 454245
     },
     {
       "code": "",
       "name": "GALAXY DIGITAL INC",
-      "ratio": 3.07,
-      "shares": 366768
+      "ratio": 3.0,
+      "shares": 344563
     },
     {
       "code": "MARA.US",
       "name": "MARA Holdings",
-      "ratio": 2.65,
-      "shares": 720599
+      "ratio": 2.64,
+      "shares": 676974
     },
     {
       "code": "CLSK.US",
       "name": "CleanSpark",
-      "ratio": 1.88,
-      "shares": 486993
+      "ratio": 1.84,
+      "shares": 457510
     },
     {
       "code": "BTDR.US",
       "name": "Bitdeer",
-      "ratio": 1.49,
-      "shares": 358229
+      "ratio": 1.46,
+      "shares": 336542
     },
     {
       "code": "",
       "name": "KEEL INFRASTRUCTURE CORP",
-      "ratio": 0.89,
-      "shares": 1080600
+      "ratio": 0.99,
+      "shares": 1012500
     },
     {
       "code": "",
       "name": "HIVE BLOCKCHAIN TECHNOLOGIES",
-      "ratio": 0.37,
-      "shares": 453400
+      "ratio": 0.36,
+      "shares": 426000
     },
     {
       "code": "BTBT.US",
       "name": "Bit Digital",
-      "ratio": 0.33,
-      "shares": 616735
-    },
-    {
-      "code": "CAN.US",
-      "name": "Canaan",
-      "ratio": 0.18,
-      "shares": 1030657
+      "ratio": 0.31,
+      "shares": 579398
     },
     {
       "code": "RPAY.US",
       "name": "Repay Holdings",
-      "ratio": 0.18,
-      "shares": 155452
+      "ratio": 0.2,
+      "shares": 146041
+    },
+    {
+      "code": "CAN.US",
+      "name": "Canaan",
+      "ratio": 0.19,
+      "shares": 968261
     },
     {
       "code": "",
       "name": "COINCHECK GROUP NV ORDINARY SHARES",
-      "ratio": 0.16,
-      "shares": 249256
+      "ratio": 0.14,
+      "shares": 234166
     },
     {
       "code": "",
       "name": "BAKKT HOLDINGS INC",
-      "ratio": 0.15,
-      "shares": 48644
+      "ratio": 0.14,
+      "shares": 45699
     },
     {
       "code": "",
       "name": "GEMINI SPACE STATION INC",
-      "ratio": 0.14,
-      "shares": 81032
+      "ratio": 0.12,
+      "shares": 76126
     }
   ]
 }

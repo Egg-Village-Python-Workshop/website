@@ -1,7 +1,7 @@
 {
   "id": "00737",
   "name": "國泰AI機器人",
-  "fetched_at": "2026-04-13",
+  "fetched_at": "2026-04-20",
   "capital": {
     "ETF名稱": "國泰AI機器人",
     "交易所代碼": "00737",
@@ -14,22 +14,22 @@
     "上市日期": "2018/06/11",
     "淨值幣別": "台幣",
     "ETF規模": "783.30(百萬台幣)(2026/03/31)",
-    "ETF市價": "32.4500（04/13）",
-    "成交量(股)": "140,384（月均:148,834）",
-    "ETF淨值": "32.4300（04/10）",
+    "ETF市價": "34.6400（04/20）",
+    "成交量(股)": "320,723（月均:182,560）",
+    "ETF淨值": "35.1500（04/17）",
     "投資風格": "",
-    "折溢價(%)": "1.94(月均:0.60)",
+    "折溢價(%)": "-1.96(月均:0.06)",
     "投資標的": "資訊科技股",
     "配息頻率": "",
     "投資區域": "全球",
-    "殖利率(%)": "N/A（04/13）",
+    "殖利率(%)": "N/A（04/20）",
     "經理費(%)": "0.85",
-    "年化標準差(%)": "15.49（04/13）",
+    "年化標準差(%)": "15.58（04/20）",
     "總管理費用(%)": "1.57 (含 0.72 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
     "放空交易": "Y",
-    "成分股數": 110,
+    "成分股數": 114,
     "槓桿多空註記": "",
     "經銷商": "",
     "保管機構": "玉山商業銀行",
@@ -43,194 +43,176 @@
   "sectors": [
     {
       "name": "資訊技術",
-      "amount_wan": 42598.6,
-      "ratio": 49.45
+      "amount_wan": 41068.3,
+      "ratio": 52.43
     },
     {
       "name": "工業",
-      "amount_wan": 17470.1,
-      "ratio": 20.28
+      "amount_wan": 14741.7,
+      "ratio": 18.82
     },
     {
       "name": "醫療保健",
-      "amount_wan": 6297.2,
-      "ratio": 7.31
+      "amount_wan": 5819.9,
+      "ratio": 7.43
     },
     {
       "name": "非核心消費",
-      "amount_wan": 6004.3,
-      "ratio": 6.97
+      "amount_wan": 4919.1,
+      "ratio": 6.28
     },
     {
       "name": "通訊服務",
-      "amount_wan": 4815.5,
-      "ratio": 5.59
+      "amount_wan": 3924.3,
+      "ratio": 5.01
     },
     {
       "name": "能源",
-      "amount_wan": 1981.3,
-      "ratio": 2.3
-    },
-    {
-      "name": "核心消費",
-      "amount_wan": 1550.6,
-      "ratio": 1.8
+      "amount_wan": 1174.9,
+      "ratio": 1.5
     },
     {
       "name": "金融",
-      "amount_wan": 835.6,
-      "ratio": 0.97
+      "amount_wan": 1096.6,
+      "ratio": 1.4
+    },
+    {
+      "name": "核心消費",
+      "amount_wan": 979.1,
+      "ratio": 1.25
     }
   ],
   "holdings": [
     {
-      "code": "AI.US",
-      "name": "C3.ai",
-      "ratio": 1.52,
-      "shares": 46924
-    },
-    {
-      "code": "PANW.US",
-      "name": "Palo Alto",
-      "ratio": 1.52,
-      "shares": 2505
-    },
-    {
-      "code": "CSCO.US",
-      "name": "Cisco",
-      "ratio": 1.51,
-      "shares": 4695
-    },
-    {
-      "code": "OII.US",
-      "name": "Oceaneering International",
-      "ratio": 1.49,
-      "shares": 10508
-    },
-    {
       "code": "UPST.US",
       "name": "Upstart Holdings",
-      "ratio": 1.46,
+      "ratio": 1.7,
       "shares": 13700
-    },
-    {
-      "code": "META.US",
-      "name": "Meta",
-      "ratio": 1.43,
-      "shares": 581
-    },
-    {
-      "code": "SYM.US",
-      "name": "Symbotic",
-      "ratio": 1.43,
-      "shares": 6810
     },
     {
       "code": "NET.US",
       "name": "Cloudflare",
-      "ratio": 1.41,
+      "ratio": 1.56,
       "shares": 2166
     },
     {
-      "code": "IBM.US",
-      "name": "IBM",
-      "ratio": 1.4,
-      "shares": 1553
+      "code": "AI.US",
+      "name": "C3.ai",
+      "ratio": 1.56,
+      "shares": 46924
+    },
+    {
+      "code": "SYM.US",
+      "name": "Symbotic",
+      "ratio": 1.54,
+      "shares": 6810
+    },
+    {
+      "code": "PANW.US",
+      "name": "Palo Alto",
+      "ratio": 1.51,
+      "shares": 2505
     },
     {
       "code": "SNPS.US",
       "name": "Synopsys",
-      "ratio": 1.38,
+      "ratio": 1.45,
       "shares": 901
     },
     {
-      "code": "",
-      "name": "QinetiQ Group Rg",
-      "ratio": 1.37,
-      "shares": 54944
+      "code": "CSCO.US",
+      "name": "Cisco",
+      "ratio": 1.45,
+      "shares": 4695
     },
     {
-      "code": "PLTR.US",
-      "name": "Palantir Technologies",
-      "ratio": 1.36,
-      "shares": 2719
-    },
-    {
-      "code": "GNTX.US",
-      "name": "Gentex",
-      "ratio": 1.36,
-      "shares": 15852
-    },
-    {
-      "code": "",
-      "name": "AutoStore Rg Reg S",
-      "ratio": 1.36,
-      "shares": 325588
-    },
-    {
-      "code": "",
-      "name": "Siemens N",
-      "ratio": 1.34,
-      "shares": 1277
-    },
-    {
-      "code": "PEGA.US",
-      "name": "Pegasystems",
-      "ratio": 1.33,
-      "shares": 8615
+      "code": "META.US",
+      "name": "Meta",
+      "ratio": 1.44,
+      "shares": 581
     },
     {
       "code": "S.US",
       "name": "SentinelOne",
-      "ratio": 1.33,
+      "ratio": 1.43,
       "shares": 28433
     },
     {
+      "code": "PLTR.US",
+      "name": "Palantir Technologies",
+      "ratio": 1.43,
+      "shares": 2719
+    },
+    {
+      "code": "OII.US",
+      "name": "Oceaneering International",
+      "ratio": 1.41,
+      "shares": 10508
+    },
+    {
+      "code": "IBM.US",
+      "name": "IBM",
+      "ratio": 1.41,
+      "shares": 1553
+    },
+    {
       "code": "",
-      "name": "深圳市優必選科技股份有限公司",
-      "ratio": 1.32,
-      "shares": 24250
+      "name": "AutoStore Rg Reg S",
+      "ratio": 1.4,
+      "shares": 325588
+    },
+    {
+      "code": "TEM.US",
+      "name": "Tempus",
+      "ratio": 1.4,
+      "shares": 7006
     },
     {
       "code": "",
       "name": "Dassault Systemes P",
-      "ratio": 1.31,
+      "ratio": 1.39,
       "shares": 17032
-    },
-    {
-      "code": "DT.US",
-      "name": "Dynatrace",
-      "ratio": 1.31,
-      "shares": 10385
-    },
-    {
-      "code": "ILMN.US",
-      "name": "Illumina",
-      "ratio": 1.31,
-      "shares": 2774
-    },
-    {
-      "code": "ISRG.US",
-      "name": "Intuitive Surgical",
-      "ratio": 1.31,
-      "shares": 741
     },
     {
       "code": "CDNS.US",
       "name": "Cadence Design Systems",
-      "ratio": 1.3,
+      "ratio": 1.39,
       "shares": 1250
     },
     {
       "code": "RXRX.US",
       "name": "Recursion Pharmaceuticals",
-      "ratio": 1.3,
+      "ratio": 1.38,
       "shares": 101647
+    },
+    {
+      "code": "PEGA.US",
+      "name": "Pegasystems",
+      "ratio": 1.35,
+      "shares": 8615
+    },
+    {
+      "code": "ILMN.US",
+      "name": "Illumina",
+      "ratio": 1.34,
+      "shares": 2774
+    },
+    {
+      "code": "DT.US",
+      "name": "Dynatrace",
+      "ratio": 1.33,
+      "shares": 10385
+    },
+    {
+      "code": "",
+      "name": "Siemens N",
+      "ratio": 1.33,
+      "shares": 1277
     },
     {
       "code": "",
       "name": "Hexagon -B-",
-      "ratio": 1.3,
+      "ratio": 1.31,
       "shares": 32710
     },
     {
@@ -240,28 +222,58 @@
       "shares": 132065
     },
     {
-      "code": "",
-      "name": "地平線",
-      "ratio": 1.29,
-      "shares": 358800
-    },
-    {
       "code": "PATH.US",
       "name": "UiPath",
-      "ratio": 1.27,
+      "ratio": 1.3,
       "shares": 34766
     },
     {
-      "code": "6954.JP",
-      "name": "FANUC",
-      "ratio": 1.26,
-      "shares": 8200
+      "code": "SERV.US",
+      "name": "Serve Robotics",
+      "ratio": 1.29,
+      "shares": 37712
+    },
+    {
+      "code": "",
+      "name": "QinetiQ Group Rg",
+      "ratio": 1.29,
+      "shares": 54944
+    },
+    {
+      "code": "GNTX.US",
+      "name": "Gentex",
+      "ratio": 1.29,
+      "shares": 15852
     },
     {
       "code": "CCC.US",
       "name": "CCC Intelligent Solutions",
-      "ratio": 1.25,
+      "ratio": 1.29,
       "shares": 63987
+    },
+    {
+      "code": "",
+      "name": "深圳市優必選科技股份有限公司",
+      "ratio": 1.27,
+      "shares": 24250
+    },
+    {
+      "code": "BBAI.US",
+      "name": "BigBear.ai",
+      "ratio": 1.26,
+      "shares": 91564
+    },
+    {
+      "code": "SOUN.US",
+      "name": "SoundHound",
+      "ratio": 1.26,
+      "shares": 43377
+    },
+    {
+      "code": "CRM.US",
+      "name": "Salesforce",
+      "ratio": 1.25,
+      "shares": 1915
     },
     {
       "code": "MBLY.US",
@@ -270,34 +282,34 @@
       "shares": 44095
     },
     {
-      "code": "CRM.US",
-      "name": "Salesforce",
-      "ratio": 1.23,
-      "shares": 1915
+      "code": "ISRG.US",
+      "name": "Intuitive Surgical",
+      "ratio": 1.25,
+      "shares": 741
     },
     {
       "code": "WDAY.US",
       "name": "Workday",
-      "ratio": 1.23,
+      "ratio": 1.24,
       "shares": 2789
+    },
+    {
+      "code": "",
+      "name": "地平線",
+      "ratio": 1.23,
+      "shares": 358800
     },
     {
       "code": "NICE.US",
       "name": "NICE",
-      "ratio": 1.22,
+      "ratio": 1.21,
       "shares": 3209
     },
     {
-      "code": "SERV.US",
-      "name": "Serve Robotics",
-      "ratio": 1.22,
-      "shares": 37712
-    },
-    {
-      "code": "BBAI.US",
-      "name": "BigBear.ai",
-      "ratio": 1.19,
-      "shares": 91564
+      "code": "NOW.US",
+      "name": "ServiceNow",
+      "ratio": 1.21,
+      "shares": 3488
     },
     {
       "code": "",
@@ -306,202 +318,166 @@
       "shares": 2350
     },
     {
-      "code": "TEM.US",
-      "name": "Tempus",
-      "ratio": 1.18,
-      "shares": 7006
-    },
-    {
-      "code": "NOW.US",
-      "name": "ServiceNow",
-      "ratio": 1.13,
-      "shares": 3488
+      "code": "6954.JP",
+      "name": "FANUC",
+      "ratio": 1.15,
+      "shares": 8200
     },
     {
       "code": "APPN.US",
       "name": "Appian",
-      "ratio": 1.11,
+      "ratio": 1.08,
       "shares": 13987
-    },
-    {
-      "code": "SOUN.US",
-      "name": "SoundHound",
-      "ratio": 1.09,
-      "shares": 43377
     },
     {
       "code": "AVAV.US",
       "name": "AeroVironment",
-      "ratio": 1.05,
+      "ratio": 1.03,
       "shares": 1494
-    },
-    {
-      "code": "",
-      "name": "Rainbow Robotics",
-      "ratio": 0.94,
-      "shares": 606
     },
     {
       "code": "AMD.US",
       "name": "AMD",
-      "ratio": 0.92,
+      "ratio": 0.96,
       "shares": 959
+    },
+    {
+      "code": "",
+      "name": "Rainbow Robotics",
+      "ratio": 0.9,
+      "shares": 606
     },
     {
       "code": "AVGO.US",
       "name": "Broadcom",
-      "ratio": 0.88,
+      "ratio": 0.89,
       "shares": 607
     },
     {
-      "code": "KLAC.US",
-      "name": "KLA",
-      "ratio": 0.86,
-      "shares": 126
+      "code": "2308.TW",
+      "name": "台達電",
+      "ratio": 0.84,
+      "shares": 4000
     },
     {
       "code": "AMZN.US",
       "name": "Amazon",
-      "ratio": 0.86,
+      "ratio": 0.83,
       "shares": 923
     },
     {
       "code": "TER.US",
       "name": "Teradyne",
-      "ratio": 0.86,
+      "ratio": 0.82,
       "shares": 600
     },
     {
-      "code": "2308.TW",
-      "name": "台達電",
-      "ratio": 0.85,
-      "shares": 4000
+      "code": "KLAC.US",
+      "name": "KLA",
+      "ratio": 0.81,
+      "shares": 126
     },
     {
       "code": "NVDA.US",
       "name": "NVIDIA",
-      "ratio": 0.81,
+      "ratio": 0.79,
       "shares": 1094
     },
     {
       "code": "MU.US",
       "name": "Micron",
-      "ratio": 0.77,
+      "ratio": 0.76,
       "shares": 466
-    },
-    {
-      "code": "6861.JP",
-      "name": "Keyence",
-      "ratio": 0.77,
-      "shares": 500
     },
     {
       "code": "GOOGL.US",
       "name": "Alphabet - Class A Common Stock",
-      "ratio": 0.77,
+      "ratio": 0.76,
       "shares": 622
-    },
-    {
-      "code": "6383.JP",
-      "name": "Daifuku",
-      "ratio": 0.75,
-      "shares": 4678
-    },
-    {
-      "code": "ADR",
-      "name": "TSMC",
-      "ratio": 0.75,
-      "shares": 518
-    },
-    {
-      "code": "ZBRA.US",
-      "name": "Zebra Technologies",
-      "ratio": 0.74,
-      "shares": 857
-    },
-    {
-      "code": "PRLB.US",
-      "name": "Proto Labs",
-      "ratio": 0.74,
-      "shares": 3093
-    },
-    {
-      "code": "CGNX.US",
-      "name": "Cognex",
-      "ratio": 0.74,
-      "shares": 3530
-    },
-    {
-      "code": "",
-      "name": "ABB Rg",
-      "ratio": 0.73,
-      "shares": 2056
-    },
-    {
-      "code": "ROK.US",
-      "name": "Rockwell Automation",
-      "ratio": 0.73,
-      "shares": 471
-    },
-    {
-      "code": "",
-      "name": "Tecan Grp N",
-      "ratio": 0.72,
-      "shares": 1084
     },
     {
       "code": "MSFT.US",
       "name": "Microsoft",
-      "ratio": 0.72,
+      "ratio": 0.75,
       "shares": 494
     },
     {
-      "code": "",
-      "name": "ATS Rg",
-      "ratio": 0.72,
-      "shares": 6029
+      "code": "INOD.US",
+      "name": "Innodata",
+      "ratio": 0.74,
+      "shares": 4390
     },
     {
       "code": "000660.KS",
       "name": "SK hynix",
-      "ratio": 0.71,
+      "ratio": 0.72,
       "shares": 263
+    },
+    {
+      "code": "PRLB.US",
+      "name": "Proto Labs",
+      "ratio": 0.72,
+      "shares": 3093
+    },
+    {
+      "code": "ZBRA.US",
+      "name": "Zebra Technologies",
+      "ratio": 0.72,
+      "shares": 857
+    },
+    {
+      "code": "6861.JP",
+      "name": "Keyence",
+      "ratio": 0.71,
+      "shares": 500
+    },
+    {
+      "code": "",
+      "name": "ABB Rg",
+      "ratio": 0.71,
+      "shares": 2056
+    },
+    {
+      "code": "",
+      "name": "ATS Rg",
+      "ratio": 0.71,
+      "shares": 6029
+    },
+    {
+      "code": "CGNX.US",
+      "name": "Cognex",
+      "ratio": 0.7,
+      "shares": 3530
+    },
+    {
+      "code": "ROK.US",
+      "name": "Rockwell Automation",
+      "ratio": 0.7,
+      "shares": 471
     },
     {
       "code": "",
       "name": "Schneider El",
-      "ratio": 0.7,
+      "ratio": 0.69,
       "shares": 588
     },
     {
-      "code": "QCOM.US",
-      "name": "QUALCOMM",
-      "ratio": 0.68,
-      "shares": 1349
-    },
-    {
-      "code": "NXPI.US",
-      "name": "NXP Semiconductors",
-      "ratio": 0.68,
-      "shares": 854
-    },
-    {
-      "code": "6594.JP",
-      "name": "NIDEC",
-      "ratio": 0.68,
-      "shares": 12128
-    },
-    {
-      "code": "6841.JP",
-      "name": "Yokogawa Electric",
-      "ratio": 0.67,
-      "shares": 4834
+      "code": "ADR",
+      "name": "TSMC",
+      "ratio": 0.69,
+      "shares": 518
     },
     {
       "code": "",
-      "name": "Valmet Corporat",
+      "name": "Tecan Grp N",
+      "ratio": 0.68,
+      "shares": 1084
+    },
+    {
+      "code": "6383.JP",
+      "name": "Daifuku",
       "ratio": 0.67,
-      "shares": 5712
+      "shares": 4678
     },
     {
       "code": "AMBA.US",
@@ -510,45 +486,69 @@
       "shares": 3182
     },
     {
+      "code": "QCOM.US",
+      "name": "QUALCOMM",
+      "ratio": 0.66,
+      "shares": 1349
+    },
+    {
+      "code": "NXPI.US",
+      "name": "NXP Semiconductors",
+      "ratio": 0.66,
+      "shares": 854
+    },
+    {
       "code": "6723.JP",
       "name": "Renesas Electronics",
-      "ratio": 0.66,
+      "ratio": 0.64,
       "shares": 10124
     },
     {
       "code": "6506.JP",
       "name": "Yaskawa Electric",
-      "ratio": 0.65,
+      "ratio": 0.63,
       "shares": 5416
     },
     {
-      "code": "JBTM.US",
-      "name": "JBT Marel",
+      "code": "",
+      "name": "Valmet Corporat",
       "ratio": 0.63,
-      "shares": 1247
+      "shares": 5712
+    },
+    {
+      "code": "6594.JP",
+      "name": "NIDEC",
+      "ratio": 0.62,
+      "shares": 12128
     },
     {
       "code": "6645.JP",
       "name": "Omron",
-      "ratio": 0.62,
+      "ratio": 0.61,
       "shares": 5388
     },
     {
-      "code": "INOD.US",
-      "name": "Innodata",
-      "ratio": 0.61,
-      "shares": 4390
+      "code": "6841.JP",
+      "name": "Yokogawa Electric",
+      "ratio": 0.59,
+      "shares": 4834
+    },
+    {
+      "code": "JBTM.US",
+      "name": "JBT Marel",
+      "ratio": 0.59,
+      "shares": 1247
     },
     {
       "code": "INTC.US",
       "name": "Intel",
-      "ratio": 0.55,
+      "ratio": 0.56,
       "shares": 2260
     },
     {
       "code": "ANET.US",
       "name": "Arista Networks",
-      "ratio": 0.45,
+      "ratio": 0.46,
       "shares": 780
     },
     {
@@ -558,106 +558,76 @@
       "shares": 3885
     },
     {
-      "code": "AAPL.US",
-      "name": "Apple",
-      "ratio": 0.4,
-      "shares": 390
-    },
-    {
-      "code": "0700.HK",
-      "name": "騰訊控股",
-      "ratio": 0.4,
-      "shares": 1602
-    },
-    {
-      "code": "6724.JP",
-      "name": "Seiko Epson",
-      "ratio": 0.39,
-      "shares": 7634
-    },
-    {
-      "code": "JNJ.US",
-      "name": "Johnson & Johnson",
-      "ratio": 0.39,
-      "shares": 415
-    },
-    {
-      "code": "DE.US",
-      "name": "Deere",
-      "ratio": 0.39,
-      "shares": 164
-    },
-    {
       "code": "",
       "name": "DATADOG INC - CLASS A",
-      "ratio": 0.38,
+      "ratio": 0.42,
       "shares": 930
-    },
-    {
-      "code": "EMR.US",
-      "name": "Emerson Electric",
-      "ratio": 0.38,
-      "shares": 684
-    },
-    {
-      "code": "6503.JP",
-      "name": "Mitsubishi Electric",
-      "ratio": 0.38,
-      "shares": 2693
-    },
-    {
-      "code": "005930.KS",
-      "name": "SAMSUNG ELEC",
-      "ratio": 0.38,
-      "shares": 692
-    },
-    {
-      "code": "6758.JP",
-      "name": "SONY GROUP",
-      "ratio": 0.37,
-      "shares": 4480
-    },
-    {
-      "code": "7012.JP",
-      "name": "Kawasaki Heavy",
-      "ratio": 0.37,
-      "shares": 4515
     },
     {
       "code": "9984.JP",
       "name": "SoftBank Group",
-      "ratio": 0.37,
+      "ratio": 0.41,
       "shares": 3976
     },
     {
-      "code": "AKAM.US",
-      "name": "Akamai",
-      "ratio": 0.37,
-      "shares": 1048
-    },
-    {
-      "code": "NOC.US",
-      "name": "Northrop Grumman",
-      "ratio": 0.37,
-      "shares": 140
-    },
-    {
-      "code": "MGA.US",
-      "name": "Magna",
-      "ratio": 0.37,
-      "shares": 1635
-    },
-    {
-      "code": "MDT.US",
-      "name": "Medtronic",
-      "ratio": 0.36,
-      "shares": 1055
+      "code": "AAPL.US",
+      "name": "Apple",
+      "ratio": 0.38,
+      "shares": 390
     },
     {
       "code": "ADSK.US",
       "name": "Autodesk",
-      "ratio": 0.36,
+      "ratio": 0.37,
       "shares": 423
+    },
+    {
+      "code": "6724.JP",
+      "name": "Seiko Epson",
+      "ratio": 0.37,
+      "shares": 7634
+    },
+    {
+      "code": "0700.HK",
+      "name": "騰訊控股",
+      "ratio": 0.37,
+      "shares": 1602
+    },
+    {
+      "code": "BIDU.US",
+      "name": "Baidu",
+      "ratio": 0.37,
+      "shares": 828
+    },
+    {
+      "code": "TSLA.US",
+      "name": "Tesla",
+      "ratio": 0.37,
+      "shares": 256
+    },
+    {
+      "code": "EMR.US",
+      "name": "Emerson Electric",
+      "ratio": 0.36,
+      "shares": 684
+    },
+    {
+      "code": "MGA.US",
+      "name": "Magna",
+      "ratio": 0.36,
+      "shares": 1635
+    },
+    {
+      "code": "005930.KS",
+      "name": "SAMSUNG ELEC",
+      "ratio": 0.36,
+      "shares": 692
+    },
+    {
+      "code": "AKAM.US",
+      "name": "Akamai",
+      "ratio": 0.36,
+      "shares": 1048
     },
     {
       "code": "BABA.US",
@@ -666,64 +636,40 @@
       "shares": 715
     },
     {
+      "code": "6503.JP",
+      "name": "Mitsubishi Electric",
+      "ratio": 0.35,
+      "shares": 2693
+    },
+    {
       "code": "",
       "name": "Valeo",
-      "ratio": 0.36,
+      "ratio": 0.35,
       "shares": 7104
+    },
+    {
+      "code": "JNJ.US",
+      "name": "Johnson & Johnson",
+      "ratio": 0.35,
+      "shares": 415
+    },
+    {
+      "code": "DE.US",
+      "name": "Deere",
+      "ratio": 0.35,
+      "shares": 164
     },
     {
       "code": "GXO.US",
       "name": "GXO",
-      "ratio": 0.36,
+      "ratio": 0.35,
       "shares": 1641
-    },
-    {
-      "code": "BIDU.US",
-      "name": "Baidu",
-      "ratio": 0.35,
-      "shares": 828
-    },
-    {
-      "code": "BL.US",
-      "name": "BlackLine",
-      "ratio": 0.35,
-      "shares": 2924
-    },
-    {
-      "code": "ADBE.US",
-      "name": "Adobe",
-      "ratio": 0.35,
-      "shares": 393
-    },
-    {
-      "code": "SYK.US",
-      "name": "Stryker",
-      "ratio": 0.35,
-      "shares": 266
-    },
-    {
-      "code": "TSLA.US",
-      "name": "Tesla",
-      "ratio": 0.35,
-      "shares": 256
-    },
-    {
-      "code": "PTC.US",
-      "name": "PTC",
-      "ratio": 0.34,
-      "shares": 658
     },
     {
       "code": "OMCL.US",
       "name": "Omnicell",
-      "ratio": 0.34,
+      "ratio": 0.35,
       "shares": 2533
-    },
-    {
-      "code": "6902.JP",
-      "name": "Denso",
-      "ratio": 0.34,
-      "shares": 7138
     },
     {
       "code": "ESTC.US",
@@ -732,16 +678,58 @@
       "shares": 1980
     },
     {
-      "code": "KTOS.US",
-      "name": "Kratos Defense & Security",
-      "ratio": 0.33,
-      "shares": 1196
+      "code": "6758.JP",
+      "name": "SONY GROUP",
+      "ratio": 0.34,
+      "shares": 4480
     },
     {
-      "code": "APTV.US",
-      "name": "Aptiv",
+      "code": "ADBE.US",
+      "name": "Adobe",
+      "ratio": 0.34,
+      "shares": 393
+    },
+    {
+      "code": "BL.US",
+      "name": "BlackLine",
       "ratio": 0.33,
-      "shares": 1416
+      "shares": 2924
+    },
+    {
+      "code": "PTC.US",
+      "name": "PTC",
+      "ratio": 0.33,
+      "shares": 658
+    },
+    {
+      "code": "NOC.US",
+      "name": "Northrop Grumman",
+      "ratio": 0.33,
+      "shares": 140
+    },
+    {
+      "code": "MDT.US",
+      "name": "Medtronic",
+      "ratio": 0.33,
+      "shares": 1055
+    },
+    {
+      "code": "SYK.US",
+      "name": "Stryker",
+      "ratio": 0.33,
+      "shares": 266
+    },
+    {
+      "code": "7012.JP",
+      "name": "Kawasaki Heavy",
+      "ratio": 0.31,
+      "shares": 4515
+    },
+    {
+      "code": "6902.JP",
+      "name": "Denso",
+      "ratio": 0.31,
+      "shares": 7138
     },
     {
       "code": "035420.KS",
@@ -750,9 +738,27 @@
       "shares": 588
     },
     {
+      "code": "APTV.US",
+      "name": "Aptiv",
+      "ratio": 0.3,
+      "shares": 1416
+    },
+    {
+      "code": "KTOS.US",
+      "name": "Kratos Defense & Security",
+      "ratio": 0.3,
+      "shares": 1196
+    },
+    {
+      "code": "MDB.US",
+      "name": "MongoDB",
+      "ratio": 0.3,
+      "shares": 314
+    },
+    {
       "code": "035720.KS",
       "name": "Kakao",
-      "ratio": 0.3,
+      "ratio": 0.29,
       "shares": 2380
     },
     {
@@ -760,12 +766,6 @@
       "name": "Hyundai Motor",
       "ratio": 0.28,
       "shares": 217
-    },
-    {
-      "code": "MDB.US",
-      "name": "MongoDB",
-      "ratio": 0.28,
-      "shares": 314
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "00771",
   "name": "元大US高息特別股",
-  "fetched_at": "2026-04-13",
+  "fetched_at": "2026-04-20",
   "capital": {
     "ETF名稱": "元大US高息特別股",
     "交易所代碼": "00771",
@@ -14,22 +14,22 @@
     "上市日期": "2019/05/16",
     "淨值幣別": "台幣",
     "ETF規模": "227.96(百萬台幣)(2026/03/31)",
-    "ETF市價": "16.0900（04/10）",
-    "成交量(股)": "9,570（月均:28,138）",
-    "ETF淨值": "16.2700（04/09）",
+    "ETF市價": "16.0600（04/20）",
+    "成交量(股)": "24,235（月均:30,227）",
+    "ETF淨值": "16.2900（04/17）",
     "投資風格": "",
-    "折溢價(%)": "-1.11(月均:-0.77)",
+    "折溢價(%)": "-1.04(月均:-0.88)",
     "投資標的": "股票型",
     "配息頻率": "季配",
     "投資區域": "美國",
-    "殖利率(%)": "5.28（04/10）",
+    "殖利率(%)": "5.29（04/20）",
     "經理費(%)": "0.55",
-    "年化標準差(%)": "8.74（04/10）",
+    "年化標準差(%)": "8.31（04/20）",
     "總管理費用(%)": "1.05 (含 0.50 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
     "放空交易": "Y",
-    "成分股數": 87,
+    "成分股數": 86,
     "槓桿多空註記": "",
     "經銷商": "",
     "保管機構": "永豐商業銀行",
@@ -43,46 +43,46 @@
   "sectors": [
     {
       "name": "金融",
-      "amount_wan": 17324.8,
-      "ratio": 74.94
+      "amount_wan": 17035.2,
+      "ratio": 74.73
     },
     {
       "name": "通訊服務",
-      "amount_wan": 1844.8,
-      "ratio": 7.98
+      "amount_wan": 1753.0,
+      "ratio": 7.69
     },
     {
       "name": "公用事業",
-      "amount_wan": 1599.8,
-      "ratio": 6.92
-    },
-    {
-      "name": "房地產",
-      "amount_wan": 1206.8,
-      "ratio": 5.22
+      "amount_wan": 1509.1,
+      "ratio": 6.62
     },
     {
       "name": "現金",
-      "amount_wan": 994.1,
-      "ratio": 4.3
+      "amount_wan": 1194.5,
+      "ratio": 5.24
+    },
+    {
+      "name": "房地產",
+      "amount_wan": 1155.7,
+      "ratio": 5.07
     },
     {
       "name": "工業",
-      "amount_wan": 148.0,
-      "ratio": 0.64
+      "amount_wan": 148.2,
+      "ratio": 0.65
     }
   ],
   "holdings": [
     {
       "code": "",
       "name": "C 10.2985",
-      "ratio": 6.66,
+      "ratio": 6.62,
       "shares": 16097
     },
     {
       "code": "",
       "name": "WFC 4 3/4 PERP",
-      "ratio": 3.81,
+      "ratio": 3.79,
       "shares": 14423
     },
     {
@@ -94,13 +94,13 @@
     {
       "code": "",
       "name": "COF 5 PERP",
-      "ratio": 2.83,
+      "ratio": 2.82,
       "shares": 10750
     },
     {
       "code": "",
       "name": "GS 4.57149 PERP",
-      "ratio": 2.58,
+      "ratio": 2.56,
       "shares": 9675
     },
     {
@@ -111,20 +111,20 @@
     },
     {
       "code": "",
-      "name": "T 5 PERP",
-      "ratio": 2.36,
-      "shares": 8600
-    },
-    {
-      "code": "",
       "name": "ALL 5.1 PERP",
-      "ratio": 2.32,
+      "ratio": 2.36,
       "shares": 8242
     },
     {
       "code": "",
+      "name": "T 5 PERP",
+      "ratio": 2.35,
+      "shares": 8600
+    },
+    {
+      "code": "",
       "name": "COF 4.8 PERP",
-      "ratio": 2.26,
+      "ratio": 2.27,
       "shares": 8959
     },
     {
@@ -142,13 +142,13 @@
     {
       "code": "",
       "name": "MTB 7 1/2 PERP",
-      "ratio": 1.92,
+      "ratio": 1.93,
       "shares": 5375
     },
     {
       "code": "",
       "name": "WFC 4 3/8 PERP",
-      "ratio": 1.83,
+      "ratio": 1.82,
       "shares": 7525
     },
     {
@@ -160,7 +160,13 @@
     {
       "code": "",
       "name": "ALL 7 3/8 PERP",
-      "ratio": 1.53,
+      "ratio": 1.52,
+      "shares": 4300
+    },
+    {
+      "code": "",
+      "name": "KEY 6.2 PERP",
+      "ratio": 1.47,
       "shares": 4300
     },
     {
@@ -171,57 +177,51 @@
     },
     {
       "code": "",
-      "name": "KEY 6.2 PERP",
-      "ratio": 1.45,
-      "shares": 4300
-    },
-    {
-      "code": "",
       "name": "GS 4.65149 PERP",
-      "ratio": 1.44,
+      "ratio": 1.43,
       "shares": 5375
     },
     {
       "code": "",
       "name": "JXN 8 PERP",
-      "ratio": 1.39,
+      "ratio": 1.4,
       "shares": 3942
     },
     {
       "code": "",
       "name": "EIX 7 1/2 PERP",
-      "ratio": 1.35,
+      "ratio": 1.33,
       "shares": 3942
     },
     {
       "code": "",
-      "name": "LNC 9 PERP",
-      "ratio": 1.3,
-      "shares": 3584
-    },
-    {
-      "code": "",
       "name": "TDS 6 PERP",
-      "ratio": 1.29,
+      "ratio": 1.32,
       "shares": 4945
     },
     {
       "code": "",
-      "name": "SYF 8 1/4 PERP",
-      "ratio": 1.27,
+      "name": "LNC 9 PERP",
+      "ratio": 1.29,
       "shares": 3584
     },
     {
       "code": "",
-      "name": "ALL 7.09556",
-      "ratio": 1.27,
+      "name": "SYF 8 1/4 PERP",
+      "ratio": 1.28,
       "shares": 3584
     },
     {
       "code": "",
       "name": "BANC 7 3/4 PERP",
-      "ratio": 1.27,
+      "ratio": 1.28,
       "shares": 3679
+    },
+    {
+      "code": "",
+      "name": "ALL 7.09875",
+      "ratio": 1.26,
+      "shares": 3584
     },
     {
       "code": "",
@@ -238,13 +238,19 @@
     {
       "code": "",
       "name": "RF 5.7 PERP",
-      "ratio": 1.21,
+      "ratio": 1.2,
       "shares": 3584
     },
     {
       "code": "",
-      "name": "FITB 7.97311 PERP",
-      "ratio": 1.12,
+      "name": "MTB 6.35 PERP",
+      "ratio": 1.11,
+      "shares": 3225
+    },
+    {
+      "code": "",
+      "name": "FITB 7.67122 PERP",
+      "ratio": 1.11,
       "shares": 3225
     },
     {
@@ -255,21 +261,9 @@
     },
     {
       "code": "",
-      "name": "MTB 6.35 PERP",
-      "ratio": 1.11,
-      "shares": 3225
-    },
-    {
-      "code": "",
       "name": "WTFC 7 7/8 PERP",
       "ratio": 1.08,
       "shares": 3046
-    },
-    {
-      "code": "",
-      "name": "FITB 6 7/8 PERP",
-      "ratio": 1.02,
-      "shares": 2867
     },
     {
       "code": "",
@@ -279,8 +273,14 @@
     },
     {
       "code": "",
+      "name": "FITB 6 7/8 PERP",
+      "ratio": 1.01,
+      "shares": 2867
+    },
+    {
+      "code": "",
       "name": "CFG 6 1/2 PERP",
-      "ratio": 0.99,
+      "ratio": 0.98,
       "shares": 2867
     },
     {
@@ -304,7 +304,7 @@
     {
       "code": "",
       "name": "TDS 6 5/8 PERP",
-      "ratio": 0.87,
+      "ratio": 0.88,
       "shares": 3010
     },
     {
@@ -327,21 +327,27 @@
     },
     {
       "code": "",
-      "name": "EIX 6.95 PERP",
-      "ratio": 0.82,
-      "shares": 2509
-    },
-    {
-      "code": "",
       "name": "HBAN 6 7/8 PERP",
       "ratio": 0.81,
       "shares": 2330
     },
     {
       "code": "",
+      "name": "EIX 6.95 PERP",
+      "ratio": 0.81,
+      "shares": 2509
+    },
+    {
+      "code": "",
       "name": "BHF 5 3/8 PERP",
-      "ratio": 0.76,
+      "ratio": 0.74,
       "shares": 4121
+    },
+    {
+      "code": "",
+      "name": "ANGINC 7 3/8 PERP",
+      "ratio": 0.73,
+      "shares": 2150
     },
     {
       "code": "",
@@ -351,39 +357,33 @@
     },
     {
       "code": "",
-      "name": "ANGINC 7 3/8 PERP",
-      "ratio": 0.71,
-      "shares": 2150
-    },
-    {
-      "code": "",
-      "name": "BHF 6.6 PERP",
-      "ratio": 0.69,
-      "shares": 3046
-    },
-    {
-      "code": "",
-      "name": "WAL 4 1/4 PERP",
-      "ratio": 0.69,
-      "shares": 2150
-    },
-    {
-      "code": "",
-      "name": "BHF 6 3/4 PERP",
-      "ratio": 0.68,
-      "shares": 2885
-    },
-    {
-      "code": "",
       "name": "COF 4 1/4 PERP",
       "ratio": 0.68,
       "shares": 3046
     },
     {
       "code": "",
+      "name": "WAL 4 1/4 PERP",
+      "ratio": 0.68,
+      "shares": 2150
+    },
+    {
+      "code": "",
       "name": "DLR 5.2 PERP",
       "ratio": 0.67,
       "shares": 2473
+    },
+    {
+      "code": "",
+      "name": "BHF 6.6 PERP",
+      "ratio": 0.67,
+      "shares": 3046
+    },
+    {
+      "code": "",
+      "name": "BHF 6 3/4 PERP",
+      "ratio": 0.66,
+      "shares": 2885
     },
     {
       "code": "",
@@ -394,13 +394,13 @@
     {
       "code": "",
       "name": "PBI 6.7",
-      "ratio": 0.65,
+      "ratio": 0.66,
       "shares": 2408
     },
     {
       "code": "",
       "name": "TCBI 5 3/4 PERP",
-      "ratio": 0.64,
+      "ratio": 0.65,
       "shares": 2150
     },
     {
@@ -417,9 +417,9 @@
     },
     {
       "code": "",
-      "name": "WSBC 7 3/8 PERP",
-      "ratio": 0.58,
-      "shares": 1649
+      "name": "HPP 4 3/4 PERP",
+      "ratio": 0.6,
+      "shares": 3046
     },
     {
       "code": "",
@@ -429,20 +429,32 @@
     },
     {
       "code": "",
-      "name": "HPP 4 3/4 PERP",
-      "ratio": 0.57,
-      "shares": 3046
-    },
-    {
-      "code": "",
       "name": "ALL 4 3/4 PERP",
-      "ratio": 0.56,
+      "ratio": 0.57,
       "shares": 2150
     },
     {
       "code": "",
+      "name": "WSBC 7 3/8 PERP",
+      "ratio": 0.57,
+      "shares": 1649
+    },
+    {
+      "code": "",
+      "name": "VNO 5 1/4 PERP",
+      "ratio": 0.56,
+      "shares": 2290
+    },
+    {
+      "code": "",
+      "name": "AHL 7 PERP",
+      "ratio": 0.54,
+      "shares": 1613
+    },
+    {
+      "code": "",
       "name": "MBIN 7 5/8 PERP",
-      "ratio": 0.55,
+      "ratio": 0.54,
       "shares": 1649
     },
     {
@@ -453,45 +465,33 @@
     },
     {
       "code": "",
-      "name": "AHL 7 PERP",
-      "ratio": 0.54,
-      "shares": 1613
-    },
-    {
-      "code": "",
       "name": "VNO 5 1/4 PERP",
-      "ratio": 0.54,
-      "shares": 2290
-    },
-    {
-      "code": "",
-      "name": "SF 6 1/8 PERP",
-      "ratio": 0.52,
-      "shares": 1613
-    },
-    {
-      "code": "",
-      "name": "AHL 5 5/8 PERP",
-      "ratio": 0.51,
-      "shares": 1792
-    },
-    {
-      "code": "",
-      "name": "AHL 5 5/8 PERP",
-      "ratio": 0.51,
-      "shares": 1792
-    },
-    {
-      "code": "",
-      "name": "VNO 5 1/4 PERP",
-      "ratio": 0.51,
+      "ratio": 0.53,
       "shares": 2150
     },
     {
       "code": "",
       "name": "VNO 5.4 PERP",
-      "ratio": 0.51,
+      "ratio": 0.53,
       "shares": 2150
+    },
+    {
+      "code": "",
+      "name": "AHL 5 5/8 PERP",
+      "ratio": 0.52,
+      "shares": 1792
+    },
+    {
+      "code": "",
+      "name": "AHL 5 5/8 PERP",
+      "ratio": 0.52,
+      "shares": 1792
+    },
+    {
+      "code": "",
+      "name": "SF 6 1/8 PERP",
+      "ratio": 0.51,
+      "shares": 1613
     },
     {
       "code": "",
@@ -507,14 +507,8 @@
     },
     {
       "code": "",
-      "name": "SLG 6 1/2 PERP",
-      "ratio": 0.47,
-      "shares": 1649
-    },
-    {
-      "code": "",
       "name": "FITB 4.95 PERP",
-      "ratio": 0.47,
+      "ratio": 0.48,
       "shares": 1792
     },
     {
@@ -526,31 +520,37 @@
     {
       "code": "",
       "name": "DLR 5.85 PERP",
-      "ratio": 0.46,
+      "ratio": 0.47,
       "shares": 1506
     },
     {
       "code": "",
+      "name": "SLG 6 1/2 PERP",
+      "ratio": 0.47,
+      "shares": 1649
+    },
+    {
+      "code": "",
       "name": "VNO 4.45 PERP",
-      "ratio": 0.45,
+      "ratio": 0.46,
       "shares": 2150
     },
     {
       "code": "",
       "name": "FCNCA 5 5/8 PERP",
-      "ratio": 0.43,
+      "ratio": 0.42,
       "shares": 1434
     },
     {
       "code": "",
       "name": "BOH 8 PERP",
-      "ratio": 0.43,
+      "ratio": 0.42,
       "shares": 1183
     },
     {
       "code": "",
       "name": "BHF 4 5/8 PERP",
-      "ratio": 0.41,
+      "ratio": 0.4,
       "shares": 2509
     },
     {
@@ -567,15 +567,15 @@
     },
     {
       "code": "",
-      "name": "GS 4.65149 PERP",
+      "name": "CMS 4.2 PERP",
       "ratio": 0.39,
-      "shares": 1434
+      "shares": 1649
     },
     {
       "code": "",
-      "name": "CMS 4.2 PERP",
-      "ratio": 0.38,
-      "shares": 1649
+      "name": "GS 4.65149 PERP",
+      "ratio": 0.39,
+      "shares": 1434
     },
     {
       "code": "",
