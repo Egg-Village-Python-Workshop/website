@@ -1,7 +1,7 @@
 {
   "id": "00851",
   "name": "台新全球AI",
-  "fetched_at": "2026-04-20",
+  "fetched_at": "2026-04-27",
   "capital": {
     "ETF名稱": "台新全球AI",
     "交易所代碼": "00851",
@@ -14,17 +14,17 @@
     "上市日期": "2019/08/12",
     "淨值幣別": "台幣",
     "ETF規模": "327.62(百萬台幣)(2026/03/31)",
-    "ETF市價": "59.7500（04/17）",
-    "成交量(股)": "6,527（月均:17,415）",
-    "ETF淨值": "61.4800（04/16）",
+    "ETF市價": "61.9500（04/27）",
+    "成交量(股)": "39,969（月均:22,064）",
+    "ETF淨值": "63.1300（04/24）",
     "投資風格": "",
-    "折溢價(%)": "-2.81(月均:-1.24)",
+    "折溢價(%)": "-4.17(月均:-1.82)",
     "投資標的": "資訊科技股",
     "配息頻率": "年配",
     "投資區域": "全球",
-    "殖利率(%)": "2.85（04/17）",
+    "殖利率(%)": "2.74（04/27）",
     "經理費(%)": "0.75",
-    "年化標準差(%)": "11.26（04/17）",
+    "年化標準差(%)": "17.89（04/27）",
     "總管理費用(%)": "1.68 (含 0.93 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -79,208 +79,202 @@
   ],
   "holdings": [
     {
-      "code": "NFLX.US",
-      "name": "Netflix",
-      "ratio": 6.1,
-      "shares": 6600
-    },
-    {
       "code": "AVGO.US",
       "name": "Broadcom",
-      "ratio": 5.81,
+      "ratio": 6.07,
       "shares": 1700
     },
     {
       "code": "GOOGL.US",
       "name": "Alphabet - Class A Common Stock",
-      "ratio": 5.41,
+      "ratio": 5.4,
       "shares": 1875
     },
     {
       "code": "MU.US",
       "name": "Micron",
-      "ratio": 5.1,
+      "ratio": 5.33,
       "shares": 1300
+    },
+    {
+      "code": "NFLX.US",
+      "name": "Netflix",
+      "ratio": 5.21,
+      "shares": 6600
     },
     {
       "code": "NVDA.US",
       "name": "NVIDIA",
-      "ratio": 5.0,
+      "ratio": 4.99,
       "shares": 2939
+    },
+    {
+      "code": "AAPL.US",
+      "name": "Apple",
+      "ratio": 4.88,
+      "shares": 2100
     },
     {
       "code": "PLTR .US",
       "name": "Palantir Technologies",
-      "ratio": 4.9,
+      "ratio": 4.82,
       "shares": 4000
     },
     {
       "code": "MSFT.US",
       "name": "Microsoft",
-      "ratio": 4.75,
+      "ratio": 4.66,
       "shares": 1317
-    },
-    {
-      "code": "AAPL.US",
-      "name": "Apple",
-      "ratio": 4.75,
-      "shares": 2100
     },
     {
       "code": "ASML.US",
       "name": "ASML Holding",
-      "ratio": 4.7,
+      "ratio": 4.63,
       "shares": 380
     },
     {
       "code": "2330.TW",
       "name": "台積電",
-      "ratio": 4.54,
+      "ratio": 4.49,
       "shares": 8000
     },
     {
       "code": "LRCX.US",
       "name": "Lam Research",
-      "ratio": 4.34,
+      "ratio": 4.27,
       "shares": 1940
     },
     {
       "code": "META.US",
       "name": "Meta",
-      "ratio": 4.18,
+      "ratio": 4.04,
       "shares": 720
     },
     {
       "code": "4336.HK",
       "name": "應用材料－Ｔ",
-      "ratio": 3.34,
+      "ratio": 3.44,
       "shares": 1000
     },
     {
       "code": "KLAC.US",
       "name": "KLA",
-      "ratio": 2.83,
+      "ratio": 2.93,
       "shares": 190
     },
     {
       "code": "ANET.US",
       "name": "Arista Networks",
-      "ratio": 2.71,
+      "ratio": 2.88,
       "shares": 1962
-    },
-    {
-      "code": "ISRG.US",
-      "name": "Intuitive Surgical",
-      "ratio": 2.36,
-      "shares": 600
     },
     {
       "code": "ARM.US",
       "name": "Arm",
-      "ratio": 2.11,
+      "ratio": 2.64,
       "shares": 1516
+    },
+    {
+      "code": "ISRG.US",
+      "name": "Intuitive Surgical",
+      "ratio": 2.44,
+      "shares": 600
     },
     {
       "code": "APP.US",
       "name": "Applovin",
-      "ratio": 2.0,
+      "ratio": 1.93,
       "shares": 500
     },
     {
       "code": "INTU.US",
       "name": "Intuit",
-      "ratio": 1.96,
+      "ratio": 1.92,
       "shares": 590
     },
     {
       "code": "PANW.US",
       "name": "Palo Alto",
-      "ratio": 1.84,
+      "ratio": 1.89,
       "shares": 1284
-    },
-    {
-      "code": "NOW.US",
-      "name": "ServiceNow",
-      "ratio": 1.57,
-      "shares": 1900
     },
     {
       "code": "2454.TW",
       "name": "聯發科",
-      "ratio": 1.55,
+      "ratio": 1.79,
       "shares": 3000
-    },
-    {
-      "code": "6857.JP",
-      "name": "Advantest",
-      "ratio": 1.55,
-      "shares": 1000
     },
     {
       "code": "VRT.US",
       "name": "Vertiv",
-      "ratio": 1.51,
+      "ratio": 1.64,
       "shares": 600
+    },
+    {
+      "code": "6857.JP",
+      "name": "Advantest",
+      "ratio": 1.49,
+      "shares": 1000
     },
     {
       "code": "ADBE.US",
       "name": "Adobe",
-      "ratio": 1.47,
+      "ratio": 1.4,
       "shares": 689
+    },
+    {
+      "code": "NOW.US",
+      "name": "ServiceNow",
+      "ratio": 1.37,
+      "shares": 1900
     },
     {
       "code": "SPOT.US",
       "name": "Spotify",
-      "ratio": 1.37,
+      "ratio": 1.32,
       "shares": 300
     },
     {
       "code": "CDNS.US",
       "name": "Cadence Design Systems",
-      "ratio": 1.07,
+      "ratio": 1.08,
       "shares": 405
-    },
-    {
-      "code": "ADSK.US",
-      "name": "Autodesk",
-      "ratio": 0.66,
-      "shares": 315
     },
     {
       "code": "FTNT.US",
       "name": "Fortinet",
-      "ratio": 0.64,
+      "ratio": 0.63,
       "shares": 900
+    },
+    {
+      "code": "ADSK.US",
+      "name": "Autodesk",
+      "ratio": 0.62,
+      "shares": 315
+    },
+    {
+      "code": "FN.US",
+      "name": "Fabrinet",
+      "ratio": 0.41,
+      "shares": 70
     },
     {
       "code": "RDDT.US",
       "name": "Reddit",
-      "ratio": 0.43,
+      "ratio": 0.4,
       "shares": 310
     },
     {
       "code": "NBIS.US",
       "name": "Nebius Group",
-      "ratio": 0.43,
-      "shares": 300
-    },
-    {
-      "code": "FN.US",
-      "name": "Fabrinet",
       "ratio": 0.4,
-      "shares": 70
+      "shares": 300
     },
     {
       "code": "AFRM.US",
       "name": "Affirm Holdings",
-      "ratio": 0.37,
+      "ratio": 0.38,
       "shares": 710
-    },
-    {
-      "code": "SMCI.US",
-      "name": "Super Micro Computer",
-      "ratio": 0.36,
-      "shares": 1490
     },
     {
       "code": "NVMI.US",
@@ -289,33 +283,39 @@
       "shares": 82
     },
     {
+      "code": "SMCI.US",
+      "name": "Super Micro Computer",
+      "ratio": 0.34,
+      "shares": 1490
+    },
+    {
       "code": "MTD.US",
       "name": "Mettler Toledo",
-      "ratio": 0.33,
+      "ratio": 0.32,
       "shares": 30
     },
     {
       "code": "CRWV.US",
       "name": "CoreWeave",
-      "ratio": 0.31,
+      "ratio": 0.3,
+      "shares": 300
+    },
+    {
+      "code": "NTAP.US",
+      "name": "NetApp",
+      "ratio": 0.28,
       "shares": 300
     },
     {
       "code": "CHKP.US",
       "name": "Check Point Software",
-      "ratio": 0.27,
+      "ratio": 0.26,
       "shares": 230
-    },
-    {
-      "code": "NTAP.US",
-      "name": "NetApp",
-      "ratio": 0.27,
-      "shares": 300
     },
     {
       "code": "PTC.US",
       "name": "PTC",
-      "ratio": 0.25,
+      "ratio": 0.24,
       "shares": 210
     },
     {
@@ -327,8 +327,14 @@
     {
       "code": "FTI.US",
       "name": "TechnipFMC",
-      "ratio": 0.19,
+      "ratio": 0.18,
       "shares": 300
+    },
+    {
+      "code": "MANH.US",
+      "name": "Manhattan Associates",
+      "ratio": 0.18,
+      "shares": 152
     },
     {
       "code": "GMED.US",
@@ -343,22 +349,16 @@
       "shares": 100
     },
     {
-      "code": "PEGA.US",
-      "name": "Pegasystems",
-      "ratio": 0.17,
-      "shares": 460
-    },
-    {
-      "code": "MANH.US",
-      "name": "Manhattan Associates",
-      "ratio": 0.17,
-      "shares": 152
-    },
-    {
       "code": "ALAB.US",
       "name": "Astera Labs",
-      "ratio": 0.13,
+      "ratio": 0.15,
       "shares": 90
+    },
+    {
+      "code": "PEGA.US",
+      "name": "Pegasystems",
+      "ratio": 0.14,
+      "shares": 460
     },
     {
       "code": "DUOL.US",
@@ -399,7 +399,7 @@
     {
       "code": "RXRX.US",
       "name": "Recursion Pharmaceuticals",
-      "ratio": 0.02,
+      "ratio": 0.01,
       "shares": 500
     },
     {

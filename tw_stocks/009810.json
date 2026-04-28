@@ -1,7 +1,7 @@
 {
   "id": "009810",
   "name": "保德信全球藍籌",
-  "fetched_at": "2026-04-20",
+  "fetched_at": "2026-04-27",
   "capital": {
     "ETF名稱": "玉山全球藍籌100",
     "交易所代碼": "009810",
@@ -14,17 +14,17 @@
     "上市日期": "2025/07/16",
     "淨值幣別": "台幣",
     "ETF規模": "424.04(百萬台幣)(2026/03/31)",
-    "ETF市價": "19.3100（04/17）",
-    "成交量(股)": "262,766（月均:246,193）",
-    "ETF淨值": "19.3200（04/16）",
+    "ETF市價": "19.4100（04/24）",
+    "成交量(股)": "85,264（月均:200,136）",
+    "ETF淨值": "19.4900（04/23）",
     "投資風格": "",
-    "折溢價(%)": "-0.05(月均:-0.42)",
+    "折溢價(%)": "-0.36(月均:-0.60)",
     "投資標的": "指數型股票",
     "配息頻率": "年配",
     "投資區域": "全球",
-    "殖利率(%)": "N/A（04/17）",
+    "殖利率(%)": "N/A（04/24）",
     "經理費(%)": "0.8",
-    "年化標準差(%)": "N/A（04/17）",
+    "年化標準差(%)": "N/A（04/24）",
     "總管理費用(%)": "0.89 (含 0.09 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -101,13 +101,13 @@
     {
       "code": "NVDA.US",
       "name": "NVIDIA",
-      "ratio": 12.52,
+      "ratio": 12.89,
       "shares": 8135
     },
     {
       "code": "AAPL.US",
       "name": "Apple",
-      "ratio": 10.11,
+      "ratio": 10.1,
       "shares": 4914
     },
     {
@@ -119,86 +119,98 @@
     {
       "code": "AMZN.US",
       "name": "Amazon",
-      "ratio": 6.24,
+      "ratio": 6.54,
       "shares": 3270
-    },
-    {
-      "code": "GOOGL.US",
-      "name": "Alphabet - Class A Common Stock",
-      "ratio": 5.07,
-      "shares": 1949
     },
     {
       "code": "AVGO.US",
       "name": "Broadcom",
-      "ratio": 4.91,
+      "ratio": 5.09,
       "shares": 1587
+    },
+    {
+      "code": "GOOGL.US",
+      "name": "Alphabet - Class A Common Stock",
+      "ratio": 5.09,
+      "shares": 1949
     },
     {
       "code": "GOOG.US",
       "name": "Alphabet - Class C Capital Stock",
-      "ratio": 4.04,
+      "ratio": 4.06,
       "shares": 1565
     },
     {
       "code": "JPM.US",
       "name": "JPMorgan Chase",
-      "ratio": 2.13,
+      "ratio": 2.11,
       "shares": 902
     },
     {
       "code": "005930.KS",
       "name": "SAMSUNG ELEC",
-      "ratio": 1.91,
+      "ratio": 1.92,
       "shares": 1700
     },
     {
       "code": "LLY.US",
       "name": "Eli Lilly",
-      "ratio": 1.87,
+      "ratio": 1.78,
       "shares": 265
     },
     {
       "code": "XOM.US",
       "name": "Exxon Mobil",
-      "ratio": 1.56,
+      "ratio": 1.58,
       "shares": 1399
+    },
+    {
+      "code": "WMT.US",
+      "name": "Walmart",
+      "ratio": 1.44,
+      "shares": 1467
     },
     {
       "code": "",
       "name": "艾司摩爾控股公司",
-      "ratio": 1.45,
+      "ratio": 1.44,
       "shares": 130
     },
     {
       "code": "JNJ.US",
       "name": "Johnson & Johnson",
-      "ratio": 1.44,
+      "ratio": 1.39,
       "shares": 806
-    },
-    {
-      "code": "WMT.US",
-      "name": "Walmart",
-      "ratio": 1.42,
-      "shares": 1467
     },
     {
       "code": "MA.US",
       "name": "Mastercard",
-      "ratio": 1.08,
+      "ratio": 1.04,
       "shares": 272
     },
     {
-      "code": "0700.HK",
-      "name": "騰訊控股",
-      "ratio": 0.99,
-      "shares": 2000
+      "code": "INTC.US",
+      "name": "Intel",
+      "ratio": 0.98,
+      "shares": 1572
     },
     {
       "code": "CAT.US",
       "name": "Caterpillar",
-      "ratio": 0.94,
+      "ratio": 0.98,
       "shares": 155
+    },
+    {
+      "code": "0700.HK",
+      "name": "騰訊控股",
+      "ratio": 0.95,
+      "shares": 2000
+    },
+    {
+      "code": "CSCO.US",
+      "name": "Cisco",
+      "ratio": 0.89,
+      "shares": 1322
     },
     {
       "code": "CVX.US",
@@ -207,40 +219,22 @@
       "shares": 627
     },
     {
-      "code": "CSCO.US",
-      "name": "Cisco",
-      "ratio": 0.87,
-      "shares": 1322
-    },
-    {
       "code": "PG.US",
       "name": "Procter & Gamble",
       "ratio": 0.87,
       "shares": 778
     },
     {
-      "code": "INTC.US",
-      "name": "Intel",
-      "ratio": 0.82,
-      "shares": 1572
-    },
-    {
       "code": "",
       "name": "匯豐控股有限公司",
-      "ratio": 0.81,
+      "ratio": 0.78,
       "shares": 5761
     },
     {
       "code": "GE.US",
       "name": "GE Aerospace",
-      "ratio": 0.81,
+      "ratio": 0.76,
       "shares": 351
-    },
-    {
-      "code": "",
-      "name": "阿斯特捷利康公開有限公司",
-      "ratio": 0.81,
-      "shares": 520
     },
     {
       "code": "KO.US",
@@ -249,16 +243,10 @@
       "shares": 1296
     },
     {
-      "code": "MRK.US",
-      "name": "Merck",
-      "ratio": 0.75,
-      "shares": 831
-    },
-    {
       "code": "",
-      "name": "諾華公司",
+      "name": "阿斯特捷利康公開有限公司",
       "ratio": 0.74,
-      "shares": 637
+      "shares": 520
     },
     {
       "code": "",
@@ -267,189 +255,201 @@
       "shares": 235
     },
     {
+      "code": "",
+      "name": "諾華公司",
+      "ratio": 0.7,
+      "shares": 637
+    },
+    {
+      "code": "MRK.US",
+      "name": "Merck",
+      "ratio": 0.7,
+      "shares": 831
+    },
+    {
       "code": "GS.US",
       "name": "Goldman Sachs",
-      "ratio": 0.71,
+      "ratio": 0.7,
       "shares": 100
     },
     {
       "code": "",
       "name": "雀巢",
-      "ratio": 0.67,
+      "ratio": 0.68,
       "shares": 863
+    },
+    {
+      "code": "PM.US",
+      "name": "Philip Morris International Inc.",
+      "ratio": 0.65,
+      "shares": 521
+    },
+    {
+      "code": "",
+      "name": "殼牌公開有限公司",
+      "ratio": 0.65,
+      "shares": 1904
+    },
+    {
+      "code": "TXN.US",
+      "name": "Texas Instruments",
+      "ratio": 0.64,
+      "shares": 303
+    },
+    {
+      "code": "LIN.US",
+      "name": "Linde",
+      "ratio": 0.6,
+      "shares": 156
     },
     {
       "code": "RTX.US",
       "name": "RTX",
-      "ratio": 0.67,
+      "ratio": 0.59,
       "shares": 449
     },
     {
       "code": "7203.JP",
       "name": "TOYOTA MOTOR",
-      "ratio": 0.64,
+      "ratio": 0.58,
       "shares": 4000
-    },
-    {
-      "code": "",
-      "name": "殼牌公開有限公司",
-      "ratio": 0.63,
-      "shares": 1904
-    },
-    {
-      "code": "PM.US",
-      "name": "Philip Morris International Inc.",
-      "ratio": 0.63,
-      "shares": 521
-    },
-    {
-      "code": "IBM.US",
-      "name": "IBM",
-      "ratio": 0.6,
-      "shares": 312
-    },
-    {
-      "code": "C.US",
-      "name": "Citigroup",
-      "ratio": 0.59,
-      "shares": 585
     },
     {
       "code": "MS.US",
       "name": "Morgan Stanley",
-      "ratio": 0.58,
+      "ratio": 0.57,
       "shares": 402
     },
     {
-      "code": "LIN.US",
-      "name": "Linde",
-      "ratio": 0.58,
-      "shares": 156
+      "code": "C.US",
+      "name": "Citigroup",
+      "ratio": 0.57,
+      "shares": 585
+    },
+    {
+      "code": "IBM.US",
+      "name": "IBM",
+      "ratio": 0.55,
+      "shares": 312
     },
     {
       "code": "MCD.US",
       "name": "McDonald's",
-      "ratio": 0.56,
+      "ratio": 0.54,
       "shares": 238
-    },
-    {
-      "code": "8306.JP",
-      "name": "MUFG",
-      "ratio": 0.55,
-      "shares": 4000
     },
     {
       "code": "PEP.US",
       "name": "PepsiCo",
-      "ratio": 0.55,
+      "ratio": 0.54,
       "shares": 457
     },
     {
       "code": "",
       "name": "西門子",
-      "ratio": 0.55,
+      "ratio": 0.53,
       "shares": 246
     },
     {
-      "code": "TXN.US",
-      "name": "Texas Instruments",
-      "ratio": 0.53,
-      "shares": 303
+      "code": "8306.JP",
+      "name": "MUFG",
+      "ratio": 0.52,
+      "shares": 4000
     },
     {
       "code": "",
       "name": "必和必拓集團有限公司",
-      "ratio": 0.52,
+      "ratio": 0.51,
       "shares": 1691
+    },
+    {
+      "code": "",
+      "name": "道達爾能源公司",
+      "ratio": 0.47,
+      "shares": 680
     },
     {
       "code": "TMO.US",
       "name": "Thermo Fisher Scientific",
-      "ratio": 0.5,
+      "ratio": 0.45,
       "shares": 125
     },
     {
       "code": "",
       "name": "西班牙國際銀行",
-      "ratio": 0.49,
+      "ratio": 0.45,
       "shares": 4926
     },
     {
       "code": "",
       "name": "思愛普",
-      "ratio": 0.48,
+      "ratio": 0.45,
       "shares": 341
     },
     {
       "code": "",
-      "name": "道達爾能源公司",
-      "ratio": 0.45,
-      "shares": 680
-    },
-    {
-      "code": "",
       "name": "施耐德電機公司",
-      "ratio": 0.45,
+      "ratio": 0.44,
       "shares": 181
     },
     {
       "code": "",
       "name": "安聯集團",
-      "ratio": 0.45,
+      "ratio": 0.44,
       "shares": 127
     },
     {
       "code": "ABT.US",
       "name": "Abbott",
-      "ratio": 0.43,
+      "ratio": 0.4,
       "shares": 582
+    },
+    {
+      "code": "QCOM.US",
+      "name": "QUALCOMM",
+      "ratio": 0.4,
+      "shares": 357
     },
     {
       "code": "PFE.US",
       "name": "Pfizer",
-      "ratio": 0.4,
+      "ratio": 0.39,
       "shares": 1903
     },
     {
       "code": "",
       "name": "艾波比股份有限公司",
-      "ratio": 0.38,
+      "ratio": 0.39,
       "shares": 519
     },
     {
       "code": "",
       "name": "酩悅·軒尼詩-路易·威登公司",
-      "ratio": 0.38,
+      "ratio": 0.36,
       "shares": 85
     },
     {
       "code": "HON.US",
       "name": "Honeywell",
-      "ratio": 0.38,
+      "ratio": 0.34,
       "shares": 212
-    },
-    {
-      "code": "QCOM.US",
-      "name": "QUALCOMM",
-      "ratio": 0.37,
-      "shares": 357
-    },
-    {
-      "code": "",
-      "name": "畢爾巴鄂比斯開銀行",
-      "ratio": 0.35,
-      "shares": 1914
     },
     {
       "code": "6758.JP",
       "name": "SONY GROUP",
-      "ratio": 0.34,
+      "ratio": 0.32,
       "shares": 2100
     },
     {
       "code": "",
+      "name": "畢爾巴鄂比斯開銀行",
+      "ratio": 0.32,
+      "shares": 1914
+    },
+    {
+      "code": "",
       "name": "瑞銀集團公司",
-      "ratio": 0.34,
+      "ratio": 0.32,
       "shares": 1019
     },
     {
@@ -459,34 +459,34 @@
       "shares": 731
     },
     {
+      "code": "",
+      "name": "BP公司",
+      "ratio": 0.31,
+      "shares": 5268
+    },
+    {
       "code": "BMY.US",
       "name": "Bristol-Myers Squibb",
-      "ratio": 0.31,
+      "ratio": 0.3,
       "shares": 681
     },
     {
       "code": "ACN.US",
       "name": "Accenture",
-      "ratio": 0.31,
+      "ratio": 0.28,
       "shares": 206
     },
     {
       "code": "",
-      "name": "德意志電信",
-      "ratio": 0.31,
-      "shares": 1151
-    },
-    {
-      "code": "",
       "name": "葛蘭素史克公開有限公司",
-      "ratio": 0.3,
+      "ratio": 0.28,
       "shares": 1367
     },
     {
       "code": "",
-      "name": "BP公司",
-      "ratio": 0.29,
-      "shares": 5268
+      "name": "德意志電信",
+      "ratio": 0.28,
+      "shares": 1151
     },
     {
       "code": "",
@@ -501,40 +501,16 @@
       "shares": 359
     },
     {
-      "code": "NOW.US",
-      "name": "ServiceNow",
-      "ratio": 0.26,
-      "shares": 350
-    },
-    {
       "code": "",
       "name": "萊雅有限責任公司",
-      "ratio": 0.24,
+      "ratio": 0.25,
       "shares": 76
     },
     {
-      "code": "",
-      "name": "巴克萊集團",
-      "ratio": 0.22,
-      "shares": 4634
-    },
-    {
-      "code": "AMT.US",
-      "name": "American Tower",
-      "ratio": 0.22,
-      "shares": 156
-    },
-    {
-      "code": "JCI.US",
-      "name": "Johnson Controls",
-      "ratio": 0.22,
-      "shares": 204
-    },
-    {
-      "code": "MMC.US",
-      "name": "Marsh & McLennan",
-      "ratio": 0.22,
-      "shares": 162
+      "code": "NOW.US",
+      "name": "ServiceNow",
+      "ratio": 0.24,
+      "shares": 350
     },
     {
       "code": "",
@@ -543,52 +519,70 @@
       "shares": 1667
     },
     {
+      "code": "JCI.US",
+      "name": "Johnson Controls",
+      "ratio": 0.22,
+      "shares": 204
+    },
+    {
       "code": "",
       "name": "慕尼黑再保險公司",
-      "ratio": 0.22,
+      "ratio": 0.21,
       "shares": 43
     },
     {
-      "code": "MMM.US",
-      "name": "3M",
+      "code": "MMC.US",
+      "name": "Marsh & McLennan",
       "ratio": 0.21,
-      "shares": 176
+      "shares": 162
+    },
+    {
+      "code": "AMT.US",
+      "name": "American Tower",
+      "ratio": 0.21,
+      "shares": 156
+    },
+    {
+      "code": "",
+      "name": "巴克萊集團",
+      "ratio": 0.2,
+      "shares": 4634
     },
     {
       "code": "EMR.US",
       "name": "Emerson Electric",
-      "ratio": 0.21,
+      "ratio": 0.2,
       "shares": 188
     },
     {
       "code": "",
       "name": "安盛有限責任公司",
-      "ratio": 0.21,
+      "ratio": 0.2,
       "shares": 553
     },
     {
       "code": "",
       "name": "荷蘭國際集團",
-      "ratio": 0.2,
+      "ratio": 0.19,
       "shares": 920
+    },
+    {
+      "code": "MMM.US",
+      "name": "3M",
+      "ratio": 0.19,
+      "shares": 176
     },
     {
       "code": "CL.US",
       "name": "Colgate-Palmolive",
-      "ratio": 0.18,
+      "ratio": 0.17,
       "shares": 269
     },
     {
       "code": "AON.US",
       "name": "Aon",
-      "ratio": 0.18,
-      "shares": 71
-    },
-    {
-      "code": "",
-      "name": "德意志銀行",
       "ratio": 0.17,
-      "shares": 640
+      "shares": 71
     },
     {
       "code": "",
@@ -604,6 +598,12 @@
     },
     {
       "code": "",
+      "name": "德意志銀行",
+      "ratio": 0.15,
+      "shares": 640
+    },
+    {
+      "code": "",
       "name": "巴斯夫公司",
       "ratio": 0.14,
       "shares": 299
@@ -611,44 +611,44 @@
     {
       "code": "NKE.US",
       "name": "NIKE",
-      "ratio": 0.14,
+      "ratio": 0.13,
       "shares": 398
     },
     {
       "code": "",
+      "name": "瑞士再保險公司",
+      "ratio": 0.12,
+      "shares": 100
+    },
+    {
+      "code": "",
       "name": "意昂集團公司",
-      "ratio": 0.13,
+      "ratio": 0.12,
       "shares": 744
     },
     {
       "code": "F.US",
       "name": "Ford Motor",
-      "ratio": 0.13,
+      "ratio": 0.12,
       "shares": 1312
     },
     {
       "code": "",
-      "name": "瑞士再保險公司",
-      "ratio": 0.13,
-      "shares": 100
-    },
-    {
-      "code": "",
       "name": "帝亞吉歐公開有限公司",
-      "ratio": 0.12,
+      "ratio": 0.11,
       "shares": 746
-    },
-    {
-      "code": "",
-      "name": "拜耳股份公司",
-      "ratio": 0.12,
-      "shares": 329
     },
     {
       "code": "",
       "name": "賓士集團公司",
       "ratio": 0.11,
       "shares": 242
+    },
+    {
+      "code": "",
+      "name": "拜耳股份公司",
+      "ratio": 0.11,
+      "shares": 329
     },
     {
       "code": "",
@@ -669,16 +669,16 @@
       "shares": 1400
     },
     {
-      "code": "3382.JP",
-      "name": "Seven & I Holdings",
-      "ratio": 0.08,
-      "shares": 800
-    },
-    {
       "code": "KMB.US",
       "name": "Kimberly-Clark",
       "ratio": 0.08,
       "shares": 111
+    },
+    {
+      "code": "3382.JP",
+      "name": "Seven & I Holdings",
+      "ratio": 0.07,
+      "shares": 800
     },
     {
       "code": "5108.JP",

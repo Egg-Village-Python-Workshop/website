@@ -1,7 +1,7 @@
 {
   "id": "00711B",
   "name": "復華彭博新興債",
-  "fetched_at": "2026-04-20",
+  "fetched_at": "2026-04-27",
   "capital": {
     "ETF名稱": "復華彭博新興債",
     "交易所代碼": "00711B",
@@ -14,17 +14,17 @@
     "上市日期": "2017/08/21",
     "淨值幣別": "台幣",
     "ETF規模": "15,892.76(百萬台幣)(2026/03/31)",
-    "ETF市價": "16.0900（04/17）",
-    "成交量(股)": "156,485（月均:6,865,785）",
-    "ETF淨值": "16.2300（04/16）",
+    "ETF市價": "16.0400（04/27）",
+    "成交量(股)": "106,240（月均:6,855,265）",
+    "ETF淨值": "16.1300（04/24）",
     "投資風格": "",
-    "折溢價(%)": "-0.86(月均:-0.04)",
+    "折溢價(%)": "-0.06(月均:-0.10)",
     "投資標的": "債券型",
     "配息頻率": "季配",
     "投資區域": "新興市場",
-    "殖利率(%)": "4.79（04/17）",
+    "殖利率(%)": "4.80（04/27）",
     "經理費(%)": "0.35",
-    "年化標準差(%)": "10.15（04/17）",
+    "年化標準差(%)": "12.45（04/27）",
     "總管理費用(%)": "0.51 (含 0.16 非管理費用)",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -38,7 +38,7 @@
     "基準指數": "ICE U.S. Treasury 10-20 Year TR Index",
     "官方網站連結": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF06",
     "投資策略": "(一)中華民國境內之政府公債、符合法令規範得投資之普通公司債及金融債券。(二)外國國家或機構所保證或發行之債券及符合美國Rule 144A規定之債券（前述債券包含政府公債、普通公司債、金融債券）。(三)本基金自上市日起，投資於標的指數成分證券之總金額，不得低於本基金淨資產價值之百分之七十(含)。(四)標的指數之主要成分、特色與傳統指數之差異：指數內容為美元計價之新興市場投資等級債券，涵蓋主權債、類主權債及公司債，惟不含涉險國家為中國之債券。成分債券到期期限為10年以上。各國家債券市值權重不得高於10%。債券信評須高於Baa3/BBB-。",
-    "文件下載": "基金概覽公開說明書年報簡式公開說明書"
+    "文件下載": "基金概覽年報簡式公開說明書公開說明書"
   },
   "sectors": [
     {
@@ -60,20 +60,20 @@
   "holdings": [
     {
       "code": "",
-      "name": "URUGUA 4.975 04/20/55",
-      "ratio": 1.91,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "QATAR 4.817 03/14/49",
-      "ratio": 1.9,
+      "ratio": 1.92,
       "shares": null
     },
     {
       "code": "",
       "name": "QATAR 4.4 04/16/50",
       "ratio": 1.87,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "URUGUA 4.975 04/20/55",
+      "ratio": 1.86,
       "shares": null
     },
     {
@@ -85,7 +85,7 @@
     {
       "code": "",
       "name": "QATAR 5.103 04/23/48",
-      "ratio": 1.67,
+      "ratio": 1.64,
       "shares": null
     },
     {
@@ -127,7 +127,7 @@
     {
       "code": "",
       "name": "PETMK 4.55 04/21/50",
-      "ratio": 1.07,
+      "ratio": 1.05,
       "shares": null
     },
     {
@@ -138,20 +138,14 @@
     },
     {
       "code": "",
+      "name": "BMETR 3.693 09/13/61",
+      "ratio": 0.96,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "POLAND 5 1/2 04/04/53",
       "ratio": 0.95,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "BMETR 3.693 09/13/61",
-      "ratio": 0.95,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "MEX 5 04/27/51",
-      "ratio": 0.94,
       "shares": null
     },
     {
@@ -162,13 +156,19 @@
     },
     {
       "code": "",
-      "name": "ADGB 3 1/8 09/30/49",
-      "ratio": 0.92,
+      "name": "MEX 5 04/27/51",
+      "ratio": 0.93,
       "shares": null
     },
     {
       "code": "",
       "name": "REPHUN 7 5/8 03/29/41",
+      "ratio": 0.91,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "ADGB 3 1/8 09/30/49",
       "ratio": 0.91,
       "shares": null
     },
@@ -180,20 +180,14 @@
     },
     {
       "code": "",
-      "name": "ARAMCO 4 3/8 04/16/49",
-      "ratio": 0.87,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "ALFACL 4.55 09/27/51",
       "ratio": 0.87,
       "shares": null
     },
     {
       "code": "",
-      "name": "PETMK 4.8 04/21/60",
-      "ratio": 0.85,
+      "name": "ARAMCO 4 3/8 04/16/49",
+      "ratio": 0.87,
       "shares": null
     },
     {
@@ -210,6 +204,12 @@
     },
     {
       "code": "",
+      "name": "PETMK 4.8 04/21/60",
+      "ratio": 0.84,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "VALEBZ 6.4 06/28/54",
       "ratio": 0.82,
       "shares": null
@@ -217,7 +217,7 @@
     {
       "code": "",
       "name": "ARAMCO 4 1/4 04/16/39",
-      "ratio": 0.8,
+      "ratio": 0.79,
       "shares": null
     },
     {
@@ -229,7 +229,7 @@
     {
       "code": "",
       "name": "KSA 5 3/4 01/16/54",
-      "ratio": 0.78,
+      "ratio": 0.77,
       "shares": null
     },
     {
@@ -265,7 +265,7 @@
     {
       "code": "",
       "name": "ADGB 5 1/2 04/30/54",
-      "ratio": 0.73,
+      "ratio": 0.72,
       "shares": null
     },
     {
@@ -288,13 +288,13 @@
     },
     {
       "code": "",
-      "name": "ADGB 3 7/8 04/16/50",
-      "ratio": 0.7,
+      "name": "ADGB 4 1/8 10/11/47",
+      "ratio": 0.69,
       "shares": null
     },
     {
       "code": "",
-      "name": "ADGB 4 1/8 10/11/47",
+      "name": "ADGB 3 7/8 04/16/50",
       "ratio": 0.69,
       "shares": null
     },
@@ -313,7 +313,7 @@
     {
       "code": "",
       "name": "PHILIP 2.95 05/05/45",
-      "ratio": 0.67,
+      "ratio": 0.66,
       "shares": null
     },
     {
@@ -354,12 +354,6 @@
     },
     {
       "code": "",
-      "name": "REPHUN 3 1/8 09/21/51",
-      "ratio": 0.59,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "PERU 6.55 03/14/37",
       "ratio": 0.59,
       "shares": null
@@ -367,7 +361,13 @@
     {
       "code": "",
       "name": "CHILE 3 1/2 01/25/50",
-      "ratio": 0.59,
+      "ratio": 0.58,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "REPHUN 3 1/8 09/21/51",
+      "ratio": 0.58,
       "shares": null
     },
     {
@@ -378,13 +378,13 @@
     },
     {
       "code": "",
-      "name": "ROMANI 4 02/14/51",
+      "name": "PETMK 3.404 04/28/61",
       "ratio": 0.57,
       "shares": null
     },
     {
       "code": "",
-      "name": "PETMK 3.404 04/28/61",
+      "name": "ROMANI 4 02/14/51",
       "ratio": 0.57,
       "shares": null
     },
@@ -396,26 +396,20 @@
     },
     {
       "code": "",
+      "name": "SUZANO 7 03/16/47",
+      "ratio": 0.56,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "PANAMA 4 1/2 04/16/50",
       "ratio": 0.56,
       "shares": null
     },
     {
       "code": "",
-      "name": "SUZANO 7 03/16/47",
-      "ratio": 0.55,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "PANAMA 6.853 03/28/54",
       "ratio": 0.53,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "PHILIP 3.7 02/02/42",
-      "ratio": 0.52,
       "shares": null
     },
     {
@@ -432,13 +426,13 @@
     },
     {
       "code": "",
-      "name": "KZOKZ 6 3/8 10/24/48",
+      "name": "PERU 2.78 12/01/60",
       "ratio": 0.52,
       "shares": null
     },
     {
       "code": "",
-      "name": "PERU 2.78 12/01/60",
+      "name": "PHILIP 3.7 02/02/42",
       "ratio": 0.52,
       "shares": null
     },
@@ -456,13 +450,19 @@
     },
     {
       "code": "",
-      "name": "REPHUN 6 3/4 09/25/52",
-      "ratio": 0.49,
+      "name": "KZOKZ 6 3/8 10/24/48",
+      "ratio": 0.51,
       "shares": null
     },
     {
       "code": "",
       "name": "MEXCAT 5 1/2 07/31/47",
+      "ratio": 0.5,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "REPHUN 6 3/4 09/25/52",
       "ratio": 0.49,
       "shares": null
     },
@@ -486,13 +486,13 @@
     },
     {
       "code": "",
-      "name": "PANAMA 4 1/2 01/19/63",
+      "name": "PENOMX 4 3/4 08/06/50",
       "ratio": 0.47,
       "shares": null
     },
     {
       "code": "",
-      "name": "PENOMX 4 3/4 08/06/50",
+      "name": "PANAMA 4 1/2 01/19/63",
       "ratio": 0.47,
       "shares": null
     },
@@ -504,13 +504,13 @@
     },
     {
       "code": "",
-      "name": "TAQAUH 3.4 04/29/51",
+      "name": "ISRAEL 4 1/2 01/30/43",
       "ratio": 0.46,
       "shares": null
     },
     {
       "code": "",
-      "name": "ISRAEL 4 1/2 01/30/43",
+      "name": "TAQAUH 3.4 04/29/51",
       "ratio": 0.46,
       "shares": null
     },
@@ -523,6 +523,12 @@
     {
       "code": "",
       "name": "BFFCC 3.068 08/18/50",
+      "ratio": 0.45,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "TRANSM 5.2 04/11/38",
       "ratio": 0.44,
       "shares": null
     },
@@ -540,12 +546,6 @@
     },
     {
       "code": "",
-      "name": "TRANSM 5.2 04/11/38",
-      "ratio": 0.44,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "INDON 4 5/8 04/15/43",
       "ratio": 0.43,
       "shares": null
@@ -558,13 +558,13 @@
     },
     {
       "code": "",
-      "name": "MINCAP 5 5/8 08/10/37",
+      "name": "MUBAUH 3.7 11/07/49",
       "ratio": 0.42,
       "shares": null
     },
     {
       "code": "",
-      "name": "MUBAUH 3.7 11/07/49",
+      "name": "MINCAP 5 5/8 08/10/37",
       "ratio": 0.42,
       "shares": null
     },
@@ -577,18 +577,12 @@
     {
       "code": "",
       "name": "MEX 4 3/4 03/08/44",
-      "ratio": 0.42,
+      "ratio": 0.41,
       "shares": null
     },
     {
       "code": "",
-      "name": "ROMANI 5 1/8 06/15/48",
-      "ratio": 0.4,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "CDEL 3.7 01/30/50",
+      "name": "ENAPCL 4 1/2 09/14/47",
       "ratio": 0.4,
       "shares": null
     },
@@ -600,20 +594,26 @@
     },
     {
       "code": "",
-      "name": "ADGB 2.7 09/02/70",
+      "name": "CDEL 3.7 01/30/50",
       "ratio": 0.4,
       "shares": null
     },
     {
       "code": "",
-      "name": "ENAPCL 4 1/2 09/14/47",
+      "name": "ROMANI 5 1/8 06/15/48",
+      "ratio": 0.4,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "ADGB 2.7 09/02/70",
       "ratio": 0.39,
       "shares": null
     },
     {
       "code": "",
       "name": "PHILIP 2.65 12/10/45",
-      "ratio": 0.39,
+      "ratio": 0.38,
       "shares": null
     },
     {
@@ -631,18 +631,6 @@
     {
       "code": "",
       "name": "PANAMA 3.87 07/23/60",
-      "ratio": 0.38,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "UAE 3 1/4 10/19/61",
-      "ratio": 0.37,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "MEX 5 3/4 10/12/2110",
       "ratio": 0.37,
       "shares": null
     },
@@ -654,13 +642,19 @@
     },
     {
       "code": "",
-      "name": "CDEL 6.15 10/24/36",
+      "name": "MEX 5 3/4 10/12/2110",
+      "ratio": 0.37,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "GASBCM 6.51 02/23/42",
       "ratio": 0.36,
       "shares": null
     },
     {
       "code": "",
-      "name": "MEX 4.4 02/12/52",
+      "name": "UAE 3 1/4 10/19/61",
       "ratio": 0.36,
       "shares": null
     },
@@ -672,13 +666,7 @@
     },
     {
       "code": "",
-      "name": "ADGB 3 09/15/51",
-      "ratio": 0.36,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "GASBCM 6.51 02/23/42",
+      "name": "MEX 4.4 02/12/52",
       "ratio": 0.36,
       "shares": null
     },
@@ -690,19 +678,19 @@
     },
     {
       "code": "",
+      "name": "ADGB 3 09/15/51",
+      "ratio": 0.36,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "ADGLXY 3 1/4 09/30/40",
-      "ratio": 0.35,
+      "ratio": 0.36,
       "shares": null
     },
     {
       "code": "",
-      "name": "SCCO 5 7/8 04/23/45",
-      "ratio": 0.35,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "PHILIP 3.2 07/06/46",
+      "name": "CDEL 6.15 10/24/36",
       "ratio": 0.35,
       "shares": null
     },
@@ -720,19 +708,19 @@
     },
     {
       "code": "",
+      "name": "PHILIP 3.2 07/06/46",
+      "ratio": 0.35,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "SCCO 5 7/8 04/23/45",
+      "ratio": 0.34,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "BMETR 4.7 05/07/50",
-      "ratio": 0.34,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "UAE 2 7/8 10/19/41",
-      "ratio": 0.34,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "ADGLXY 2.94 09/30/40",
       "ratio": 0.34,
       "shares": null
     },
@@ -744,8 +732,20 @@
     },
     {
       "code": "",
+      "name": "ADGLXY 2.94 09/30/40",
+      "ratio": 0.34,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "SECO 5.684 04/11/53",
       "ratio": 0.34,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "UAE 2 7/8 10/19/41",
+      "ratio": 0.33,
       "shares": null
     },
     {
@@ -757,12 +757,6 @@
     {
       "code": "",
       "name": "PHILIP 4.2 03/29/47",
-      "ratio": 0.33,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "KZOKZ 5 3/4 04/19/47",
       "ratio": 0.33,
       "shares": null
     },
@@ -804,6 +798,12 @@
     },
     {
       "code": "",
+      "name": "KZOKZ 5 3/4 04/19/47",
+      "ratio": 0.31,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "CELARA 5 1/2 04/30/49",
       "ratio": 0.31,
       "shares": null
@@ -834,7 +834,7 @@
     },
     {
       "code": "",
-      "name": "PHILIP 5.175 09/05/49",
+      "name": "KAZAKS 6 1/2 07/21/45",
       "ratio": 0.3,
       "shares": null
     },
@@ -846,7 +846,7 @@
     },
     {
       "code": "",
-      "name": "KAZAKS 6 1/2 07/21/45",
+      "name": "PHILIP 5.175 09/05/49",
       "ratio": 0.29,
       "shares": null
     },
@@ -864,14 +864,20 @@
     },
     {
       "code": "",
+      "name": "CDEL 4 3/8 02/05/49",
+      "ratio": 0.29,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "INDOIS 3.8 06/23/50",
       "ratio": 0.29,
       "shares": null
     },
     {
       "code": "",
-      "name": "CDEL 4 3/8 02/05/49",
-      "ratio": 0.29,
+      "name": "LLPLCA 6 7/8 02/04/39",
+      "ratio": 0.28,
       "shares": null
     },
     {
@@ -888,12 +894,6 @@
     },
     {
       "code": "",
-      "name": "LLPLCA 6 7/8 02/04/39",
-      "ratio": 0.28,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "PLNIJ 6 1/4 01/25/49",
       "ratio": 0.28,
       "shares": null
@@ -901,6 +901,12 @@
     {
       "code": "",
       "name": "SCCO 5 1/4 11/08/42",
+      "ratio": 0.28,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "PENOMX 5.65 09/12/49",
       "ratio": 0.27,
       "shares": null
     },
@@ -918,13 +924,13 @@
     },
     {
       "code": "",
-      "name": "PENOMX 5.65 09/12/49",
-      "ratio": 0.27,
+      "name": "ISRAEL 4 1/8 01/17/48",
+      "ratio": 0.26,
       "shares": null
     },
     {
       "code": "",
-      "name": "ISRAEL 4 1/8 01/17/48",
+      "name": "IENOVA 4 3/4 01/15/51",
       "ratio": 0.26,
       "shares": null
     },
@@ -942,12 +948,6 @@
     },
     {
       "code": "",
-      "name": "IENOVA 4 3/4 01/15/51",
-      "ratio": 0.26,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "MEX 5.55 01/21/45",
       "ratio": 0.25,
       "shares": null
@@ -960,13 +960,13 @@
     },
     {
       "code": "",
-      "name": "MEX 7 3/8 05/13/55",
+      "name": "PIFKSA 5 3/8 10/13/2122",
       "ratio": 0.25,
       "shares": null
     },
     {
       "code": "",
-      "name": "PIFKSA 5 3/8 10/13/2122",
+      "name": "MEX 7 3/8 05/13/55",
       "ratio": 0.25,
       "shares": null
     },
@@ -978,31 +978,31 @@
     },
     {
       "code": "",
+      "name": "BERMUD 3 3/8 08/20/50",
+      "ratio": 0.24,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "CDEL 5 5/8 10/18/43",
       "ratio": 0.24,
       "shares": null
     },
     {
       "code": "",
-      "name": "BERMUD 3 3/8 08/20/50",
-      "ratio": 0.23,
+      "name": "FIEMEX 7 1/4 01/31/41",
+      "ratio": 0.24,
       "shares": null
     },
     {
       "code": "",
       "name": "GASBCM 6.129 02/23/38",
-      "ratio": 0.23,
+      "ratio": 0.24,
       "shares": null
     },
     {
       "code": "",
-      "name": "MEX 3 3/4 04/19/2071",
-      "ratio": 0.23,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "MEX 6 05/07/36",
+      "name": "PERTIJ 4.7 07/30/49",
       "ratio": 0.23,
       "shares": null
     },
@@ -1014,13 +1014,7 @@
     },
     {
       "code": "",
-      "name": "PERTIJ 4.7 07/30/49",
-      "ratio": 0.23,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "FIEMEX 7 1/4 01/31/41",
+      "name": "MEX 6 05/07/36",
       "ratio": 0.23,
       "shares": null
     },
@@ -1033,6 +1027,12 @@
     {
       "code": "",
       "name": "CHILE 3.86 06/21/47",
+      "ratio": 0.22,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "MEX 3 3/4 04/19/2071",
       "ratio": 0.22,
       "shares": null
     },
@@ -1074,6 +1074,12 @@
     },
     {
       "code": "",
+      "name": "PTTEPT 3.903 12/06/59",
+      "ratio": 0.2,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "INDON 3.7 10/30/49",
       "ratio": 0.2,
       "shares": null
@@ -1081,12 +1087,6 @@
     {
       "code": "",
       "name": "EIBKOR 2 1/2 06/29/41",
-      "ratio": 0.2,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "PTTEPT 3.903 12/06/59",
       "ratio": 0.2,
       "shares": null
     },
@@ -1116,13 +1116,13 @@
     },
     {
       "code": "",
-      "name": "INDON 5.65 01/11/53",
+      "name": "CHILE 4 01/31/52",
       "ratio": 0.18,
       "shares": null
     },
     {
       "code": "",
-      "name": "CHILE 4 01/31/52",
+      "name": "INDON 5.65 01/11/53",
       "ratio": 0.18,
       "shares": null
     },
@@ -1195,7 +1195,7 @@
     {
       "code": "",
       "name": "AALLN 3.95 09/10/50",
-      "ratio": 0.13,
+      "ratio": 0.14,
       "shares": null
     },
     {
@@ -1326,12 +1326,6 @@
     },
     {
       "code": "",
-      "name": "CDEL 4 1/4 07/17/42",
-      "ratio": 0.09,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "KAZAKS 5 1/2 07/01/37",
       "ratio": 0.09,
       "shares": null
@@ -1350,6 +1344,12 @@
     },
     {
       "code": "",
+      "name": "CDEL 4 1/4 07/17/42",
+      "ratio": 0.09,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "MEX 4.28 08/14/41",
       "ratio": 0.09,
       "shares": null
@@ -1357,12 +1357,6 @@
     {
       "code": "",
       "name": "PERTIJ 4.175 01/21/50",
-      "ratio": 0.09,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "PERU 3.3 03/11/41",
       "ratio": 0.09,
       "shares": null
     },
@@ -1386,19 +1380,19 @@
     },
     {
       "code": "",
-      "name": "MEX 4.35 01/15/47",
+      "name": "PERU 3.3 03/11/41",
       "ratio": 0.09,
       "shares": null
     },
     {
       "code": "",
       "name": "FRESLN 4 1/4 10/02/50",
-      "ratio": 0.08,
+      "ratio": 0.09,
       "shares": null
     },
     {
       "code": "",
-      "name": "PLNIJ 5 1/4 10/24/42",
+      "name": "MEX 4.35 01/15/47",
       "ratio": 0.08,
       "shares": null
     },
@@ -1416,6 +1410,12 @@
     },
     {
       "code": "",
+      "name": "PLNIJ 5 1/4 10/24/42",
+      "ratio": 0.08,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "QATAR 6.4 01/20/40",
       "ratio": 0.08,
       "shares": null
@@ -1428,13 +1428,13 @@
     },
     {
       "code": "",
-      "name": "CDEL 3.15 01/15/51",
+      "name": "PETMK 4 1/2 03/18/45",
       "ratio": 0.07,
       "shares": null
     },
     {
       "code": "",
-      "name": "PETMK 4 1/2 03/18/45",
+      "name": "CDEL 3.15 01/15/51",
       "ratio": 0.07,
       "shares": null
     },
@@ -1465,12 +1465,6 @@
     {
       "code": "",
       "name": "INDON 3 1/2 02/14/50",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "RILIN 6 1/4 10/19/40",
       "ratio": 0.06,
       "shares": null
     },
@@ -1489,6 +1483,12 @@
     {
       "code": "",
       "name": "PIFKSA 5 3/8 01/29/54",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "RILIN 6 1/4 10/19/40",
       "ratio": 0.06,
       "shares": null
     },
@@ -1536,12 +1536,6 @@
     },
     {
       "code": "",
-      "name": "KSA 4 1/2 04/22/60",
-      "ratio": 0.05,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "QTELQD 4 1/2 01/31/43",
       "ratio": 0.05,
       "shares": null
@@ -1554,19 +1548,25 @@
     },
     {
       "code": "",
+      "name": "KSA 4 1/2 04/22/60",
+      "ratio": 0.04,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "CHILE 5.33 01/05/54",
       "ratio": 0.04,
       "shares": null
     },
     {
       "code": "",
-      "name": "CHILE 3 1/4 09/21/2071",
+      "name": "INDON 5.45 09/20/52",
       "ratio": 0.04,
       "shares": null
     },
     {
       "code": "",
-      "name": "INDON 5.45 09/20/52",
+      "name": "CHILE 3 1/4 09/21/2071",
       "ratio": 0.04,
       "shares": null
     },

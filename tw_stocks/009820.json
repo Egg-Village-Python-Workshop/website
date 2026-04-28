@@ -1,30 +1,30 @@
 {
   "id": "009820",
   "name": "元大納斯達克精選",
-  "fetched_at": "2026-04-20",
+  "fetched_at": "2026-04-27",
   "capital": {
     "ETF名稱": "元大納斯達克精選",
     "交易所代碼": "009820",
     "英文名稱": "Yuanta Nasdaq-100 Enhanced Growth ETF",
-    "交易單位": "股/張",
+    "交易單位": "1000 股/張",
     "發行公司": "元大投信",
     "交易所": "TSE",
     "成立日期": "2026/04/15（已成立0年）",
     "計價幣別": "台幣",
-    "上市日期": "",
+    "上市日期": "2026/04/23",
     "淨值幣別": "台幣",
     "ETF規模": "N/A",
-    "ETF市價": "N/A（N/A）",
-    "成交量(股)": "N/A（月均:N/A）",
-    "ETF淨值": "10.0000（04/16）",
+    "ETF市價": "9.9600（04/27）",
+    "成交量(股)": "87,435,211（月均:93,823,336）",
+    "ETF淨值": "10.0200（04/24）",
     "投資風格": "",
-    "折溢價(%)": "",
+    "折溢價(%)": "-1.10(月均:0.47)",
     "投資標的": "股票型",
     "配息頻率": "年配",
     "投資區域": "美國",
-    "殖利率(%)": "N/A（N/A）",
+    "殖利率(%)": "N/A（04/27）",
     "經理費(%)": "0.3",
-    "年化標準差(%)": "N/A（N/A）",
+    "年化標準差(%)": "N/A（04/27）",
     "總管理費用(%)": "",
     "融資交易": "Y",
     "選擇權交易": "",
@@ -41,5 +41,180 @@
     "文件下載": "公開說明書簡式公開說明書"
   },
   "sectors": [],
-  "holdings": []
+  "holdings": [
+    {
+      "code": "NVDA.US",
+      "name": "NVIDIA",
+      "ratio": 2.55,
+      "shares": 79822
+    },
+    {
+      "code": "META.US",
+      "name": "Meta",
+      "ratio": 2.33,
+      "shares": 21805
+    },
+    {
+      "code": "AVGO.US",
+      "name": "Broadcom",
+      "ratio": 2.26,
+      "shares": 35061
+    },
+    {
+      "code": "MSFT.US",
+      "name": "Microsoft",
+      "ratio": 1.95,
+      "shares": 28715
+    },
+    {
+      "code": "ASML.US",
+      "name": "ASML Holding",
+      "ratio": 1.34,
+      "shares": 5729
+    },
+    {
+      "code": "PLTR.US",
+      "name": "Palantir Technologies",
+      "ratio": 0.78,
+      "shares": 33555
+    },
+    {
+      "code": "SHOP.US",
+      "name": "Shopify",
+      "ratio": 0.44,
+      "shares": 21128
+    },
+    {
+      "code": "BKNG.US",
+      "name": "Booking Holdings",
+      "ratio": 0.37,
+      "shares": 11976
+    },
+    {
+      "code": "ISRG.US",
+      "name": "Intuitive Surgical",
+      "ratio": 0.34,
+      "shares": 4686
+    },
+    {
+      "code": "QCOM.US",
+      "name": "QUALCOMM",
+      "ratio": 0.3,
+      "shares": 13966
+    },
+    {
+      "code": "CRWD.US",
+      "name": "CrowdStrike Holdings",
+      "ratio": 0.27,
+      "shares": 3703
+    },
+    {
+      "code": "PANW.US",
+      "name": "Palo Alto",
+      "ratio": 0.26,
+      "shares": 9322
+    },
+    {
+      "code": "VRTX.US",
+      "name": "Vertex Pharmaceuticals",
+      "ratio": 0.21,
+      "shares": 2981
+    },
+    {
+      "code": "INTU.US",
+      "name": "Intuit",
+      "ratio": 0.21,
+      "shares": 3231
+    },
+    {
+      "code": "CDNS.US",
+      "name": "Cadence Design Systems",
+      "ratio": 0.21,
+      "shares": 3951
+    },
+    {
+      "code": "SNPS.US",
+      "name": "Synopsys",
+      "ratio": 0.2,
+      "shares": 2728
+    },
+    {
+      "code": "MELI.US",
+      "name": "MercadoLibre",
+      "ratio": 0.18,
+      "shares": 602
+    },
+    {
+      "code": "ADBE.US",
+      "name": "Adobe",
+      "ratio": 0.14,
+      "shares": 3645
+    },
+    {
+      "code": "DDOG.US",
+      "name": "Datadog",
+      "ratio": 0.08,
+      "shares": 3644
+    },
+    {
+      "code": "ADSK.US",
+      "name": "Autodesk",
+      "ratio": 0.07,
+      "shares": 1846
+    },
+    {
+      "code": "ALNY.US",
+      "name": "Alnylam Pharmaceuticals",
+      "ratio": 0.07,
+      "shares": 1369
+    },
+    {
+      "code": "ARM.US",
+      "name": "Arm",
+      "ratio": 0.07,
+      "shares": 2383
+    },
+    {
+      "code": "AXON.US",
+      "name": "Axon Enterprise",
+      "ratio": 0.07,
+      "shares": 1118
+    },
+    {
+      "code": "DXCM.US",
+      "name": "DexCom",
+      "ratio": 0.05,
+      "shares": 5459
+    },
+    {
+      "code": "ROP.US",
+      "name": "Roper Technologies",
+      "ratio": 0.05,
+      "shares": 937
+    },
+    {
+      "code": "WDAY.US",
+      "name": "Workday",
+      "ratio": 0.04,
+      "shares": 1855
+    },
+    {
+      "code": "INSM.US",
+      "name": "Insmed",
+      "ratio": 0.04,
+      "shares": 1813
+    },
+    {
+      "code": "ZS.US",
+      "name": "Zscaler",
+      "ratio": 0.03,
+      "shares": 1463
+    },
+    {
+      "code": "CSGP.US",
+      "name": "CoStar Group",
+      "ratio": 0.02,
+      "shares": 3427
+    }
+  ]
 }
