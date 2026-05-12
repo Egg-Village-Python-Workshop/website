@@ -1,44 +1,44 @@
 {
   "id": "00986A",
   "name": "主動台新龍頭成長",
-  "fetched_at": "2026-05-04",
+  "fetched_at": "2026-05-11",
   "capital": {
     "ETF名稱": "主動台新龍頭成長",
     "交易所代碼": "00986A",
-    "英文名稱": "Taishin Global Growth Leaders Active ETF",
-    "交易單位": "1000 股/張",
-    "發行公司": "台新投信",
     "交易所": "TSE",
-    "成立日期": "2025/08/18（已成立1年）",
+    "交易單位": "1000 股/張",
+    "英文名稱": "Taishin Global Growth Leaders Active ETF",
+    "發行公司": "台新投信",
     "計價幣別": "台幣",
-    "上市日期": "2025/08/27",
+    "成立日期": "2025/08/18（已成立1年）",
     "淨值幣別": "台幣",
-    "ETF規模": "601.76(百萬台幣)(2026/04/30)",
-    "ETF市價": "14.0200（05/04）",
-    "成交量(股)": "830,523（月均:959,995）",
-    "ETF淨值": "13.7300（04/30）",
-    "投資風格": "",
-    "折溢價(%)": "-1.53(月均:-0.98)",
-    "投資標的": "股票型",
-    "配息頻率": "年配",
-    "投資區域": "全球",
-    "殖利率(%)": "N/A（05/04）",
-    "經理費(%)": "1",
-    "年化標準差(%)": "N/A（05/04）",
-    "總管理費用(%)": "0.51",
-    "融資交易": "Y",
-    "選擇權交易": "",
-    "放空交易": "Y",
+    "上市日期": "2025/08/27",
     "成分股數": 30,
-    "槓桿多空註記": "",
-    "經銷商": "",
-    "保管機構": "台灣中小企銀",
+    "ETF規模": "615.55(百萬台幣)(2026/04/30)",
+    "成交量(股)": "494,983（月均:850,905）",
+    "投資標的": "股票型",
     "經理人": "蘇聖峰",
+    "投資區域": "全球",
+    "保管機構": "台灣中小企銀",
+    "投資風格": "",
+    "配息頻率": "年配",
+    "經理費(%)": "1",
+    "殖利率(%)": "N/A（05/08）",
+    "總管理費用(%)": "0.51",
+    "經銷商": "",
+    "官方網站連結": "https://www.tsit.com.tw/ETF/Home/ETFSeriesDetail/00986A",
+    "ETF市價": "14.1900（05/08）",
+    "融資交易": "Y",
+    "ETF淨值": "14.4600（05/08）",
+    "放空交易": "Y",
+    "折溢價(%)": "-1.87(月均:-0.61)",
+    "選擇權交易": "",
+    "年化標準差(%)": "N/A（05/08）",
+    "槓桿多空註記": "",
     "追蹤指數": "",
     "基準指數": "道瓊全球指數",
-    "官方網站連結": "https://www.tsit.com.tw/ETF/Home/ETFSeriesDetail/00986A",
     "投資策略": "本基金係主動式交易所交易基金（主動式ETF），原則上，本基金自上市日起，應符合下列投資比例限制：(一)投資於國內外股票(含承銷股票)及存託憑證等有價證券之總金額不低於本基金淨資產價值之百分之七十(含)，且投資於外國有價證券之總金額不低於本基金淨資產價值之百分之六十(含)；(二)投資於全球龍頭成長相關之股票(含承銷股票)及存託憑證等有價證券之總金額不得低於本基金淨資產價值之百分之六十(含)；(三)所謂「龍頭」係指前述本基金可投資之中華民國及外國有價證券中，經彙整後近一個月市值平均大於十億美元且近一個月成交值平均大於三百萬美元者。所謂「成長」係指自符合前述「龍頭」定義之有價證券中，經投資團隊設定之多重成長性因子分析並彙整後排序前五百(含)。團隊將定期檢視投資標的是否符合前述「龍頭成長」企業之標準與因子分析之合適性，並依據全球總體經濟概況、產業循環位置、財務評價面等進一步挑選出具長期競爭力與發展潛力之個股。",
-    "文件下載": "基金概覽年報簡式公開說明書公開說明書"
+    "文件下載": "基金概覽年報公開說明書簡式公開說明書"
   },
   "sectors": [
     {
@@ -84,166 +84,172 @@
   ],
   "holdings": [
     {
-      "code": "2330.TW",
-      "name": "台積電",
-      "ratio": 9.06,
-      "shares": 25000
-    },
-    {
-      "code": "AVGO.US",
-      "name": "Broadcom",
-      "ratio": 8.3,
-      "shares": 3900
+      "code": "MU.US",
+      "name": "Micron",
+      "ratio": 9.36,
+      "shares": 2500
     },
     {
       "code": "GOOGL.US",
       "name": "Alphabet - Class A Common Stock",
-      "ratio": 8.26,
+      "ratio": 9.04,
       "shares": 4500
+    },
+    {
+      "code": "AVGO.US",
+      "name": "Broadcom",
+      "ratio": 8.4,
+      "shares": 3900
+    },
+    {
+      "code": "2330.TW",
+      "name": "台積電",
+      "ratio": 8.04,
+      "shares": 22000
     },
     {
       "code": "NVDA.US",
       "name": "NVIDIA",
-      "ratio": 7.68,
+      "ratio": 7.55,
       "shares": 7000
     },
     {
       "code": "LITE.US",
       "name": "Lumentum",
-      "ratio": 7.2,
-      "shares": 1600
-    },
-    {
-      "code": "MU.US",
-      "name": "Micron",
-      "ratio": 6.8,
-      "shares": 2500
-    },
-    {
-      "code": "GEV.US",
-      "name": "GE Vernova",
-      "ratio": 4.18,
-      "shares": 750
+      "ratio": 5.89,
+      "shares": 1300
     },
     {
       "code": "AMZN.US",
       "name": "Amazon",
-      "ratio": 4.14,
+      "ratio": 4.1,
       "shares": 3000
     },
     {
-      "code": "TER.US",
-      "name": "Teradyne",
-      "ratio": 3.86,
-      "shares": 2399
-    },
-    {
-      "code": "",
-      "name": "英飛凌科技股份有限公司",
-      "ratio": 2.74,
-      "shares": 8000
+      "code": "GEV.US",
+      "name": "GE Vernova",
+      "ratio": 3.91,
+      "shares": 750
     },
     {
       "code": "LRCX.US",
       "name": "Lam Research",
-      "ratio": 2.64,
+      "ratio": 2.98,
       "shares": 2021
     },
     {
       "code": "",
-      "name": "Siemens Energy AG",
-      "ratio": 2.37,
-      "shares": 2200
+      "name": "英飛凌科技股份有限公司",
+      "ratio": 2.9,
+      "shares": 8000
     },
     {
-      "code": "",
-      "name": "施奈德電機公司",
-      "ratio": 2.33,
-      "shares": 1400
-    },
-    {
-      "code": "WMT.US",
-      "name": "Walmart",
-      "ratio": 2.28,
-      "shares": 3400
-    },
-    {
-      "code": "MSFT.US",
-      "name": "Microsoft",
-      "ratio": 2.23,
-      "shares": 1000
+      "code": "TER.US",
+      "name": "Teradyne",
+      "ratio": 2.7,
+      "shares": 1500
     },
     {
       "code": "CRWD.US",
       "name": "CrowdStrike Holdings",
-      "ratio": 2.23,
+      "ratio": 2.48,
       "shares": 938
     },
     {
-      "code": "ETN.US",
-      "name": "Eaton",
-      "ratio": 2.16,
-      "shares": 1000
+      "code": "",
+      "name": "Siemens Energy AG",
+      "ratio": 2.31,
+      "shares": 2200
     },
     {
       "code": "HWM.US",
       "name": "Howmet Aerospace",
-      "ratio": 2.11,
+      "ratio": 2.3,
       "shares": 1700
+    },
+    {
+      "code": "WMT.US",
+      "name": "Walmart",
+      "ratio": 2.22,
+      "shares": 3400
     },
     {
       "code": "COHR.US",
       "name": "Coherent",
-      "ratio": 2.08,
+      "ratio": 2.18,
       "shares": 1300
+    },
+    {
+      "code": "MSFT.US",
+      "name": "Microsoft",
+      "ratio": 2.08,
+      "shares": 1000
+    },
+    {
+      "code": "ETN.US",
+      "name": "Eaton",
+      "ratio": 2.01,
+      "shares": 1000
     },
     {
       "code": "6501.JP",
       "name": "Hitachi",
-      "ratio": 1.99,
+      "ratio": 1.89,
       "shares": 12000
     },
     {
-      "code": "8306.JP",
-      "name": "MUFG",
-      "ratio": 1.89,
-      "shares": 20000
-    },
-    {
       "code": "",
-      "name": "嘉能可公司",
-      "ratio": 1.57,
-      "shares": 40000
+      "name": "施奈德電機公司",
+      "ratio": 1.76,
+      "shares": 1100
     },
     {
       "code": "CAT.US",
       "name": "Caterpillar",
-      "ratio": 1.49,
+      "ratio": 1.57,
       "shares": 350
+    },
+    {
+      "code": "",
+      "name": "嘉能可公司",
+      "ratio": 1.53,
+      "shares": 40000
+    },
+    {
+      "code": "8306.JP",
+      "name": "MUFG",
+      "ratio": 1.35,
+      "shares": 15000
     },
     {
       "code": "NET.US",
       "name": "Cloudflare",
-      "ratio": 1.33,
+      "ratio": 1.18,
       "shares": 1200
     },
     {
       "code": "BWXT.US",
       "name": "BWX Technologies",
-      "ratio": 1.2,
+      "ratio": 1.13,
       "shares": 1100
     },
     {
       "code": "VRTX.US",
       "name": "Vertex Pharmaceuticals",
-      "ratio": 1.0,
+      "ratio": 0.97,
       "shares": 450
     },
     {
       "code": "GS.US",
       "name": "Goldman Sachs",
-      "ratio": 0.95,
+      "ratio": 0.94,
       "shares": 200
+    },
+    {
+      "code": "AMD.US",
+      "name": "AMD",
+      "ratio": 0.0,
+      "shares": 1
     }
   ]
 }

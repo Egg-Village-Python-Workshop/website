@@ -1,44 +1,44 @@
 {
   "id": "00736",
   "name": "國泰新興市場",
-  "fetched_at": "2026-05-04",
+  "fetched_at": "2026-05-11",
   "capital": {
     "ETF名稱": "國泰新興市場",
     "交易所代碼": "00736",
-    "英文名稱": "Cathay FTSE Emerging Markets ETF",
-    "交易單位": "1000 股/張",
-    "發行公司": "國泰投信",
     "交易所": "TSE",
-    "成立日期": "2018/05/29（已成立8年）",
+    "交易單位": "1000 股/張",
+    "英文名稱": "Cathay FTSE Emerging Markets ETF",
+    "發行公司": "國泰投信",
     "計價幣別": "台幣",
-    "上市日期": "2018/06/11",
+    "成立日期": "2018/05/29（已成立8年）",
     "淨值幣別": "台幣",
-    "ETF規模": "202.79(百萬台幣)(2026/04/30)",
-    "ETF市價": "29.6700（04/30）",
-    "成交量(股)": "103,016（月均:124,697）",
-    "ETF淨值": "30.0000（04/29）",
-    "投資風格": "",
-    "折溢價(%)": "-1.10(月均:-1.51)",
-    "投資標的": "股票型",
-    "配息頻率": "半年配",
-    "投資區域": "新興市場",
-    "殖利率(%)": "1.69（04/30）",
-    "經理費(%)": "0.5",
-    "年化標準差(%)": "14.68（04/30）",
-    "總管理費用(%)": "1.76 (含 1.26 非管理費用)",
-    "融資交易": "Y",
-    "選擇權交易": "",
-    "放空交易": "Y",
+    "上市日期": "2018/06/11",
     "成分股數": 207,
-    "槓桿多空註記": "",
-    "經銷商": "",
-    "保管機構": "玉山商業銀行",
+    "ETF規模": "201.82(百萬台幣)(2026/04/30)",
+    "成交量(股)": "129,638（月均:125,358）",
+    "投資標的": "股票型",
     "經理人": "陳世偉",
+    "投資區域": "新興市場",
+    "保管機構": "玉山商業銀行",
+    "投資風格": "",
+    "配息頻率": "半年配",
+    "經理費(%)": "0.5",
+    "殖利率(%)": "1.62（05/08）",
+    "總管理費用(%)": "1.76 (含 1.26 非管理費用)",
+    "經銷商": "",
+    "官方網站連結": "https://www.cathaysite.com.tw/ETF/detail/EAU",
+    "ETF市價": "30.8800（05/08）",
+    "融資交易": "Y",
+    "ETF淨值": "31.2900（05/07）",
+    "放空交易": "Y",
+    "折溢價(%)": "-1.31(月均:-1.40)",
+    "選擇權交易": "",
+    "年化標準差(%)": "9.09（05/08）",
+    "槓桿多空註記": "",
     "追蹤指數": "富時新興市場(納入A股)指數",
     "基準指數": "那斯達克新興市場指數",
-    "官方網站連結": "https://www.cathaysite.com.tw/ETF/detail/EAU",
     "投資策略": "本子基金將運用指數化策略追蹤標的指數之績效表現，且將以至少7成以上資產直接投資於股市，並以富時新興市場（納入A股）指數成分股為主要投資標的，同時考量基金操作及資金調度需要，輔以交易有關之證券相關商品（例如：ICE小新興市場指數期貨(MME)等與未來經主管機關核可之證券相關商品），使基金整體曝險金額，含基金所持有之證券及證券相關商品，能貼近基金淨資產價值之100%，以達到控制追蹤誤差及追蹤差異值之目的。",
-    "文件下載": "基金概覽年報簡式公開說明書公開說明書"
+    "文件下載": "基金概覽年報公開說明書簡式公開說明書"
   },
   "sectors": [
     {
@@ -96,86 +96,80 @@
     {
       "code": "2330.TW",
       "name": "台積電",
-      "ratio": 13.75,
+      "ratio": 14.14,
       "shares": 13000
     },
     {
       "code": "0700.HK",
       "name": "騰訊控股",
-      "ratio": 3.09,
+      "ratio": 2.96,
       "shares": 3300
     },
     {
       "code": "9988.HK",
       "name": "阿里巴巴－Ｗ",
-      "ratio": 2.37,
+      "ratio": 2.49,
       "shares": 9400
     },
     {
       "code": "2454.TW",
       "name": "聯發科",
-      "ratio": 1.29,
-      "shares": 1000
-    },
-    {
-      "code": "2308.TW",
-      "name": "台達電",
-      "ratio": 1.07,
+      "ratio": 1.72,
       "shares": 1000
     },
     {
       "code": "2360.TW",
       "name": "致茂",
+      "ratio": 1.06,
+      "shares": 1000
+    },
+    {
+      "code": "2308.TW",
+      "name": "台達電",
       "ratio": 1.05,
       "shares": 1000
     },
     {
+      "code": "2317.TW",
+      "name": "鴻海",
+      "ratio": 0.88,
+      "shares": 7400
+    },
+    {
       "code": "",
       "name": "RELIANCE INDUSTRIES LTD",
-      "ratio": 0.87,
+      "ratio": 0.84,
       "shares": 3704
     },
     {
       "code": "0939.HK",
       "name": "建設銀行",
-      "ratio": 0.83,
+      "ratio": 0.78,
       "shares": 47000
-    },
-    {
-      "code": "2317.TW",
-      "name": "鴻海",
-      "ratio": 0.8,
-      "shares": 7400
     },
     {
       "code": "",
       "name": "HDFC BANK LIMITED",
-      "ratio": 0.78,
+      "ratio": 0.76,
       "shares": 6175
     },
     {
       "code": "1398.HK",
       "name": "工商銀行",
-      "ratio": 0.61,
+      "ratio": 0.57,
       "shares": 43000
-    },
-    {
-      "code": "",
-      "name": "ICICI Bank Ltd",
-      "ratio": 0.6,
-      "shares": 2874
     },
     {
       "code": "2885.TW",
       "name": "元大金",
-      "ratio": 0.55,
+      "ratio": 0.57,
       "shares": 21107
     },
     {
-      "code": "1801.HK",
-      "name": "信達生物",
-      "ratio": 0.54,
-      "shares": 3000
+      "code": "",
+      "name": "ICICI Bank Ltd",
+      "ratio": 0.57,
+      "shares": 2874
     },
     {
       "code": "",
@@ -184,28 +178,22 @@
       "shares": 243
     },
     {
-      "code": "",
-      "name": "BANCO BRADESCO SA-PREF",
+      "code": "2327.TW",
+      "name": "國巨",
       "ratio": 0.52,
-      "shares": 8670
+      "shares": 2796
     },
     {
-      "code": "",
-      "name": "BHARTI AIRTEL LTD",
-      "ratio": 0.5,
-      "shares": 1613
+      "code": "6160.HK",
+      "name": "百濟神州",
+      "ratio": 0.51,
+      "shares": 1400
     },
     {
-      "code": "",
-      "name": "B3 SA-BRASIL BOLSA BALCAO",
-      "ratio": 0.5,
-      "shares": 8900
-    },
-    {
-      "code": "0175.HK",
-      "name": "吉利汽車",
-      "ratio": 0.5,
-      "shares": 11000
+      "code": "1801.HK",
+      "name": "信達生物",
+      "ratio": 0.51,
+      "shares": 3000
     },
     {
       "code": "",
@@ -216,44 +204,38 @@
     {
       "code": "",
       "name": "TITAN CO LTD",
-      "ratio": 0.5,
-      "shares": 688
-    },
-    {
-      "code": "6160.HK",
-      "name": "百濟神州",
       "ratio": 0.49,
-      "shares": 1400
-    },
-    {
-      "code": "3037.TW",
-      "name": "欣興",
-      "ratio": 0.47,
-      "shares": 1067
+      "shares": 688
     },
     {
       "code": "3711.TW",
       "name": "日月光投控",
-      "ratio": 0.47,
+      "ratio": 0.49,
       "shares": 2000
     },
     {
-      "code": "2884.TW",
-      "name": "玉山金",
-      "ratio": 0.47,
-      "shares": 30055
-    },
-    {
-      "code": "2412.TW",
-      "name": "中華電",
-      "ratio": 0.47,
-      "shares": 7000
+      "code": "",
+      "name": "BANCO BRADESCO SA-PREF",
+      "ratio": 0.49,
+      "shares": 8670
     },
     {
       "code": "",
-      "name": "BHARAT ELECTRONICS LTD",
+      "name": "B3 SA-BRASIL BOLSA BALCAO",
+      "ratio": 0.48,
+      "shares": 8900
+    },
+    {
+      "code": "0175.HK",
+      "name": "吉利汽車",
+      "ratio": 0.48,
+      "shares": 11000
+    },
+    {
+      "code": "",
+      "name": "BHARTI AIRTEL LTD",
       "ratio": 0.47,
-      "shares": 6596
+      "shares": 1613
     },
     {
       "code": "",
@@ -263,33 +245,33 @@
     },
     {
       "code": "",
+      "name": "長飛光纖光纜股份有限公司",
+      "ratio": 0.47,
+      "shares": 1000
+    },
+    {
+      "code": "",
       "name": "WALMART DE MEXICO SAB DE CV",
       "ratio": 0.47,
       "shares": 9600
     },
     {
-      "code": "9987.HK",
-      "name": "百勝中國",
-      "ratio": 0.46,
-      "shares": 600
-    },
-    {
       "code": "",
-      "name": "POWER GRID CORP OF INDIA LTD",
+      "name": "BHARAT ELECTRONICS LTD",
+      "ratio": 0.46,
+      "shares": 6596
+    },
+    {
+      "code": "2884.TW",
+      "name": "玉山金",
+      "ratio": 0.46,
+      "shares": 30055
+    },
+    {
+      "code": "2412.TW",
+      "name": "中華電",
       "ratio": 0.45,
-      "shares": 8580
-    },
-    {
-      "code": "2886.TW",
-      "name": "兆豐金",
-      "ratio": 0.44,
-      "shares": 22616
-    },
-    {
-      "code": "1303.TW",
-      "name": "南亞",
-      "ratio": 0.44,
-      "shares": 10000
+      "shares": 7000
     },
     {
       "code": "2318.HK",
@@ -298,118 +280,106 @@
       "shares": 3500
     },
     {
-      "code": "2327.TW",
-      "name": "國巨",
+      "code": "",
+      "name": "ANGLOGOLD ASHANTI LTD",
       "ratio": 0.44,
-      "shares": 2796
+      "shares": 279
     },
     {
-      "code": "2269.HK",
-      "name": "藥明生物",
+      "code": "9987.HK",
+      "name": "百勝中國",
       "ratio": 0.43,
-      "shares": 6500
+      "shares": 600
+    },
+    {
+      "code": "2886.TW",
+      "name": "兆豐金",
+      "ratio": 0.43,
+      "shares": 22616
     },
     {
       "code": "",
-      "name": "ITAUSA-INVESTIMENTOS ITAU-PR",
+      "name": "POWER GRID CORP OF INDIA LTD",
       "ratio": 0.43,
-      "shares": 9859
-    },
-    {
-      "code": "",
-      "name": "CIA DE SANEAMENTO BASICO DO ES",
-      "ratio": 0.43,
-      "shares": 4124
-    },
-    {
-      "code": "4958",
-      "name": "臻鼎-KY",
-      "ratio": 0.42,
-      "shares": 2000
-    },
-    {
-      "code": "3231.TW",
-      "name": "緯創",
-      "ratio": 0.41,
-      "shares": 6000
-    },
-    {
-      "code": "1211.HK",
-      "name": "比亞迪股份",
-      "ratio": 0.41,
-      "shares": 2000
-    },
-    {
-      "code": "PDD.US",
-      "name": "PDD",
-      "ratio": 0.41,
-      "shares": 264
+      "shares": 8580
     },
     {
       "code": "",
       "name": "SHRIRAM FINANCE LTD",
-      "ratio": 0.4,
+      "ratio": 0.42,
       "shares": 2619
     },
     {
       "code": "",
-      "name": "ANGLOGOLD ASHANTI LTD",
+      "name": "IMPALA PLATINUM HOLDINGS LTD",
+      "ratio": 0.42,
+      "shares": 1731
+    },
+    {
+      "code": "3231.TW",
+      "name": "緯創",
+      "ratio": 0.42,
+      "shares": 6000
+    },
+    {
+      "code": "1303.TW",
+      "name": "南亞",
+      "ratio": 0.42,
+      "shares": 10000
+    },
+    {
+      "code": "3037.TW",
+      "name": "欣興",
+      "ratio": 0.41,
+      "shares": 1067
+    },
+    {
+      "code": "2269.HK",
+      "name": "藥明生物",
       "ratio": 0.4,
-      "shares": 279
-    },
-    {
-      "code": "",
-      "name": "長飛光纖光纜股份有限公司",
-      "ratio": 0.4,
-      "shares": 1000
-    },
-    {
-      "code": "",
-      "name": "巴西中央電力有限責任公司",
-      "ratio": 0.39,
-      "shares": 2000
-    },
-    {
-      "code": "",
-      "name": "BANCO BTG PACTUAL SA-UNIT",
-      "ratio": 0.39,
-      "shares": 2100
-    },
-    {
-      "code": "0386.HK",
-      "name": "中國石油化工股份",
-      "ratio": 0.39,
-      "shares": 42000
-    },
-    {
-      "code": "2890.TW",
-      "name": "永豐金",
-      "ratio": 0.39,
-      "shares": 25156
-    },
-    {
-      "code": "",
-      "name": "ITAU UNIBANCO HOLDING S-PREF",
-      "ratio": 0.39,
-      "shares": 2886
-    },
-    {
-      "code": "",
-      "name": "HCL Technologies Ltd",
-      "ratio": 0.39,
-      "shares": 1987
+      "shares": 6500
     },
     {
       "code": "",
       "name": "INTL CONTAINER TERM SVCS INC",
-      "ratio": 0.38,
+      "ratio": 0.4,
       "shares": 2090
     },
     {
       "code": "",
-      "name": "INFOSYS LTD",
+      "name": "ITAUSA-INVESTIMENTOS ITAU-PR",
+      "ratio": 0.4,
+      "shares": 9859
+    },
+    {
+      "code": "PDD.US",
+      "name": "PDD",
+      "ratio": 0.39,
+      "shares": 264
+    },
+    {
+      "code": "",
+      "name": "CIA DE SANEAMENTO BASICO DO ES",
+      "ratio": 0.39,
+      "shares": 4124
+    },
+    {
+      "code": "2301.TW",
+      "name": "光寶科",
+      "ratio": 0.39,
+      "shares": 4000
+    },
+    {
+      "code": "1211.HK",
+      "name": "比亞迪股份",
       "ratio": 0.38,
-      "shares": 1928
+      "shares": 2000
+    },
+    {
+      "code": "4958",
+      "name": "臻鼎-KY",
+      "ratio": 0.38,
+      "shares": 2000
     },
     {
       "code": "9992.HK",
@@ -418,76 +388,94 @@
       "shares": 1200
     },
     {
-      "code": "3293.TW",
-      "name": "鈊象",
-      "ratio": 0.37,
-      "shares": 1000
+      "code": "",
+      "name": "HCL Technologies Ltd",
+      "ratio": 0.38,
+      "shares": 1987
     },
     {
       "code": "",
-      "name": "IMPALA PLATINUM HOLDINGS LTD",
+      "name": "AMBEV SA",
       "ratio": 0.37,
-      "shares": 1731
+      "shares": 7400
     },
     {
       "code": "",
-      "name": "PETROBRAS-PETROLEO BRASILEIRO",
+      "name": "BANCO BTG PACTUAL SA-UNIT",
       "ratio": 0.37,
-      "shares": 2400
+      "shares": 2100
     },
     {
-      "code": "2020.HK",
-      "name": "安踏體育",
-      "ratio": 0.36,
-      "shares": 2200
+      "code": "0386.HK",
+      "name": "中國石油化工股份",
+      "ratio": 0.37,
+      "shares": 42000
     },
     {
-      "code": "9999.HK",
-      "name": "網易－Ｓ",
-      "ratio": 0.36,
-      "shares": 1000
+      "code": "2890.TW",
+      "name": "永豐金",
+      "ratio": 0.37,
+      "shares": 25156
     },
     {
       "code": "1810.HK",
       "name": "小米集團－Ｗ",
-      "ratio": 0.35,
+      "ratio": 0.36,
       "shares": 6000
     },
     {
       "code": "",
-      "name": "Naspers Ltd-N SHS",
-      "ratio": 0.35,
-      "shares": 424
+      "name": "巴西中央電力有限責任公司",
+      "ratio": 0.36,
+      "shares": 2000
     },
     {
       "code": "",
-      "name": "PETROBRAS - PETROLEO BRAS",
-      "ratio": 0.34,
-      "shares": 2000
+      "name": "INFOSYS LTD",
+      "ratio": 0.36,
+      "shares": 1928
+    },
+    {
+      "code": "",
+      "name": "ITAU UNIBANCO HOLDING S-PREF",
+      "ratio": 0.36,
+      "shares": 2886
+    },
+    {
+      "code": "9999.HK",
+      "name": "網易－Ｓ",
+      "ratio": 0.35,
+      "shares": 1000
     },
     {
       "code": "1216.TW",
       "name": "統一",
-      "ratio": 0.34,
+      "ratio": 0.35,
       "shares": 10000
     },
     {
       "code": "2883.TW",
       "name": "凱基金",
-      "ratio": 0.34,
+      "ratio": 0.35,
       "shares": 32320
     },
     {
-      "code": "",
-      "name": "AMBEV SA",
-      "ratio": 0.34,
-      "shares": 7400
+      "code": "3293.TW",
+      "name": "鈊象",
+      "ratio": 0.35,
+      "shares": 1000
     },
     {
       "code": "",
       "name": "ARCA CONTINENTAL SAB DE CV",
       "ratio": 0.34,
       "shares": 1800
+    },
+    {
+      "code": "6446",
+      "name": "藥華藥",
+      "ratio": 0.34,
+      "shares": 1000
     },
     {
       "code": "",
@@ -497,117 +485,75 @@
     },
     {
       "code": "",
+      "name": "Naspers Ltd-N SHS",
+      "ratio": 0.34,
+      "shares": 424
+    },
+    {
+      "code": "",
+      "name": "PETROBRAS-PETROLEO BRASILEIRO",
+      "ratio": 0.33,
+      "shares": 2400
+    },
+    {
+      "code": "",
+      "name": "佩諾爾斯工業公司",
+      "ratio": 0.33,
+      "shares": 380
+    },
+    {
+      "code": "",
       "name": "GOLD FIELDS LTD",
       "ratio": 0.33,
       "shares": 498
     },
     {
-      "code": "6446",
-      "name": "藥華藥",
+      "code": "9888.HK",
+      "name": "百度集團－ＳＷ",
       "ratio": 0.33,
-      "shares": 1000
+      "shares": 1200
     },
     {
-      "code": "2301.TW",
-      "name": "光寶科",
+      "code": "2020.HK",
+      "name": "安踏體育",
       "ratio": 0.33,
-      "shares": 4000
-    },
-    {
-      "code": "2892.TW",
-      "name": "第一金",
-      "ratio": 0.32,
-      "shares": 22268
-    },
-    {
-      "code": "9633.HK",
-      "name": "農夫山泉",
-      "ratio": 0.32,
-      "shares": 3400
-    },
-    {
-      "code": "9868.HK",
-      "name": "小鵬集團－Ｗ",
-      "ratio": 0.32,
-      "shares": 2600
-    },
-    {
-      "code": "",
-      "name": "GRUPO AEROPORTUARIO DEL-B SH",
-      "ratio": 0.32,
-      "shares": 825
-    },
-    {
-      "code": "",
-      "name": "EICHER MOTORS LTD",
-      "ratio": 0.31,
-      "shares": 261
-    },
-    {
-      "code": "",
-      "name": "BANK RAKYAT INDONESIA PERSER",
-      "ratio": 0.31,
-      "shares": 115400
-    },
-    {
-      "code": "9866.HK",
-      "name": "蔚來－ＳＷ",
-      "ratio": 0.31,
-      "shares": 3190
-    },
-    {
-      "code": "",
-      "name": "Weichai Power Co Ltd-H",
-      "ratio": 0.31,
-      "shares": 4000
+      "shares": 2200
     },
     {
       "code": "2382.TW",
       "name": "廣達",
-      "ratio": 0.31,
+      "ratio": 0.32,
       "shares": 2000
     },
     {
-      "code": "2057.HK",
-      "name": "中通快遞－Ｗ",
+      "code": "",
+      "name": "Weichai Power Co Ltd-H",
+      "ratio": 0.32,
+      "shares": 4000
+    },
+    {
+      "code": "",
+      "name": "BANK RAKYAT INDONESIA PERSER",
+      "ratio": 0.32,
+      "shares": 115400
+    },
+    {
+      "code": "2344.TW",
+      "name": "華邦電",
       "ratio": 0.31,
-      "shares": 800
+      "shares": 6000
     },
     {
-      "code": "",
-      "name": "ITC LTD",
+      "code": "2357.TW",
+      "name": "華碩",
       "ratio": 0.31,
-      "shares": 5941
+      "shares": 1000
     },
     {
-      "code": "",
-      "name": "佩諾爾斯工業公司",
-      "ratio": 0.3,
-      "shares": 380
-    },
-    {
-      "code": "",
-      "name": "TECH MAHINDRA LTD",
-      "ratio": 0.3,
-      "shares": 1222
-    },
-    {
-      "code": "",
-      "name": "VALE SA",
-      "ratio": 0.3,
-      "shares": 1200
-    },
-    {
-      "code": "3690.HK",
-      "name": "美團－Ｗ",
-      "ratio": 0.3,
-      "shares": 1780
-    },
-    {
-      "code": "2449.TW",
-      "name": "京元電子",
-      "ratio": 0.3,
-      "shares": 2000
+      "code": "2892.TW",
+      "name": "第一金",
+      "ratio": 0.31,
+      "shares": 22268
     },
     {
       "code": "2601.HK",
@@ -616,10 +562,22 @@
       "shares": 4400
     },
     {
-      "code": "9618.HK",
-      "name": "京東集團－ＳＷ",
+      "code": "2395.TW",
+      "name": "研華",
       "ratio": 0.3,
-      "shares": 1292
+      "shares": 1318
+    },
+    {
+      "code": "2449.TW",
+      "name": "京元電子",
+      "ratio": 0.3,
+      "shares": 2000
+    },
+    {
+      "code": "2057.HK",
+      "name": "中通快遞－Ｗ",
+      "ratio": 0.3,
+      "shares": 800
     },
     {
       "code": "",
@@ -629,39 +587,75 @@
     },
     {
       "code": "",
-      "name": "巴西航空工業公司",
-      "ratio": 0.29,
+      "name": "GRUPO AEROPORTUARIO DEL-B SH",
+      "ratio": 0.3,
+      "shares": 825
+    },
+    {
+      "code": "",
+      "name": "EICHER MOTORS LTD",
+      "ratio": 0.3,
+      "shares": 261
+    },
+    {
+      "code": "9868.HK",
+      "name": "小鵬集團－Ｗ",
+      "ratio": 0.3,
+      "shares": 2600
+    },
+    {
+      "code": "9633.HK",
+      "name": "農夫山泉",
+      "ratio": 0.3,
+      "shares": 3400
+    },
+    {
+      "code": "",
+      "name": "PETROBRAS - PETROLEO BRAS",
+      "ratio": 0.3,
+      "shares": 2000
+    },
+    {
+      "code": "",
+      "name": "VALE SA",
+      "ratio": 0.3,
       "shares": 1200
     },
     {
-      "code": "9888.HK",
-      "name": "百度集團－ＳＷ",
+      "code": "",
+      "name": "ITC LTD",
       "ratio": 0.29,
-      "shares": 1200
+      "shares": 5941
+    },
+    {
+      "code": "9618.HK",
+      "name": "京東集團－ＳＷ",
+      "ratio": 0.29,
+      "shares": 1292
+    },
+    {
+      "code": "9866.HK",
+      "name": "蔚來－ＳＷ",
+      "ratio": 0.28,
+      "shares": 3190
     },
     {
       "code": "9961.HK",
       "name": "攜程集團－Ｓ",
-      "ratio": 0.29,
+      "ratio": 0.28,
       "shares": 350
     },
     {
-      "code": "2357.TW",
-      "name": "華碩",
-      "ratio": 0.29,
-      "shares": 1000
-    },
-    {
       "code": "",
-      "name": "PRIO SA",
-      "ratio": 0.29,
-      "shares": 1400
-    },
-    {
-      "code": "",
-      "name": "Tata Motors Ltd /new",
+      "name": "DISCOVERY LTD",
       "ratio": 0.28,
-      "shares": 4081
+      "shares": 1129
+    },
+    {
+      "code": "",
+      "name": "GRUPO MEXICO SAB DE CV-SER B",
+      "ratio": 0.28,
+      "shares": 1600
     },
     {
       "code": "2015.HK",
@@ -670,58 +664,28 @@
       "shares": 2100
     },
     {
-      "code": "1179.HK",
-      "name": "華住集團－Ｓ",
-      "ratio": 0.28,
-      "shares": 3500
-    },
-    {
-      "code": "",
-      "name": "DIVIS LABORATORIES LTD",
-      "ratio": 0.28,
-      "shares": 259
-    },
-    {
-      "code": "",
-      "name": "BID CORP LTD",
-      "ratio": 0.27,
-      "shares": 699
-    },
-    {
-      "code": "",
-      "name": "DR. REDDYS LABORATORIES",
-      "ratio": 0.27,
-      "shares": 1217
-    },
-    {
-      "code": "",
-      "name": "DISCOVERY LTD",
-      "ratio": 0.27,
-      "shares": 1129
-    },
-    {
-      "code": "",
-      "name": "GRUPO MEXICO SAB DE CV-SER B",
-      "ratio": 0.27,
-      "shares": 1600
-    },
-    {
-      "code": "9926.HK",
-      "name": "康方生物",
-      "ratio": 0.27,
-      "shares": 1000
-    },
-    {
-      "code": "2344.TW",
-      "name": "華邦電",
-      "ratio": 0.27,
-      "shares": 6000
-    },
-    {
       "code": "2379.TW",
       "name": "瑞昱",
-      "ratio": 0.27,
+      "ratio": 0.28,
       "shares": 1000
+    },
+    {
+      "code": "3690.HK",
+      "name": "美團－Ｗ",
+      "ratio": 0.28,
+      "shares": 1780
+    },
+    {
+      "code": "",
+      "name": "Tata Motors Ltd /new",
+      "ratio": 0.28,
+      "shares": 4081
+    },
+    {
+      "code": "",
+      "name": "TECH MAHINDRA LTD",
+      "ratio": 0.28,
+      "shares": 1222
     },
     {
       "code": "",
@@ -731,9 +695,51 @@
     },
     {
       "code": "",
-      "name": "TRENT LTD",
+      "name": "PRIO SA",
+      "ratio": 0.27,
+      "shares": 1400
+    },
+    {
+      "code": "2891.TW",
+      "name": "中信金",
+      "ratio": 0.27,
+      "shares": 10000
+    },
+    {
+      "code": "",
+      "name": "DIVIS LABORATORIES LTD",
+      "ratio": 0.27,
+      "shares": 259
+    },
+    {
+      "code": "",
+      "name": "巴西航空工業公司",
+      "ratio": 0.27,
+      "shares": 1200
+    },
+    {
+      "code": "",
+      "name": "BID CORP LTD",
       "ratio": 0.26,
-      "shares": 379
+      "shares": 699
+    },
+    {
+      "code": "9926.HK",
+      "name": "康方生物",
+      "ratio": 0.26,
+      "shares": 1000
+    },
+    {
+      "code": "",
+      "name": "APOLLO HOSPITALS ENTERPRISE",
+      "ratio": 0.26,
+      "shares": 202
+    },
+    {
+      "code": "2408.TW",
+      "name": "南亞科",
+      "ratio": 0.26,
+      "shares": 2000
     },
     {
       "code": "",
@@ -748,28 +754,64 @@
       "shares": 3312
     },
     {
-      "code": "2891.TW",
-      "name": "中信金",
-      "ratio": 0.26,
-      "shares": 10000
+      "code": "",
+      "name": "TATA CONSUMER PRODUCTS LTD",
+      "ratio": 0.25,
+      "shares": 1331
+    },
+    {
+      "code": "",
+      "name": "SBI LIFE INSURANCE CO LTD",
+      "ratio": 0.25,
+      "shares": 851
+    },
+    {
+      "code": "",
+      "name": "TRENT LTD",
+      "ratio": 0.25,
+      "shares": 379
+    },
+    {
+      "code": "",
+      "name": "JIO FINANCIAL SERVICES LTD",
+      "ratio": 0.25,
+      "shares": 6274
+    },
+    {
+      "code": "1347.HK",
+      "name": "華虹半導體",
+      "ratio": 0.25,
+      "shares": 1000
+    },
+    {
+      "code": "1179.HK",
+      "name": "華住集團－Ｓ",
+      "ratio": 0.25,
+      "shares": 3500
     },
     {
       "code": "0998.HK",
       "name": "中信銀行",
-      "ratio": 0.26,
+      "ratio": 0.25,
       "shares": 16000
     },
     {
       "code": "5880.TW",
       "name": "合庫金",
-      "ratio": 0.26,
+      "ratio": 0.25,
       "shares": 22697
     },
     {
       "code": "",
-      "name": "APOLLO HOSPITALS ENTERPRISE",
+      "name": "孟買證券交易所",
       "ratio": 0.25,
-      "shares": 202
+      "shares": 409
+    },
+    {
+      "code": "",
+      "name": "DR. REDDYS LABORATORIES",
+      "ratio": 0.25,
+      "shares": 1217
     },
     {
       "code": "",
@@ -780,32 +822,26 @@
     {
       "code": "",
       "name": "Cipla有限公司",
-      "ratio": 0.25,
+      "ratio": 0.24,
       "shares": 1151
     },
     {
-      "code": "",
-      "name": "孟買證券交易所",
-      "ratio": 0.25,
-      "shares": 409
+      "code": "2628.HK",
+      "name": "中國人壽",
+      "ratio": 0.24,
+      "shares": 4000
     },
     {
-      "code": "",
-      "name": "SBI LIFE INSURANCE CO LTD",
-      "ratio": 0.25,
-      "shares": 851
+      "code": "2881.TW",
+      "name": "富邦金",
+      "ratio": 0.24,
+      "shares": 5273
     },
     {
-      "code": "",
-      "name": "TATA CONSUMER PRODUCTS LTD",
-      "ratio": 0.25,
-      "shares": 1331
-    },
-    {
-      "code": "",
-      "name": "JIO FINANCIAL SERVICES LTD",
-      "ratio": 0.25,
-      "shares": 6274
+      "code": "3034.TW",
+      "name": "聯詠",
+      "ratio": 0.24,
+      "shares": 1000
     },
     {
       "code": "",
@@ -815,15 +851,9 @@
     },
     {
       "code": "",
-      "name": "NEDBANK GROUP LTD",
+      "name": "NORTHAM PLATINUM HOLDINGS LT",
       "ratio": 0.24,
-      "shares": 952
-    },
-    {
-      "code": "",
-      "name": "Tata Consultancy Services Ltd",
-      "ratio": 0.24,
-      "shares": 586
+      "shares": 744
     },
     {
       "code": "",
@@ -834,38 +864,38 @@
     {
       "code": "",
       "name": "VARUN BEVERAGES LTD",
-      "ratio": 0.24,
+      "ratio": 0.23,
       "shares": 2846
     },
     {
-      "code": "2881.TW",
-      "name": "富邦金",
-      "ratio": 0.24,
-      "shares": 5273
+      "code": "",
+      "name": "LOCALIZA RENT A CAR",
+      "ratio": 0.23,
+      "shares": 1500
+    },
+    {
+      "code": "",
+      "name": "NEDBANK GROUP LTD",
+      "ratio": 0.23,
+      "shares": 952
+    },
+    {
+      "code": "3044",
+      "name": "健鼎",
+      "ratio": 0.23,
+      "shares": 1000
     },
     {
       "code": "3988.HK",
       "name": "中國銀行",
-      "ratio": 0.24,
+      "ratio": 0.23,
       "shares": 24000
     },
     {
-      "code": "2628.HK",
-      "name": "中國人壽",
+      "code": "3993.HK",
+      "name": "洛陽鉬業",
       "ratio": 0.23,
-      "shares": 4000
-    },
-    {
-      "code": "2395.TW",
-      "name": "研華",
-      "ratio": 0.23,
-      "shares": 1318
-    },
-    {
-      "code": "1347.HK",
-      "name": "華虹半導體",
-      "ratio": 0.23,
-      "shares": 1000
+      "shares": 6000
     },
     {
       "code": "",
@@ -875,33 +905,21 @@
     },
     {
       "code": "",
-      "name": "BRITANNIA INDUSTRIES LTD",
-      "ratio": 0.23,
-      "shares": 243
-    },
-    {
-      "code": "",
-      "name": "AVENUE SUPERMARTS LTD",
-      "ratio": 0.23,
-      "shares": 309
-    },
-    {
-      "code": "",
       "name": "BAJAJ AUTO LTD",
       "ratio": 0.23,
       "shares": 138
     },
     {
       "code": "",
-      "name": "IHH HEALTHCARE BHD",
-      "ratio": 0.23,
-      "shares": 6500
+      "name": "BAJAJ FINSERV LTD",
+      "ratio": 0.22,
+      "shares": 779
     },
     {
-      "code": "",
-      "name": "NORTHAM PLATINUM HOLDINGS LT",
+      "code": "3481.TW",
+      "name": "群創",
       "ratio": 0.22,
-      "shares": 744
+      "shares": 16088
     },
     {
       "code": "",
@@ -911,9 +929,21 @@
     },
     {
       "code": "",
-      "name": "LOCALIZA RENT A CAR",
+      "name": "IHH HEALTHCARE BHD",
       "ratio": 0.22,
-      "shares": 1500
+      "shares": 6500
+    },
+    {
+      "code": "",
+      "name": "HERO MOTOCORP LTD",
+      "ratio": 0.22,
+      "shares": 267
+    },
+    {
+      "code": "",
+      "name": "Tata Consultancy Services Ltd",
+      "ratio": 0.22,
+      "shares": 586
     },
     {
       "code": "",
@@ -924,86 +954,38 @@
     {
       "code": "",
       "name": "STANDARD BANK GROUP LTD",
-      "ratio": 0.22,
+      "ratio": 0.21,
       "shares": 745
     },
     {
-      "code": "",
-      "name": "BAJAJ FINSERV LTD",
-      "ratio": 0.22,
-      "shares": 779
-    },
-    {
-      "code": "",
-      "name": "HERO MOTOCORP LTD",
-      "ratio": 0.22,
-      "shares": 267
-    },
-    {
-      "code": "",
-      "name": "ASTRA INTERNATIONAL TBK PT",
-      "ratio": 0.22,
-      "shares": 41000
-    },
-    {
-      "code": "1093.HK",
-      "name": "石藥集團",
-      "ratio": 0.22,
-      "shares": 13000
-    },
-    {
-      "code": "0300.HK",
-      "name": "美的集團",
-      "ratio": 0.22,
-      "shares": 1200
-    },
-    {
-      "code": "3044",
-      "name": "健鼎",
-      "ratio": 0.22,
-      "shares": 1000
-    },
-    {
-      "code": "3993.HK",
-      "name": "洛陽鉬業",
-      "ratio": 0.21,
-      "shares": 6000
-    },
-    {
-      "code": "5871.TW",
-      "name": "中租-KY",
-      "ratio": 0.21,
-      "shares": 3683
-    },
-    {
-      "code": "1519.HK",
-      "name": "極兔速遞－Ｗ",
-      "ratio": 0.21,
-      "shares": 10800
-    },
-    {
-      "code": "2408.TW",
-      "name": "南亞科",
+      "code": "6239.TW",
+      "name": "力成",
       "ratio": 0.21,
       "shares": 2000
     },
     {
-      "code": "2319.HK",
-      "name": "蒙牛乳業",
+      "code": "",
+      "name": "BRITANNIA INDUSTRIES LTD",
       "ratio": 0.21,
-      "shares": 6000
+      "shares": 243
     },
     {
       "code": "",
-      "name": "BHARAT PETROLEUM CORP LTD",
+      "name": "AVENUE SUPERMARTS LTD",
       "ratio": 0.21,
-      "shares": 4199
+      "shares": 309
     },
     {
       "code": "",
-      "name": "CAPITEC BANK HOLDINGS LTD",
+      "name": "ASTRA INTERNATIONAL TBK PT",
+      "ratio": 0.21,
+      "shares": 41000
+    },
+    {
+      "code": "6770",
+      "name": "力積電",
       "ratio": 0.2,
-      "shares": 49
+      "shares": 7000
     },
     {
       "code": "",
@@ -1013,21 +995,15 @@
     },
     {
       "code": "",
-      "name": "BANCO DO BRASIL SA",
+      "name": "BHARAT PETROLEUM CORP LTD",
       "ratio": 0.2,
-      "shares": 2900
+      "shares": 4199
     },
     {
-      "code": "1177.HK",
-      "name": "中國生物製藥",
+      "code": "5871.TW",
+      "name": "中租-KY",
       "ratio": 0.2,
-      "shares": 18000
-    },
-    {
-      "code": "6239.TW",
-      "name": "力成",
-      "ratio": 0.2,
-      "shares": 2000
+      "shares": 3683
     },
     {
       "code": "4938.TW",
@@ -1036,22 +1012,28 @@
       "shares": 5000
     },
     {
-      "code": "3034.TW",
-      "name": "聯詠",
+      "code": "1093.HK",
+      "name": "石藥集團",
       "ratio": 0.2,
-      "shares": 1000
+      "shares": 13000
+    },
+    {
+      "code": "1519.HK",
+      "name": "極兔速遞－Ｗ",
+      "ratio": 0.2,
+      "shares": 10800
+    },
+    {
+      "code": "2319.HK",
+      "name": "蒙牛乳業",
+      "ratio": 0.2,
+      "shares": 6000
     },
     {
       "code": "",
-      "name": "WIPRO LTD",
+      "name": "INDIAN HOTELS CO LTD",
       "ratio": 0.2,
-      "shares": 6183
-    },
-    {
-      "code": "",
-      "name": "PB FINTECH LTD",
-      "ratio": 0.2,
-      "shares": 727
+      "shares": 1843
     },
     {
       "code": "",
@@ -1061,15 +1043,9 @@
     },
     {
       "code": "",
-      "name": "MALAYAN BANKING BHD",
+      "name": "HINDUSTAN UNILEVER LTD",
       "ratio": 0.19,
-      "shares": 4300
-    },
-    {
-      "code": "",
-      "name": "INDIAN HOTELS CO LTD",
-      "ratio": 0.19,
-      "shares": 1843
+      "shares": 514
     },
     {
       "code": "",
@@ -1079,57 +1055,51 @@
     },
     {
       "code": "",
+      "name": "PERSISTENT SYSTEMS LTD",
+      "ratio": 0.19,
+      "shares": 231
+    },
+    {
+      "code": "",
+      "name": "PB FINTECH LTD",
+      "ratio": 0.19,
+      "shares": 727
+    },
+    {
+      "code": "",
       "name": "聖路易斯醫院有限責任公司",
       "ratio": 0.19,
       "shares": 1600
     },
     {
-      "code": "3481.TW",
-      "name": "群創",
+      "code": "",
+      "name": "WIPRO LTD",
       "ratio": 0.19,
-      "shares": 16088
+      "shares": 6183
     },
     {
-      "code": "3968.HK",
-      "name": "招商銀行",
-      "ratio": 0.19,
-      "shares": 2000
-    },
-    {
-      "code": "4904.TW",
-      "name": "遠傳",
-      "ratio": 0.19,
-      "shares": 4000
-    },
-    {
-      "code": "2801.TW",
-      "name": "彰銀",
+      "code": "1177.HK",
+      "name": "中國生物製藥",
       "ratio": 0.19,
       "shares": 18000
     },
     {
-      "code": "1288.HK",
-      "name": "農業銀行",
+      "code": "0300.HK",
+      "name": "美的集團",
       "ratio": 0.19,
-      "shares": 16000
+      "shares": 1200
     },
     {
       "code": "",
-      "name": "AMERICA MOVIL SAB DE CV",
+      "name": "CAPITEC BANK HOLDINGS LTD",
       "ratio": 0.19,
-      "shares": 9200
+      "shares": 49
     },
     {
       "code": "",
-      "name": "Federal Bank Ltd",
+      "name": "BANCO DO BRASIL SA",
       "ratio": 0.19,
-      "shares": 4123
-    },
-    {
-      "code": "",
-      "name": "HINDUSTAN UNILEVER LTD",
-      "ratio": 0.19,
-      "shares": 514
+      "shares": 2900
     },
     {
       "code": "",
@@ -1139,9 +1109,15 @@
     },
     {
       "code": "",
-      "name": "FOMENTO ECONOMICO MEXICA-UBD",
-      "ratio": 0.18,
-      "shares": 1000
+      "name": "Federal Bank Ltd",
+      "ratio": 0.19,
+      "shares": 4123
+    },
+    {
+      "code": "",
+      "name": "AMERICA MOVIL SAB DE CV",
+      "ratio": 0.19,
+      "shares": 9200
     },
     {
       "code": "9626.HK",
@@ -1150,46 +1126,34 @@
       "shares": 520
     },
     {
-      "code": "6618.HK",
-      "name": "京東健康",
-      "ratio": 0.18,
-      "shares": 1950
-    },
-    {
-      "code": "6690.HK",
-      "name": "海爾智家",
-      "ratio": 0.18,
-      "shares": 4200
-    },
-    {
-      "code": "6770",
-      "name": "力積電",
-      "ratio": 0.18,
-      "shares": 7000
-    },
-    {
-      "code": "2331.HK",
-      "name": "李寧",
-      "ratio": 0.18,
-      "shares": 4500
-    },
-    {
-      "code": "2688.HK",
-      "name": "新奧能源",
-      "ratio": 0.18,
-      "shares": 1500
-    },
-    {
       "code": "",
-      "name": "PERSISTENT SYSTEMS LTD",
+      "name": "FOMENTO ECONOMICO MEXICA-UBD",
       "ratio": 0.18,
-      "shares": 231
+      "shares": 1000
     },
     {
-      "code": "",
-      "name": "NEPI ROCKCASTLE PLC",
+      "code": "2801.TW",
+      "name": "彰銀",
       "ratio": 0.18,
-      "shares": 1365
+      "shares": 18000
+    },
+    {
+      "code": "4904.TW",
+      "name": "遠傳",
+      "ratio": 0.18,
+      "shares": 4000
+    },
+    {
+      "code": "3968.HK",
+      "name": "招商銀行",
+      "ratio": 0.18,
+      "shares": 2000
+    },
+    {
+      "code": "1288.HK",
+      "name": "農業銀行",
+      "ratio": 0.18,
+      "shares": 16000
     },
     {
       "code": "",
@@ -1199,9 +1163,21 @@
     },
     {
       "code": "",
-      "name": "TORRENT PHARMACEUTICALS LTD",
+      "name": "NEPI ROCKCASTLE PLC",
+      "ratio": 0.18,
+      "shares": 1365
+    },
+    {
+      "code": "",
+      "name": "MALAYAN BANKING BHD",
+      "ratio": 0.18,
+      "shares": 4300
+    },
+    {
+      "code": "",
+      "name": "MAHINDRA & MAHINDRA LTD",
       "ratio": 0.17,
-      "shares": 240
+      "shares": 318
     },
     {
       "code": "",
@@ -1210,22 +1186,10 @@
       "shares": 8175
     },
     {
-      "code": "2887.TW",
-      "name": "台新新光金",
+      "code": "",
+      "name": "TORRENT PHARMACEUTICALS LTD",
       "ratio": 0.17,
-      "shares": 14498
-    },
-    {
-      "code": "5876.TW",
-      "name": "上海商銀",
-      "ratio": 0.17,
-      "shares": 8586
-    },
-    {
-      "code": "3045.TW",
-      "name": "台灣大",
-      "ratio": 0.17,
-      "shares": 3000
+      "shares": 240
     },
     {
       "code": "",
@@ -1234,10 +1198,40 @@
       "shares": 1700
     },
     {
-      "code": "",
-      "name": "AXIS BANK LTD",
+      "code": "2303.TW",
+      "name": "聯電",
       "ratio": 0.17,
-      "shares": 796
+      "shares": 4000
+    },
+    {
+      "code": "2331.HK",
+      "name": "李寧",
+      "ratio": 0.17,
+      "shares": 4500
+    },
+    {
+      "code": "2688.HK",
+      "name": "新奧能源",
+      "ratio": 0.17,
+      "shares": 1500
+    },
+    {
+      "code": "",
+      "name": "GRUPO FINANCIERO BANORTE-O",
+      "ratio": 0.17,
+      "shares": 1000
+    },
+    {
+      "code": "6618.HK",
+      "name": "京東健康",
+      "ratio": 0.17,
+      "shares": 1950
+    },
+    {
+      "code": "6690.HK",
+      "name": "海爾智家",
+      "ratio": 0.17,
+      "shares": 4200
     },
     {
       "code": "",
@@ -1253,9 +1247,27 @@
     },
     {
       "code": "",
-      "name": "GRUPO FINANCIERO BANORTE-O",
-      "ratio": 0.17,
-      "shares": 1000
+      "name": "AXIS BANK LTD",
+      "ratio": 0.16,
+      "shares": 796
+    },
+    {
+      "code": "2887.TW",
+      "name": "台新新光金",
+      "ratio": 0.16,
+      "shares": 14498
+    },
+    {
+      "code": "3045.TW",
+      "name": "台灣大",
+      "ratio": 0.16,
+      "shares": 3000
+    },
+    {
+      "code": "5876.TW",
+      "name": "上海商銀",
+      "ratio": 0.16,
+      "shares": 8586
     },
     {
       "code": "1339.HK",
@@ -1264,10 +1276,10 @@
       "shares": 15000
     },
     {
-      "code": "",
-      "name": "MAHINDRA & MAHINDRA LTD",
+      "code": "1024.HK",
+      "name": "快手－Ｗ",
       "ratio": 0.16,
-      "shares": 318
+      "shares": 1600
     },
     {
       "code": "",
@@ -1276,33 +1288,15 @@
       "shares": 1200
     },
     {
-      "code": "2303.TW",
-      "name": "聯電",
-      "ratio": 0.15,
-      "shares": 4000
-    },
-    {
-      "code": "1024.HK",
-      "name": "快手－Ｗ",
-      "ratio": 0.14,
-      "shares": 1600
-    },
-    {
-      "code": "",
-      "name": "AMMAN MINERAL INTERNASIONAL",
-      "ratio": 0.13,
-      "shares": 27300
-    },
-    {
       "code": "",
       "name": "STATE BANK OF INDIA",
-      "ratio": 0.12,
+      "ratio": 0.11,
       "shares": 654
     },
     {
       "code": "",
       "name": "KOTAK MAHINDRA BANK LTD",
-      "ratio": 0.12,
+      "ratio": 0.11,
       "shares": 1897
     },
     {
@@ -1310,6 +1304,12 @@
       "name": "國泰金",
       "ratio": 0.11,
       "shares": 2816
+    },
+    {
+      "code": "",
+      "name": "AMMAN MINERAL INTERNASIONAL",
+      "ratio": 0.1,
+      "shares": 27300
     },
     {
       "code": "",
