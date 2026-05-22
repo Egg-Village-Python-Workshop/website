@@ -1,7 +1,7 @@
 {
   "id": "00660",
   "name": "元大歐洲50",
-  "fetched_at": "2026-05-11",
+  "fetched_at": "2026-05-18",
   "capital": {
     "ETF名稱": "元大歐洲50",
     "交易所代碼": "00660",
@@ -15,7 +15,7 @@
     "上市日期": "2016/06/15",
     "成分股數": 50,
     "ETF規模": "346.78(百萬台幣)(2026/04/30)",
-    "成交量(股)": "14,839（月均:29,195）",
+    "成交量(股)": "55,201（月均:30,860）",
     "投資標的": "股票型",
     "經理人": "許家瑋",
     "投資區域": "歐洲",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "年配",
     "經理費(%)": "0.5",
-    "殖利率(%)": "0.84（05/11）",
+    "殖利率(%)": "0.86（05/18）",
     "總管理費用(%)": "0.96 (含 0.46 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://www.yuantaetfs.com/product/detail/00660/Basic_information",
-    "ETF市價": "42.9100（05/11）",
+    "ETF市價": "42.0400（05/18）",
     "融資交易": "Y",
-    "ETF淨值": "43.5400（05/08）",
+    "ETF淨值": "42.9600（05/15）",
     "放空交易": "Y",
-    "折溢價(%)": "-0.99(月均:-1.01)",
+    "折溢價(%)": "-1.00(月均:-1.17)",
     "選擇權交易": "",
-    "年化標準差(%)": "8.44（05/11）",
+    "年化標準差(%)": "9.47（05/18）",
     "槓桿多空註記": "",
     "追蹤指數": "歐洲STOXX50指數",
     "基準指數": "道瓊歐洲指數",
@@ -43,360 +43,59 @@
   "sectors": [
     {
       "name": "金融",
-      "amount_wan": 7770.2,
-      "ratio": 23.79
+      "amount_wan": 8367.7,
+      "ratio": 24.13
     },
     {
       "name": "工業",
-      "amount_wan": 6355.9,
-      "ratio": 19.46
+      "amount_wan": 7157.5,
+      "ratio": 20.64
     },
     {
       "name": "資訊科技",
-      "amount_wan": 4526.9,
-      "ratio": 13.86
+      "amount_wan": 5021.3,
+      "ratio": 14.48
     },
     {
       "name": "非日常生活消費品",
-      "amount_wan": 3161.6,
-      "ratio": 9.68
+      "amount_wan": 3190.3,
+      "ratio": 9.2
     },
     {
       "name": "現金",
-      "amount_wan": 2093.6,
-      "ratio": 6.41
-    },
-    {
-      "name": "醫療保健",
-      "amount_wan": 1786.6,
-      "ratio": 5.47
+      "amount_wan": 2209.0,
+      "ratio": 6.37
     },
     {
       "name": "日常消費品",
-      "amount_wan": 1727.8,
-      "ratio": 5.29
+      "amount_wan": 1792.8,
+      "ratio": 5.17
+    },
+    {
+      "name": "醫療保健",
+      "amount_wan": 1740.8,
+      "ratio": 5.02
     },
     {
       "name": "能源",
-      "amount_wan": 1727.8,
-      "ratio": 5.29
+      "amount_wan": 1699.2,
+      "ratio": 4.9
     },
     {
       "name": "公用事業",
-      "amount_wan": 1499.2,
-      "ratio": 4.59
+      "amount_wan": 1553.6,
+      "ratio": 4.48
     },
     {
       "name": "原材料",
-      "amount_wan": 1149.7,
-      "ratio": 3.52
+      "amount_wan": 1196.4,
+      "ratio": 3.45
     },
     {
       "name": "通訊服務",
-      "amount_wan": 862.3,
-      "ratio": 2.64
+      "amount_wan": 749.0,
+      "ratio": 2.16
     }
   ],
-  "holdings": [
-    {
-      "code": "",
-      "name": "ASML HOLDING NV",
-      "ratio": 10.14,
-      "shares": 728
-    },
-    {
-      "code": "",
-      "name": "SIEMENS AG-REG",
-      "ratio": 4.39,
-      "shares": 1570
-    },
-    {
-      "code": "",
-      "name": "TOTALENERGIES SE",
-      "ratio": 3.66,
-      "shares": 4570
-    },
-    {
-      "code": "",
-      "name": "SCHNEIDER ELECTRIC SE",
-      "ratio": 3.47,
-      "shares": 1205
-    },
-    {
-      "code": "",
-      "name": "BANCO SANTANDER SA",
-      "ratio": 3.39,
-      "shares": 30676
-    },
-    {
-      "code": "",
-      "name": "SAP SE",
-      "ratio": 3.29,
-      "shares": 2133
-    },
-    {
-      "code": "",
-      "name": "ALLIANZ SE-REG",
-      "ratio": 3.09,
-      "shares": 794
-    },
-    {
-      "code": "",
-      "name": "SIEMENS ENERGY AG",
-      "ratio": 3.04,
-      "shares": 1615
-    },
-    {
-      "code": "",
-      "name": "IBERDROLA SA",
-      "ratio": 2.66,
-      "shares": 12957
-    },
-    {
-      "code": "",
-      "name": "LVMH MOET HENNESSY LOUIS VUI",
-      "ratio": 2.6,
-      "shares": 522
-    },
-    {
-      "code": "",
-      "name": "BANCO BILBAO VIZCAYA ARGENTA",
-      "ratio": 2.38,
-      "shares": 11922
-    },
-    {
-      "code": "",
-      "name": "UNICREDIT SPA",
-      "ratio": 2.34,
-      "shares": 3150
-    },
-    {
-      "code": "",
-      "name": "SAFRAN SA",
-      "ratio": 2.33,
-      "shares": 771
-    },
-    {
-      "code": "",
-      "name": "AIRBUS SE",
-      "ratio": 2.33,
-      "shares": 1229
-    },
-    {
-      "code": "",
-      "name": "AIR LIQUIDE SA",
-      "ratio": 2.24,
-      "shares": 1210
-    },
-    {
-      "code": "",
-      "name": "DEUTSCHE TELEKOM AG-REG",
-      "ratio": 2.12,
-      "shares": 7349
-    },
-    {
-      "code": "",
-      "name": "BNP PARIBAS",
-      "ratio": 2.09,
-      "shares": 2168
-    },
-    {
-      "code": "",
-      "name": "INTESA SANPAOLO",
-      "ratio": 1.96,
-      "shares": 31946
-    },
-    {
-      "code": "",
-      "name": "L`OREAL",
-      "ratio": 1.92,
-      "shares": 502
-    },
-    {
-      "code": "",
-      "name": "SANOFI",
-      "ratio": 1.82,
-      "shares": 2362
-    },
-    {
-      "code": "",
-      "name": "INFINEON TECHNOLOGIES AG",
-      "ratio": 1.77,
-      "shares": 2727
-    },
-    {
-      "code": "",
-      "name": "ENEL SPA",
-      "ratio": 1.65,
-      "shares": 16223
-    },
-    {
-      "code": "",
-      "name": "VINCI SA",
-      "ratio": 1.65,
-      "shares": 1216
-    },
-    {
-      "code": "",
-      "name": "ING GROEP NV",
-      "ratio": 1.64,
-      "shares": 6099
-    },
-    {
-      "code": "",
-      "name": "AXA SA",
-      "ratio": 1.59,
-      "shares": 3683
-    },
-    {
-      "code": "",
-      "name": "ANHEUSER-BUSCH INBEV SA/NV",
-      "ratio": 1.53,
-      "shares": 2144
-    },
-    {
-      "code": "",
-      "name": "MUENCHENER RUECKVER AG-REG",
-      "ratio": 1.45,
-      "shares": 273
-    },
-    {
-      "code": "",
-      "name": "HERMES INTERNATIONAL",
-      "ratio": 1.28,
-      "shares": 73
-    },
-    {
-      "code": "",
-      "name": "INDUSTRIA DE DISENO TEXTIL",
-      "ratio": 1.26,
-      "shares": 2321
-    },
-    {
-      "code": "",
-      "name": "RHEINMETALL AG",
-      "ratio": 1.23,
-      "shares": 96
-    },
-    {
-      "code": "",
-      "name": "NORDEA BANK ABP",
-      "ratio": 1.18,
-      "shares": 7158
-    },
-    {
-      "code": "",
-      "name": "ESSILORLUXOTTICA",
-      "ratio": 1.18,
-      "shares": 654
-    },
-    {
-      "code": "",
-      "name": "DEUTSCHE BANK AG-REGISTERED",
-      "ratio": 1.14,
-      "shares": 3990
-    },
-    {
-      "code": "",
-      "name": "PROSUS NV",
-      "ratio": 1.11,
-      "shares": 2568
-    },
-    {
-      "code": "",
-      "name": "BASF SE",
-      "ratio": 1.02,
-      "shares": 1864
-    },
-    {
-      "code": "",
-      "name": "DEUTSCHE BOERSE AG",
-      "ratio": 1.0,
-      "shares": 389
-    },
-    {
-      "code": "",
-      "name": "DHL GROUP",
-      "ratio": 0.98,
-      "shares": 1976
-    },
-    {
-      "code": "",
-      "name": "ENI SPA",
-      "ratio": 0.97,
-      "shares": 4053
-    },
-    {
-      "code": "",
-      "name": "ARGENX SE",
-      "ratio": 0.91,
-      "shares": 129
-    },
-    {
-      "code": "",
-      "name": "DANONE",
-      "ratio": 0.89,
-      "shares": 1337
-    },
-    {
-      "code": "",
-      "name": "COMPAGNIE DE SAINT GOBAIN",
-      "ratio": 0.86,
-      "shares": 1033
-    },
-    {
-      "code": "",
-      "name": "BAYER AG-REG",
-      "ratio": 0.8,
-      "shares": 2052
-    },
-    {
-      "code": "",
-      "name": "MERCEDES-BENZ GROUP AG",
-      "ratio": 0.8,
-      "shares": 1503
-    },
-    {
-      "code": "",
-      "name": "FERRARI NV",
-      "ratio": 0.77,
-      "shares": 251
-    },
-    {
-      "code": "",
-      "name": "KONINKLIJKE AHOLD DELHAIZE N",
-      "ratio": 0.73,
-      "shares": 1861
-    },
-    {
-      "code": "",
-      "name": "ADYEN NV",
-      "ratio": 0.66,
-      "shares": 66
-    },
-    {
-      "code": "",
-      "name": "ADIDAS AG",
-      "ratio": 0.58,
-      "shares": 376
-    },
-    {
-      "code": "",
-      "name": "BAYERISCHE MOTOREN WERKE AG",
-      "ratio": 0.5,
-      "shares": 584
-    },
-    {
-      "code": "",
-      "name": "VOLKSWAGEN AG-PREF",
-      "ratio": 0.4,
-      "shares": 431
-    },
-    {
-      "code": "",
-      "name": "WOLTERS KLUWER",
-      "ratio": 0.32,
-      "shares": 486
-    }
-  ]
+  "holdings": []
 }

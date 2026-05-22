@@ -1,7 +1,7 @@
 {
   "id": "00984D",
   "name": "主動聯博全球非投",
-  "fetched_at": "2026-05-11",
+  "fetched_at": "2026-05-18",
   "capital": {
     "ETF名稱": "主動聯博全球非投",
     "交易所代碼": "00984D",
@@ -13,9 +13,9 @@
     "成立日期": "2026/01/22（已成立0年）",
     "淨值幣別": "台幣",
     "上市日期": "2026/02/04",
-    "成分股數": 173,
+    "成分股數": 241,
     "ETF規模": "2,031.46(百萬台幣)(2026/04/30)",
-    "成交量(股)": "3,518,866（月均:8,201,390）",
+    "成交量(股)": "4,232,936（月均:8,435,107）",
     "投資標的": "非投資等級債券",
     "經理人": "陳俊憲",
     "投資區域": "全球",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "月配",
     "經理費(%)": "0.8",
-    "殖利率(%)": "10.16（05/11）",
+    "殖利率(%)": "10.19（05/18）",
     "總管理費用(%)": "",
     "經銷商": "",
     "官方網站連結": "https://www.abfunds.com.tw/zh-tw/funds/etf/active/fixed-income/abitl-select-global-high-yield-active-etf.-.TW00000984D0.html",
-    "ETF市價": "10.0400（05/11）",
+    "ETF市價": "10.0100（05/18）",
     "融資交易": "Y",
-    "ETF淨值": "10.0142（05/08）",
+    "ETF淨值": "10.0079（05/15）",
     "放空交易": "Y",
-    "折溢價(%)": "0.16(月均:0.15)",
+    "折溢價(%)": "0.22(月均:0.32)",
     "選擇權交易": "",
-    "年化標準差(%)": "N/A（05/11）",
+    "年化標準差(%)": "N/A（05/18）",
     "槓桿多空註記": "",
     "追蹤指數": "",
     "基準指數": "北方信託高收益價值評分美國公司債指數",
@@ -45,91 +45,79 @@
     {
       "code": "CBT",
       "name": "US 10YR NOTE",
-      "ratio": 3.2,
+      "ratio": 3.07,
       "shares": null
     },
     {
       "code": "CBT",
       "name": "US 5YR NOTE",
-      "ratio": 1.87,
+      "ratio": 1.8,
       "shares": null
     },
     {
       "code": "",
       "name": "OAK-EAGLE ACQUIRECO INC 8.75% 01JUL2034",
-      "ratio": 1.18,
+      "ratio": 1.15,
       "shares": null
     },
     {
       "code": "REG",
       "name": "CIVITAS RESOURCES INC SER REGS",
-      "ratio": 1.16,
+      "ratio": 1.12,
       "shares": null
     },
     {
       "code": "REG S",
       "name": "UNIVISION COMMUNICATIONS SER REGS",
-      "ratio": 1.1,
+      "ratio": 1.05,
       "shares": null
     },
     {
       "code": "REG S",
       "name": "VENTURE GLOBAL LNG INC SER REGS",
-      "ratio": 1.05,
-      "shares": null
-    },
-    {
-      "code": "REG",
-      "name": "BAUSCH HEALTH COS INC SER REGS",
       "ratio": 1.03,
       "shares": null
     },
     {
       "code": "REG",
-      "name": "NAVIENT CORP",
-      "ratio": 1.01,
+      "name": "BAUSCH HEALTH COS INC SER REGS",
+      "ratio": 1.0,
       "shares": null
     },
     {
-      "code": "",
-      "name": "AMERICAN AXLE & MFG INC SER 144A 7.750000 % 15-OCT-2033",
-      "ratio": 0.99,
+      "code": "REG",
+      "name": "NAVIENT CORP",
+      "ratio": 0.97,
       "shares": null
     },
     {
       "code": "REG",
       "name": "SERVICE PROPERTIES TRUST",
-      "ratio": 0.99,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "PETSMART INC/PETSMART FI 10.000000 % 15SEP2033",
-      "ratio": 0.98,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "NEPTUNE BIDCO US INC SER 144A 10.375000 % 15-MAY-2031",
-      "ratio": 0.98,
+      "ratio": 0.96,
       "shares": null
     },
     {
       "code": "",
       "name": "LIFEPOINT HEALTH INC SER REGS 10.000000 % 01-JUN-2032",
-      "ratio": 0.98,
+      "ratio": 0.96,
       "shares": null
     },
     {
-      "code": "REG S",
-      "name": "CRESCENT ENERGY FINANCE SER REGS",
+      "code": "",
+      "name": "NEPTUNE BIDCO US INC SER 144A 10.375000 % 15-MAY-2031",
       "ratio": 0.95,
       "shares": null
     },
     {
-      "code": "REG S",
-      "name": "SIX FLAGS/CAN WON/MILLE SER REGS",
+      "code": "",
+      "name": "AMERICAN AXLE & MFG INC SER 144A 7.750000 % 15-OCT-2033",
       "ratio": 0.95,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "PETSMART INC/PETSMART FI 10.000000 % 15SEP2033",
+      "ratio": 0.94,
       "shares": null
     },
     {
@@ -139,63 +127,63 @@
       "shares": null
     },
     {
-      "code": "",
-      "name": "CARVANA CO VAR PERP 01JUN2031",
+      "code": "REG S",
+      "name": "CRESCENT ENERGY FINANCE SER REGS",
+      "ratio": 0.92,
+      "shares": null
+    },
+    {
+      "code": "REG S",
+      "name": "SIX FLAGS/CAN WON/MILLE SER REGS",
       "ratio": 0.91,
       "shares": null
     },
     {
       "code": "REG",
       "name": "VIACOM INC",
-      "ratio": 0.91,
+      "ratio": 0.89,
       "shares": null
     },
     {
       "code": "",
       "name": "ASURION LLC/ASURION CO SER 144A 8.375% 01FEB2034",
-      "ratio": 0.9,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "DIRECTV FIN LLC/COINC SER REGS 10.000000 % 15FEB2031",
       "ratio": 0.89,
       "shares": null
     },
     {
-      "code": "REG S",
-      "name": "GLOBAL AUTO HO/AAG FH UK SER REGS",
+      "code": "",
+      "name": "CARVANA CO VAR PERP 01JUN2031",
       "ratio": 0.88,
       "shares": null
     },
     {
-      "code": "REG S",
-      "name": "HILCORP ENERGY I/HILCORP SER REGS",
+      "code": "",
+      "name": "NISSAN MOTOR CO SER REGS 8.125000 % 17JUL2035",
       "ratio": 0.87,
       "shares": null
     },
     {
       "code": "",
-      "name": "GARDA WORLD SECURITY SER REGS 8.375000 % 15NOV2032",
+      "name": "DIRECTV FIN LLC/COINC SER REGS 10.000000 % 15FEB2031",
       "ratio": 0.86,
       "shares": null
     },
     {
       "code": "REG S",
-      "name": "HOWDEN UK REFINANCE / US SER REGS",
+      "name": "HILCORP ENERGY I/HILCORP SER REGS",
+      "ratio": 0.85,
+      "shares": null
+    },
+    {
+      "code": "REG S",
+      "name": "GLOBAL AUTO HO/AAG FH UK SER REGS",
       "ratio": 0.84,
       "shares": null
     },
     {
       "code": "",
-      "name": "MICHAELS COS INC/THE SER 144A 8.5% 15MAR2033",
-      "ratio": 0.84,
-      "shares": null
-    },
-    {
-      "code": "REG S",
-      "name": "STAPLES INC SER REGS",
-      "ratio": 0.84,
+      "name": "GARDA WORLD SECURITY SER REGS 8.375000 % 15NOV2032",
+      "ratio": 0.83,
       "shares": null
     },
     {
@@ -206,85 +194,91 @@
     },
     {
       "code": "",
-      "name": "MOHEGAN TRIBAL / MS DIG SER REGS 11.875000 % 15APR2031",
+      "name": "MICHAELS COS INC/THE SER 144A 8.5% 15MAR2033",
       "ratio": 0.81,
       "shares": null
     },
     {
       "code": "REG S",
-      "name": "NGL ENERGY PARTNERS LP SER REGS",
-      "ratio": 0.8,
+      "name": "STAPLES INC SER REGS",
+      "ratio": 0.81,
       "shares": null
     },
     {
       "code": "REG S",
-      "name": "FERRELLGAS LP/FERRELLGAS SER REGS",
-      "ratio": 0.8,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "AVIS BUDGET CAR/FINANCE SER REGS 8.375000 % 15JUN2032",
-      "ratio": 0.8,
-      "shares": null
-    },
-    {
-      "code": "REG S",
-      "name": "TALOS PRODUCTION INC SER REGS",
+      "name": "HOWDEN UK REFINANCE / US SER REGS",
       "ratio": 0.79,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "SPECIALTY BUILDING PRODU SER REGS 7.750000 % 15OCT2029",
-      "ratio": 0.79,
-      "shares": null
-    },
-    {
-      "code": "REG S",
-      "name": "PRIME HEALTHCARE SERVICE SER REGS",
-      "ratio": 0.78,
-      "shares": null
-    },
-    {
-      "code": "REG",
-      "name": "SWORD PURCHASER LLC SER 144A",
-      "ratio": 0.74,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "ENDO FINANCE HOLDINGS SER 144A 8.5% 15APR2031",
-      "ratio": 0.74,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "ENOVA INTERNATIONAL INC SER 144A 9.125000 % 01AUG2029",
-      "ratio": 0.73,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "VOYAGER PARENT LLC SER REGS 9.250000 % 01JUL2032",
-      "ratio": 0.73,
       "shares": null
     },
     {
       "code": "REG S",
       "name": "ROCKET SOFTWARE INC SER REGS",
-      "ratio": 0.72,
+      "ratio": 0.78,
       "shares": null
     },
     {
       "code": "",
-      "name": "CHS/COMMUNITY HEALTH SYS SER REGS 10.875000 % 15JAN2032",
-      "ratio": 0.72,
+      "name": "MOHEGAN TRIBAL / MS DIG SER REGS 11.875000 % 15APR2031",
+      "ratio": 0.78,
+      "shares": null
+    },
+    {
+      "code": "REG S",
+      "name": "NGL ENERGY PARTNERS LP SER REGS",
+      "ratio": 0.78,
+      "shares": null
+    },
+    {
+      "code": "REG S",
+      "name": "FERRELLGAS LP/FERRELLGAS SER REGS",
+      "ratio": 0.77,
       "shares": null
     },
     {
       "code": "",
-      "name": "ENCORE CAPITAL GROUP INC SER REGS 8.500000 % 15MAY2030",
+      "name": "AVIS BUDGET CAR/FINANCE SER REGS 8.375000 % 15JUN2032",
+      "ratio": 0.77,
+      "shares": null
+    },
+    {
+      "code": "REG S",
+      "name": "TALOS PRODUCTION INC SER REGS",
+      "ratio": 0.77,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "SPECIALTY BUILDING PRODU SER REGS 7.750000 % 15OCT2029",
+      "ratio": 0.77,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "BLUE OWL CREDIT INCOME 7.950000 % 13JUN2028",
+      "ratio": 0.76,
+      "shares": null
+    },
+    {
+      "code": "REG S",
+      "name": "PRIME HEALTHCARE SERVICE SER REGS",
+      "ratio": 0.75,
+      "shares": null
+    },
+    {
+      "code": "REG",
+      "name": "CHEMOURS CO SER 144A",
+      "ratio": 0.73,
+      "shares": null
+    },
+    {
+      "code": "REG S",
+      "name": "ASTON MARTIN CAPITAL HOL SER REGS",
+      "ratio": 0.73,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "ENDO FINANCE HOLDINGS SER 144A 8.5% 15APR2031",
       "ratio": 0.72,
       "shares": null
     },
@@ -296,31 +290,31 @@
     },
     {
       "code": "",
-      "name": "TRIVIUM PACKAGING FIN SER 144A 8.250000 % 15JUL2030",
+      "name": "ENOVA INTERNATIONAL INC SER 144A 9.125000 % 01AUG2029",
       "ratio": 0.71,
       "shares": null
     },
     {
-      "code": "REG S",
-      "name": "GLOBAL PART/GLP FINANCE SER REGS",
+      "code": "REG",
+      "name": "SWORD PURCHASER LLC SER 144A",
+      "ratio": 0.71,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "VOYAGER PARENT LLC SER REGS 9.250000 % 01JUL2032",
       "ratio": 0.71,
       "shares": null
     },
     {
       "code": "REG S",
       "name": "ORGANON & CO/ORGANON FOR SER RegS",
-      "ratio": 0.71,
-      "shares": null
-    },
-    {
-      "code": "REG",
-      "name": "MAV ACQUISITION CORP SER REGS",
       "ratio": 0.7,
       "shares": null
     },
     {
       "code": "",
-      "name": "CP ATLAS BUYER INC SER REGS 9.750000 % 15JUL2030",
+      "name": "CHS/COMMUNITY HEALTH SYS SER REGS 10.875000 % 15JAN2032",
       "ratio": 0.7,
       "shares": null
     },
@@ -332,350 +326,374 @@
     },
     {
       "code": "",
-      "name": "JONES DESLAURIERS INSURA SER 144A 8.500000 % 15-MAR-2030",
+      "name": "TRIVIUM PACKAGING FIN SER 144A 8.250000 % 15JUL2030",
       "ratio": 0.69,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "CP ATLAS BUYER INC SER REGS 9.750000 % 15JUL2030",
+      "ratio": 0.69,
+      "shares": null
+    },
+    {
+      "code": "REG S",
+      "name": "GLOBAL PART/GLP FINANCE SER REGS",
+      "ratio": 0.69,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "ENCORE CAPITAL GROUP INC SER REGS 8.500000 % 15MAY2030",
+      "ratio": 0.69,
+      "shares": null
+    },
+    {
+      "code": "REG",
+      "name": "MAV ACQUISITION CORP SER REGS",
+      "ratio": 0.68,
       "shares": null
     },
     {
       "code": "REG S",
       "name": "COREWEAVE INC SER REGS",
-      "ratio": 0.69,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "TRANSMONTAIGNE PARTNERS SER REGS 8.500000 % 15JUN2030",
-      "ratio": 0.69,
+      "ratio": 0.67,
       "shares": null
     },
     {
       "code": "REG",
       "name": "XPLR INFRAST OPERATING SER REGS",
-      "ratio": 0.69,
+      "ratio": 0.67,
       "shares": null
     },
     {
-      "code": "REG S",
-      "name": "CSC HOLDINGS LLC SER REGS",
-      "ratio": 0.68,
+      "code": "",
+      "name": "TRANSMONTAIGNE PARTNERS SER REGS 8.500000 % 15JUN2030",
+      "ratio": 0.67,
       "shares": null
     },
     {
       "code": "",
       "name": "CLOUD SOFTWARE GRP INC SER REGS 9.000000 % 30SEP2029",
-      "ratio": 0.68,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "AMERIGAS PART/FIN CORP SER REGS 9.500000 % 01-JUN-2030",
-      "ratio": 0.68,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "FIBERCOP SPA SER REGS 7.721000 % 04JUN2038",
-      "ratio": 0.67,
-      "shares": null
-    },
-    {
-      "code": "REG S",
-      "name": "MOSS CREEK RESOURCES HLD SER REGS",
       "ratio": 0.66,
-      "shares": null
-    },
-    {
-      "code": "REG",
-      "name": "CHEMOURS CO SER 144A",
-      "ratio": 0.66,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "US 10YR ULTRA FUT JUN26 18-JUN-2026",
-      "ratio": 0.65,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "INEOS QUATTRO FINANCE 2 SER 144A 9.625% 15MAR2029",
-      "ratio": 0.65,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "MPT OPER PARTNERSP/FINL SER 144A 8.500000 % 15FEB2032",
-      "ratio": 0.65,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "NEWELL RUBBERMAID INC 6% 01APR2046",
-      "ratio": 0.64,
-      "shares": null
-    },
-    {
-      "code": "REG",
-      "name": "LCPR SR SECURED FIN DAC SER REGS",
-      "ratio": 0.64,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "PHOENIX AVIATION CAPITAL SER REGS 9.250000 % 15JUL2030",
-      "ratio": 0.64,
-      "shares": null
-    },
-    {
-      "code": "REG S",
-      "name": "VMED O2 UK FINANCING I SER REGS",
-      "ratio": 0.64,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "RFNA LP SER 144A 7.875000 % 15FEB2030",
-      "ratio": 0.64,
       "shares": null
     },
     {
       "code": "REG",
       "name": "PETCO HEALTH & WELLNESS SER 144A",
+      "ratio": 0.66,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "AMERIGAS PART/FIN CORP SER REGS 9.500000 % 01-JUN-2030",
+      "ratio": 0.66,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "JONES DESLAURIERS INSURA SER 144A 8.500000 % 15-MAR-2030",
+      "ratio": 0.66,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "MPT OPER PARTNERSP/FINL SER 144A 8.500000 % 15FEB2032",
+      "ratio": 0.66,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "FIBERCOP SPA SER REGS 7.721000 % 04JUN2038",
+      "ratio": 0.65,
+      "shares": null
+    },
+    {
+      "code": "REG S",
+      "name": "MOSS CREEK RESOURCES HLD SER REGS",
+      "ratio": 0.64,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "INEOS QUATTRO FINANCE 2 SER 144A 9.625% 15MAR2029",
+      "ratio": 0.64,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "US 10YR ULTRA FUT JUN26 18-JUN-2026",
       "ratio": 0.63,
       "shares": null
     },
     {
       "code": "REG S",
-      "name": "INEOS FINANCE PLC SER REGs",
-      "ratio": 0.63,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "APLD COMPUTECO LLC SER REGS 9.250000 % 15-DEC-2030",
+      "name": "CSC HOLDINGS LLC SER REGS",
       "ratio": 0.63,
       "shares": null
     },
     {
       "code": "REG S",
       "name": "SUMMIT MIDSTREAM HOLDING SER REGS",
-      "ratio": 0.63,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "SC GAMES HOLDIN/US FINCO SER REGS 6.625000 % 01MAR2030",
       "ratio": 0.62,
       "shares": null
     },
     {
       "code": "",
-      "name": "STAR PARENT INC SER 144A 9% 01OCT2030",
+      "name": "APLD COMPUTECO LLC SER REGS 9.250000 % 15-DEC-2030",
+      "ratio": 0.62,
+      "shares": null
+    },
+    {
+      "code": "REG S",
+      "name": "INEOS FINANCE PLC SER REGs",
       "ratio": 0.62,
       "shares": null
     },
     {
       "code": "REG",
-      "name": "AUSTIN BIDCO INC SER 144A",
+      "name": "LCPR SR SECURED FIN DAC SER REGS",
+      "ratio": 0.62,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "PHOENIX AVIATION CAPITAL SER REGS 9.250000 % 15JUL2030",
+      "ratio": 0.62,
+      "shares": null
+    },
+    {
+      "code": "REG S",
+      "name": "VMED O2 UK FINANCING I SER REGS",
       "ratio": 0.61,
       "shares": null
     },
     {
       "code": "",
-      "name": "SINCLAIR TELEVISION GROU SER REGS 8.125000 % 15FEB2033",
+      "name": "RFNA LP SER 144A 7.875000 % 15FEB2030",
+      "ratio": 0.61,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "STAR PARENT INC SER 144A 9% 01OCT2030",
+      "ratio": 0.61,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "SC GAMES HOLDIN/US FINCO SER REGS 6.625000 % 01MAR2030",
       "ratio": 0.61,
       "shares": null
     },
     {
       "code": "",
       "name": "ION PLAT FIN US/SARL SER REGS 9.500000 % 30-MAY-2029",
-      "ratio": 0.61,
+      "ratio": 0.6,
+      "shares": null
+    },
+    {
+      "code": "REG",
+      "name": "AUSTIN BIDCO INC SER 144A",
+      "ratio": 0.6,
       "shares": null
     },
     {
       "code": "",
-      "name": "PBF HOLDING CO LLC SER REGS 9.875000 % 15MAR2030",
+      "name": "NEWELL RUBBERMAID INC 6% 01APR2046",
       "ratio": 0.6,
       "shares": null
     },
     {
       "code": "REG",
       "name": "AMC GLOBAL MEDIA INC SER REGS",
-      "ratio": 0.6,
+      "ratio": 0.59,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "SINCLAIR TELEVISION GROU SER REGS 8.125000 % 15FEB2033",
+      "ratio": 0.59,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "PBF HOLDING CO LLC SER REGS 9.875000 % 15MAR2030",
+      "ratio": 0.58,
       "shares": null
     },
     {
       "code": "",
       "name": "SMYRNA READY MIX CONCRET SER 144A 8.875% 15NOV2031",
-      "ratio": 0.6,
+      "ratio": 0.58,
       "shares": null
     },
     {
-      "code": "REG S",
-      "name": "ARDONAGH FINCO LTD SER REGS",
-      "ratio": 0.57,
+      "code": "",
+      "name": "CHS/COMMUNITY HEALTH SYS SER REGS 9.750000 % 15JAN2034",
+      "ratio": 0.56,
       "shares": null
     },
     {
       "code": "",
       "name": "OSAIC HOLDINGS INC SER REGS 8.000000 % 01AUG2033",
-      "ratio": 0.57,
+      "ratio": 0.55,
       "shares": null
     },
     {
       "code": "REG S",
-      "name": "HERTZ CORP/THE SER REGS",
-      "ratio": 0.56,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "VIRGIN MEDI O2 VI DAC 8.5% 15MAR2033",
-      "ratio": 0.56,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "TASEKO MINES LTD SER 144A 8.25% 01MAY2030",
-      "ratio": 0.56,
+      "name": "ARDONAGH FINCO LTD SER REGS",
+      "ratio": 0.55,
       "shares": null
     },
     {
       "code": "REG",
       "name": "IHO VERWALTUNGS GMBH SER REGS",
-      "ratio": 0.55,
+      "ratio": 0.54,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "VIRGIN MEDI O2 VI DAC 8.5% 15MAR2033",
+      "ratio": 0.54,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "TASEKO MINES LTD SER 144A 8.25% 01MAY2030",
+      "ratio": 0.54,
       "shares": null
     },
     {
       "code": "",
       "name": "RADIOLOGY PARTNERS INC SER REGS 8.500000 % 15-JUL-2032",
-      "ratio": 0.55,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "DCLI BIDCO LLC SER REGS 7.750000 % 15NOV2029",
-      "ratio": 0.53,
+      "ratio": 0.54,
       "shares": null
     },
     {
       "code": "REG S",
-      "name": "VELOCITY VEHICLE GROUP SER REGS",
+      "name": "HERTZ CORP/THE SER REGS",
       "ratio": 0.53,
       "shares": null
     },
     {
       "code": "REG S",
       "name": "GOEASY LTD SER REGS",
-      "ratio": 0.53,
+      "ratio": 0.52,
       "shares": null
     },
     {
       "code": "",
       "name": "MAXAM PRILL SARL SER REGS 7.750000 % 15JUL2030",
-      "ratio": 0.52,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "LBM ACQUISITION LLC SER 144A 9.500000 % 15JUN2031",
-      "ratio": 0.52,
+      "ratio": 0.51,
       "shares": null
     },
     {
       "code": "REG",
       "name": "ARETEC ESCROW ISSUER 2 SER 144A",
-      "ratio": 0.52,
+      "ratio": 0.51,
       "shares": null
     },
     {
       "code": "REG",
       "name": "CLOUD SOFTWARE GRP INC SER REGS",
-      "ratio": 0.52,
-      "shares": null
-    },
-    {
-      "code": "REG S",
-      "name": "CSC HOLDINGS LLC SER REGS",
       "ratio": 0.51,
       "shares": null
     },
     {
       "code": "",
-      "name": "FIVE POINT OPERATING CO SER REGS 8.000000 % 01-OCT-2030",
+      "name": "DCLI BIDCO LLC SER REGS 7.750000 % 15NOV2029",
+      "ratio": 0.51,
+      "shares": null
+    },
+    {
+      "code": "REG S",
+      "name": "VELOCITY VEHICLE GROUP SER REGS",
       "ratio": 0.51,
       "shares": null
     },
     {
       "code": "REG S",
       "name": "US ACUTE CARE SOLUTIONS SER REGS",
-      "ratio": 0.5,
-      "shares": null
-    },
-    {
-      "code": "REG S",
-      "name": "GREAT CANADIAN GAMING CO SER REGS",
-      "ratio": 0.5,
-      "shares": null
-    },
-    {
-      "code": "REG S",
-      "name": "ASTON MARTIN CAPITAL HOL SER REGS",
-      "ratio": 0.49,
-      "shares": null
-    },
-    {
-      "code": "REG S",
-      "name": "MERLIN ENTERTAINMENTS GR SER REGS",
       "ratio": 0.49,
       "shares": null
     },
     {
       "code": "",
-      "name": "BEACH ACQUISITION BIDCO 10% 15JUL2033",
+      "name": "FIVE POINT OPERATING CO SER REGS 8.000000 % 01-OCT-2030",
+      "ratio": 0.49,
+      "shares": null
+    },
+    {
+      "code": "REG S",
+      "name": "GREAT CANADIAN GAMING CO SER REGS",
+      "ratio": 0.49,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "LBM ACQUISITION LLC SER 144A 9.500000 % 15JUN2031",
+      "ratio": 0.48,
+      "shares": null
+    },
+    {
+      "code": "REG S",
+      "name": "CSC HOLDINGS LLC SER REGS",
+      "ratio": 0.48,
+      "shares": null
+    },
+    {
+      "code": "REG S",
+      "name": "MERLIN ENTERTAINMENTS GR SER REGS",
       "ratio": 0.48,
       "shares": null
     },
     {
       "code": "",
       "name": "ICAHN ENTERPRISES/FIN SER REGS 10.000000 % 15NOV2029",
-      "ratio": 0.47,
+      "ratio": 0.46,
       "shares": null
     },
     {
       "code": "",
-      "name": "NISSAN MOTOR CO SER REGS 8.125000 % 17JUL2035",
+      "name": "BEACH ACQUISITION BIDCO 10% 15JUL2033",
       "ratio": 0.46,
       "shares": null
     },
     {
       "code": "REG S",
-      "name": "RAKUTEN GROUP INC SER REGS",
+      "name": "VENTURE GLOBAL LNG INC SER REGS",
       "ratio": 0.44,
       "shares": null
     },
     {
       "code": "REG S",
-      "name": "VENTURE GLOBAL LNG INC SER REGS",
+      "name": "RAKUTEN GROUP INC SER REGS",
       "ratio": 0.43,
       "shares": null
     },
     {
       "code": "",
       "name": "MPT OPER PARTNERSP/FINL SER REGS 8.500000 % 15FEB2032",
-      "ratio": 0.42,
+      "ratio": 0.4,
       "shares": null
     },
     {
       "code": "",
       "name": "NEWELL BRANDS INC SER REGS 8.500000 % 01JUN2028",
-      "ratio": 0.39,
+      "ratio": 0.38,
+      "shares": null
+    },
+    {
+      "code": "REG",
+      "name": "RACKSPACE FINANCE LLC SER REGS",
+      "ratio": 0.38,
       "shares": null
     },
     {
       "code": "",
-      "name": "BREAKWATER ENRGY HOLD SER REGS 9.25 % 15-NOV-2030",
-      "ratio": 0.39,
+      "name": "PRA GROUP INC SER REGS 8.875000 % 31JAN2030",
+      "ratio": 0.38,
       "shares": null
     },
     {
@@ -685,111 +703,69 @@
       "shares": null
     },
     {
-      "code": "REG",
-      "name": "SABRE GLBL INC SER REGS",
-      "ratio": 0.36,
+      "code": "",
+      "name": "BREAKWATER ENRGY HOLD SER REGS 9.25 % 15-NOV-2030",
+      "ratio": 0.37,
       "shares": null
     },
     {
       "code": "REG",
-      "name": "RACKSPACE FINANCE LLC SER REGS",
-      "ratio": 0.36,
+      "name": "SABRE GLBL INC SER REGS",
+      "ratio": 0.35,
       "shares": null
     },
     {
       "code": "REG S",
       "name": "FREEDOM MORTGAGE HOLD SER REGS",
-      "ratio": 0.35,
-      "shares": null
-    },
-    {
-      "code": "REG S",
-      "name": "RR DONNELLEY & SONS CO SER REGS",
-      "ratio": 0.35,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "ASURION LLC/ASURION CO 8.375% 01FEB2034",
       "ratio": 0.34,
       "shares": null
     },
     {
       "code": "",
-      "name": "ION PLATFORM FINANCE US SER REGS 7.875000 % 30-SEP-2032",
+      "name": "SINCLAIR TELEVISION GROU SER 144A 8.125000 % 15FEB2033",
+      "ratio": 0.34,
+      "shares": null
+    },
+    {
+      "code": "REG S",
+      "name": "RR DONNELLEY & SONS CO SER REGS",
       "ratio": 0.33,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "ASURION LLC/ASURION CO 8.375% 01FEB2034",
+      "ratio": 0.33,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "ION PLATFORM FINANCE US SER REGS 7.875000 % 30-SEP-2032",
+      "ratio": 0.32,
       "shares": null
     },
     {
       "code": "REG",
       "name": "ARETEC ESCROW ISSUER 2 SER REGS",
-      "ratio": 0.33,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "SINCLAIR TELEVISION GROU SER 144A 8.125000 % 15FEB2033",
       "ratio": 0.32,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "HERTZ CORP/THE SER 144A 12.625% 15JUL2029",
-      "ratio": 0.32,
-      "shares": null
-    },
-    {
-      "code": "REG S",
-      "name": "SMYRNA READY MIX CONCRET SER REGS",
-      "ratio": 0.32,
-      "shares": null
-    },
-    {
-      "code": "REG",
-      "name": "NATIONAL MENTOR HOLDINGS SER REGS",
-      "ratio": 0.31,
       "shares": null
     },
     {
       "code": "REG",
       "name": "CLOUD SOFTWARE GRP INC SER 144A",
+      "ratio": 0.32,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "OSAIC HOLDINGS INC SER 144A 8.000000 % 01AUG2033",
       "ratio": 0.31,
       "shares": null
     },
     {
-      "code": "",
-      "name": "ENQUEST PLC SER 144A 9.875 % 30-APR-2031",
-      "ratio": 0.3,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "ALLWYN ENTERTAINMENT FIN SER 144A 7.875% 30APR2029",
-      "ratio": 0.3,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "1261229 BC LTD SER REGS 10.000000 % 15APR2032",
-      "ratio": 0.3,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "VISTAJET MALTA/VM HOLDS SER 144A 9.5% 01JUN2028",
-      "ratio": 0.3,
-      "shares": null
-    },
-    {
       "code": "REG S",
-      "name": "CORNERSTONE BUILDING SER REGS",
-      "ratio": 0.3,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "SABRE GLBL INC SER REGS 11.125000 % 15JUL2030",
-      "ratio": 0.3,
+      "name": "SMYRNA READY MIX CONCRET SER REGS",
+      "ratio": 0.31,
       "shares": null
     },
     {
@@ -800,37 +776,61 @@
     },
     {
       "code": "REG",
-      "name": "VERDE PURCHASER LLC SER REGS",
+      "name": "NATIONAL MENTOR HOLDINGS SER REGS",
+      "ratio": 0.3,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "HERTZ CORP/THE SER 144A 12.625% 15JUL2029",
+      "ratio": 0.3,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "FIVE POINT OPERATING CO SER 144A 8.000000 % 01-OCT-2030",
+      "ratio": 0.3,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "ALLWYN ENTERTAINMENT FIN SER 144A 7.875% 30APR2029",
       "ratio": 0.29,
       "shares": null
     },
     {
       "code": "",
-      "name": "SATURN OIL & GAS INC SER 144A 9.625000 % 15JUN2029",
+      "name": "ENQUEST PLC SER 144A 9.875 % 30-APR-2031",
       "ratio": 0.29,
       "shares": null
     },
     {
       "code": "",
-      "name": "GREAT CANADIAN GAMING CO SER 144A 8.750000 % 15NOV2029",
+      "name": "1261229 BC LTD SER REGS 10.000000 % 15APR2032",
       "ratio": 0.29,
       "shares": null
     },
     {
       "code": "",
-      "name": "OSAIC HOLDINGS INC SER 144A 8.000000 % 01AUG2033",
-      "ratio": 0.28,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "AVIANCA MIDCO 2 PLC SER REGS 9.625000 % 14FEB2030",
-      "ratio": 0.28,
+      "name": "VISTAJET MALTA/VM HOLDS SER 144A 9.5% 01JUN2028",
+      "ratio": 0.29,
       "shares": null
     },
     {
       "code": "REG S",
-      "name": "TEAM SERVICES HLDG INC SER REGS",
+      "name": "CORNERSTONE BUILDING SER REGS",
+      "ratio": 0.29,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "SABRE GLBL INC SER REGS 11.125000 % 15JUL2030",
+      "ratio": 0.29,
+      "shares": null
+    },
+    {
+      "code": "REG",
+      "name": "VERDE PURCHASER LLC SER REGS",
       "ratio": 0.28,
       "shares": null
     },
@@ -841,27 +841,45 @@
       "shares": null
     },
     {
-      "code": "REG",
-      "name": "FULL HOUSE RESORTS INC SER REGS",
+      "code": "",
+      "name": "SATURN OIL & GAS INC SER 144A 9.625000 % 15JUN2029",
       "ratio": 0.28,
-      "shares": null
-    },
-    {
-      "code": "REG S",
-      "name": "PROVIDENT FDG/PFG FIN SER REGS",
-      "ratio": 0.27,
-      "shares": null
-    },
-    {
-      "code": "REG S",
-      "name": "CERDIA FINANZ GMBH SER REGS",
-      "ratio": 0.27,
       "shares": null
     },
     {
       "code": "",
       "name": "VELOCITY COM CAP LLC SER 144A 9.375% 15FEB2031",
+      "ratio": 0.28,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "GREAT CANADIAN GAMING CO SER 144A 8.750000 % 15NOV2029",
+      "ratio": 0.28,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "AVIANCA MIDCO 2 PLC SER REGS 9.625000 % 14FEB2030",
       "ratio": 0.27,
+      "shares": null
+    },
+    {
+      "code": "REG",
+      "name": "FULL HOUSE RESORTS INC SER REGS",
+      "ratio": 0.27,
+      "shares": null
+    },
+    {
+      "code": "REG S",
+      "name": "TEAM SERVICES HLDG INC SER REGS",
+      "ratio": 0.27,
+      "shares": null
+    },
+    {
+      "code": "REG S",
+      "name": "PROVIDENT FDG/PFG FIN SER REGS",
+      "ratio": 0.26,
       "shares": null
     },
     {
@@ -871,32 +889,38 @@
       "shares": null
     },
     {
+      "code": "REG S",
+      "name": "CERDIA FINANZ GMBH SER REGS",
+      "ratio": 0.26,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "HILCORP ENERGY I/HILCORP SER 144A 8.375% 01NOV2033",
+      "ratio": 0.26,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "FREEDOM MORTGAGE HOLD 9.25% 01FEB2029",
+      "ratio": 0.26,
+      "shares": null
+    },
+    {
       "code": "",
       "name": "BLOCK COMMUNICATIONS INC SER 144A 10.25% 01MAR2031",
-      "ratio": 0.26,
+      "ratio": 0.25,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "ARTERA SERVICES LLC SER REGS 8.500000 % 15FEB2031",
+      "ratio": 0.25,
       "shares": null
     },
     {
       "code": "REG S",
       "name": "PHH ESCROW ISS LCC/PHH C SER REGS",
-      "ratio": 0.26,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "CLUE OPCO LLC SER REGS 9.500000 % 15OCT2031",
-      "ratio": 0.26,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "BRAND INDUSTRIAL SERVICE SER REGS 10.375000 % 01AUG2030",
-      "ratio": 0.26,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "GETTY IMAGES INC SER REGS 11.250000 % 21FEB2030",
       "ratio": 0.25,
       "shares": null
     },
@@ -908,7 +932,7 @@
     },
     {
       "code": "",
-      "name": "MOBIUS MERGER SUB SER REGS 9.000000 % 01JUN2030",
+      "name": "CLUE OPCO LLC SER REGS 9.500000 % 15OCT2031",
       "ratio": 0.25,
       "shares": null
     },
@@ -920,74 +944,86 @@
     },
     {
       "code": "",
-      "name": "ARTERA SERVICES LLC SER REGS 8.500000 % 15FEB2031",
-      "ratio": 0.25,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "RAIN CARBON INC SER 144A 12.25% 01SEP2029",
-      "ratio": 0.25,
-      "shares": null
-    },
-    {
-      "code": "REG S",
-      "name": "DYE & DURHAM LIMITED SER REGS",
-      "ratio": 0.24,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "FIVE POINT OPERATING CO SER 144A 8.000000 % 01-OCT-2030",
-      "ratio": 0.24,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "BCPE FLAVOR DEBT/ISSUER SER REGS 9.500000 % 01-JUL-2032",
       "ratio": 0.24,
       "shares": null
     },
     {
+      "code": "",
+      "name": "MOBIUS MERGER SUB SER REGS 9.000000 % 01JUN2030",
+      "ratio": 0.24,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "RAIN CARBON INC SER 144A 12.25% 01SEP2029",
+      "ratio": 0.24,
+      "shares": null
+    },
+    {
+      "code": "REG S",
+      "name": "DYE & DURHAM LIMITED SER REGS",
+      "ratio": 0.23,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "UNIVISION COMMUNICATIONS SER 144A 9.375000 % 01AUG2032",
+      "ratio": 0.23,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "BRAND INDUSTRIAL SERVICE SER REGS 10.375000 % 01AUG2030",
+      "ratio": 0.23,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "GETTY IMAGES INC SER REGS 11.250000 % 21FEB2030",
+      "ratio": 0.23,
+      "shares": null
+    },
+    {
       "code": "REG S",
       "name": "INNOPHOS HOLDINGS INC SER REGS",
-      "ratio": 0.23,
+      "ratio": 0.22,
       "shares": null
     },
     {
       "code": "",
       "name": "STAR PARENT INC SER REGS 9.000000 % 01-OCT-2030",
-      "ratio": 0.23,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "FREEDOM MORTGAGE HOLD 9.25% 01FEB2029",
-      "ratio": 0.23,
+      "ratio": 0.22,
       "shares": null
     },
     {
       "code": "",
       "name": "THE MEN'S WEARHOUSE LLC SER 144A 9% 01FEB2031",
-      "ratio": 0.23,
+      "ratio": 0.22,
       "shares": null
     },
     {
       "code": "",
       "name": "AVIS BUDGET CAR/FINANCE SER 144A 8.375000 % 15JUN2032",
-      "ratio": 0.22,
+      "ratio": 0.21,
       "shares": null
     },
     {
       "code": "REG S",
       "name": "EMPIRE COMMUNITIES CORP SER REGS",
-      "ratio": 0.22,
+      "ratio": 0.21,
+      "shares": null
+    },
+    {
+      "code": "REG",
+      "name": "SC GAMES HOLDIN/US FINCO SER 144A",
+      "ratio": 0.21,
       "shares": null
     },
     {
       "code": "SER REGS",
       "name": "SWORD PURCHASER LLC",
-      "ratio": 0.22,
+      "ratio": 0.21,
       "shares": null
     },
     {
@@ -997,20 +1033,26 @@
       "shares": null
     },
     {
-      "code": "",
-      "name": "UNIVISION COMMUNICATIONS SER 144A 9.375000 % 01AUG2032",
-      "ratio": 0.21,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "COOPER-STANDARD AUTOMOTI 9.25% 01MAR2031",
+      "code": "REG",
+      "name": "CHEMOURS CO SER REGS",
       "ratio": 0.2,
       "shares": null
     },
     {
-      "code": "REG",
-      "name": "CHEMOURS CO SER REGS",
+      "code": "",
+      "name": "SUMMIT MIDSTREAM HOLDING SER 144A 8.625% 31OCT2029",
+      "ratio": 0.2,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "WARNERMEDIA HOLDINGS INC SER * 5.141000 % 15MAR2052",
+      "ratio": 0.2,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "GB AIT BUYER SER 144A 8.75 % 30-APR-2034",
       "ratio": 0.2,
       "shares": null
     },
@@ -1022,26 +1064,44 @@
     },
     {
       "code": "",
-      "name": "WARNERMEDIA HOLDINGS INC SER * 5.141000 % 15MAR2052",
+      "name": "COOPER-STANDARD AUTOMOTI 9.25% 01MAR2031",
       "ratio": 0.19,
       "shares": null
     },
     {
       "code": "REG",
-      "name": "SC GAMES HOLDIN/US FINCO SER 144A",
-      "ratio": 0.19,
+      "name": "AUSTIN BIDCO INC SER REGS",
+      "ratio": 0.18,
+      "shares": null
+    },
+    {
+      "code": "REG S",
+      "name": "VISTAJET MALTA/VM HOLDS SER REGS",
+      "ratio": 0.17,
       "shares": null
     },
     {
       "code": "",
-      "name": "PHOENIX AVIATION 9.250000 % 15JUL2030",
-      "ratio": 0.18,
+      "name": "DIRECTV FIN LLC/COINC SER 144A 10.000000 % 15FEB2031",
+      "ratio": 0.17,
       "shares": null
     },
     {
       "code": "REG",
       "name": "CNT PRNT/CDK GLO II/FIN SER 144A",
-      "ratio": 0.18,
+      "ratio": 0.17,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "MOSS CREEK RESOURCES HLD SER 144A 8.25% 01SEP2031",
+      "ratio": 0.17,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "PHOENIX AVIATION 9.250000 % 15JUL2030",
+      "ratio": 0.17,
       "shares": null
     },
     {
@@ -1053,18 +1113,12 @@
     {
       "code": "",
       "name": "JONES DESLAURIERS INSURA SER REGS 8.500000 % 15MAR2030",
-      "ratio": 0.17,
-      "shares": null
-    },
-    {
-      "code": "REG S",
-      "name": "VISTAJET MALTA/VM HOLDS SER REGS",
-      "ratio": 0.17,
+      "ratio": 0.16,
       "shares": null
     },
     {
       "code": "",
-      "name": "PETCO HEALTH & WELLNESS 8.25% 01FEB2031",
+      "name": "STAPLES INC SER 144A 10.75% 01SEP2029",
       "ratio": 0.16,
       "shares": null
     },
@@ -1075,50 +1129,38 @@
       "shares": null
     },
     {
+      "code": "",
+      "name": "CARVANA CO 9% 01JUN2031",
+      "ratio": 0.16,
+      "shares": null
+    },
+    {
       "code": "REG",
       "name": "MAV ACQUISITION CORP SER 144A",
       "ratio": 0.15,
       "shares": null
     },
     {
-      "code": "",
-      "name": "MOSS CREEK RESOURCES HLD SER 144A 8.25% 01SEP2031",
+      "code": "REG",
+      "name": "GLOBAL PART/GLP FINANCE SER 144A",
       "ratio": 0.15,
       "shares": null
     },
     {
       "code": "",
-      "name": "DIRECTV FIN LLC/COINC SER 144A 10.000000 % 15FEB2031",
-      "ratio": 0.15,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "SUMMIT MIDSTREAM HOLDING SER 144A 8.625% 31OCT2029",
-      "ratio": 0.15,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "OT MIDCO LTD SER REGS 10.000000 % 15FEB2030",
+      "name": "PETCO HEALTH & WELLNESS 8.25% 01FEB2031",
       "ratio": 0.15,
       "shares": null
     },
     {
       "code": "",
       "name": "NEPTUNE BIDCO US INC SER REGS 10.375000 % 15-MAY-2031",
-      "ratio": 0.15,
-      "shares": null
-    },
-    {
-      "code": "REG",
-      "name": "AUSTIN BIDCO INC SER REGS",
-      "ratio": 0.15,
+      "ratio": 0.14,
       "shares": null
     },
     {
       "code": "",
-      "name": "STAPLES INC SER 144A 10.75% 01SEP2029",
+      "name": "GB AIT BUYER SER REGS 8.75 % 30-APR-2034",
       "ratio": 0.14,
       "shares": null
     },
@@ -1131,24 +1173,30 @@
     {
       "code": "",
       "name": "GGAM FINANCE LTD SER 144A 8% 15JUN2028",
-      "ratio": 0.14,
+      "ratio": 0.13,
       "shares": null
     },
     {
       "code": "REG",
       "name": "ICAHN ENTERPRISES/FIN SER 144A",
-      "ratio": 0.14,
-      "shares": null
-    },
-    {
-      "code": "REG",
-      "name": "GLOBAL PART/GLP FINANCE SER 144A",
       "ratio": 0.13,
       "shares": null
     },
     {
       "code": "",
-      "name": "CARVANA CO 9% 01JUN2031",
+      "name": "CRESCENT ENERGY FINANCE SER 144A 8.375000 % 15JAN2034",
+      "ratio": 0.13,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "NGL ENERGY PARTNERS LP SER 144A 8.375% 15FEB2032",
+      "ratio": 0.13,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "DIRECTV FINANCING LLC SER REGS 8.875000 % 01-FEB-2030",
       "ratio": 0.13,
       "shares": null
     },
@@ -1160,8 +1208,14 @@
     },
     {
       "code": "",
-      "name": "DIRECTV FINANCING LLC SER REGS 8.875000 % 01-FEB-2030",
-      "ratio": 0.13,
+      "name": "OT MIDCO LTD SER REGS 10.000000 % 15FEB2030",
+      "ratio": 0.12,
+      "shares": null
+    },
+    {
+      "code": "REG",
+      "name": "GARDA WORLD SECURITY SER 144A",
+      "ratio": 0.12,
       "shares": null
     },
     {
@@ -1172,20 +1226,20 @@
     },
     {
       "code": "",
-      "name": "MOHEGAN TRIBAL / MS DIG SER 144A 11.875000 % 15APR2031",
+      "name": "PRIME HEALTHCARE SERVICE SER 144A 9.375% 01SEP2029",
       "ratio": 0.11,
       "shares": null
     },
     {
-      "code": "",
-      "name": "PRIME HEALTHCARE SERVICE SER 144A 9.375% 01SEP2029",
+      "code": "SER REGS REG S",
+      "name": "MIDCONTINENT COMMUNICATIONS",
       "ratio": 0.11,
       "shares": null
     },
     {
       "code": "REG S",
       "name": "ENOVA INTERNATIONAL INC SER REGS",
-      "ratio": 0.11,
+      "ratio": 0.1,
       "shares": null
     },
     {
@@ -1196,7 +1250,19 @@
     },
     {
       "code": "",
-      "name": "BCPE FLAVOR DEBT 9.500000 % 01JUL2032",
+      "name": "TRANSMONTAIGNE PARTNERS SER 144A 8.500000 % 15JUN2030",
+      "ratio": 0.1,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "MOHEGAN TRIBAL / MS DIG SER 144A 11.875000 % 15APR2031",
+      "ratio": 0.1,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "INNOPHOS HOLDINGS INC SER 144A 11.500000 % 15JUN2029",
       "ratio": 0.1,
       "shares": null
     },
@@ -1208,13 +1274,13 @@
     },
     {
       "code": "",
-      "name": "RR DONNELLEY & SONS CO SER 144A 10.875000 % 01-AUG-2029",
+      "name": "CIVITAS RESOURCES INC SER 144A 9.625000 % 15JUN2033",
       "ratio": 0.1,
       "shares": null
     },
     {
       "code": "",
-      "name": "DYE & DURHAM LIMITED SER 144A 8.625% 15APR2029",
+      "name": "RR DONNELLEY & SONS CO SER 144A 10.875000 % 01-AUG-2029",
       "ratio": 0.1,
       "shares": null
     },
@@ -1231,15 +1297,15 @@
       "shares": null
     },
     {
-      "code": "REG",
-      "name": "GARDA WORLD SECURITY SER 144A",
+      "code": "",
+      "name": "BCPE FLAVOR DEBT 9.500000 % 01JUL2032",
       "ratio": 0.1,
       "shares": null
     },
     {
       "code": "",
-      "name": "NGL ENERGY PARTNERS LP SER 144A 8.375% 15FEB2032",
-      "ratio": 0.1,
+      "name": "DYE & DURHAM LIMITED SER 144A 8.625% 15APR2029",
+      "ratio": 0.09,
       "shares": null
     },
     {
@@ -1249,8 +1315,8 @@
       "shares": null
     },
     {
-      "code": "",
-      "name": "CRESCENT ENERGY FINANCE SER 144A 8.375000 % 15JAN2034",
+      "code": "SER 144A",
+      "name": "TEAM SERVICES HLDG INC",
       "ratio": 0.09,
       "shares": null
     },
@@ -1267,14 +1333,20 @@
       "shares": null
     },
     {
-      "code": "REG S",
-      "name": "PARADIGM PRNT/CO-ISSUER SER REGS",
-      "ratio": 0.09,
+      "code": "REG",
+      "name": "VERDE PURCHASER LLC SER 144A",
+      "ratio": 0.08,
       "shares": null
     },
     {
       "code": "",
-      "name": "WULF COMPUTE LLC SER REGS 7.750000 % 15-OCT-2030",
+      "name": "MOBIUS MERGER SUB SER 144A 9% 01JUN2030",
+      "ratio": 0.08,
+      "shares": null
+    },
+    {
+      "code": "REG",
+      "name": "CLYDESDALE ACQUISITION SER 144A",
       "ratio": 0.08,
       "shares": null
     },
@@ -1291,68 +1363,38 @@
       "shares": null
     },
     {
-      "code": "",
-      "name": "SIX FLAGS/CAN WON/MILLEN SER 144A 8.625% 15JAN2032",
+      "code": "REG S",
+      "name": "PARADIGM PRNT/CO-ISSUER SER REGS",
       "ratio": 0.08,
       "shares": null
     },
     {
-      "code": "",
-      "name": "PROVIDENT FDG/PFG FIN SER 144A 9.75% 15SEP2029",
-      "ratio": 0.08,
+      "code": "REG S",
+      "name": "EQUIPMENTSHARE.COM INC SER REGS",
+      "ratio": 0.07,
       "shares": null
     },
     {
       "code": "",
-      "name": "TRANSMONTAIGNE PARTNERS SER 144A 8.500000 % 15JUN2030",
-      "ratio": 0.08,
-      "shares": null
-    },
-    {
-      "code": "REG",
-      "name": "VERDE PURCHASER LLC SER 144A",
-      "ratio": 0.08,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "MOBIUS MERGER SUB SER 144A 9% 01JUN2030",
-      "ratio": 0.08,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "LIFEPOINT HEALTH INC SER 144A 10% 01JUN2032",
-      "ratio": 0.08,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "INNOPHOS HOLDINGS INC SER 144A 11.500000 % 15JUN2029",
-      "ratio": 0.08,
+      "name": "WULF COMPUTE LLC SER REGS 7.750000 % 15-OCT-2030",
+      "ratio": 0.07,
       "shares": null
     },
     {
       "code": "REG",
       "name": "BAUSCH HEALTH COS INC SER 144A",
-      "ratio": 0.08,
-      "shares": null
-    },
-    {
-      "code": "REG",
-      "name": "CLYDESDALE ACQUISITION SER 144A",
-      "ratio": 0.08,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "CIVITAS RESOURCES INC SER 144A 9.625000 % 15JUN2033",
       "ratio": 0.07,
       "shares": null
     },
     {
       "code": "",
       "name": "ALTA EQUIPMENT GROUP SER 144A 9% 01JUN2029",
+      "ratio": 0.07,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "LIFEPOINT HEALTH INC SER 144A 10% 01JUN2032",
       "ratio": 0.07,
       "shares": null
     },
@@ -1370,37 +1412,25 @@
     },
     {
       "code": "",
+      "name": "SIX FLAGS/CAN WON/MILLEN SER 144A 8.625% 15JAN2032",
+      "ratio": 0.07,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "PROVIDENT FDG/PFG FIN SER 144A 9.75% 15SEP2029",
+      "ratio": 0.07,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "TALOS PRODUCTION INC SER 144A 9.375% 01FEB2031",
       "ratio": 0.07,
       "shares": null
     },
     {
       "code": "",
-      "name": "CHS/COMMUNITY HEALTH SYS SER REGS 9.750000 % 15JAN2034",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "REG S",
-      "name": "EQUIPMENTSHARE.COM INC SER REGS",
-      "ratio": 0.07,
-      "shares": null
-    },
-    {
-      "code": "REG S",
-      "name": "RAIN CARBON INC SER REGS",
-      "ratio": 0.06,
-      "shares": null
-    },
-    {
-      "code": "SER 144A",
-      "name": "TEAM SERVICES HLDG INC",
-      "ratio": 0.06,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "FULL HOUSE RESORTS INC SER 144A 8.25% 15FEB2028",
+      "name": "SPECIALTY BUILDING PRODU SER 144A 7.750000 % 15OCT2029",
       "ratio": 0.06,
       "shares": null
     },
@@ -1414,6 +1444,24 @@
       "code": "",
       "name": "NEWELL BRANDS INC SER 144A 8.500000 % 01JUN2028",
       "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "REG S",
+      "name": "RAIN CARBON INC SER REGS",
+      "ratio": 0.06,
+      "shares": null
+    },
+    {
+      "code": "REG",
+      "name": "VELOCITY COM CAP LLC SER REGS",
+      "ratio": 0.05,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "FULL HOUSE RESORTS INC SER 144A 8.25% 15FEB2028",
+      "ratio": 0.05,
       "shares": null
     },
     {
@@ -1435,12 +1483,6 @@
       "shares": null
     },
     {
-      "code": "REG",
-      "name": "VELOCITY COM CAP LLC SER REGS",
-      "ratio": 0.05,
-      "shares": null
-    },
-    {
       "code": "",
       "name": "XPLR INFRAST OPERATING SER 144A 8.625000 % 15MAR2033",
       "ratio": 0.04,
@@ -1454,12 +1496,6 @@
     },
     {
       "code": "",
-      "name": "SPECIALTY BUILDING PRODU SER 144A 7.750000 % 15OCT2029",
-      "ratio": 0.04,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "APLD COMPUTECO LLC SER 144A 9.250000 % 15-DEC-2030",
       "ratio": 0.04,
       "shares": null
@@ -1467,12 +1503,6 @@
     {
       "code": "",
       "name": "PBF HOLDING CO LLC SER 144A 9.875000 % 15MAR2030",
-      "ratio": 0.04,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "HILCORP ENERGY I/HILCORP SER 144A 8.375% 01NOV2033",
       "ratio": 0.04,
       "shares": null
     },
@@ -1515,13 +1545,13 @@
     {
       "code": "CBT",
       "name": "US LONG BOND",
-      "ratio": -0.49,
+      "ratio": -0.47,
       "shares": null
     },
     {
       "code": "CBT",
       "name": "US 2YR NOTE",
-      "ratio": -4.78,
+      "ratio": -4.65,
       "shares": null
     }
   ]

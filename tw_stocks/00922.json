@@ -1,7 +1,7 @@
 {
   "id": "00922",
   "name": "國泰台灣領袖50",
-  "fetched_at": "2026-05-11",
+  "fetched_at": "2026-05-18",
   "capital": {
     "ETF名稱": "國泰台灣領袖50",
     "交易所代碼": "00922",
@@ -15,7 +15,7 @@
     "上市日期": "2023/03/27",
     "成分股數": 50,
     "ETF規模": "67,557.04(百萬台幣)(2026/04/30)",
-    "成交量(股)": "10,691,603（月均:21,406,625）",
+    "成交量(股)": "10,738,677（月均:15,550,013）",
     "投資標的": "股票型",
     "經理人": "蘇鼎宇",
     "投資區域": "台灣",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "半年配",
     "經理費(%)": "0.15",
-    "殖利率(%)": "8.91（05/08）",
+    "殖利率(%)": "9.12（05/18）",
     "總管理費用(%)": "0.38 (含 0.23 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://www.cathaysite.com.tw/ETF/detail/EDO",
-    "ETF市價": "36.4700（05/08）",
+    "ETF市價": "35.6400（05/18）",
     "融資交易": "Y",
-    "ETF淨值": "36.4400（05/08）",
+    "ETF淨值": "35.9600（05/15）",
     "放空交易": "Y",
-    "折溢價(%)": "0.08(月均:-0.05)",
+    "折溢價(%)": "-0.44(月均:0.00)",
     "選擇權交易": "",
-    "年化標準差(%)": "22.03（05/08）",
+    "年化標準差(%)": "16.34（05/18）",
     "槓桿多空註記": "",
     "追蹤指數": "MSCI台灣領袖50精選指數",
     "基準指數": "加權指數",
@@ -43,355 +43,355 @@
   "sectors": [
     {
       "name": "半導體業",
-      "amount_wan": 2933543.2,
-      "ratio": 55.54
-    },
-    {
-      "name": "金融保險",
-      "amount_wan": 673964.9,
-      "ratio": 12.76
+      "amount_wan": 3773736.1,
+      "ratio": 55.86
     },
     {
       "name": "電子零組件",
-      "amount_wan": 556179.5,
-      "ratio": 10.53
+      "amount_wan": 895130.8,
+      "ratio": 13.25
+    },
+    {
+      "name": "金融保險",
+      "amount_wan": 714077.9,
+      "ratio": 10.57
     },
     {
       "name": "電腦及週邊",
-      "amount_wan": 359694.4,
-      "ratio": 6.81
+      "amount_wan": 452632.2,
+      "ratio": 6.7
     },
     {
       "name": "其他電子業",
-      "amount_wan": 288389.4,
-      "ratio": 5.46
+      "amount_wan": 366834.7,
+      "ratio": 5.43
     },
     {
       "name": "通信網路業",
-      "amount_wan": 207048.8,
-      "ratio": 3.92
+      "amount_wan": 258067.9,
+      "ratio": 3.82
     },
     {
       "name": "其他合計",
-      "amount_wan": 79756.0,
-      "ratio": 1.51
+      "amount_wan": 91202.0,
+      "ratio": 1.35
     },
     {
       "name": "光電業",
-      "amount_wan": 50705.8,
-      "ratio": 0.96
-    },
-    {
-      "name": "食品工業",
-      "amount_wan": 42254.9,
-      "ratio": 0.8
+      "amount_wan": 56747.9,
+      "ratio": 0.84
     },
     {
       "name": "其他業",
-      "amount_wan": 39613.9,
-      "ratio": 0.75
+      "amount_wan": 42560.9,
+      "ratio": 0.63
+    },
+    {
+      "name": "食品工業",
+      "amount_wan": 41885.4,
+      "ratio": 0.62
     }
   ],
   "holdings": [
     {
       "code": "2330.TW",
       "name": "台積電",
-      "ratio": 41.5,
-      "shares": 13583387
+      "ratio": 42.74,
+      "shares": 13354473
     },
     {
       "code": "2454.TW",
       "name": "聯發科",
-      "ratio": 7.39,
-      "shares": 1392743
+      "ratio": 6.32,
+      "shares": 1372565
     },
     {
       "code": "2308.TW",
       "name": "台達電",
-      "ratio": 6.23,
-      "shares": 2028503
+      "ratio": 5.86,
+      "shares": 1999148
     },
     {
       "code": "2317.TW",
       "name": "鴻海",
-      "ratio": 3.9,
-      "shares": 11322393
+      "ratio": 3.92,
+      "shares": 11158347
     },
     {
       "code": "3711.TW",
       "name": "日月光投控",
-      "ratio": 2.8,
-      "shares": 3808649
+      "ratio": 2.9,
+      "shares": 3753473
     },
     {
       "code": "2383.TW",
       "name": "台光電",
-      "ratio": 2.54,
-      "shares": 382437
+      "ratio": 2.46,
+      "shares": 376908
     },
     {
       "code": "2345.TW",
       "name": "智邦",
-      "ratio": 2.1,
-      "shares": 594041
+      "ratio": 2.07,
+      "shares": 585434
     },
     {
       "code": "2303.TW",
       "name": "聯電",
-      "ratio": 1.71,
-      "shares": 13194672
-    },
-    {
-      "code": "3017.TW",
-      "name": "奇鋐",
-      "ratio": 1.49,
-      "shares": 426235
-    },
-    {
-      "code": "6669.TW",
-      "name": "緯穎",
-      "ratio": 1.47,
-      "shares": 201548
-    },
-    {
-      "code": "2891.TW",
-      "name": "中信金",
-      "ratio": 1.46,
-      "shares": 19253993
+      "ratio": 2.02,
+      "shares": 13003494
     },
     {
       "code": "2327.TW",
       "name": "國巨",
-      "ratio": 1.38,
-      "shares": 2581752
+      "ratio": 1.64,
+      "shares": 2544360
     },
     {
-      "code": "3037.TW",
-      "name": "欣興",
-      "ratio": 1.32,
-      "shares": 1124460
+      "code": "2891.TW",
+      "name": "中信金",
+      "ratio": 1.47,
+      "shares": 18974978
     },
     {
-      "code": "2382.TW",
-      "name": "廣達",
-      "ratio": 1.31,
-      "shares": 2791579
+      "code": "3017.TW",
+      "name": "奇鋐",
+      "ratio": 1.46,
+      "shares": 420079
+    },
+    {
+      "code": "6669.TW",
+      "name": "緯穎",
+      "ratio": 1.44,
+      "shares": 198641
     },
     {
       "code": "2881.TW",
       "name": "富邦金",
-      "ratio": 1.27,
-      "shares": 9717118
+      "ratio": 1.3,
+      "shares": 9576328
+    },
+    {
+      "code": "3037.TW",
+      "name": "欣興",
+      "ratio": 1.29,
+      "shares": 1108215
     },
     {
       "code": "2882.TW",
       "name": "國泰金",
-      "ratio": 1.26,
-      "shares": 11761067
+      "ratio": 1.28,
+      "shares": 11590637
+    },
+    {
+      "code": "2382.TW",
+      "name": "廣達",
+      "ratio": 1.19,
+      "shares": 2751166
     },
     {
       "code": "2885.TW",
       "name": "元大金",
-      "ratio": 1.14,
-      "shares": 14772396
+      "ratio": 1.13,
+      "shares": 14558361
     },
     {
       "code": "2360.TW",
       "name": "致茂",
-      "ratio": 1.08,
-      "shares": 335174
+      "ratio": 1.05,
+      "shares": 330329
     },
     {
       "code": "2887.TW",
       "name": "台新新光金",
-      "ratio": 0.98,
-      "shares": 30520359
+      "ratio": 1.01,
+      "shares": 30078096
     },
     {
       "code": "2301.TW",
       "name": "光寶科",
-      "ratio": 0.94,
-      "shares": 3084517
+      "ratio": 0.88,
+      "shares": 3039829
     },
     {
       "code": "2412.TW",
       "name": "中華電",
-      "ratio": 0.8,
-      "shares": 4312680
+      "ratio": 0.83,
+      "shares": 4250208
     },
     {
       "code": "2883.TW",
       "name": "凱基金",
-      "ratio": 0.8,
-      "shares": 25604029
+      "ratio": 0.78,
+      "shares": 25233016
     },
     {
       "code": "2884.TW",
       "name": "玉山金",
       "ratio": 0.78,
-      "shares": 17598716
+      "shares": 17343698
     },
     {
       "code": "2357.TW",
       "name": "華碩",
-      "ratio": 0.78,
-      "shares": 829626
-    },
-    {
-      "code": "3661.TW",
-      "name": "世芯-KY",
-      "ratio": 0.76,
-      "shares": 103472
-    },
-    {
-      "code": "3231.TW",
-      "name": "緯創",
-      "ratio": 0.69,
-      "shares": 3611832
-    },
-    {
-      "code": "3665.TW",
-      "name": "貿聯-KY",
-      "ratio": 0.67,
-      "shares": 167723
-    },
-    {
-      "code": "5274.TW",
-      "name": "信驊",
-      "ratio": 0.66,
-      "shares": 27096
-    },
-    {
-      "code": "3443.TW",
-      "name": "創意",
-      "ratio": 0.62,
-      "shares": 78609
-    },
-    {
-      "code": "1216.TW",
-      "name": "統一",
-      "ratio": 0.6,
-      "shares": 5988968
-    },
-    {
-      "code": "2379.TW",
-      "name": "瑞昱",
-      "ratio": 0.57,
-      "shares": 713730
-    },
-    {
-      "code": "3034.TW",
-      "name": "聯詠",
-      "ratio": 0.57,
-      "shares": 835684
-    },
-    {
-      "code": "5871.TW",
-      "name": "中租-KY",
-      "ratio": 0.56,
-      "shares": 3660028
-    },
-    {
-      "code": "2368.TW",
-      "name": "金像電",
-      "ratio": 0.54,
-      "shares": 279933
+      "ratio": 0.74,
+      "shares": 817599
     },
     {
       "code": "3008.TW",
       "name": "大立光",
+      "ratio": 0.73,
+      "shares": 149118
+    },
+    {
+      "code": "3231.TW",
+      "name": "緯創",
+      "ratio": 0.68,
+      "shares": 3559506
+    },
+    {
+      "code": "3661.TW",
+      "name": "世芯-KY",
+      "ratio": 0.66,
+      "shares": 101990
+    },
+    {
+      "code": "5274.TW",
+      "name": "信驊",
+      "ratio": 0.65,
+      "shares": 26697
+    },
+    {
+      "code": "1216.TW",
+      "name": "統一",
+      "ratio": 0.63,
+      "shares": 5902214
+    },
+    {
+      "code": "3034.TW",
+      "name": "聯詠",
+      "ratio": 0.54,
+      "shares": 823600
+    },
+    {
+      "code": "5871.TW",
+      "name": "中租-KY",
+      "ratio": 0.54,
+      "shares": 3607018
+    },
+    {
+      "code": "3443.TW",
+      "name": "創意",
       "ratio": 0.53,
-      "shares": 151284
+      "shares": 77469
+    },
+    {
+      "code": "2379.TW",
+      "name": "瑞昱",
+      "ratio": 0.53,
+      "shares": 703413
+    },
+    {
+      "code": "2368.TW",
+      "name": "金像電",
+      "ratio": 0.5,
+      "shares": 275886
     },
     {
       "code": "1590.TW",
       "name": "亞德客-KY",
-      "ratio": 0.52,
-      "shares": 246974
+      "ratio": 0.5,
+      "shares": 243440
+    },
+    {
+      "code": "3665.TW",
+      "name": "貿聯-KY",
+      "ratio": 0.49,
+      "shares": 165329
     },
     {
       "code": "2886.TW",
       "name": "兆豐金",
       "ratio": 0.48,
-      "shares": 8666074
+      "shares": 8540503
     },
     {
       "code": "3045.TW",
       "name": "台灣大",
-      "ratio": 0.44,
-      "shares": 2898417
+      "ratio": 0.46,
+      "shares": 2856465
     },
     {
       "code": "4904.TW",
       "name": "遠傳",
-      "ratio": 0.43,
-      "shares": 3243641
+      "ratio": 0.44,
+      "shares": 3196673
     },
     {
       "code": "2892.TW",
       "name": "第一金",
       "ratio": 0.42,
-      "shares": 10384206
+      "shares": 10233783
     },
     {
       "code": "2890.TW",
       "name": "永豐金",
       "ratio": 0.42,
-      "shares": 9946596
-    },
-    {
-      "code": "3653.TW",
-      "name": "健策",
-      "ratio": 0.41,
-      "shares": 74881
+      "shares": 9802443
     },
     {
       "code": "5876.TW",
       "name": "上海商銀",
+      "ratio": 0.4,
+      "shares": 7059424
+    },
+    {
+      "code": "8069.TW",
+      "name": "元太",
       "ratio": 0.39,
-      "shares": 7163221
+      "shares": 1327614
     },
     {
       "code": "2207.TW",
       "name": "和泰車",
       "ratio": 0.39,
-      "shares": 599280
-    },
-    {
-      "code": "2059.TW",
-      "name": "川湖",
-      "ratio": 0.37,
-      "shares": 48785
+      "shares": 590616
     },
     {
       "code": "5880.TW",
       "name": "合庫金",
       "ratio": 0.36,
-      "shares": 11325369
+      "shares": 11161266
+    },
+    {
+      "code": "3653.TW",
+      "name": "健策",
+      "ratio": 0.36,
+      "shares": 73798
     },
     {
       "code": "3293.TW",
       "name": "鈊象",
       "ratio": 0.36,
-      "shares": 356896
+      "shares": 351766
+    },
+    {
+      "code": "2059.TW",
+      "name": "川湖",
+      "ratio": 0.33,
+      "shares": 48101
     },
     {
       "code": "2880.TW",
       "name": "華南金",
-      "ratio": 0.34,
-      "shares": 7423305
-    },
-    {
-      "code": "8069.TW",
-      "name": "元太",
       "ratio": 0.33,
-      "shares": 1347108
+      "shares": 7315746
     },
     {
       "code": "2449.TW",
       "name": "京元電子",
-      "ratio": 0.29,
-      "shares": 713405
+      "ratio": 0.3,
+      "shares": 703088
     }
   ]
 }

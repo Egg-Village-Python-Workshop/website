@@ -1,7 +1,7 @@
 {
   "id": "00983D",
   "name": "主動富邦複合收益",
-  "fetched_at": "2026-05-11",
+  "fetched_at": "2026-05-18",
   "capital": {
     "ETF名稱": "主動富邦複合收益",
     "交易所代碼": "00983D",
@@ -13,9 +13,9 @@
     "成立日期": "2025/09/30（已成立1年）",
     "淨值幣別": "台幣",
     "上市日期": "2025/10/14",
-    "成分股數": 81,
+    "成分股數": 84,
     "ETF規模": "1,038.60(百萬台幣)(2026/04/30)",
-    "成交量(股)": "1,156,781（月均:1,381,911）",
+    "成交量(股)": "1,393,440（月均:1,305,611）",
     "投資標的": "債券型",
     "經理人": "游陳達",
     "投資區域": "全球",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "月配",
     "經理費(%)": "0.65",
-    "殖利率(%)": "7.10（05/11）",
+    "殖利率(%)": "7.12（05/15）",
     "總管理費用(%)": "",
     "經銷商": "",
     "官方網站連結": "https://websys.fsit.com.tw/FubonETF/Fund/Profile.aspx?stkId=00983D",
-    "ETF市價": "10.1400（05/11）",
+    "ETF市價": "10.1100（05/15）",
     "融資交易": "Y",
-    "ETF淨值": "10.1311（05/08）",
+    "ETF淨值": "10.0689（05/14）",
     "放空交易": "Y",
-    "折溢價(%)": "-0.11(月均:-0.01)",
+    "折溢價(%)": "0.41(月均:0.05)",
     "選擇權交易": "",
-    "年化標準差(%)": "N/A（05/11）",
+    "年化標準差(%)": "N/A（05/15）",
     "槓桿多空註記": "",
     "追蹤指數": "",
     "基準指數": "道瓊全球指數",
@@ -43,58 +43,58 @@
   "sectors": [
     {
       "name": "其他資產",
-      "amount_wan": 21005.8,
-      "ratio": 20.04
+      "amount_wan": 20605.8,
+      "ratio": 19.84
     },
     {
       "name": "通訊",
-      "amount_wan": 14779.5,
-      "ratio": 14.1
+      "amount_wan": 14405.4,
+      "ratio": 13.87
     },
     {
       "name": "金融",
-      "amount_wan": 12389.6,
-      "ratio": 11.82
+      "amount_wan": 12639.7,
+      "ratio": 12.17
     },
     {
       "name": "能源",
-      "amount_wan": 11624.4,
-      "ratio": 11.09
+      "amount_wan": 12037.4,
+      "ratio": 11.59
     },
     {
       "name": "非核心消費",
-      "amount_wan": 8689.5,
-      "ratio": 8.29
-    },
-    {
-      "name": "核心消費",
-      "amount_wan": 7767.1,
-      "ratio": 7.41
+      "amount_wan": 8693.1,
+      "ratio": 8.37
     },
     {
       "name": "科技",
-      "amount_wan": 7714.7,
-      "ratio": 7.36
+      "amount_wan": 8194.5,
+      "ratio": 7.89
     },
     {
       "name": "公用事業",
-      "amount_wan": 7274.5,
-      "ratio": 6.94
+      "amount_wan": 7540.2,
+      "ratio": 7.26
     },
     {
-      "name": "原物料",
-      "amount_wan": 5911.8,
-      "ratio": 5.64
+      "name": "核心消費",
+      "amount_wan": 6158.9,
+      "ratio": 5.93
     },
     {
       "name": "醫療保健",
-      "amount_wan": 5303.9,
-      "ratio": 5.06
+      "amount_wan": 5785.0,
+      "ratio": 5.57
+    },
+    {
+      "name": "原物料",
+      "amount_wan": 5473.4,
+      "ratio": 5.27
     },
     {
       "name": "工業",
-      "amount_wan": 2358.4,
-      "ratio": 2.25
+      "amount_wan": 2326.5,
+      "ratio": 2.24
     }
   ],
   "holdings": [
@@ -107,13 +107,13 @@
     {
       "code": "TLTW.US",
       "name": "iShares 20+ Year Treasury Bond B",
-      "ratio": 6.31,
+      "ratio": 6.22,
       "shares": 95000
     },
     {
       "code": "",
       "name": "C 8 1/8 07/15/39",
-      "ratio": 2.29,
+      "ratio": 2.27,
       "shares": null
     },
     {
@@ -125,7 +125,7 @@
     {
       "code": "",
       "name": "ABIBB 8.2 01/15/39",
-      "ratio": 1.92,
+      "ratio": 1.91,
       "shares": null
     },
     {
@@ -136,26 +136,26 @@
     },
     {
       "code": "",
-      "name": "TRPCN 7 5/8 01/15/39",
-      "ratio": 1.8,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "HAL 7.45 09/15/39",
+      "name": "BHCCN 11 09/30/28",
       "ratio": 1.79,
       "shares": null
     },
     {
       "code": "",
-      "name": "BHCCN 11 09/30/28",
-      "ratio": 1.77,
+      "name": "TRPCN 7 5/8 01/15/39",
+      "ratio": 1.79,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "HAL 7.45 09/15/39",
+      "ratio": 1.78,
       "shares": null
     },
     {
       "code": "",
       "name": "RAKUTN 11 1/4 02/15/27",
-      "ratio": 1.74,
+      "ratio": 1.75,
       "shares": null
     },
     {
@@ -166,32 +166,32 @@
     },
     {
       "code": "",
-      "name": "PFE 7.2 03/15/39",
-      "ratio": 1.64,
+      "name": "GTN 10 1/2 07/15/29",
+      "ratio": 1.63,
       "shares": null
     },
     {
       "code": "",
-      "name": "GTN 10 1/2 07/15/29",
-      "ratio": 1.61,
+      "name": "PFE 7.2 03/15/39",
+      "ratio": 1.63,
       "shares": null
     },
     {
       "code": "",
       "name": "DELL 8.35 07/15/46",
-      "ratio": 1.57,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "DIS 7 3/4 12/01/45",
-      "ratio": 1.52,
+      "ratio": 1.56,
       "shares": null
     },
     {
       "code": "",
       "name": "DTV 8 7/8 02/01/30",
-      "ratio": 1.52,
+      "ratio": 1.53,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "DIS 7 3/4 12/01/45",
+      "ratio": 1.51,
       "shares": null
     },
     {
@@ -209,13 +209,13 @@
     {
       "code": "",
       "name": "IEP 10 11/15/29",
-      "ratio": 1.46,
+      "ratio": 1.47,
       "shares": null
     },
     {
       "code": "",
       "name": "TIME WARNER CABLE INC 7.300 07/01/38",
-      "ratio": 1.44,
+      "ratio": 1.43,
       "shares": null
     },
     {
@@ -226,20 +226,20 @@
     },
     {
       "code": "",
+      "name": "VENLNG 9 1/2 02/01/29",
+      "ratio": 1.38,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "ORCL 6.9 11/09/52",
       "ratio": 1.37,
       "shares": null
     },
     {
       "code": "",
-      "name": "VENLNG 9 1/2 02/01/29",
-      "ratio": 1.36,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "CRWV 9 02/01/31",
-      "ratio": 1.32,
+      "ratio": 1.33,
       "shares": null
     },
     {
@@ -250,56 +250,56 @@
     },
     {
       "code": "",
-      "name": "BATSLN 7.081 08/02/53",
+      "name": "MOHEGN 11 7/8 04/15/31",
       "ratio": 1.3,
       "shares": null
     },
     {
       "code": "",
-      "name": "MOHEGN 11 7/8 04/15/31",
+      "name": "BATSLN 7.081 08/02/53",
       "ratio": 1.29,
       "shares": null
     },
     {
       "code": "",
       "name": "MBGGR 8 1/2 01/18/31",
-      "ratio": 1.27,
+      "ratio": 1.28,
       "shares": null
     },
     {
       "code": "",
       "name": "SUCN 6.85 06/01/39",
-      "ratio": 1.19,
+      "ratio": 1.18,
       "shares": null
     },
     {
       "code": "",
       "name": "GM 6 3/4 04/01/46",
-      "ratio": 1.16,
+      "ratio": 1.15,
       "shares": null
     },
     {
       "code": "",
       "name": "BRKHEC 6 3/4 07/01/37",
-      "ratio": 1.13,
+      "ratio": 1.12,
       "shares": null
     },
     {
       "code": "",
       "name": "PCG 6 3/4 01/15/53",
-      "ratio": 1.13,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "ENBCN 6.7 11/15/53",
       "ratio": 1.12,
       "shares": null
     },
     {
       "code": "",
       "name": "VZ 7 3/4 12/01/30",
-      "ratio": 1.1,
+      "ratio": 1.11,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "ENBCN 6.7 11/15/53",
+      "ratio": 1.11,
       "shares": null
     },
     {
@@ -311,13 +311,13 @@
     {
       "code": "",
       "name": "BATSLN 7.079 08/02/43",
-      "ratio": 1.06,
+      "ratio": 1.05,
       "shares": null
     },
     {
       "code": "",
       "name": "HSBC 6.332 03/09/44",
-      "ratio": 1.05,
+      "ratio": 1.04,
       "shares": null
     },
     {
@@ -329,7 +329,7 @@
     {
       "code": "",
       "name": "KMI 6.95 01/15/38",
-      "ratio": 1.04,
+      "ratio": 1.03,
       "shares": null
     },
     {
@@ -340,13 +340,13 @@
     },
     {
       "code": "",
-      "name": "KHC 6 7/8 01/26/39",
+      "name": "TELEFO 8 1/4 09/15/30",
       "ratio": 0.98,
       "shares": null
     },
     {
       "code": "",
-      "name": "TELEFO 8 1/4 09/15/30",
+      "name": "KHC 6 7/8 01/26/39",
       "ratio": 0.98,
       "shares": null
     },
@@ -359,7 +359,7 @@
     {
       "code": "",
       "name": "AMSSW 12 1/4 03/30/29",
-      "ratio": 0.95,
+      "ratio": 0.96,
       "shares": null
     },
     {
@@ -376,19 +376,19 @@
     },
     {
       "code": "",
-      "name": "ATH 6 5/8 05/19/55",
-      "ratio": 0.86,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "UNITEDHEALTH GROUP INC 6.875 02/15/38",
+      "name": "MINAU 9 1/4 10/01/28",
       "ratio": 0.85,
       "shares": null
     },
     {
       "code": "",
-      "name": "MINAU 9 1/4 10/01/28",
+      "name": "ATH 6 5/8 05/19/55",
+      "ratio": 0.85,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "UNITEDHEALTH GROUP INC 6.875 02/15/38",
       "ratio": 0.84,
       "shares": null
     },
@@ -400,20 +400,20 @@
     },
     {
       "code": "",
+      "name": "PDM 9 1/4 07/20/28",
+      "ratio": 0.82,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "LOW 6.65 09/15/37",
       "ratio": 0.82,
       "shares": null
     },
     {
       "code": "",
-      "name": "PDM 9 1/4 07/20/28",
-      "ratio": 0.81,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "CYH 10 7/8 01/15/32",
-      "ratio": 0.8,
+      "ratio": 0.81,
       "shares": null
     },
     {
@@ -425,18 +425,18 @@
     {
       "code": "",
       "name": "SOILCN 9 5/8 06/15/29",
-      "ratio": 0.78,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "CEG 6 1/2 10/01/53",
-      "ratio": 0.76,
+      "ratio": 0.79,
       "shares": null
     },
     {
       "code": "",
       "name": "AMCX 10 1/2 07/15/32",
+      "ratio": 0.77,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "CEG 6 1/2 10/01/53",
       "ratio": 0.76,
       "shares": null
     },
@@ -454,14 +454,14 @@
     },
     {
       "code": "",
-      "name": "MCD 6.3 03/01/38",
+      "name": "DOW 6.9 05/15/53",
       "ratio": 0.72,
       "shares": null
     },
     {
       "code": "",
-      "name": "DOW 6.9 05/15/53",
-      "ratio": 0.72,
+      "name": "MCD 6.3 03/01/38",
+      "ratio": 0.71,
       "shares": null
     },
     {
@@ -473,7 +473,7 @@
     {
       "code": "",
       "name": "FFHCN 6.35 03/22/54",
-      "ratio": 0.71,
+      "ratio": 0.7,
       "shares": null
     },
     {
@@ -497,7 +497,7 @@
     {
       "code": "",
       "name": "ED 6 3/4 04/01/38",
-      "ratio": 0.61,
+      "ratio": 0.6,
       "shares": null
     },
     {
@@ -515,7 +515,7 @@
     {
       "code": "",
       "name": "SABHLD 10 3/4 11/15/29",
-      "ratio": 0.53,
+      "ratio": 0.54,
       "shares": null
     },
     {
@@ -526,13 +526,13 @@
     },
     {
       "code": "",
-      "name": "RIOLN 7 1/4 03/15/31",
+      "name": "ALLY 8 11/01/31",
       "ratio": 0.5,
       "shares": null
     },
     {
       "code": "",
-      "name": "ALLY 8 11/01/31",
+      "name": "RIOLN 7 1/4 03/15/31",
       "ratio": 0.5,
       "shares": null
     },
@@ -568,13 +568,13 @@
     },
     {
       "code": "",
-      "name": "SYY 6.6 04/01/50",
+      "name": "SJM 6 1/2 11/15/43",
       "ratio": 0.19,
       "shares": null
     },
     {
       "code": "",
-      "name": "SJM 6 1/2 11/15/43",
+      "name": "SYY 6.6 04/01/50",
       "ratio": 0.19,
       "shares": null
     },
@@ -599,7 +599,7 @@
     {
       "code": "",
       "name": "TRGP 6 1/2 02/15/53",
-      "ratio": 0.16,
+      "ratio": 0.15,
       "shares": null
     }
   ]

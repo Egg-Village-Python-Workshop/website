@@ -1,7 +1,7 @@
 {
   "id": "00982T",
   "name": "平衡兆豐台美動能",
-  "fetched_at": "2026-05-11",
+  "fetched_at": "2026-05-18",
   "capital": {
     "ETF名稱": "平衡兆豐台美動能",
     "交易所代碼": "00982T",
@@ -13,9 +13,9 @@
     "成立日期": "2025/12/16（已成立0年）",
     "淨值幣別": "台幣",
     "上市日期": "2025/12/26",
-    "成分股數": 39,
+    "成分股數": 38,
     "ETF規模": "291.60(百萬台幣)(2026/04/30)",
-    "成交量(股)": "1,635,986（月均:1,616,561）",
+    "成交量(股)": "195,417（月均:1,317,554）",
     "投資標的": "平衡型",
     "經理人": "詹佳",
     "投資區域": "台灣",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "半年配",
     "經理費(%)": "0.8",
-    "殖利率(%)": "N/A（05/11）",
+    "殖利率(%)": "N/A（05/18）",
     "總管理費用(%)": "",
     "經銷商": "",
     "官方網站連結": "https://www.megafunds.com.tw/MEGA/etf/etf_product.aspx?id=22",
-    "ETF市價": "14.5600（05/11）",
+    "ETF市價": "14.0300（05/18）",
     "融資交易": "Y",
-    "ETF淨值": "14.5255（05/07）",
+    "ETF淨值": "14.3656（05/15）",
     "放空交易": "Y",
-    "折溢價(%)": "-0.93(月均:-0.82)",
+    "折溢價(%)": "-1.29(月均:-0.82)",
     "選擇權交易": "",
-    "年化標準差(%)": "N/A（05/11）",
+    "年化標準差(%)": "N/A（05/18）",
     "槓桿多空註記": "",
     "追蹤指數": "臺灣指數公司彭博台美動能多資產平衡指數",
     "基準指數": "Bloomberg US Agg Gov/Credit Total Return Value Unh",
@@ -43,280 +43,280 @@
   "sectors": [
     {
       "name": "半導體業",
-      "amount_wan": 12793.6,
-      "ratio": 48.96
+      "amount_wan": 13451.6,
+      "ratio": 46.13
     },
     {
       "name": "政府公債",
-      "amount_wan": 3958.8,
-      "ratio": 15.15
-    },
-    {
-      "name": "電腦及週邊設備業",
-      "amount_wan": 3020.7,
-      "ratio": 11.56
-    },
-    {
-      "name": "其他電子業",
-      "amount_wan": 2785.5,
-      "ratio": 10.66
-    },
-    {
-      "name": "電子零組件業",
-      "amount_wan": 1620.1,
-      "ratio": 6.2
+      "amount_wan": 5117.6,
+      "ratio": 17.55
     },
     {
       "name": "現金",
-      "amount_wan": 1395.4,
-      "ratio": 5.34
+      "amount_wan": 2974.3,
+      "ratio": 10.2
+    },
+    {
+      "name": "電腦及週邊設備業",
+      "amount_wan": 2787.7,
+      "ratio": 9.56
+    },
+    {
+      "name": "其他電子業",
+      "amount_wan": 2586.5,
+      "ratio": 8.87
+    },
+    {
+      "name": "電子零組件業",
+      "amount_wan": 1790.4,
+      "ratio": 6.14
     },
     {
       "name": "其他",
-      "amount_wan": 556.6,
-      "ratio": 2.13
+      "amount_wan": 452.0,
+      "ratio": 1.55
     }
   ],
   "holdings": [
     {
       "code": "2330.TW",
       "name": "台積電",
-      "ratio": 17.1,
-      "shares": 22345
+      "ratio": 14.54,
+      "shares": 17605
     },
     {
       "code": "2454.TW",
       "name": "聯發科",
-      "ratio": 10.6,
-      "shares": 8741
+      "ratio": 8.21,
+      "shares": 6911
+    },
+    {
+      "code": "",
+      "name": "T 4 3/4 08/15/55",
+      "ratio": 6.59,
+      "shares": null
     },
     {
       "code": "2317.TW",
       "name": "鴻海",
-      "ratio": 5.92,
-      "shares": 70843
+      "ratio": 5.04,
+      "shares": 55691
     },
     {
       "code": "",
-      "name": "T 4 3/4 05/15/55",
-      "ratio": 4.17,
+      "name": "T 4 5/8 11/15/55",
+      "ratio": 5.0,
       "shares": null
     },
     {
       "code": "",
       "name": "T 4 3/4 02/15/56",
-      "ratio": 4.13,
+      "ratio": 4.39,
       "shares": null
     },
     {
       "code": "",
-      "name": "T 4 3/4 08/15/55",
-      "ratio": 4.12,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "T 4 3/4 11/15/53",
-      "ratio": 4.06,
+      "name": "T 4 3/4 05/15/55",
+      "ratio": 4.34,
       "shares": null
     },
     {
       "code": "",
       "name": "T 4 5/8 02/15/55",
-      "ratio": 4.04,
+      "ratio": 4.3,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "T 4 1/2 11/15/54",
+      "ratio": 4.27,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "T 4 3/4 11/15/53",
+      "ratio": 4.22,
       "shares": null
     },
     {
       "code": "",
       "name": "T 4 5/8 05/15/54",
-      "ratio": 3.37,
+      "ratio": 3.51,
       "shares": null
-    },
-    {
-      "code": "3711.TW",
-      "name": "日月光投控",
-      "ratio": 3.3,
-      "shares": 19142
     },
     {
       "code": "2303.TW",
       "name": "聯電",
-      "ratio": 3.11,
-      "shares": 101786
-    },
-    {
-      "code": "",
-      "name": "T 4 1/2 11/15/54",
-      "ratio": 3.1,
-      "shares": null
+      "ratio": 3.21,
+      "shares": 80016
     },
     {
       "code": "",
       "name": "T 4 1/4 08/15/54",
-      "ratio": 2.85,
+      "ratio": 3.03,
       "shares": null
     },
     {
       "code": "",
       "name": "T 4 1/4 02/15/54",
-      "ratio": 2.84,
+      "ratio": 3.03,
       "shares": null
     },
     {
-      "code": "",
-      "name": "T 4 5/8 11/15/55",
-      "ratio": 2.76,
-      "shares": null
+      "code": "3711.TW",
+      "name": "日月光投控",
+      "ratio": 3.0,
+      "shares": 15047
     },
     {
       "code": "2327.TW",
       "name": "國巨",
-      "ratio": 2.47,
-      "shares": 18966
+      "ratio": 2.48,
+      "shares": 14910
     },
     {
       "code": "6669.TW",
       "name": "緯穎",
-      "ratio": 1.88,
-      "shares": 1082
+      "ratio": 1.58,
+      "shares": 850
     },
     {
       "code": "2382.TW",
       "name": "廣達",
-      "ratio": 1.82,
-      "shares": 15992
-    },
-    {
-      "code": "2368.TW",
-      "name": "金像電",
-      "ratio": 1.63,
-      "shares": 3672
+      "ratio": 1.4,
+      "shares": 12572
     },
     {
       "code": "2301.TW",
       "name": "光寶科",
-      "ratio": 1.58,
-      "shares": 23159
+      "ratio": 1.36,
+      "shares": 18205
+    },
+    {
+      "code": "2368.TW",
+      "name": "金像電",
+      "ratio": 1.36,
+      "shares": 2886
     },
     {
       "code": "2357.TW",
       "name": "華碩",
-      "ratio": 1.47,
-      "shares": 6775
+      "ratio": 1.24,
+      "shares": 5327
     },
     {
       "code": "2449.TW",
       "name": "京元電子",
-      "ratio": 1.29,
-      "shares": 12428
+      "ratio": 1.07,
+      "shares": 9769
     },
     {
       "code": "3045.TW",
       "name": "台灣大",
-      "ratio": 0.92,
-      "shares": 24936
+      "ratio": 0.82,
+      "shares": 19602
     },
     {
       "code": "3260.TW",
       "name": "威剛",
-      "ratio": 0.57,
-      "shares": 3781
+      "ratio": 0.46,
+      "shares": 2972
     },
     {
       "code": "2451.TW",
       "name": "創見",
-      "ratio": 0.48,
-      "shares": 4600
-    },
-    {
-      "code": "6139.TW",
-      "name": "亞翔",
-      "ratio": 0.47,
-      "shares": 1951
-    },
-    {
-      "code": "3264.TW",
-      "name": "欣銓",
-      "ratio": 0.42,
-      "shares": 5599
+      "ratio": 0.44,
+      "shares": 3616
     },
     {
       "code": "5536.TW",
       "name": "聖暉",
-      "ratio": 0.38,
-      "shares": 1324
+      "ratio": 0.39,
+      "shares": 1040
+    },
+    {
+      "code": "6139.TW",
+      "name": "亞翔",
+      "ratio": 0.39,
+      "shares": 1533
+    },
+    {
+      "code": "3264.TW",
+      "name": "欣銓",
+      "ratio": 0.36,
+      "shares": 4401
     },
     {
       "code": "3706.TW",
       "name": "神達",
-      "ratio": 0.37,
-      "shares": 12689
+      "ratio": 0.29,
+      "shares": 9974
     },
     {
       "code": "3211.TW",
       "name": "順達",
-      "ratio": 0.24,
-      "shares": 1913
-    },
-    {
-      "code": "6290.TW",
-      "name": "良維",
-      "ratio": 0.21,
-      "shares": 2248
+      "ratio": 0.2,
+      "shares": 1505
     },
     {
       "code": "6196.TW",
       "name": "帆宣",
-      "ratio": 0.2,
-      "shares": 1481
+      "ratio": 0.17,
+      "shares": 1164
+    },
+    {
+      "code": "6290.TW",
+      "name": "良維",
+      "ratio": 0.17,
+      "shares": 1767
     },
     {
       "code": "2472.TW",
       "name": "立隆電",
-      "ratio": 0.18,
-      "shares": 2391
-    },
-    {
-      "code": "3019.TW",
-      "name": "亞光",
-      "ratio": 0.16,
-      "shares": 3312
+      "ratio": 0.15,
+      "shares": 1880
     },
     {
       "code": "2481.TW",
       "name": "強茂",
       "ratio": 0.15,
-      "shares": 4594
+      "shares": 3612
+    },
+    {
+      "code": "3019.TW",
+      "name": "亞光",
+      "ratio": 0.14,
+      "shares": 2604
     },
     {
       "code": "3227.TW",
       "name": "原相",
-      "ratio": 0.15,
-      "shares": 1984
-    },
-    {
-      "code": "3693.TW",
-      "name": "營邦",
       "ratio": 0.12,
-      "shares": 616
+      "shares": 1559
     },
     {
       "code": "3357.TW",
       "name": "臺慶科",
       "ratio": 0.1,
-      "shares": 1567
+      "shares": 1212
+    },
+    {
+      "code": "3693.TW",
+      "name": "營邦",
+      "ratio": 0.1,
+      "shares": 484
+    },
+    {
+      "code": "6449.TW",
+      "name": "鈺邦",
+      "ratio": 0.09,
+      "shares": 938
     },
     {
       "code": "2375.TW",
       "name": "凱美",
       "ratio": 0.07,
-      "shares": 2364
-    },
-    {
-      "code": "6449.TW",
-      "name": "鈺邦",
-      "ratio": 0.07,
-      "shares": 1193
+      "shares": 1859
     }
   ]
 }
