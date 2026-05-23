@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkchicken_city=self.webpackChunkchicken_city||[]).push([["511"],{86488(n){n.exports=JSON.parse('{"tags":[{"label":"finance","permalink":"/finance/tags/finance","count":6},{"label":"daily-report","permalink":"/finance/tags/daily-report","count":5},{"label":"announcement","permalink":"/finance/tags/announcement","count":1}]}')}}]);
