@@ -1,7 +1,7 @@
 {
   "id": "00851",
   "name": "台新全球AI",
-  "fetched_at": "2026-05-18",
+  "fetched_at": "2026-05-25",
   "capital": {
     "ETF名稱": "台新全球AI",
     "交易所代碼": "00851",
@@ -15,7 +15,7 @@
     "上市日期": "2019/08/12",
     "成分股數": 55,
     "ETF規模": "375.74(百萬台幣)(2026/04/30)",
-    "成交量(股)": "56,006（月均:37,828）",
+    "成交量(股)": "19,141（月均:36,502）",
     "投資標的": "資訊科技股",
     "經理人": "黃鈺民",
     "投資區域": "全球",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "年配",
     "經理費(%)": "0.75",
-    "殖利率(%)": "2.62（05/15）",
+    "殖利率(%)": "2.52（05/25）",
     "總管理費用(%)": "1.68 (含 0.93 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://www.tsit.com.tw/ETF/Home/ETFSeriesDetail/00851",
-    "ETF市價": "64.8000（05/15）",
+    "ETF市價": "67.4000（05/25）",
     "融資交易": "Y",
-    "ETF淨值": "66.2200（05/14）",
+    "ETF淨值": "68.3900（05/22）",
     "放空交易": "Y",
-    "折溢價(%)": "-2.14(月均:-2.75)",
+    "折溢價(%)": "-4.15(月均:-3.17)",
     "選擇權交易": "",
-    "年化標準差(%)": "10.54（05/15）",
+    "年化標準差(%)": "15.34（05/25）",
     "槓桿多空註記": "",
     "追蹤指數": "SG全球AI機器人精選指數",
     "基準指數": "ROBO Global Robotics and Automation Index TR",
@@ -43,267 +43,273 @@
   "sectors": [
     {
       "name": "資訊技術",
-      "amount_wan": 23621.0,
-      "ratio": 72.1
+      "amount_wan": 27519.4,
+      "ratio": 73.24
     },
     {
       "name": "通訊服務",
-      "amount_wan": 5667.7,
-      "ratio": 17.3
+      "amount_wan": 6207.3,
+      "ratio": 16.52
     },
     {
       "name": "醫療保健",
-      "amount_wan": 1071.3,
-      "ratio": 3.27
+      "amount_wan": 1059.6,
+      "ratio": 2.82
     },
     {
       "name": "工業",
-      "amount_wan": 622.5,
-      "ratio": 1.9
+      "amount_wan": 774.0,
+      "ratio": 2.06
     },
     {
       "name": "金融",
-      "amount_wan": 104.8,
-      "ratio": 0.32
+      "amount_wan": 142.8,
+      "ratio": 0.38
     },
     {
       "name": "能源",
-      "amount_wan": 78.6,
-      "ratio": 0.24
+      "amount_wan": 82.7,
+      "ratio": 0.22
     },
     {
       "name": "非核心消費",
-      "amount_wan": 49.1,
-      "ratio": 0.15
+      "amount_wan": 52.6,
+      "ratio": 0.14
     }
   ],
   "holdings": [
     {
-      "code": "MU.US",
-      "name": "Micron",
-      "ratio": 7.45,
-      "shares": 1300
-    },
-    {
-      "code": "GOOGL.US",
-      "name": "Alphabet - Class A Common Stock",
-      "ratio": 5.88,
-      "shares": 1875
-    },
-    {
-      "code": "AVGO.US",
-      "name": "Broadcom",
-      "ratio": 5.71,
-      "shares": 1700
-    },
-    {
-      "code": "NVDA.US",
-      "name": "NVIDIA",
-      "ratio": 5.23,
-      "shares": 2939
+      "code": "ASML.US",
+      "name": "ASML Holding",
+      "ratio": 5.25,
+      "shares": 420
     },
     {
       "code": "AAPL.US",
       "name": "Apple",
-      "ratio": 4.98,
-      "shares": 2100
+      "ratio": 4.91,
+      "shares": 2080
     },
     {
-      "code": "ASML.US",
-      "name": "ASML Holding",
-      "ratio": 4.57,
-      "shares": 380
-    },
-    {
-      "code": "2330.TW",
-      "name": "台積電",
-      "ratio": 4.54,
-      "shares": 8000
-    },
-    {
-      "code": "NFLX.US",
-      "name": "Netflix",
-      "ratio": 4.54,
-      "shares": 6600
+      "code": "000660.KS",
+      "name": "SK hynix",
+      "ratio": 4.89,
+      "shares": 500
     },
     {
       "code": "MSFT.US",
       "name": "Microsoft",
-      "ratio": 4.39,
-      "shares": 1317
-    },
-    {
-      "code": "LRCX.US",
-      "name": "Lam Research",
-      "ratio": 4.37,
-      "shares": 1940
-    },
-    {
-      "code": "PLTR .US",
-      "name": "Palantir Technologies",
-      "ratio": 4.24,
-      "shares": 4000
+      "ratio": 4.76,
+      "shares": 1487
     },
     {
       "code": "META.US",
       "name": "Meta",
-      "ratio": 3.5,
-      "shares": 720
+      "ratio": 4.71,
+      "shares": 1010
     },
     {
-      "code": "4336.HK",
-      "name": "應用材料－Ｔ",
-      "ratio": 3.45,
-      "shares": 1000
+      "code": "GOOGL.US",
+      "name": "Alphabet - Class A Common Stock",
+      "ratio": 4.64,
+      "shares": 1585
     },
     {
-      "code": "KLAC.US",
-      "name": "KLA",
-      "ratio": 2.71,
-      "shares": 190
+      "code": "AVGO.US",
+      "name": "Broadcom",
+      "ratio": 4.62,
+      "shares": 1460
+    },
+    {
+      "code": "MU.US",
+      "name": "Micron",
+      "ratio": 4.59,
+      "shares": 800
+    },
+    {
+      "code": "NVDA.US",
+      "name": "NVIDIA",
+      "ratio": 4.57,
+      "shares": 2779
+    },
+    {
+      "code": "NFLX.US",
+      "name": "Netflix",
+      "ratio": 4.48,
+      "shares": 6610
+    },
+    {
+      "code": "2330.TW",
+      "name": "台積電",
+      "ratio": 4.38,
+      "shares": 8000
+    },
+    {
+      "code": "LRCX.US",
+      "name": "Lam Research",
+      "ratio": 3.83,
+      "shares": 1640
+    },
+    {
+      "code": "PLTR .US",
+      "name": "Palantir Technologies",
+      "ratio": 3.78,
+      "shares": 3610
     },
     {
       "code": "ARM.US",
       "name": "Arm",
-      "ratio": 2.51,
+      "ratio": 3.55,
       "shares": 1516
     },
     {
-      "code": "PANW.US",
-      "name": "Palo Alto",
-      "ratio": 2.46,
-      "shares": 1284
+      "code": "4336.HK",
+      "name": "應用材料－Ｔ",
+      "ratio": 3.5,
+      "shares": 1060
     },
     {
       "code": "2454.TW",
       "name": "聯發科",
-      "ratio": 2.45,
+      "ratio": 2.81,
       "shares": 3000
+    },
+    {
+      "code": "KLAC.US",
+      "name": "KLA",
+      "ratio": 2.74,
+      "shares": 190
     },
     {
       "code": "ANET.US",
       "name": "Arista Networks",
-      "ratio": 2.2,
-      "shares": 1962
+      "ratio": 2.66,
+      "shares": 2262
     },
     {
       "code": "ISRG.US",
       "name": "Intuitive Surgical",
-      "ratio": 2.0,
-      "shares": 600
+      "ratio": 1.88,
+      "shares": 560
+    },
+    {
+      "code": "PANW.US",
+      "name": "Palo Alto",
+      "ratio": 1.76,
+      "shares": 884
     },
     {
       "code": "APP.US",
       "name": "Applovin",
-      "ratio": 1.98,
-      "shares": 500
-    },
-    {
-      "code": "INTU.US",
-      "name": "Intuit",
-      "ratio": 1.83,
-      "shares": 590
+      "ratio": 1.69,
+      "shares": 460
     },
     {
       "code": "VRT.US",
       "name": "Vertiv",
-      "ratio": 1.76,
-      "shares": 600
-    },
-    {
-      "code": "NOW.US",
-      "name": "ServiceNow",
-      "ratio": 1.43,
-      "shares": 1900
-    },
-    {
-      "code": "ADBE.US",
-      "name": "Adobe",
-      "ratio": 1.35,
-      "shares": 689
+      "ratio": 1.3,
+      "shares": 520
     },
     {
       "code": "6857.JP",
       "name": "Advantest",
-      "ratio": 1.32,
+      "ratio": 1.29,
       "shares": 1000
     },
     {
-      "code": "CDNS.US",
-      "name": "Cadence Design Systems",
-      "ratio": 1.11,
-      "shares": 405
+      "code": "NOW.US",
+      "name": "ServiceNow",
+      "ratio": 1.25,
+      "shares": 1600
     },
     {
       "code": "SPOT.US",
       "name": "Spotify",
-      "ratio": 1.04,
+      "ratio": 1.19,
       "shares": 300
     },
     {
-      "code": "FTNT.US",
-      "name": "Fortinet",
-      "ratio": 0.87,
-      "shares": 900
+      "code": "ADBE.US",
+      "name": "Adobe",
+      "ratio": 1.18,
+      "shares": 629
     },
     {
-      "code": "ADSK.US",
-      "name": "Autodesk",
-      "ratio": 0.59,
-      "shares": 315
+      "code": "CDNS.US",
+      "name": "Cadence Design Systems",
+      "ratio": 1.1,
+      "shares": 385
     },
     {
-      "code": "NBIS.US",
-      "name": "Nebius Group",
-      "ratio": 0.52,
-      "shares": 300
-    },
-    {
-      "code": "FN.US",
-      "name": "Fabrinet",
-      "ratio": 0.4,
-      "shares": 70
-    },
-    {
-      "code": "RDDT.US",
-      "name": "Reddit",
-      "ratio": 0.39,
-      "shares": 310
-    },
-    {
-      "code": "AFRM.US",
-      "name": "Affirm Holdings",
-      "ratio": 0.37,
-      "shares": 710
-    },
-    {
-      "code": "SMCI.US",
-      "name": "Super Micro Computer",
-      "ratio": 0.37,
-      "shares": 1490
-    },
-    {
-      "code": "NVMI.US",
-      "name": "Nova",
-      "ratio": 0.33,
-      "shares": 82
-    },
-    {
-      "code": "NTAP.US",
-      "name": "NetApp",
-      "ratio": 0.28,
+      "code": "TER.US",
+      "name": "Teradyne",
+      "ratio": 0.82,
       "shares": 300
     },
     {
       "code": "CRWV.US",
       "name": "CoreWeave",
-      "ratio": 0.25,
+      "ratio": 0.71,
+      "shares": 880
+    },
+    {
+      "code": "DDOG.US",
+      "name": "Datadog",
+      "ratio": 0.65,
+      "shares": 380
+    },
+    {
+      "code": "ADSK.US",
+      "name": "Autodesk",
+      "ratio": 0.58,
+      "shares": 315
+    },
+    {
+      "code": "NBIS.US",
+      "name": "Nebius Group",
+      "ratio": 0.49,
       "shares": 300
+    },
+    {
+      "code": "FTI.US",
+      "name": "TechnipFMC",
+      "ratio": 0.39,
+      "shares": 710
+    },
+    {
+      "code": "EXPE.US",
+      "name": "Expedia Group",
+      "ratio": 0.38,
+      "shares": 230
+    },
+    {
+      "code": "FN.US",
+      "name": "Fabrinet",
+      "ratio": 0.38,
+      "shares": 70
+    },
+    {
+      "code": "AFRM.US",
+      "name": "Affirm Holdings",
+      "ratio": 0.35,
+      "shares": 710
+    },
+    {
+      "code": "RDDT.US",
+      "name": "Reddit",
+      "ratio": 0.34,
+      "shares": 310
+    },
+    {
+      "code": "NVMI.US",
+      "name": "Nova",
+      "ratio": 0.32,
+      "shares": 82
     },
     {
       "code": "MTD.US",
       "name": "Mettler Toledo",
-      "ratio": 0.24,
+      "ratio": 0.25,
       "shares": 30
     },
     {
@@ -313,27 +319,15 @@
       "shares": 210
     },
     {
-      "code": "ULS.US",
-      "name": "UL Solutions",
-      "ratio": 0.23,
-      "shares": 300
-    },
-    {
       "code": "CHKP.US",
       "name": "Check Point Software",
-      "ratio": 0.23,
+      "ratio": 0.24,
       "shares": 230
-    },
-    {
-      "code": "FTI.US",
-      "name": "TechnipFMC",
-      "ratio": 0.17,
-      "shares": 300
     },
     {
       "code": "ALAB.US",
       "name": "Astera Labs",
-      "ratio": 0.17,
+      "ratio": 0.21,
       "shares": 90
     },
     {
@@ -345,14 +339,8 @@
     {
       "code": "GMED.US",
       "name": "Globus Medical",
-      "ratio": 0.13,
+      "ratio": 0.14,
       "shares": 220
-    },
-    {
-      "code": "AVAV.US",
-      "name": "AeroVironment",
-      "ratio": 0.12,
-      "shares": 100
     },
     {
       "code": "PEGA.US",
@@ -361,21 +349,27 @@
       "shares": 460
     },
     {
+      "code": "TDC.US",
+      "name": "Teradata",
+      "ratio": 0.1,
+      "shares": 390
+    },
+    {
       "code": "DUOL.US",
       "name": "Duolingo",
-      "ratio": 0.1,
+      "ratio": 0.09,
       "shares": 115
     },
     {
-      "code": "CWAN.US",
-      "name": "Clearwater Analytics",
-      "ratio": 0.06,
-      "shares": 300
+      "code": "PD.US",
+      "name": "PagerDuty",
+      "ratio": 0.08,
+      "shares": 1440
     },
     {
       "code": "HSAI.US",
       "name": "Hesai",
-      "ratio": 0.04,
+      "ratio": 0.03,
       "shares": 200
     },
     {
@@ -394,12 +388,6 @@
       "code": "PONY.US",
       "name": "Pony AI",
       "ratio": 0.02,
-      "shares": 300
-    },
-    {
-      "code": "CXM.US",
-      "name": "Sprinklr",
-      "ratio": 0.01,
       "shares": 300
     },
     {

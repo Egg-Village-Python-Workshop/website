@@ -1,7 +1,7 @@
 {
   "id": "00898",
   "name": "國泰基因免疫革命",
-  "fetched_at": "2026-05-18",
+  "fetched_at": "2026-05-25",
   "capital": {
     "ETF名稱": "國泰基因免疫革命",
     "交易所代碼": "00898",
@@ -15,7 +15,7 @@
     "上市日期": "2021/11/22",
     "成分股數": 50,
     "ETF規模": "1,323.91(百萬台幣)(2026/04/30)",
-    "成交量(股)": "170,828（月均:544,481）",
+    "成交量(股)": "246,876（月均:407,645）",
     "投資標的": "健康護理股",
     "經理人": "林淑娟",
     "投資區域": "全球",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "",
     "經理費(%)": "0.85",
-    "殖利率(%)": "N/A（05/18）",
+    "殖利率(%)": "N/A（05/22）",
     "總管理費用(%)": "1.56 (含 0.71 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://www.cathaysite.com.tw/ETF/detail/ED6",
-    "ETF市價": "7.9000（05/18）",
+    "ETF市價": "8.0300（05/22）",
     "融資交易": "Y",
-    "ETF淨值": "7.9200（05/15）",
+    "ETF淨值": "8.1500（05/21）",
     "放空交易": "Y",
-    "折溢價(%)": "1.01(月均:-0.31)",
+    "折溢價(%)": "-1.47(月均:-0.31)",
     "選擇權交易": "",
-    "年化標準差(%)": "16.13（05/18）",
+    "年化標準差(%)": "17.71（05/22）",
     "槓桿多空註記": "",
     "追蹤指數": "Solactive全球基因免疫與醫療革命指數",
     "基準指數": "NYSE FactSet Global Genomics and Immuno Biopharma",
@@ -43,105 +43,105 @@
   "sectors": [
     {
       "name": "醫療保健",
-      "amount_wan": 138588.3,
-      "ratio": 99.42
+      "amount_wan": 131848.1,
+      "ratio": 99.59
     }
   ],
   "holdings": [
     {
-      "code": "MRNA.US",
-      "name": "Moderna",
-      "ratio": 3.91,
-      "shares": 32130
-    },
-    {
-      "code": "NTLA.US",
-      "name": "Intellia Therapeutics",
-      "ratio": 3.66,
-      "shares": 107781
-    },
-    {
       "code": "IOVA.US",
       "name": "Iovance Biotherapeutics",
-      "ratio": 3.53,
+      "ratio": 4.08,
       "shares": 411535
+    },
+    {
+      "code": "MRNA.US",
+      "name": "Moderna",
+      "ratio": 3.63,
+      "shares": 32130
     },
     {
       "code": "BMY.US",
       "name": "Bristol-Myers Squibb",
-      "ratio": 3.32,
+      "ratio": 3.36,
       "shares": 23479
+    },
+    {
+      "code": "NTLA.US",
+      "name": "Intellia Therapeutics",
+      "ratio": 3.27,
+      "shares": 107781
+    },
+    {
+      "code": "MRK.US",
+      "name": "Merck",
+      "ratio": 3.08,
+      "shares": 10431
     },
     {
       "code": "ILMN.US",
       "name": "Illumina",
-      "ratio": 3.12,
+      "ratio": 3.07,
       "shares": 8816
     },
     {
       "code": "AXSM.US",
       "name": "Axsome Therapeutics",
-      "ratio": 2.97,
+      "ratio": 2.98,
       "shares": 5246
-    },
-    {
-      "code": "VRTX.US",
-      "name": "Vertex Pharmaceuticals",
-      "ratio": 2.91,
-      "shares": 2686
-    },
-    {
-      "code": "MRK.US",
-      "name": "Merck",
-      "ratio": 2.88,
-      "shares": 10431
-    },
-    {
-      "code": "BIIB.US",
-      "name": "Biogen",
-      "ratio": 2.86,
-      "shares": 5973
     },
     {
       "code": "LLY.US",
       "name": "Eli Lilly",
-      "ratio": 2.74,
+      "ratio": 2.82,
       "shares": 1099
+    },
+    {
+      "code": "VRTX.US",
+      "name": "Vertex Pharmaceuticals",
+      "ratio": 2.81,
+      "shares": 2686
+    },
+    {
+      "code": "BIIB.US",
+      "name": "Biogen",
+      "ratio": 2.79,
+      "shares": 5973
     },
     {
       "code": "CRSP.US",
       "name": "CRISPR Therapeutics",
-      "ratio": 2.72,
+      "ratio": 2.75,
       "shares": 22651
     },
     {
       "code": "PFE.US",
       "name": "Pfizer",
-      "ratio": 2.71,
+      "ratio": 2.69,
       "shares": 43078
     },
     {
       "code": "BEAM.US",
       "name": "Beam Therapeutics",
-      "ratio": 2.69,
+      "ratio": 2.68,
       "shares": 38818
     },
     {
       "code": "ABBV.US",
       "name": "AbbVie",
-      "ratio": 2.6,
+      "ratio": 2.59,
       "shares": 4985
     },
     {
       "code": "",
       "name": "ASTRAZENECA PLC",
-      "ratio": 2.5,
+      "ratio": 2.49,
       "shares": 5539
     },
     {
       "code": "JNJ.US",
       "name": "Johnson & Johnson",
-      "ratio": 2.47,
+      "ratio": 2.48,
       "shares": 4384
     },
     {
@@ -151,105 +151,99 @@
       "shares": 11083
     },
     {
-      "code": "SRPT.US",
-      "name": "Sarepta Therapeutics",
-      "ratio": 2.43,
-      "shares": 55716
-    },
-    {
-      "code": "GILD.US",
-      "name": "Gilead Sciences",
-      "ratio": 2.37,
-      "shares": 7374
+      "code": "TWST.US",
+      "name": "Twist Bioscience",
+      "ratio": 2.44,
+      "shares": 16716
     },
     {
       "code": "TXG.US",
       "name": "10x Genomics",
-      "ratio": 2.22,
+      "ratio": 2.41,
       "shares": 42151
     },
     {
-      "code": "REGN.US",
-      "name": "Regeneron Pharmaceuticals",
-      "ratio": 2.19,
-      "shares": 1261
+      "code": "GILD.US",
+      "name": "Gilead Sciences",
+      "ratio": 2.39,
+      "shares": 7374
     },
     {
       "code": "NTRA.US",
       "name": "Natera",
-      "ratio": 2.16,
+      "ratio": 2.28,
       "shares": 4667
     },
     {
-      "code": "9969.HK",
-      "name": "諾誠健華",
-      "ratio": 2.09,
-      "shares": 529000
-    },
-    {
-      "code": "TWST.US",
-      "name": "Twist Bioscience",
-      "ratio": 2.04,
-      "shares": 16716
+      "code": "SRPT.US",
+      "name": "Sarepta Therapeutics",
+      "ratio": 2.26,
+      "shares": 55716
     },
     {
       "code": "AMGN.US",
       "name": "Amgen Inc.",
-      "ratio": 1.99,
+      "ratio": 2.01,
       "shares": 2457
+    },
+    {
+      "code": "GH.US",
+      "name": "Guardant Health",
+      "ratio": 1.99,
+      "shares": 6930
+    },
+    {
+      "code": "9969.HK",
+      "name": "諾誠健華",
+      "ratio": 1.95,
+      "shares": 529000
+    },
+    {
+      "code": "REGN.US",
+      "name": "Regeneron Pharmaceuticals",
+      "ratio": 1.94,
+      "shares": 1261
     },
     {
       "code": "LEGN.US",
       "name": "Legend Biotech",
-      "ratio": 1.83,
+      "ratio": 1.9,
       "shares": 26795
-    },
-    {
-      "code": "SRRK.US",
-      "name": "Scholar Rock Holding",
-      "ratio": 1.83,
-      "shares": 14955
     },
     {
       "code": "",
       "name": "TEVA PHARMACEUTICAL IND LTD",
-      "ratio": 1.79,
+      "ratio": 1.74,
       "shares": 20799
     },
     {
-      "code": "1548.HK",
-      "name": "金斯瑞生物科技",
-      "ratio": 1.79,
-      "shares": 400500
+      "code": "SRRK.US",
+      "name": "Scholar Rock Holding",
+      "ratio": 1.73,
+      "shares": 14955
     },
     {
       "code": "SMMT.US",
       "name": "Summit Therapeutics",
-      "ratio": 1.74,
+      "ratio": 1.66,
       "shares": 41519
     },
     {
       "code": "",
       "name": "GENMAB A/S",
-      "ratio": 1.67,
+      "ratio": 1.66,
       "shares": 2568
     },
     {
-      "code": "GH.US",
-      "name": "Guardant Health",
-      "ratio": 1.63,
-      "shares": 6930
-    },
-    {
-      "code": "0013.HK",
-      "name": "和黃醫藥",
-      "ratio": 1.44,
-      "shares": 229000
+      "code": "1548.HK",
+      "name": "金斯瑞生物科技",
+      "ratio": 1.6,
+      "shares": 400500
     },
     {
       "code": "",
       "name": "SANOFI SA",
-      "ratio": 1.41,
+      "ratio": 1.42,
       "shares": 6589
     },
     {
@@ -259,22 +253,16 @@
       "shares": 19859
     },
     {
+      "code": "0013.HK",
+      "name": "和黃醫藥",
+      "ratio": 1.35,
+      "shares": 229000
+    },
+    {
       "code": "RXRX.US",
       "name": "Recursion Pharmaceuticals",
       "ratio": 1.34,
       "shares": 184623
-    },
-    {
-      "code": "207940.KS",
-      "name": "SAMSUNG BIOLOGICS",
-      "ratio": 1.31,
-      "shares": 557
-    },
-    {
-      "code": "PGEN.US",
-      "name": "Precigen",
-      "ratio": 1.3,
-      "shares": 118603
     },
     {
       "code": "RVTY.US",
@@ -283,33 +271,45 @@
       "shares": 5353
     },
     {
-      "code": "VKTX.US",
-      "name": "Viking Therapeutics",
-      "ratio": 1.2,
-      "shares": 15917
+      "code": "207940.KS",
+      "name": "SAMSUNG BIOLOGICS",
+      "ratio": 1.25,
+      "shares": 557
     },
     {
-      "code": "",
-      "name": "ADAPTIVE BIOTECHNOLOGIES CORP",
-      "ratio": 1.19,
+      "code": "ADPT.US",
+      "name": "Adaptive Biotechnologies",
+      "ratio": 1.25,
       "shares": 37443
     },
     {
-      "code": "PTCT.US",
-      "name": "PTC Therapeutics",
-      "ratio": 1.13,
-      "shares": 6383
+      "code": "PGEN.US",
+      "name": "Precigen",
+      "ratio": 1.21,
+      "shares": 118603
+    },
+    {
+      "code": "VKTX.US",
+      "name": "Viking Therapeutics",
+      "ratio": 1.18,
+      "shares": 15917
     },
     {
       "code": "QGEN.US",
       "name": "Qiagen",
-      "ratio": 1.07,
+      "ratio": 1.1,
       "shares": 13006
+    },
+    {
+      "code": "PTCT.US",
+      "name": "PTC Therapeutics",
+      "ratio": 1.06,
+      "shares": 6383
     },
     {
       "code": "BBIO.US",
       "name": "BridgeBio Pharma",
-      "ratio": 1.03,
+      "ratio": 1.05,
       "shares": 6291
     },
     {
@@ -321,7 +321,7 @@
     {
       "code": "",
       "name": "LONZA GROUP AG",
-      "ratio": 0.94,
+      "ratio": 0.95,
       "shares": 632
     },
     {
@@ -333,19 +333,19 @@
     {
       "code": "6855.HK",
       "name": "亞盛醫藥－Ｂ",
-      "ratio": 0.85,
+      "ratio": 0.87,
       "shares": 68000
     },
     {
       "code": "WGS.US",
       "name": "GeneDx",
-      "ratio": 0.72,
+      "ratio": 0.81,
       "shares": 7076
     },
     {
       "code": "0126Z0.KS",
       "name": "Samsung Epis Holdings Co., Ltd.",
-      "ratio": 0.25,
+      "ratio": 0.24,
       "shares": 299
     }
   ]

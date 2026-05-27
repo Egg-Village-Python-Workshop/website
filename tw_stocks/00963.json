@@ -1,7 +1,7 @@
 {
   "id": "00963",
   "name": "中信全球高股息",
-  "fetched_at": "2026-05-18",
+  "fetched_at": "2026-05-25",
   "capital": {
     "ETF名稱": "中信全球高股息",
     "交易所代碼": "00963",
@@ -15,7 +15,7 @@
     "上市日期": "2024/11/14",
     "成分股數": 50,
     "ETF規模": "1,121.32(百萬台幣)(2026/04/30)",
-    "成交量(股)": "830,656（月均:994,261）",
+    "成交量(股)": "953,190（月均:1,229,054）",
     "投資標的": "股票型",
     "經理人": "施絜心",
     "投資區域": "全球",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "月配",
     "經理費(%)": "0.7",
-    "殖利率(%)": "5.03（05/15）",
+    "殖利率(%)": "4.99（05/25）",
     "總管理費用(%)": "1.07 (含 0.37 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://www.ctbcinvestments.com.tw/Etf/00527303/Info",
-    "ETF市價": "12.6600（05/15）",
+    "ETF市價": "12.7600（05/25）",
     "融資交易": "Y",
-    "ETF淨值": "12.5800（05/14）",
+    "ETF淨值": "12.7500（05/21）",
     "放空交易": "Y",
-    "折溢價(%)": "0.64(月均:-0.04)",
+    "折溢價(%)": "0.16(月均:-0.06)",
     "選擇權交易": "",
-    "年化標準差(%)": "8.14（05/15）",
+    "年化標準差(%)": "8.53（05/25）",
     "槓桿多空註記": "",
     "追蹤指數": "NYSE全球特選高股息自由現金流指數",
     "基準指數": "NYSE Global Selected High Dividend Free Cash Flow",
@@ -43,225 +43,231 @@
   "sectors": [
     {
       "name": "金融",
-      "amount_wan": 39039.0,
-      "ratio": 34.9
-    },
-    {
-      "name": "能源",
-      "amount_wan": 24385.4,
-      "ratio": 21.8
-    },
-    {
-      "name": "其他",
-      "amount_wan": 14206.2,
-      "ratio": 12.7
+      "amount_wan": 37115.8,
+      "ratio": 33.1
     },
     {
       "name": "房地產",
-      "amount_wan": 12528.3,
-      "ratio": 11.2
+      "amount_wan": 20408.1,
+      "ratio": 18.2
     },
     {
-      "name": "原材料",
-      "amount_wan": 10067.4,
-      "ratio": 9.0
+      "name": "能源",
+      "amount_wan": 16819.8,
+      "ratio": 15.0
     },
     {
-      "name": "公用事業",
-      "amount_wan": 5033.7,
-      "ratio": 4.5
+      "name": "其他",
+      "amount_wan": 14801.5,
+      "ratio": 13.2
+    },
+    {
+      "name": "日常消費",
+      "amount_wan": 9082.7,
+      "ratio": 8.1
+    },
+    {
+      "name": "通訊服務",
+      "amount_wan": 5943.0,
+      "ratio": 5.3
     },
     {
       "name": "非日常生活消費",
-      "amount_wan": 4250.7,
-      "ratio": 3.8
+      "amount_wan": 5158.1,
+      "ratio": 4.6
     },
     {
       "name": "現金",
-      "amount_wan": 2349.1,
-      "ratio": 2.1
+      "amount_wan": 2803.3,
+      "ratio": 2.5
     }
   ],
   "holdings": [
     {
       "code": "OBDC.US",
       "name": "Blue Owl",
-      "ratio": 2.98,
+      "ratio": 2.87,
       "shares": 93900
     },
     {
       "code": "STWD.US",
       "name": "STARWOOD PROPERTY TRUST, INC.",
-      "ratio": 2.83,
-      "shares": 58650
+      "ratio": 2.85,
+      "shares": 59050
     },
     {
       "code": "ABEV.US",
       "name": "Ambev S.A.",
-      "ratio": 2.67,
-      "shares": 307000
+      "ratio": 2.75,
+      "shares": 308500
     },
     {
       "code": "ARE.US",
       "name": "Alexandria Real Estate Equity",
-      "ratio": 2.52,
+      "ratio": 2.66,
       "shares": 19750
-    },
-    {
-      "code": "",
-      "name": "海港能源公開有限公司",
-      "ratio": 2.52,
-      "shares": 225400
-    },
-    {
-      "code": "DOC.US",
-      "name": "Healthpeak Properties",
-      "ratio": 2.42,
-      "shares": 44020
     },
     {
       "code": "SOBO.US",
       "name": "South Bow",
-      "ratio": 2.4,
-      "shares": 22700
+      "ratio": 2.44,
+      "shares": 22900
+    },
+    {
+      "code": "DOC.US",
+      "name": "Healthpeak Properties",
+      "ratio": 2.43,
+      "shares": 44220
+    },
+    {
+      "code": "",
+      "name": "海港能源公開有限公司",
+      "ratio": 2.42,
+      "shares": 227400
     },
     {
       "code": "PBR.US",
       "name": "Petroleo Brasileiro",
-      "ratio": 2.39,
-      "shares": 42250
+      "ratio": 2.36,
+      "shares": 42550
     },
     {
       "code": "ITUB.US",
       "name": "Itau Unibanco",
-      "ratio": 2.39,
+      "ratio": 2.35,
       "shares": 107600
-    },
-    {
-      "code": "NE.US",
-      "name": "Noble",
-      "ratio": 2.28,
-      "shares": 15200
-    },
-    {
-      "code": "",
-      "name": "法通保險集團公開有限公司",
-      "ratio": 2.25,
-      "shares": 225000
     },
     {
       "code": "",
       "name": "安本公開有限公司",
-      "ratio": 2.23,
-      "shares": 248400
+      "ratio": 2.32,
+      "shares": 250400
     },
     {
       "code": "",
-      "name": "贏創公司",
-      "ratio": 2.21,
-      "shares": 37570
+      "name": "法通保險集團公開有限公司",
+      "ratio": 2.29,
+      "shares": 226100
+    },
+    {
+      "code": "NE.US",
+      "name": "Noble",
+      "ratio": 2.22,
+      "shares": 15300
     },
     {
       "code": "",
       "name": "鳳凰集團控股公開有限公司",
-      "ratio": 2.16,
-      "shares": 73750
+      "ratio": 2.19,
+      "shares": 74150
     },
     {
       "code": "",
       "name": "Edenred",
-      "ratio": 2.08,
-      "shares": 29700
+      "ratio": 2.15,
+      "shares": 29800
     },
     {
-      "code": "HR.US",
-      "name": "Healthcare Realty Trust",
-      "ratio": 2.04,
-      "shares": 35500
+      "code": "",
+      "name": "贏創公司",
+      "ratio": 2.11,
+      "shares": 37770
     },
     {
       "code": "",
       "name": "M&G公開有限公司",
-      "ratio": 2.04,
-      "shares": 175500
-    },
-    {
-      "code": "",
-      "name": "家樂福有限責任公司",
-      "ratio": 1.98,
-      "shares": 35200
-    },
-    {
-      "code": "",
-      "name": "天達集團",
-      "ratio": 1.97,
-      "shares": 86700
-    },
-    {
-      "code": "",
-      "name": "阿科瑪有限責任公司",
-      "ratio": 1.94,
-      "shares": 9400
-    },
-    {
-      "code": "KHC.US",
-      "name": "Kraft Heinz",
-      "ratio": 1.92,
-      "shares": 29500
+      "ratio": 2.08,
+      "shares": 176400
     },
     {
       "code": "",
       "name": "Land Securities集團公開有限",
-      "ratio": 1.92,
+      "ratio": 2.07,
       "shares": 87600
+    },
+    {
+      "code": "",
+      "name": "天達集團",
+      "ratio": 2.05,
+      "shares": 86700
+    },
+    {
+      "code": "HR.US",
+      "name": "Healthcare Realty Trust",
+      "ratio": 2.03,
+      "shares": 35700
     },
     {
       "code": "VZ.US",
       "name": "Verizon Communications",
-      "ratio": 1.92,
-      "shares": 14580
+      "ratio": 1.98,
+      "shares": 14680
+    },
+    {
+      "code": "KHC.US",
+      "name": "Kraft Heinz",
+      "ratio": 1.96,
+      "shares": 29500
     },
     {
       "code": "",
-      "name": "道達爾能源公司",
-      "ratio": 1.86,
-      "shares": 7180
-    },
-    {
-      "code": "CIG.US",
-      "name": "Companhia Energetica de Minas Ge",
-      "ratio": 1.83,
-      "shares": 294900
+      "name": "家樂福有限責任公司",
+      "ratio": 1.96,
+      "shares": 35400
     },
     {
       "code": "EC.US",
       "name": "Ecopetrol",
+      "ratio": 1.91,
+      "shares": 49400
+    },
+    {
+      "code": "",
+      "name": "阿科瑪有限責任公司",
+      "ratio": 1.89,
+      "shares": 9400
+    },
+    {
+      "code": "F.US",
+      "name": "Ford Motor",
+      "ratio": 1.88,
+      "shares": 45100
+    },
+    {
+      "code": "",
+      "name": "Admiral集團公開有限公司",
+      "ratio": 1.87,
+      "shares": 14330
+    },
+    {
+      "code": "",
+      "name": "道達爾能源公司",
       "ratio": 1.83,
-      "shares": 49200
+      "shares": 7180
     },
     {
       "code": "PFE.US",
       "name": "Pfizer",
-      "ratio": 1.82,
+      "ratio": 1.83,
       "shares": 25290
+    },
+    {
+      "code": "CIG.US",
+      "name": "Companhia Energetica de Minas Ge",
+      "ratio": 1.82,
+      "shares": 294900
     },
     {
       "code": "SBRA.US",
       "name": "Sabra Health Care REIT",
-      "ratio": 1.81,
+      "ratio": 1.79,
       "shares": 30900
     },
     {
       "code": "",
       "name": "SCOR公司",
-      "ratio": 1.81,
-      "shares": 17210
-    },
-    {
-      "code": "",
-      "name": "Admiral集團公開有限公司",
-      "ratio": 1.77,
-      "shares": 14230
+      "ratio": 1.79,
+      "shares": 17310
     },
     {
       "code": "OHI.US",
@@ -272,91 +278,79 @@
     {
       "code": "",
       "name": "法國農業信貸銀行",
-      "ratio": 1.73,
+      "ratio": 1.74,
       "shares": 31050
     },
     {
       "code": "",
-      "name": "法國巴黎銀行",
-      "ratio": 1.71,
-      "shares": 5810
-    },
-    {
-      "code": "ELPC.US",
-      "name": "Companhia Paranaense de Energia",
-      "ratio": 1.71,
-      "shares": 51500
-    },
-    {
-      "code": "F.US",
-      "name": "Ford Motor",
-      "ratio": 1.71,
-      "shares": 44900
-    },
-    {
-      "code": "PGR.US",
-      "name": "Progressive",
-      "ratio": 1.7,
-      "shares": 3000
-    },
-    {
-      "code": "9101.JP",
-      "name": "NYK",
-      "ratio": 1.68,
-      "shares": 17100
-    },
-    {
-      "code": "",
       "name": "LondonMetric房地產公開有限公",
-      "ratio": 1.67,
+      "ratio": 1.7,
       "shares": 242900
     },
     {
       "code": "NNN.US",
       "name": "NNN REIT",
-      "ratio": 1.65,
-      "shares": 13330
+      "ratio": 1.69,
+      "shares": 13430
+    },
+    {
+      "code": "",
+      "name": "法國巴黎銀行",
+      "ratio": 1.69,
+      "shares": 5810
+    },
+    {
+      "code": "ELPC.US",
+      "name": "Companhia Paranaense de Energia",
+      "ratio": 1.69,
+      "shares": 51800
+    },
+    {
+      "code": "PGR.US",
+      "name": "Progressive",
+      "ratio": 1.67,
+      "shares": 3000
     },
     {
       "code": "",
       "name": "新加坡航空有限公司",
-      "ratio": 1.62,
-      "shares": 113800
+      "ratio": 1.64,
+      "shares": 114400
     },
     {
-      "code": "OMF.US",
-      "name": "OneMain Holdings",
-      "ratio": 1.6,
-      "shares": 10530
+      "code": "9101.JP",
+      "name": "NYK",
+      "ratio": 1.63,
+      "shares": 17200
     },
     {
       "code": "",
       "name": "豐樹泛亞商業信託",
-      "ratio": 1.6,
+      "ratio": 1.59,
       "shares": 575900
     },
     {
       "code": "CAG.US",
       "name": "Conagra Brands",
-      "ratio": 1.59,
+      "ratio": 1.58,
       "shares": 41900
+    },
+    {
+      "code": "OMF.US",
+      "name": "OneMain Holdings",
+      "ratio": 1.57,
+      "shares": 10530
     },
     {
       "code": "",
       "name": "賓士集團公司",
-      "ratio": 1.57,
-      "shares": 9470
-    },
-    {
-      "code": "Persero",
-      "name": "PT Telkom Indonesia",
       "ratio": 1.54,
-      "shares": 32900
+      "shares": 9470
     },
     {
       "code": "TIMB.US",
       "name": "TIM",
-      "ratio": 1.53,
+      "ratio": 1.54,
       "shares": 24700
     },
     {
@@ -366,21 +360,27 @@
       "shares": 8860
     },
     {
-      "code": "",
-      "name": "雷諾汽車有限責任公司",
-      "ratio": 1.51,
-      "shares": 16100
+      "code": "Persero",
+      "name": "PT Telkom Indonesia",
+      "ratio": 1.5,
+      "shares": 32900
     },
     {
       "code": "",
       "name": "安盛集團",
-      "ratio": 1.45,
+      "ratio": 1.46,
       "shares": 11250
     },
     {
       "code": "",
+      "name": "雷諾汽車有限責任公司",
+      "ratio": 1.45,
+      "shares": 16100
+    },
+    {
+      "code": "",
       "name": "NAC Kazatomprom JSC",
-      "ratio": 1.36,
+      "ratio": 1.34,
       "shares": 6900
     }
   ]

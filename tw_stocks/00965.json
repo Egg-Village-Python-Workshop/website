@@ -1,7 +1,7 @@
 {
   "id": "00965",
   "name": "元大航太防衛科技",
-  "fetched_at": "2026-05-18",
+  "fetched_at": "2026-05-25",
   "capital": {
     "ETF名稱": "元大航太防衛科技",
     "交易所代碼": "00965",
@@ -15,7 +15,7 @@
     "上市日期": "2024/11/26",
     "成分股數": 50,
     "ETF規模": "14,913.05(百萬台幣)(2026/04/30)",
-    "成交量(股)": "4,069,780（月均:8,498,614）",
+    "成交量(股)": "3,854,872（月均:7,092,402）",
     "投資標的": "工業類股",
     "經理人": "李政剛",
     "投資區域": "全球",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "年配",
     "經理費(%)": "0.9",
-    "殖利率(%)": "N/A（05/18）",
+    "殖利率(%)": "N/A（05/22）",
     "總管理費用(%)": "1.07 (含 0.17 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://www.yuantaetfs.com/product/detail/00965/Basic_information",
-    "ETF市價": "24.9000（05/18）",
+    "ETF市價": "25.3400（05/22）",
     "融資交易": "Y",
-    "ETF淨值": "25.1000（05/15）",
+    "ETF淨值": "25.5300（05/21）",
     "放空交易": "Y",
-    "折溢價(%)": "0.44(月均:-0.71)",
+    "折溢價(%)": "-0.74(月均:-0.74)",
     "選擇權交易": "",
-    "年化標準差(%)": "20.02（05/18）",
+    "年化標準差(%)": "18.19（05/22）",
     "槓桿多空註記": "",
     "追蹤指數": "NYSE FactSet全球航太與防衛科技指數",
     "基準指數": "NYSE FactSet Global Aerospace and Defense Technolo",
@@ -43,24 +43,325 @@
   "sectors": [
     {
       "name": "工業",
-      "amount_wan": 1160858.0,
-      "ratio": 72.4
+      "amount_wan": 1082836.8,
+      "ratio": 72.61
     },
     {
       "name": "資訊科技",
-      "amount_wan": 407102.0,
-      "ratio": 25.39
+      "amount_wan": 373273.7,
+      "ratio": 25.03
     },
     {
       "name": "現金",
-      "amount_wan": 30945.5,
-      "ratio": 1.93
+      "amount_wan": 30720.9,
+      "ratio": 2.06
     },
     {
       "name": "原材料",
-      "amount_wan": 4489.5,
-      "ratio": 0.28
+      "amount_wan": 4473.9,
+      "ratio": 0.3
     }
   ],
-  "holdings": []
+  "holdings": [
+    {
+      "code": "2330.TW",
+      "name": "台積電",
+      "ratio": 8.15,
+      "shares": 475000
+    },
+    {
+      "code": "6503.JP",
+      "name": "Mitsubishi Electric",
+      "ratio": 7.22,
+      "shares": 760200
+    },
+    {
+      "code": "NVDA.US",
+      "name": "NVIDIA",
+      "ratio": 5.85,
+      "shares": 113192
+    },
+    {
+      "code": "329180.KS",
+      "name": "HD HYUNDAI HEAVY INDUSTRIES",
+      "ratio": 5.6,
+      "shares": 52054
+    },
+    {
+      "code": "012450.KS",
+      "name": "HANWHA AEROSPACE",
+      "ratio": 5.19,
+      "shares": 26027
+    },
+    {
+      "code": "GE.US",
+      "name": "GE Aerospace",
+      "ratio": 4.52,
+      "shares": 62213
+    },
+    {
+      "code": "7011.JP",
+      "name": "Mitsubishi Heavy",
+      "ratio": 3.94,
+      "shares": 658600
+    },
+    {
+      "code": "PLTR.US",
+      "name": "Palantir Technologies",
+      "ratio": 3.81,
+      "shares": 116070
+    },
+    {
+      "code": "6701.JP",
+      "name": "NEC",
+      "ratio": 3.61,
+      "shares": 583300
+    },
+    {
+      "code": "RTX.US",
+      "name": "RTX",
+      "ratio": 3.56,
+      "shares": 83699
+    },
+    {
+      "code": "6702.JP",
+      "name": "Fujitsu",
+      "ratio": 3.32,
+      "shares": 665400
+    },
+    {
+      "code": "7013.JP",
+      "name": "IHI",
+      "ratio": 3.0,
+      "shares": 720600
+    },
+    {
+      "code": "PANW.US",
+      "name": "Palo Alto",
+      "ratio": 2.61,
+      "shares": 41768
+    },
+    {
+      "code": "7012.JP",
+      "name": "Kawasaki Heavy",
+      "ratio": 2.5,
+      "shares": 558800
+    },
+    {
+      "code": "BA.US",
+      "name": "Boeing",
+      "ratio": 2.48,
+      "shares": 47240
+    },
+    {
+      "code": "",
+      "name": "SIEMENS ENERGY AG",
+      "ratio": 2.45,
+      "shares": 50078
+    },
+    {
+      "code": "064350.KS",
+      "name": "Hyundai-Rotem",
+      "ratio": 2.37,
+      "shares": 72636
+    },
+    {
+      "code": "ETN.US",
+      "name": "Eaton",
+      "ratio": 2.3,
+      "shares": 24516
+    },
+    {
+      "code": "HON.US",
+      "name": "Honeywell",
+      "ratio": 2.2,
+      "shares": 40265
+    },
+    {
+      "code": "272210.KS",
+      "name": "HANWHA SYSTEMS",
+      "ratio": 2.18,
+      "shares": 125728
+    },
+    {
+      "code": "079550.KS",
+      "name": "LIG Defense&Aerospace",
+      "ratio": 2.14,
+      "shares": 14642
+    },
+    {
+      "code": "LMT.US",
+      "name": "Lockheed Martin",
+      "ratio": 1.88,
+      "shares": 14679
+    },
+    {
+      "code": "047810.KS",
+      "name": "Korea Aerospace",
+      "ratio": 1.73,
+      "shares": 64871
+    },
+    {
+      "code": "PH.US",
+      "name": "Parker Hannifin",
+      "ratio": 1.67,
+      "shares": 8006
+    },
+    {
+      "code": "HWM.US",
+      "name": "Howmet Aerospace",
+      "ratio": 1.56,
+      "shares": 25291
+    },
+    {
+      "code": "GD.US",
+      "name": "General Dynamics",
+      "ratio": 1.38,
+      "shares": 16816
+    },
+    {
+      "code": "",
+      "name": "AIRBUS SE",
+      "ratio": 1.24,
+      "shares": 26172
+    },
+    {
+      "code": "NOC.US",
+      "name": "Northrop Grumman",
+      "ratio": 1.2,
+      "shares": 9018
+    },
+    {
+      "code": "",
+      "name": "ROLLS-ROYCE HOLDINGS PLC",
+      "ratio": 1.12,
+      "shares": 277661
+    },
+    {
+      "code": "",
+      "name": "SAFRAN SA",
+      "ratio": 1.03,
+      "shares": 13031
+    },
+    {
+      "code": "TDG.US",
+      "name": "TransDigm Group",
+      "ratio": 1.02,
+      "shares": 3519
+    },
+    {
+      "code": "",
+      "name": "RHEINMETALL AG",
+      "ratio": 0.98,
+      "shares": 2861
+    },
+    {
+      "code": "",
+      "name": "BAE SYSTEMS PLC",
+      "ratio": 0.74,
+      "shares": 114436
+    },
+    {
+      "code": "",
+      "name": "VENTIA SERVICES GROUP PTY LT",
+      "ratio": 0.58,
+      "shares": 558183
+    },
+    {
+      "code": "",
+      "name": "THALES SA",
+      "ratio": 0.47,
+      "shares": 7291
+    },
+    {
+      "code": "2645.TW",
+      "name": "長榮航太",
+      "ratio": 0.31,
+      "shares": 250000
+    },
+    {
+      "code": "",
+      "name": "DRONESHIELD LTD",
+      "ratio": 0.3,
+      "shares": 581881
+    },
+    {
+      "code": "103140.KS",
+      "name": "Poongsan",
+      "ratio": 0.26,
+      "shares": 18651
+    },
+    {
+      "code": "2634.TW",
+      "name": "漢翔",
+      "ratio": 0.22,
+      "shares": 627000
+    },
+    {
+      "code": "077970.KS",
+      "name": "STX Engine",
+      "ratio": 0.21,
+      "shares": 26719
+    },
+    {
+      "code": "",
+      "name": "QPS HOLDINGS INC",
+      "ratio": 0.18,
+      "shares": 31700
+    },
+    {
+      "code": "CACI.US",
+      "name": "CACI International",
+      "ratio": 0.16,
+      "shares": 1309
+    },
+    {
+      "code": "BAH.US",
+      "name": "Booz Allen Hamilton Holding Corp",
+      "ratio": 0.14,
+      "shares": 7390
+    },
+    {
+      "code": "100090.KS",
+      "name": "SK oceanplant",
+      "ratio": 0.12,
+      "shares": 39396
+    },
+    {
+      "code": "7721.JP",
+      "name": "TOKYO KEIKI",
+      "ratio": 0.11,
+      "shares": 11400
+    },
+    {
+      "code": "2208.TW",
+      "name": "台船",
+      "ratio": 0.09,
+      "shares": 660000
+    },
+    {
+      "code": "",
+      "name": "FINCANTIERI SPA",
+      "ratio": 0.07,
+      "shares": 20249
+    },
+    {
+      "code": "9348.JP",
+      "name": "ispace",
+      "ratio": 0.06,
+      "shares": 70400
+    },
+    {
+      "code": "5222.TW",
+      "name": "全訊",
+      "ratio": 0.06,
+      "shares": 60200
+    },
+    {
+      "code": "",
+      "name": "EXOSENS SAS",
+      "ratio": 0.04,
+      "shares": 2154
+    }
+  ]
 }

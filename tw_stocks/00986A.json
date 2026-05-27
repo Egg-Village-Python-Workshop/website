@@ -1,7 +1,7 @@
 {
   "id": "00986A",
   "name": "主動台新龍頭成長",
-  "fetched_at": "2026-05-18",
+  "fetched_at": "2026-05-25",
   "capital": {
     "ETF名稱": "主動台新龍頭成長",
     "交易所代碼": "00986A",
@@ -15,7 +15,7 @@
     "上市日期": "2025/08/27",
     "成分股數": 27,
     "ETF規模": "615.55(百萬台幣)(2026/04/30)",
-    "成交量(股)": "796,884（月均:863,827）",
+    "成交量(股)": "402,165（月均:791,672）",
     "投資標的": "股票型",
     "經理人": "蘇聖峰",
     "投資區域": "全球",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "年配",
     "經理費(%)": "1",
-    "殖利率(%)": "N/A（05/18）",
+    "殖利率(%)": "N/A（05/22）",
     "總管理費用(%)": "0.51",
     "經銷商": "",
     "官方網站連結": "https://www.tsit.com.tw/ETF/Home/ETFSeriesDetail/00986A",
-    "ETF市價": "14.5100（05/18）",
+    "ETF市價": "14.6700（05/22）",
     "融資交易": "Y",
-    "ETF淨值": "14.5700（05/15）",
+    "ETF淨值": "14.6100（05/21）",
     "放空交易": "Y",
-    "折溢價(%)": "1.72(月均:-0.50)",
+    "折溢價(%)": "0.41(月均:-0.40)",
     "選擇權交易": "",
-    "年化標準差(%)": "N/A（05/18）",
+    "年化標準差(%)": "N/A（05/22）",
     "槓桿多空註記": "",
     "追蹤指數": "",
     "基準指數": "道瓊全球指數",
@@ -43,225 +43,231 @@
   "sectors": [
     {
       "name": "資訊技術",
-      "amount_wan": 29938.8,
-      "ratio": 51.73
+      "amount_wan": 33818.4,
+      "ratio": 54.94
     },
     {
       "name": "工業",
-      "amount_wan": 10579.6,
-      "ratio": 18.28
+      "amount_wan": 11012.2,
+      "ratio": 17.89
     },
     {
       "name": "通訊服務",
-      "amount_wan": 4138.1,
-      "ratio": 7.15
-    },
-    {
-      "name": "金融",
-      "amount_wan": 2621.7,
-      "ratio": 4.53
+      "amount_wan": 5484.6,
+      "ratio": 8.91
     },
     {
       "name": "非核心消費",
-      "amount_wan": 1996.7,
-      "ratio": 3.45
+      "amount_wan": 2517.6,
+      "ratio": 4.09
+    },
+    {
+      "name": "金融",
+      "amount_wan": 1698.9,
+      "ratio": 2.76
     },
     {
       "name": "核心消費",
-      "amount_wan": 1348.5,
-      "ratio": 2.33
-    },
-    {
-      "name": "醫療保健",
-      "amount_wan": 1169.1,
-      "ratio": 2.02
+      "amount_wan": 1421.9,
+      "ratio": 2.31
     },
     {
       "name": "原材料",
-      "amount_wan": 954.9,
-      "ratio": 1.65
+      "amount_wan": 966.4,
+      "ratio": 1.57
+    },
+    {
+      "name": "醫療保健",
+      "amount_wan": 609.4,
+      "ratio": 0.99
     }
   ],
   "holdings": [
     {
       "code": "GOOGL.US",
       "name": "Alphabet - Class A Common Stock",
-      "ratio": 8.77,
+      "ratio": 8.57,
       "shares": 4500
     },
     {
       "code": "AVGO.US",
       "name": "Broadcom",
-      "ratio": 8.33,
+      "ratio": 8.04,
       "shares": 3900
-    },
-    {
-      "code": "MU.US",
-      "name": "Micron",
-      "ratio": 8.29,
-      "shares": 2200
-    },
-    {
-      "code": "NVDA.US",
-      "name": "NVIDIA",
-      "ratio": 8.02,
-      "shares": 7000
     },
     {
       "code": "2330.TW",
       "name": "台積電",
-      "ratio": 7.7,
+      "ratio": 7.84,
       "shares": 22000
+    },
+    {
+      "code": "NVDA.US",
+      "name": "NVIDIA",
+      "ratio": 7.5,
+      "shares": 7000
+    },
+    {
+      "code": "MU.US",
+      "name": "Micron",
+      "ratio": 7.47,
+      "shares": 2000
     },
     {
       "code": "LITE.US",
       "name": "Lumentum",
-      "ratio": 6.33,
-      "shares": 1300
-    },
-    {
-      "code": "GEV.US",
-      "name": "GE Vernova",
-      "ratio": 3.97,
-      "shares": 750
+      "ratio": 5.18,
+      "shares": 1100
     },
     {
       "code": "AMZN.US",
       "name": "Amazon",
-      "ratio": 3.9,
+      "ratio": 3.98,
       "shares": 3000
+    },
+    {
+      "code": "GEV.US",
+      "name": "GE Vernova",
+      "ratio": 3.62,
+      "shares": 700
     },
     {
       "code": "",
       "name": "英飛凌科技股份有限公司",
-      "ratio": 3.1,
+      "ratio": 3.39,
       "shares": 8000
-    },
-    {
-      "code": "LRCX.US",
-      "name": "Lam Research",
-      "ratio": 2.94,
-      "shares": 2021
     },
     {
       "code": "CRWD.US",
       "name": "CrowdStrike Holdings",
-      "ratio": 2.64,
+      "ratio": 3.1,
       "shares": 938
     },
     {
-      "code": "TER.US",
-      "name": "Teradyne",
-      "ratio": 2.6,
-      "shares": 1500
+      "code": "LRCX.US",
+      "name": "Lam Research",
+      "ratio": 3.07,
+      "shares": 2021
     },
     {
       "code": "COHR.US",
       "name": "Coherent",
-      "ratio": 2.56,
+      "ratio": 2.44,
       "shares": 1300
-    },
-    {
-      "code": "HWM.US",
-      "name": "Howmet Aerospace",
-      "ratio": 2.25,
-      "shares": 1700
     },
     {
       "code": "",
       "name": "Siemens Energy AG",
-      "ratio": 2.22,
+      "ratio": 2.23,
       "shares": 2200
     },
     {
-      "code": "WMT.US",
-      "name": "Walmart",
-      "ratio": 2.19,
-      "shares": 3400
+      "code": "HWM.US",
+      "name": "Howmet Aerospace",
+      "ratio": 2.17,
+      "shares": 1700
     },
     {
       "code": "MSFT.US",
       "name": "Microsoft",
-      "ratio": 1.99,
+      "ratio": 2.08,
       "shares": 1000
+    },
+    {
+      "code": "WMT.US",
+      "name": "Walmart",
+      "ratio": 2.03,
+      "shares": 3400
     },
     {
       "code": "ETN.US",
       "name": "Eaton",
-      "ratio": 1.98,
+      "ratio": 1.95,
       "shares": 1000
     },
     {
-      "code": "6501.JP",
-      "name": "Hitachi",
-      "ratio": 1.73,
-      "shares": 12000
+      "code": "AMD.US",
+      "name": "AMD",
+      "ratio": 1.86,
+      "shares": 800
     },
     {
-      "code": "",
-      "name": "嘉能可公司",
-      "ratio": 1.57,
-      "shares": 40000
+      "code": "4062.JP",
+      "name": "IBIDEN",
+      "ratio": 1.81,
+      "shares": 3000
     },
     {
       "code": "CAT.US",
       "name": "Caterpillar",
-      "ratio": 1.56,
+      "ratio": 1.53,
       "shares": 350
     },
     {
       "code": "",
+      "name": "嘉能可公司",
+      "ratio": 1.52,
+      "shares": 40000
+    },
+    {
+      "code": "GS.US",
+      "name": "Goldman Sachs",
+      "ratio": 1.49,
+      "shares": 300
+    },
+    {
+      "code": "",
       "name": "施奈德電機公司",
-      "ratio": 1.47,
+      "ratio": 1.48,
       "shares": 950
     },
     {
       "code": "NET.US",
       "name": "Cloudflare",
-      "ratio": 1.17,
+      "ratio": 1.29,
       "shares": 1200
-    },
-    {
-      "code": "BWXT.US",
-      "name": "BWX Technologies",
-      "ratio": 1.13,
-      "shares": 1100
     },
     {
       "code": "8306.JP",
       "name": "MUFG",
-      "ratio": 1.06,
+      "ratio": 1.16,
       "shares": 12000
     },
     {
-      "code": "4062.JP",
-      "name": "IBIDEN",
-      "ratio": 1.04,
-      "shares": 2000
+      "code": "BWXT.US",
+      "name": "BWX Technologies",
+      "ratio": 1.11,
+      "shares": 1100
+    },
+    {
+      "code": "6501.JP",
+      "name": "Hitachi",
+      "ratio": 1.1,
+      "shares": 7000
     },
     {
       "code": "VRTX.US",
       "name": "Vertex Pharmaceuticals",
-      "ratio": 0.98,
+      "ratio": 0.97,
       "shares": 450
-    },
-    {
-      "code": "GS.US",
-      "name": "Goldman Sachs",
-      "ratio": 0.94,
-      "shares": 200
-    },
-    {
-      "code": "AMD.US",
-      "name": "AMD",
-      "ratio": 0.87,
-      "shares": 400
     },
     {
       "code": "SNDK.US",
       "name": "Sandisk",
-      "ratio": 0.47,
-      "shares": 70
+      "ratio": 0.74,
+      "shares": 100
+    },
+    {
+      "code": "TSLA.US",
+      "name": "Tesla",
+      "ratio": 0.42,
+      "shares": 200
+    },
+    {
+      "code": "6981.JP",
+      "name": "Murata Mfg.",
+      "ratio": 0.38,
+      "shares": 1700
     }
   ]
 }

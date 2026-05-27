@@ -1,7 +1,7 @@
 {
   "id": "00865B",
   "name": "國泰US短期公債",
-  "fetched_at": "2026-05-18",
+  "fetched_at": "2026-05-25",
   "capital": {
     "ETF名稱": "國泰US短期公債",
     "交易所代碼": "00865B",
@@ -15,7 +15,7 @@
     "上市日期": "2019/11/25",
     "成分股數": 50,
     "ETF規模": "11,202.30(百萬台幣)(2026/04/30)",
-    "成交量(股)": "2,787,222（月均:2,804,567）",
+    "成交量(股)": "2,383,164（月均:2,760,735）",
     "投資標的": "債券型",
     "經理人": "陳韻竹",
     "投資區域": "美國",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "",
     "經理費(%)": "0.1",
-    "殖利率(%)": "N/A（05/15）",
+    "殖利率(%)": "N/A（05/22）",
     "總管理費用(%)": "0.16 (含 0.06 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://www.cathaysite.com.tw/ETF/detail/ECB",
-    "ETF市價": "47.8700（05/15）",
+    "ETF市價": "47.9700（05/22）",
     "融資交易": "Y",
-    "ETF淨值": "47.8738（05/14）",
+    "ETF淨值": "47.8377（05/21）",
     "放空交易": "Y",
-    "折溢價(%)": "-0.01(月均:0.06)",
+    "折溢價(%)": "0.28(月均:0.09)",
     "選擇權交易": "",
-    "年化標準差(%)": "4.51（05/15）",
+    "年化標準差(%)": "5.72（05/22）",
     "槓桿多空註記": "",
     "追蹤指數": "彭博美國短期公債收益指數",
     "基準指數": "ICE U.S. Treasury Short Bond TR Index",
@@ -43,128 +43,140 @@
   "sectors": [
     {
       "name": "政府公債",
-      "amount_wan": 972450.0,
-      "ratio": 94.58
+      "amount_wan": 1042373.9,
+      "ratio": 93.05
     },
     {
       "name": "現金",
-      "amount_wan": 55727.2,
-      "ratio": 5.42
+      "amount_wan": 77856.0,
+      "ratio": 6.95
     }
   ],
   "holdings": [
     {
       "code": "",
       "name": "US TREASURY N/B 1.5-2027/01/31",
-      "ratio": 3.13,
+      "ratio": 3.17,
       "shares": null
     },
     {
       "code": "",
       "name": "US TREASURY N/B 4.25-2026/12/31",
-      "ratio": 3.0,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "US TREASURY N/B 4.125-2027/02/28",
-      "ratio": 2.95,
+      "ratio": 3.13,
       "shares": null
     },
     {
       "code": "",
       "name": "US TREASURY N/B 3.5-2026/09/30",
-      "ratio": 2.94,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "US TREASURY N/B 4.125-2027/01/31",
-      "ratio": 2.93,
+      "ratio": 3.05,
       "shares": null
     },
     {
       "code": "",
       "name": "US TREASURY N/B 3.875-2027/03/31",
-      "ratio": 2.92,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "US TREASURY N/B 4.125-2026/10/31",
-      "ratio": 2.91,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "US TREASURY N/B 4.25-2026/11/30",
-      "ratio": 2.89,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "US TREASURY N/B 3.75-2026/08/31",
-      "ratio": 2.74,
+      "ratio": 3.04,
       "shares": null
     },
     {
       "code": "",
       "name": "US TREASURY N/B 3.75-2027/04/30",
-      "ratio": 2.7,
+      "ratio": 3.03,
       "shares": null
     },
     {
       "code": "",
-      "name": "US TREASURY N/B 4.625-2026/06/30",
-      "ratio": 2.57,
+      "name": "US TREASURY N/B 4.125-2027/02/28",
+      "ratio": 2.98,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "US TREASURY N/B 4.125-2027/01/31",
+      "ratio": 2.9,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "US TREASURY N/B 4.125-2026/10/31",
+      "ratio": 2.89,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "US TREASURY N/B 4.25-2026/11/30",
+      "ratio": 2.87,
       "shares": null
     },
     {
       "code": "",
       "name": "US TREASURY N/B 4.375-2026/07/31",
-      "ratio": 2.39,
+      "ratio": 2.76,
       "shares": null
     },
     {
       "code": "",
-      "name": "US TREASURY N/B 4.25-2027/03/15",
-      "ratio": 2.38,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "US TREASURY N/B .875-2026/09/30",
-      "ratio": 2.37,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "US TREASURY N/B 1.125-2026/10/31",
-      "ratio": 2.37,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "US TREASURY N/B 1.25-2026/12/31",
-      "ratio": 2.33,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "US TREASURY N/B 4.875-2026/05/31",
-      "ratio": 2.33,
+      "name": "US TREASURY N/B 3.75-2026/08/31",
+      "ratio": 2.72,
       "shares": null
     },
     {
       "code": "",
       "name": "US TREASURY N/B 4.5-2027/04/15",
+      "ratio": 2.57,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "US TREASURY N/B 4.625-2026/06/30",
+      "ratio": 2.55,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "US TREASURY N/B 4.25-2027/03/15",
+      "ratio": 2.46,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "US TREASURY N/B .875-2026/09/30",
+      "ratio": 2.46,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "US TREASURY N/B 1.25-2026/12/31",
+      "ratio": 2.43,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "US TREASURY N/B 1.125-2026/10/31",
+      "ratio": 2.4,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "US TREASURY N/B 4.875-2026/05/31",
       "ratio": 2.31,
       "shares": null
     },
     {
       "code": "",
-      "name": "US TREASURY N/B 1.25-2026/11/30",
+      "name": "US TREASURY N/B 1.5-2026/08/15",
+      "ratio": 2.3,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "US TREASURY N/B 4.375-2026/12/15",
       "ratio": 2.28,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "US TREASURY N/B 1.25-2026/11/30",
+      "ratio": 2.26,
       "shares": null
     },
     {
@@ -175,26 +187,20 @@
     },
     {
       "code": "",
-      "name": "US TREASURY N/B 1.5-2026/08/15",
-      "ratio": 2.26,
+      "name": "US TREASURY N/B 4.0-2027/01/15",
+      "ratio": 2.25,
       "shares": null
     },
     {
       "code": "",
-      "name": "US TREASURY N/B 4.0-2027/01/15",
-      "ratio": 2.21,
+      "name": "US TREASURY N/B 2.5-2027/03/31",
+      "ratio": 2.2,
       "shares": null
     },
     {
       "code": "",
       "name": "US TREASURY N/B 4.125-2027/02/15",
-      "ratio": 2.19,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "US TREASURY N/B 4.375-2026/12/15",
-      "ratio": 2.19,
+      "ratio": 2.17,
       "shares": null
     },
     {
@@ -205,109 +211,109 @@
     },
     {
       "code": "",
-      "name": "US TREASURY N/B 2.5-2027/03/31",
-      "ratio": 2.11,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "US TREASURY N/B 1.875-2027/02/28",
+      "name": "US TREASURY N/B 2.75-2027/04/30",
       "ratio": 2.09,
       "shares": null
     },
     {
       "code": "",
-      "name": "US TREASURY N/B 4.625-2026/11/15",
-      "ratio": 1.95,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "US TREASURY N/B 2.0-2026/11/15",
-      "ratio": 1.93,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "US TREASURY N/B 2.75-2027/04/30",
-      "ratio": 1.87,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "US TREASURY N/B .875-2026/06/30",
-      "ratio": 1.87,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "US TREASURY N/B 4.625-2026/10/15",
-      "ratio": 1.86,
+      "name": "US TREASURY N/B 1.875-2027/02/28",
+      "ratio": 2.07,
       "shares": null
     },
     {
       "code": "",
       "name": "US TREASURY N/B 4.625-2026/09/15",
+      "ratio": 1.92,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "US TREASURY N/B 2.0-2026/11/15",
+      "ratio": 1.9,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "US TREASURY N/B 4.625-2026/11/15",
+      "ratio": 1.89,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "US TREASURY N/B .875-2026/06/30",
       "ratio": 1.85,
       "shares": null
     },
     {
       "code": "",
+      "name": "US TREASURY N/B 4.625-2026/10/15",
+      "ratio": 1.84,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "UNITED STATES TREASURY NOTE/BOND 2.25-2027/02/15",
-      "ratio": 1.8,
+      "ratio": 1.78,
       "shares": null
     },
     {
       "code": "",
       "name": "US TREASURY N/B 4.375-2026/08/15",
-      "ratio": 1.72,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "US TREASURY N/B .75-2026/05/31",
       "ratio": 1.71,
       "shares": null
     },
     {
       "code": "",
-      "name": "US TREASURY N/B 4.125-2026/06/15",
-      "ratio": 1.54,
+      "name": "US TREASURY N/B .75-2026/05/31",
+      "ratio": 1.69,
       "shares": null
     },
     {
       "code": "",
       "name": "US TREASURY N/B 4.5-2026/07/15",
-      "ratio": 1.41,
+      "ratio": 1.61,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "US TREASURY N/B 4.125-2026/06/15",
+      "ratio": 1.53,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "US TREASURY N/B .5-2027/04/30",
+      "ratio": 1.33,
       "shares": null
     },
     {
       "code": "",
       "name": "US TREASURY N/B 1.75-2026/12/31",
-      "ratio": 0.98,
+      "ratio": 1.01,
       "shares": null
     },
     {
       "code": "",
       "name": "US TREASURY N/B 1.625-2026/10/31",
-      "ratio": 0.97,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "US TREASURY N/B 1.875-2026/07/31",
       "ratio": 0.96,
       "shares": null
     },
     {
       "code": "",
-      "name": "US TREASURY N/B 1.875-2026/06/30",
-      "ratio": 0.94,
+      "name": "US TREASURY N/B .625-2027/03/31",
+      "ratio": 0.95,
       "shares": null
     },
     {
       "code": "",
-      "name": "US TREASURY N/B .625-2027/03/31",
+      "name": "US TREASURY N/B 1.875-2026/07/31",
+      "ratio": 0.95,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "US TREASURY N/B 1.875-2026/06/30",
       "ratio": 0.94,
       "shares": null
     },
@@ -319,20 +325,20 @@
     },
     {
       "code": "",
+      "name": "US TREASURY N/B 1.625-2026/09/30",
+      "ratio": 0.78,
+      "shares": null
+    },
+    {
+      "code": "",
       "name": "US TREASURY N/B 1.625-2026/11/30",
-      "ratio": 0.79,
+      "ratio": 0.78,
       "shares": null
     },
     {
       "code": "",
       "name": "US TREASURY N/B 2.125-2026/05/31",
-      "ratio": 0.77,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "US TREASURY N/B 1.625-2026/09/30",
-      "ratio": 0.75,
+      "ratio": 0.76,
       "shares": null
     },
     {
@@ -344,7 +350,7 @@
     {
       "code": "",
       "name": "US TREASURY N/B 6.5-2026/11/15",
-      "ratio": 0.18,
+      "ratio": 0.17,
       "shares": null
     },
     {
@@ -356,13 +362,7 @@
     {
       "code": "",
       "name": "US TREASURY N/B 6.75-2026/08/15",
-      "ratio": 0.11,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "US TREASURY N/B .5-2027/04/30",
-      "ratio": 0.11,
+      "ratio": 0.17,
       "shares": null
     }
   ]
