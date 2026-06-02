@@ -1,7 +1,7 @@
 {
   "id": "00988A",
   "name": "主動統一全球創新",
-  "fetched_at": "2026-05-25",
+  "fetched_at": "2026-06-01",
   "capital": {
     "ETF名稱": "主動統一全球創新",
     "交易所代碼": "00988A",
@@ -15,7 +15,7 @@
     "上市日期": "2025/11/05",
     "成分股數": 47,
     "ETF規模": "25,051.94(百萬台幣)(2026/04/30)",
-    "成交量(股)": "108,501,431（月均:83,510,830）",
+    "成交量(股)": "94,535,865（月均:105,204,677）",
     "投資標的": "股票型",
     "經理人": "陳意婷",
     "投資區域": "全球",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "年配",
     "經理費(%)": "1.4",
-    "殖利率(%)": "N/A（05/25）",
+    "殖利率(%)": "N/A（06/01）",
     "總管理費用(%)": "0.55",
     "經銷商": "",
     "官方網站連結": "https://www.ezmoney.com.tw/ETF/Fund/Info?fundCode=61YTW",
-    "ETF市價": "22.0800（05/25）",
+    "ETF市價": "21.9900（06/01）",
     "融資交易": "Y",
-    "ETF淨值": "20.0700（05/22）",
+    "ETF淨值": "21.6900（05/29）",
     "放空交易": "Y",
-    "折溢價(%)": "1.44(月均:0.73)",
+    "折溢價(%)": "1.94(月均:1.14)",
     "選擇權交易": "",
-    "年化標準差(%)": "N/A（05/25）",
+    "年化標準差(%)": "N/A（06/01）",
     "槓桿多空註記": "",
     "追蹤指數": "",
     "基準指數": "Dow Jones U.S. Technology Index",
@@ -43,286 +43,292 @@
   "sectors": [],
   "holdings": [
     {
+      "code": "009150.KS",
+      "name": "Samsung Elec Mech",
+      "ratio": 5.81,
+      "shares": 63000
+    },
+    {
       "code": "MU.US",
       "name": "Micron",
-      "ratio": 4.63,
-      "shares": 78500
+      "ratio": 5.39,
+      "shares": 85500
     },
     {
       "code": "AMD.US",
       "name": "AMD",
-      "ratio": 4.48,
-      "shares": 122000
+      "ratio": 4.86,
+      "shares": 145000
     },
     {
       "code": "SNDK.US",
       "name": "Sandisk",
-      "ratio": 4.41,
+      "ratio": 4.18,
       "shares": 38000
-    },
-    {
-      "code": "009150.KS",
-      "name": "Samsung Elec Mech",
-      "ratio": 4.13,
-      "shares": 60000
-    },
-    {
-      "code": "LITE.US",
-      "name": "Lumentum",
-      "ratio": 4.09,
-      "shares": 55000
-    },
-    {
-      "code": "BE.US",
-      "name": "Bloom Energy",
-      "ratio": 4.04,
-      "shares": 170000
-    },
-    {
-      "code": "6787.JP",
-      "name": "Meiko Electronics",
-      "ratio": 3.75,
-      "shares": 175000
     },
     {
       "code": "3037.TW",
       "name": "欣興",
-      "ratio": 3.62,
+      "ratio": 3.28,
       "shares": 1500000
+    },
+    {
+      "code": "BE.US",
+      "name": "Bloom Energy",
+      "ratio": 3.14,
+      "shares": 170000
     },
     {
       "code": "2454.TW",
       "name": "聯發科",
-      "ratio": 3.37,
+      "ratio": 3.12,
       "shares": 350000
     },
     {
       "code": "2383.TW",
       "name": "台光電",
-      "ratio": 3.09,
-      "shares": 248000
+      "ratio": 3.05,
+      "shares": 288000
     },
     {
-      "code": "5706.JP",
-      "name": "Mitsui Kinzoku",
-      "ratio": 2.69,
-      "shares": 110000
-    },
-    {
-      "code": "285A.JP",
-      "name": "Kioxia Holdings",
-      "ratio": 2.69,
-      "shares": 95000
-    },
-    {
-      "code": "5801.JP",
-      "name": "Furukawa Electric",
-      "ratio": 2.65,
-      "shares": 100000
-    },
-    {
-      "code": "4062.JP",
-      "name": "IBIDEN",
-      "ratio": 2.61,
-      "shares": 275000
-    },
-    {
-      "code": "MRVL.US",
-      "name": "Marvell",
-      "ratio": 2.47,
-      "shares": 160000
-    },
-    {
-      "code": "CIEN.US",
-      "name": "Ciena",
-      "ratio": 2.38,
-      "shares": 52000
-    },
-    {
-      "code": "2330.TW",
-      "name": "台積電",
-      "ratio": 2.25,
-      "shares": 400000
+      "code": "LITE.US",
+      "name": "Lumentum",
+      "ratio": 3.05,
+      "shares": 55000
     },
     {
       "code": "",
       "name": "INFINEON TECHNOLOGIES AG",
-      "ratio": 2.21,
-      "shares": 330000
+      "ratio": 2.91,
+      "shares": 475000
     },
     {
-      "code": "WDC.US",
-      "name": "Western Digital",
-      "ratio": 2.17,
-      "shares": 57000
+      "code": "6787.JP",
+      "name": "Meiko Electronics",
+      "ratio": 2.75,
+      "shares": 175000
     },
     {
-      "code": "5274.TW",
-      "name": "信驊",
-      "ratio": 2.04,
-      "shares": 46000
+      "code": "MRVL.US",
+      "name": "Marvell",
+      "ratio": 2.66,
+      "shares": 200000
     },
     {
-      "code": "COHR.US",
-      "name": "Coherent",
-      "ratio": 2.01,
-      "shares": 68000
+      "code": "4062.JP",
+      "name": "IBIDEN",
+      "ratio": 2.58,
+      "shares": 275000
     },
     {
-      "code": "6997.JP",
-      "name": "Nippon Chemi-Con",
-      "ratio": 1.99,
-      "shares": 1200000
-    },
-    {
-      "code": "7826.JP",
-      "name": "Furuya Metal",
-      "ratio": 1.86,
-      "shares": 374300
+      "code": "285A.JP",
+      "name": "Kioxia Holdings",
+      "ratio": 2.55,
+      "shares": 95000
     },
     {
       "code": "6981.JP",
       "name": "Murata Mfg.",
-      "ratio": 1.76,
-      "shares": 500000
+      "ratio": 2.55,
+      "shares": 650000
     },
     {
-      "code": "6515.TW",
-      "name": "穎崴",
-      "ratio": 1.73,
-      "shares": 80000
+      "code": "6997.JP",
+      "name": "Nippon Chemi-Con",
+      "ratio": 2.48,
+      "shares": 1200000
     },
     {
-      "code": "GLW.US",
-      "name": "Corning",
-      "ratio": 1.71,
-      "shares": 112500
+      "code": "5706.JP",
+      "name": "Mitsui Kinzoku",
+      "ratio": 2.31,
+      "shares": 110000
     },
     {
-      "code": "2308.TW",
-      "name": "台達電",
-      "ratio": 1.6,
-      "shares": 307000
+      "code": "5801.JP",
+      "name": "Furukawa Electric",
+      "ratio": 2.12,
+      "shares": 100000
     },
     {
-      "code": "GEV.US",
-      "name": "GE Vernova",
-      "ratio": 1.55,
-      "shares": 19000
+      "code": "CIEN.US",
+      "name": "Ciena",
+      "ratio": 1.96,
+      "shares": 52000
     },
     {
-      "code": "3711.TW",
-      "name": "日月光投控",
-      "ratio": 1.54,
-      "shares": 1100000
+      "code": "WDC.US",
+      "name": "Western Digital",
+      "ratio": 1.96,
+      "shares": 57000
     },
     {
-      "code": "",
-      "name": "AIXTRON SE",
-      "ratio": 1.49,
-      "shares": 305000
+      "code": "2330.TW",
+      "name": "台積電",
+      "ratio": 1.95,
+      "shares": 400000
+    },
+    {
+      "code": "5274.TW",
+      "name": "信驊",
+      "ratio": 1.81,
+      "shares": 46000
     },
     {
       "code": "VSH.US",
       "name": "Vishay",
-      "ratio": 1.48,
-      "shares": 400000
+      "ratio": 1.76,
+      "shares": 520000
+    },
+    {
+      "code": "COHR.US",
+      "name": "Coherent",
+      "ratio": 1.59,
+      "shares": 68000
+    },
+    {
+      "code": "2308.TW",
+      "name": "台達電",
+      "ratio": 1.55,
+      "shares": 307000
+    },
+    {
+      "code": "6515.TW",
+      "name": "穎崴",
+      "ratio": 1.44,
+      "shares": 80000
+    },
+    {
+      "code": "3711.TW",
+      "name": "日月光投控",
+      "ratio": 1.39,
+      "shares": 1100000
+    },
+    {
+      "code": "7826.JP",
+      "name": "Furuya Metal",
+      "ratio": 1.34,
+      "shares": 374300
+    },
+    {
+      "code": "",
+      "name": "AIXTRON SE",
+      "ratio": 1.34,
+      "shares": 305000
+    },
+    {
+      "code": "GLW.US",
+      "name": "Corning",
+      "ratio": 1.32,
+      "shares": 112500
+    },
+    {
+      "code": "",
+      "name": "S.O.I.T.E.C.",
+      "ratio": 1.21,
+      "shares": 90000
+    },
+    {
+      "code": "GEV.US",
+      "name": "GE Vernova",
+      "ratio": 1.19,
+      "shares": 19000
     },
     {
       "code": "3017.TW",
       "name": "奇鋐",
-      "ratio": 1.36,
+      "ratio": 1.19,
       "shares": 215000
+    },
+    {
+      "code": "ARM.US",
+      "name": "Arm",
+      "ratio": 1.16,
+      "shares": 50518
     },
     {
       "code": "6223.TW",
       "name": "旺矽",
-      "ratio": 1.35,
+      "ratio": 1.11,
       "shares": 90000
     },
     {
       "code": "GOOGL.US",
       "name": "Alphabet - Class A Common Stock",
-      "ratio": 1.32,
+      "ratio": 1.09,
       "shares": 44000
-    },
-    {
-      "code": "",
-      "name": "S.O.I.T.E.C.",
-      "ratio": 1.32,
-      "shares": 82000
     },
     {
       "code": "NVDA.US",
       "name": "NVIDIA",
-      "ratio": 1.27,
+      "ratio": 1.03,
       "shares": 75000
     },
     {
       "code": "",
       "name": "SIEMENS ENERGY AG",
-      "ratio": 1.2,
+      "ratio": 0.93,
       "shares": 75000
-    },
-    {
-      "code": "AXTI.US",
-      "name": "AXT",
-      "ratio": 0.99,
-      "shares": 90000
-    },
-    {
-      "code": "NOK.US",
-      "name": "Nokia",
-      "ratio": 0.91,
-      "shares": 750000
-    },
-    {
-      "code": "",
-      "name": "HOCHTIEF AG",
-      "ratio": 0.85,
-      "shares": 20000
-    },
-    {
-      "code": "6274.TW",
-      "name": "台燿",
-      "ratio": 0.83,
-      "shares": 230000
     },
     {
       "code": "603256.SH",
       "name": "宏和科技",
-      "ratio": 0.83,
+      "ratio": 0.87,
       "shares": 450000
     },
     {
-      "code": "ARM.US",
-      "name": "Arm",
-      "ratio": 0.69,
-      "shares": 28518
+      "code": "6274.TW",
+      "name": "台燿",
+      "ratio": 0.81,
+      "shares": 230000
+    },
+    {
+      "code": "",
+      "name": "HOCHTIEF AG",
+      "ratio": 0.74,
+      "shares": 20000
+    },
+    {
+      "code": "NOK.US",
+      "name": "Nokia",
+      "ratio": 0.72,
+      "shares": 750000
     },
     {
       "code": "7769.TW",
       "name": "鴻勁",
-      "ratio": 0.69,
+      "ratio": 0.62,
       "shares": 36000
+    },
+    {
+      "code": "AXTI.US",
+      "name": "AXT",
+      "ratio": 0.6,
+      "shares": 90000
     },
     {
       "code": "2360.TW",
       "name": "致茂",
-      "ratio": 0.62,
+      "ratio": 0.57,
       "shares": 110000
     },
     {
-      "code": "6869.HK",
-      "name": "長飛光纖光纜",
-      "ratio": 0.59,
-      "shares": 260000
+      "code": "7220.JP",
+      "name": "Musashi Seimitsu",
+      "ratio": 0.56,
+      "shares": 146400
     },
     {
-      "code": "AVGO.US",
-      "name": "Broadcom",
-      "ratio": 0.41,
-      "shares": 12500
+      "code": "6963.JP",
+      "name": "ROHM",
+      "ratio": 0.44,
+      "shares": 200000
+    },
+    {
+      "code": "CRWD.US",
+      "name": "CrowdStrike Holdings",
+      "ratio": 0.24,
+      "shares": 5075
     }
   ]
 }

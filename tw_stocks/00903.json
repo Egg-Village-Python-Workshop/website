@@ -1,7 +1,7 @@
 {
   "id": "00903",
   "name": "富邦元宇宙",
-  "fetched_at": "2026-05-25",
+  "fetched_at": "2026-06-01",
   "capital": {
     "ETF名稱": "富邦元宇宙",
     "交易所代碼": "00903",
@@ -15,7 +15,7 @@
     "上市日期": "2022/01/24",
     "成分股數": 30,
     "ETF規模": "1,036.27(百萬台幣)(2026/04/30)",
-    "成交量(股)": "142,774（月均:644,851）",
+    "成交量(股)": "546,192（月均:508,286）",
     "投資標的": "資訊科技股",
     "經理人": "王辰方",
     "投資區域": "全球",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "季配",
     "經理費(%)": "0.8",
-    "殖利率(%)": "N/A（05/25）",
+    "殖利率(%)": "N/A（06/01）",
     "總管理費用(%)": "1.15 (含 0.35 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://websys.fsit.com.tw/FubonETF/Fund/Profile.aspx?stkId=00903",
-    "ETF市價": "22.1000（05/25）",
+    "ETF市價": "22.8300（06/01）",
     "融資交易": "Y",
-    "ETF淨值": "21.8900（05/22）",
+    "ETF淨值": "22.6100（05/29）",
     "放空交易": "Y",
-    "折溢價(%)": "-0.91(月均:-0.93)",
+    "折溢價(%)": "0.53(月均:-0.97)",
     "選擇權交易": "",
-    "年化標準差(%)": "29.78（05/25）",
+    "年化標準差(%)": "33.66（06/01）",
     "槓桿多空註記": "",
     "追蹤指數": "Solactive元宇宙指數",
     "基準指數": "Dow Jones U.S. Technology Index",
@@ -74,184 +74,184 @@
   ],
   "holdings": [
     {
+      "code": "MU.US",
+      "name": "Micron",
+      "ratio": 8.49,
+      "shares": 3328
+    },
+    {
       "code": "AAPL.US",
       "name": "Apple",
-      "ratio": 8.56,
-      "shares": 10251
+      "ratio": 8.32,
+      "shares": 10147
     },
     {
       "code": "NVDA.US",
       "name": "NVIDIA",
-      "ratio": 7.63,
-      "shares": 13117
+      "ratio": 7.2,
+      "shares": 12984
     },
     {
       "code": "META.US",
       "name": "Meta",
-      "ratio": 7.14,
-      "shares": 4331
+      "ratio": 7.13,
+      "shares": 4287
     },
     {
       "code": "GOOGL.US",
       "name": "Alphabet - Class A Common Stock",
-      "ratio": 6.95,
-      "shares": 6712
-    },
-    {
-      "code": "MU.US",
-      "name": "Micron",
-      "ratio": 6.82,
-      "shares": 3362
-    },
-    {
-      "code": "HIMX.US",
-      "name": "Himax Technologies",
-      "ratio": 6.3,
-      "shares": 110757
+      "ratio": 6.64,
+      "shares": 6643
     },
     {
       "code": "AMZN.US",
       "name": "Amazon",
-      "ratio": 6.21,
-      "shares": 8630
+      "ratio": 6.08,
+      "shares": 8542
+    },
+    {
+      "code": "HIMX.US",
+      "name": "Himax Technologies",
+      "ratio": 5.93,
+      "shares": 109627
     },
     {
       "code": "AMBQ.US",
       "name": "Ambiq Micro",
-      "ratio": 5.9,
-      "shares": 26731
+      "ratio": 5.54,
+      "shares": 26459
     },
     {
       "code": "KOPN.US",
       "name": "Kopin",
-      "ratio": 4.95,
-      "shares": 356520
-    },
-    {
-      "code": "AMBA.US",
-      "name": "Ambarella",
-      "ratio": 3.57,
-      "shares": 15106
+      "ratio": 5.3,
+      "shares": 352885
     },
     {
       "code": "AI.US",
       "name": "C3.ai",
-      "ratio": 3.5,
-      "shares": 139330
+      "ratio": 3.9,
+      "shares": 137910
     },
     {
       "code": "PLTR.US",
       "name": "Palantir Technologies",
-      "ratio": 3.29,
-      "shares": 8901
+      "ratio": 3.62,
+      "shares": 8810
     },
     {
       "code": "2498.TW",
       "name": "宏達電",
-      "ratio": 3.23,
-      "shares": 811000
+      "ratio": 3.06,
+      "shares": 805000
     },
     {
       "code": "ADBE.US",
       "name": "Adobe",
-      "ratio": 2.98,
-      "shares": 4504
+      "ratio": 3.04,
+      "shares": 4458
+    },
+    {
+      "code": "AMBA.US",
+      "name": "Ambarella",
+      "ratio": 2.84,
+      "shares": 14952
     },
     {
       "code": "6613.HK",
       "name": "藍思科技",
-      "ratio": 2.37,
-      "shares": 315000
+      "ratio": 2.52,
+      "shares": 311800
+    },
+    {
+      "code": "MSFT.US",
+      "name": "Microsoft",
+      "ratio": 2.17,
+      "shares": 1830
     },
     {
       "code": "CRWV.US",
       "name": "CoreWeave",
       "ratio": 2.12,
-      "shares": 7432
-    },
-    {
-      "code": "MSFT.US",
-      "name": "Microsoft",
-      "ratio": 2.09,
-      "shares": 1849
+      "shares": 7356
     },
     {
       "code": "SNAP.US",
       "name": "Snap",
-      "ratio": 2.0,
-      "shares": 129343
+      "ratio": 1.92,
+      "shares": 128024
     },
     {
       "code": "FIG.US",
       "name": "Figma",
-      "ratio": 1.74,
-      "shares": 28301
-    },
-    {
-      "code": "3896.HK",
-      "name": "金山雲",
-      "ratio": 1.67,
-      "shares": 664000
+      "ratio": 1.88,
+      "shares": 28012
     },
     {
       "code": "CRUS.US",
       "name": "Cirrus Logic",
-      "ratio": 1.59,
-      "shares": 3442
-    },
-    {
-      "code": "OLED.US",
-      "name": "Universal Display Corporation",
-      "ratio": 1.45,
-      "shares": 5674
+      "ratio": 1.52,
+      "shares": 3407
     },
     {
       "code": "AKAM.US",
       "name": "Akamai",
-      "ratio": 1.42,
-      "shares": 3575
+      "ratio": 1.39,
+      "shares": 3538
+    },
+    {
+      "code": "3896.HK",
+      "name": "金山雲",
+      "ratio": 1.37,
+      "shares": 656000
+    },
+    {
+      "code": "OLED.US",
+      "name": "Universal Display Corporation",
+      "ratio": 1.36,
+      "shares": 5616
     },
     {
       "code": "SOUN.US",
       "name": "SoundHound",
-      "ratio": 1.19,
-      "shares": 54031
+      "ratio": 1.27,
+      "shares": 53481
     },
     {
       "code": "AMD.US",
       "name": "AMD",
-      "ratio": 1.11,
-      "shares": 878
+      "ratio": 1.18,
+      "shares": 869
     },
     {
       "code": "6752.JP",
       "name": "Panasonic Holdings",
-      "ratio": 0.9,
-      "shares": 15100
+      "ratio": 0.91,
+      "shares": 14900
     },
     {
       "code": "2330.TW",
       "name": "台積電",
-      "ratio": 0.58,
+      "ratio": 0.59,
       "shares": 3000
-    },
-    {
-      "code": "RBLX.US",
-      "name": "Roblox",
-      "ratio": 0.55,
-      "shares": 4258
     },
     {
       "code": "IQ.US",
       "name": "iQIYI",
       "ratio": 0.52,
-      "shares": 176535
+      "shares": 174735
+    },
+    {
+      "code": "RBLX.US",
+      "name": "Roblox",
+      "ratio": 0.52,
+      "shares": 4215
     },
     {
       "code": "2635.HK",
       "name": "諾比侃人工智能科技",
       "ratio": 0.06,
-      "shares": 11400
+      "shares": 11300
     }
   ]
 }
