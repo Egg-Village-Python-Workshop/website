@@ -1,7 +1,7 @@
 {
   "id": "006207",
   "name": "復華滬深",
-  "fetched_at": "2026-06-01",
+  "fetched_at": "2026-06-08",
   "capital": {
     "ETF名稱": "復華滬深",
     "交易所代碼": "006207",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2012/06/22",
     "成分股數": 249,
-    "ETF規模": "775.78(百萬台幣)(2026/04/30)",
-    "成交量(股)": "264,802（月均:304,619）",
+    "ETF規模": "731.90(百萬台幣)(2026/06/08)",
+    "成交量(股)": "366,886（月均:256,018）",
     "投資標的": "股票型",
     "經理人": "廖崇文",
     "投資區域": "中國",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "",
     "經理費(%)": "0.75",
-    "殖利率(%)": "N/A（06/01）",
+    "殖利率(%)": "N/A（06/08）",
     "總管理費用(%)": "1.41 (含 0.66 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF01",
-    "ETF市價": "33.5000（06/01）",
+    "ETF市價": "32.5300（06/08）",
     "融資交易": "Y",
-    "ETF淨值": "33.5300（06/01）",
+    "ETF淨值": "32.7800（06/05）",
     "放空交易": "Y",
-    "折溢價(%)": "-0.09(月均:-0.88)",
+    "折溢價(%)": "-0.76(月均:-0.71)",
     "選擇權交易": "",
-    "年化標準差(%)": "15.32（06/01）",
+    "年化標準差(%)": "13.63（06/08）",
     "槓桿多空註記": "",
     "追蹤指數": "滬深300指數",
     "基準指數": "滬深300",
@@ -96,98 +96,110 @@
     {
       "code": "300308.SZ",
       "name": "中際旭創",
-      "ratio": 4.65,
+      "ratio": 4.88,
       "shares": 6511
     },
     {
       "code": "300750.SZ",
       "name": "寧德時代",
-      "ratio": 4.13,
+      "ratio": 3.97,
       "shares": 15547
     },
     {
       "code": "600519.SH",
       "name": "貴州茅臺",
-      "ratio": 3.02,
+      "ratio": 2.99,
       "shares": 3652
     },
     {
       "code": "300502.SZ",
       "name": "新易盛",
-      "ratio": 2.54,
+      "ratio": 2.79,
       "shares": 5920
     },
     {
       "code": "601318.SH",
       "name": "中國平安",
-      "ratio": 2.15,
+      "ratio": 2.19,
       "shares": 63245
-    },
-    {
-      "code": "601899.SH",
-      "name": "紫金礦業",
-      "ratio": 1.87,
-      "shares": 97961
     },
     {
       "code": "600036.SH",
       "name": "招商銀行",
-      "ratio": 1.78,
+      "ratio": 1.84,
       "shares": 73677
+    },
+    {
+      "code": "601899.SH",
+      "name": "紫金礦業",
+      "ratio": 1.78,
+      "shares": 97961
     },
     {
       "code": "688256.SH",
       "name": "寒武紀",
-      "ratio": 1.44,
+      "ratio": 1.5,
       "shares": 1847
-    },
-    {
-      "code": "002475.SZ",
-      "name": "立訊精密",
-      "ratio": 1.37,
-      "shares": 30561
     },
     {
       "code": "600900.SH",
       "name": "長江電力",
-      "ratio": 1.29,
+      "ratio": 1.31,
       "shares": 73458
+    },
+    {
+      "code": "002475.SZ",
+      "name": "立訊精密",
+      "ratio": 1.31,
+      "shares": 30561
     },
     {
       "code": "603986.SH",
       "name": "兆易創新",
-      "ratio": 1.2,
+      "ratio": 1.25,
       "shares": 4051
     },
     {
       "code": "601166.SH",
       "name": "興業銀行",
-      "ratio": 1.19,
+      "ratio": 1.23,
       "shares": 101890
     },
     {
       "code": "601138.SH",
       "name": "工業富聯",
-      "ratio": 1.12,
+      "ratio": 1.1,
       "shares": 23944
     },
     {
       "code": "000333.SZ",
       "name": "美的集團",
-      "ratio": 1.04,
+      "ratio": 1.08,
       "shares": 20061
+    },
+    {
+      "code": "002384.SZ",
+      "name": "東山精密",
+      "ratio": 1.06,
+      "shares": 7700
+    },
+    {
+      "code": "002371.SZ",
+      "name": "北方華創",
+      "ratio": 0.99,
+      "shares": 2607
     },
     {
       "code": "688008.SH",
       "name": "瀾起科技",
-      "ratio": 1.0,
+      "ratio": 0.99,
       "shares": 6797
     },
     {
-      "code": "688041.SH",
-      "name": "海光信息",
-      "ratio": 0.99,
-      "shares": 5700
+      "code": "600030.SH",
+      "name": "中信證券",
+      "ratio": 0.98,
+      "shares": 59194
     },
     {
       "code": "002594.SZ",
@@ -196,87 +208,75 @@
       "shares": 16468
     },
     {
-      "code": "002371.SZ",
-      "name": "北方華創",
-      "ratio": 0.97,
-      "shares": 2607
-    },
-    {
-      "code": "600030.SH",
-      "name": "中信證券",
+      "code": "688041.SH",
+      "name": "海光信息",
       "ratio": 0.96,
-      "shares": 59194
-    },
-    {
-      "code": "603259.SH",
-      "name": "藥明康德",
-      "ratio": 0.95,
-      "shares": 15019
-    },
-    {
-      "code": "002384.SZ",
-      "name": "東山精密",
-      "ratio": 0.93,
-      "shares": 7700
+      "shares": 5700
     },
     {
       "code": "601398.SH",
       "name": "工商銀行",
-      "ratio": 0.91,
+      "ratio": 0.96,
       "shares": 196741
     },
     {
-      "code": "600276.SH",
-      "name": "恒瑞醫藥",
-      "ratio": 0.84,
-      "shares": 27153
-    },
-    {
-      "code": "300476.SZ",
-      "name": "勝宏科技",
-      "ratio": 0.8,
-      "shares": 3700
-    },
-    {
-      "code": "300394.SZ",
-      "name": "天孚通信",
-      "ratio": 0.77,
-      "shares": 2840
+      "code": "603259.SH",
+      "name": "藥明康德",
+      "ratio": 0.94,
+      "shares": 15019
     },
     {
       "code": "000725.SZ",
       "name": "京東方Ａ",
-      "ratio": 0.76,
+      "ratio": 0.92,
       "shares": 224216
+    },
+    {
+      "code": "600276.SH",
+      "name": "恒瑞醫藥",
+      "ratio": 0.81,
+      "shares": 27153
+    },
+    {
+      "code": "300394.SZ",
+      "name": "天孚通信",
+      "ratio": 0.78,
+      "shares": 2840
+    },
+    {
+      "code": "300476.SZ",
+      "name": "勝宏科技",
+      "ratio": 0.76,
+      "shares": 3700
     },
     {
       "code": "601288.SH",
       "name": "農業銀行",
-      "ratio": 0.72,
+      "ratio": 0.75,
       "shares": 176720
-    },
-    {
-      "code": "000338.SZ",
-      "name": "濰柴動力",
-      "ratio": 0.71,
-      "shares": 33166
-    },
-    {
-      "code": "601328.SH",
-      "name": "交通銀行",
-      "ratio": 0.7,
-      "shares": 164208
     },
     {
       "code": "601211.SH",
       "name": "國泰海通",
-      "ratio": 0.7,
+      "ratio": 0.74,
       "shares": 69702
+    },
+    {
+      "code": "002463.SZ",
+      "name": "滬電股份",
+      "ratio": 0.74,
+      "shares": 8300
+    },
+    {
+      "code": "601328.SH",
+      "name": "交通銀行",
+      "ratio": 0.73,
+      "shares": 164208
     },
     {
       "code": "601088.SH",
       "name": "中國神華",
-      "ratio": 0.68,
+      "ratio": 0.73,
       "shares": 22069
     },
     {
@@ -286,10 +286,10 @@
       "shares": 27586
     },
     {
-      "code": "600887.SH",
-      "name": "伊利股份",
+      "code": "600919.SH",
+      "name": "江蘇銀行",
       "ratio": 0.67,
-      "shares": 39091
+      "shares": 90644
     },
     {
       "code": "300408.SZ",
@@ -298,82 +298,88 @@
       "shares": 8268
     },
     {
-      "code": "600919.SH",
-      "name": "江蘇銀行",
-      "ratio": 0.65,
-      "shares": 90644
-    },
-    {
-      "code": "002463.SZ",
-      "name": "滬電股份",
-      "ratio": 0.64,
-      "shares": 8300
-    },
-    {
       "code": "600183.SH",
       "name": "生益科技",
-      "ratio": 0.64,
+      "ratio": 0.65,
       "shares": 7470
+    },
+    {
+      "code": "000338.SZ",
+      "name": "濰柴動力",
+      "ratio": 0.65,
+      "shares": 33166
+    },
+    {
+      "code": "600887.SH",
+      "name": "伊利股份",
+      "ratio": 0.64,
+      "shares": 39091
     },
     {
       "code": "000858.SZ",
       "name": "五糧液",
-      "ratio": 0.63,
+      "ratio": 0.62,
       "shares": 11965
     },
     {
       "code": "603993.SH",
       "name": "洛陽鉬業",
-      "ratio": 0.63,
+      "ratio": 0.59,
       "shares": 53947
-    },
-    {
-      "code": "300274.SZ",
-      "name": "陽光電源",
-      "ratio": 0.58,
-      "shares": 5300
     },
     {
       "code": "601816.SH",
       "name": "京滬高鐵",
-      "ratio": 0.58,
+      "ratio": 0.59,
       "shares": 182766
-    },
-    {
-      "code": "600309.SH",
-      "name": "萬華化學",
-      "ratio": 0.56,
-      "shares": 11671
     },
     {
       "code": "300124.SZ",
       "name": "匯川技術",
-      "ratio": 0.56,
+      "ratio": 0.57,
       "shares": 11807
     },
     {
-      "code": "002028.SZ",
-      "name": "思源電氣",
-      "ratio": 0.53,
-      "shares": 3900
+      "code": "600522.SH",
+      "name": "中天科技",
+      "ratio": 0.56,
+      "shares": 17300
     },
     {
-      "code": "600089.SH",
-      "name": "特變電工",
+      "code": "600309.SH",
+      "name": "萬華化學",
       "ratio": 0.53,
-      "shares": 31648
+      "shares": 11671
     },
     {
       "code": "600000.SH",
       "name": "浦發銀行",
-      "ratio": 0.49,
+      "ratio": 0.51,
       "shares": 83822
     },
     {
       "code": "601857.SH",
       "name": "中國石油",
-      "ratio": 0.49,
+      "ratio": 0.51,
       "shares": 71327
+    },
+    {
+      "code": "300274.SZ",
+      "name": "陽光電源",
+      "ratio": 0.51,
+      "shares": 5300
+    },
+    {
+      "code": "600089.SH",
+      "name": "特變電工",
+      "ratio": 0.49,
+      "shares": 31648
+    },
+    {
+      "code": "000063.SZ",
+      "name": "中興通訊",
+      "ratio": 0.49,
+      "shares": 20412
     },
     {
       "code": "600111.SH",
@@ -382,16 +388,34 @@
       "shares": 15866
     },
     {
-      "code": "002230.SZ",
-      "name": "科大訊飛",
-      "ratio": 0.46,
-      "shares": 14683
+      "code": "600031.SH",
+      "name": "三一重工",
+      "ratio": 0.48,
+      "shares": 37763
     },
     {
-      "code": "000063.SZ",
-      "name": "中興通訊",
+      "code": "601688.SH",
+      "name": "華泰證券",
       "ratio": 0.45,
-      "shares": 20412
+      "shares": 37220
+    },
+    {
+      "code": "002028.SZ",
+      "name": "思源電氣",
+      "ratio": 0.45,
+      "shares": 3900
+    },
+    {
+      "code": "601225.SH",
+      "name": "陜西煤業",
+      "ratio": 0.45,
+      "shares": 24852
+    },
+    {
+      "code": "000001.SZ",
+      "name": "平安銀行",
+      "ratio": 0.44,
+      "shares": 61836
     },
     {
       "code": "601601.SH",
@@ -400,46 +424,10 @@
       "shares": 21753
     },
     {
-      "code": "601688.SH",
-      "name": "華泰證券",
+      "code": "002050.SZ",
+      "name": "三花智控",
       "ratio": 0.44,
-      "shares": 37220
-    },
-    {
-      "code": "600031.SH",
-      "name": "三一重工",
-      "ratio": 0.43,
-      "shares": 37763
-    },
-    {
-      "code": "600522.SH",
-      "name": "中天科技",
-      "ratio": 0.43,
-      "shares": 17300
-    },
-    {
-      "code": "600584.SH",
-      "name": "長電科技",
-      "ratio": 0.43,
-      "shares": 9000
-    },
-    {
-      "code": "000001.SZ",
-      "name": "平安銀行",
-      "ratio": 0.43,
-      "shares": 61836
-    },
-    {
-      "code": "002714.SZ",
-      "name": "牧原股份",
-      "ratio": 0.42,
-      "shares": 17644
-    },
-    {
-      "code": "601225.SH",
-      "name": "陜西煤業",
-      "ratio": 0.42,
-      "shares": 24852
+      "shares": 14259
     },
     {
       "code": "002142.SZ",
@@ -448,58 +436,58 @@
       "shares": 21087
     },
     {
+      "code": "002230.SZ",
+      "name": "科大訊飛",
+      "ratio": 0.42,
+      "shares": 14683
+    },
+    {
       "code": "002916.SZ",
       "name": "深南電路",
       "ratio": 0.41,
       "shares": 1726
     },
     {
-      "code": "600406.SH",
-      "name": "國電南瑞",
+      "code": "600584.SH",
+      "name": "長電科技",
       "ratio": 0.41,
-      "shares": 25702
-    },
-    {
-      "code": "002050.SZ",
-      "name": "三花智控",
-      "ratio": 0.4,
-      "shares": 14259
-    },
-    {
-      "code": "000792.SZ",
-      "name": "鹽湖股份",
-      "ratio": 0.39,
-      "shares": 20526
-    },
-    {
-      "code": "000425.SZ",
-      "name": "徐工機械",
-      "ratio": 0.38,
-      "shares": 61027
-    },
-    {
-      "code": "601229.SH",
-      "name": "上海銀行",
-      "ratio": 0.38,
-      "shares": 64346
-    },
-    {
-      "code": "600176.SH",
-      "name": "中國巨石",
-      "ratio": 0.37,
-      "shares": 15421
+      "shares": 9000
     },
     {
       "code": "000100.SZ",
       "name": "TCL科技",
-      "ratio": 0.37,
+      "ratio": 0.4,
       "shares": 133802
     },
     {
-      "code": "300760.SZ",
-      "name": "邁瑞醫療",
-      "ratio": 0.37,
-      "shares": 3880
+      "code": "000425.SZ",
+      "name": "徐工機械",
+      "ratio": 0.39,
+      "shares": 61027
+    },
+    {
+      "code": "002714.SZ",
+      "name": "牧原股份",
+      "ratio": 0.39,
+      "shares": 17644
+    },
+    {
+      "code": "601229.SH",
+      "name": "XD上海銀",
+      "ratio": 0.38,
+      "shares": 64346
+    },
+    {
+      "code": "600406.SH",
+      "name": "國電南瑞",
+      "ratio": 0.38,
+      "shares": 25702
+    },
+    {
+      "code": "000792.SZ",
+      "name": "鹽湖股份",
+      "ratio": 0.38,
+      "shares": 20526
     },
     {
       "code": "600016.SH",
@@ -508,34 +496,40 @@
       "shares": 160918
     },
     {
-      "code": "601600.SH",
-      "name": "中國鋁業",
+      "code": "601988.SH",
+      "name": "中國銀行",
       "ratio": 0.37,
-      "shares": 51207
-    },
-    {
-      "code": "600660.SH",
-      "name": "福耀玻璃",
-      "ratio": 0.35,
-      "shares": 10559
+      "shares": 93124
     },
     {
       "code": "601939.SH",
       "name": "建設銀行",
-      "ratio": 0.35,
+      "ratio": 0.37,
       "shares": 55004
     },
     {
-      "code": "601988.SH",
-      "name": "中國銀行",
-      "ratio": 0.35,
-      "shares": 93124
+      "code": "600660.SH",
+      "name": "福耀玻璃",
+      "ratio": 0.36,
+      "shares": 10559
     },
     {
       "code": "300433.SZ",
       "name": "藍思科技",
-      "ratio": 0.35,
+      "ratio": 0.36,
       "shares": 13054
+    },
+    {
+      "code": "300760.SZ",
+      "name": "邁瑞醫療",
+      "ratio": 0.36,
+      "shares": 3880
+    },
+    {
+      "code": "600176.SH",
+      "name": "中國巨石",
+      "ratio": 0.36,
+      "shares": 15421
     },
     {
       "code": "002352.SZ",
@@ -544,46 +538,34 @@
       "shares": 15550
     },
     {
-      "code": "601012.SH",
-      "name": "隆基綠能",
-      "ratio": 0.34,
-      "shares": 39863
-    },
-    {
       "code": "600926.SH",
       "name": "杭州銀行",
-      "ratio": 0.34,
+      "ratio": 0.35,
       "shares": 33085
     },
     {
-      "code": "603799.SH",
-      "name": "華友鈷業",
-      "ratio": 0.34,
-      "shares": 9952
-    },
-    {
-      "code": "300014.SZ",
-      "name": "億緯鋰能",
-      "ratio": 0.34,
-      "shares": 8176
-    },
-    {
-      "code": "600690.SH",
-      "name": "海爾智家",
-      "ratio": 0.34,
-      "shares": 25164
-    },
-    {
-      "code": "002460.SZ",
-      "name": "贛鋒鋰業",
+      "code": "601600.SH",
+      "name": "中國鋁業",
       "ratio": 0.33,
-      "shares": 7462
+      "shares": 51207
+    },
+    {
+      "code": "002938.SZ",
+      "name": "鵬鼎控股",
+      "ratio": 0.33,
+      "shares": 4574
     },
     {
       "code": "603501.SH",
       "name": "豪威集團",
-      "ratio": 0.32,
+      "ratio": 0.33,
       "shares": 5534
+    },
+    {
+      "code": "600690.SH",
+      "name": "海爾智家",
+      "ratio": 0.33,
+      "shares": 25164
     },
     {
       "code": "601169.SH",
@@ -592,70 +574,58 @@
       "shares": 97582
     },
     {
-      "code": "002709.SZ",
-      "name": "天賜材料",
-      "ratio": 0.31,
-      "shares": 9454
-    },
-    {
-      "code": "300498.SZ",
-      "name": "溫氏股份",
-      "ratio": 0.3,
-      "shares": 35254
+      "code": "601012.SH",
+      "name": "隆基綠能",
+      "ratio": 0.32,
+      "shares": 39863
     },
     {
       "code": "600028.SH",
       "name": "中國石化",
-      "ratio": 0.3,
+      "ratio": 0.31,
       "shares": 98158
-    },
-    {
-      "code": "002938.SZ",
-      "name": "鵬鼎控股",
-      "ratio": 0.3,
-      "shares": 4574
     },
     {
       "code": "601009.SH",
       "name": "南京銀行",
-      "ratio": 0.3,
+      "ratio": 0.31,
       "shares": 42074
     },
     {
-      "code": "300033.SZ",
-      "name": "同花順",
+      "code": "002460.SZ",
+      "name": "贛鋒鋰業",
       "ratio": 0.3,
-      "shares": 2044
+      "shares": 7462
     },
     {
-      "code": "300442.SZ",
-      "name": "潤澤科技",
-      "ratio": 0.28,
-      "shares": 5451
+      "code": "603799.SH",
+      "name": "華友鈷業",
+      "ratio": 0.3,
+      "shares": 9952
     },
     {
-      "code": "000568.SZ",
-      "name": "瀘州老窖",
-      "ratio": 0.28,
-      "shares": 4889
+      "code": "300498.SZ",
+      "name": "溫氏股份",
+      "ratio": 0.29,
+      "shares": 35254
     },
     {
-      "code": "600489.SH",
-      "name": "中金黃金",
-      "ratio": 0.28,
-      "shares": 19532
+      "code": "601100.SH",
+      "name": "恒立液壓",
+      "ratio": 0.29,
+      "shares": 3718
     },
     {
-      "code": "002466.SZ",
-      "name": "天齊鋰業",
-      "ratio": 0.28,
-      "shares": 7000
+      "code": "300014.SZ",
+      "name": "億緯鋰能",
+      "ratio": 0.29,
+      "shares": 8176
     },
     {
-      "code": "002241.SZ",
-      "name": "歌爾股份",
-      "ratio": 0.28,
-      "shares": 16436
+      "code": "002709.SZ",
+      "name": "天賜材料",
+      "ratio": 0.29,
+      "shares": 9454
     },
     {
       "code": "601006.SH",
@@ -664,64 +634,58 @@
       "shares": 83311
     },
     {
-      "code": "601127.SH",
-      "name": "賽力斯",
-      "ratio": 0.27,
-      "shares": 5400
-    },
-    {
-      "code": "600809.SH",
-      "name": "山西汾酒",
-      "ratio": 0.27,
-      "shares": 3361
-    },
-    {
-      "code": "300059.SZ",
-      "name": "東方財富",
-      "ratio": 0.27,
-      "shares": 22614
-    },
-    {
       "code": "600999.SH",
       "name": "招商證券",
       "ratio": 0.27,
       "shares": 24937
     },
     {
-      "code": "688111.SH",
-      "name": "金山辦公",
+      "code": "300033.SZ",
+      "name": "同花順",
       "ratio": 0.27,
-      "shares": 1671
+      "shares": 2044
+    },
+    {
+      "code": "000568.SZ",
+      "name": "瀘州老窖",
+      "ratio": 0.27,
+      "shares": 4889
+    },
+    {
+      "code": "600489.SH",
+      "name": "中金黃金",
+      "ratio": 0.26,
+      "shares": 19532
+    },
+    {
+      "code": "300442.SZ",
+      "name": "潤澤科技",
+      "ratio": 0.26,
+      "shares": 5451
+    },
+    {
+      "code": "300059.SZ",
+      "name": "東方財富",
+      "ratio": 0.26,
+      "shares": 22614
+    },
+    {
+      "code": "601689.SH",
+      "name": "拓普集團",
+      "ratio": 0.26,
+      "shares": 5883
     },
     {
       "code": "600905.SH",
       "name": "三峽能源",
-      "ratio": 0.27,
+      "ratio": 0.26,
       "shares": 96975
     },
     {
-      "code": "601100.SH",
-      "name": "恒立液壓",
+      "code": "600809.SH",
+      "name": "山西汾酒",
       "ratio": 0.26,
-      "shares": 3718
-    },
-    {
-      "code": "603288.SH",
-      "name": "海天味業",
-      "ratio": 0.26,
-      "shares": 11462
-    },
-    {
-      "code": "000408.SZ",
-      "name": "藏格礦業",
-      "ratio": 0.26,
-      "shares": 5400
-    },
-    {
-      "code": "000807.SZ",
-      "name": "云鋁股份",
-      "ratio": 0.26,
-      "shares": 14083
+      "shares": 3361
     },
     {
       "code": "601888.SH",
@@ -730,28 +694,40 @@
       "shares": 6880
     },
     {
+      "code": "601818.SH",
+      "name": "光大銀行",
+      "ratio": 0.26,
+      "shares": 126592
+    },
+    {
+      "code": "000408.SZ",
+      "name": "藏格礦業",
+      "ratio": 0.26,
+      "shares": 5400
+    },
+    {
+      "code": "002466.SZ",
+      "name": "天齊鋰業",
+      "ratio": 0.26,
+      "shares": 7000
+    },
+    {
+      "code": "601127.SH",
+      "name": "賽力斯",
+      "ratio": 0.26,
+      "shares": 5400
+    },
+    {
+      "code": "603288.SH",
+      "name": "海天味業",
+      "ratio": 0.25,
+      "shares": 11462
+    },
+    {
       "code": "688271.SH",
       "name": "聯影醫療",
       "ratio": 0.25,
       "shares": 3398
-    },
-    {
-      "code": "601818.SH",
-      "name": "光大銀行",
-      "ratio": 0.25,
-      "shares": 126592
-    },
-    {
-      "code": "002027.SZ",
-      "name": "分眾傳媒",
-      "ratio": 0.25,
-      "shares": 69763
-    },
-    {
-      "code": "605117.SH",
-      "name": "德業股份",
-      "ratio": 0.25,
-      "shares": 3455
     },
     {
       "code": "601628.SH",
@@ -760,40 +736,52 @@
       "shares": 11670
     },
     {
-      "code": "600104.SH",
-      "name": "上汽集團",
+      "code": "002241.SZ",
+      "name": "歌爾股份",
       "ratio": 0.25,
-      "shares": 31821
+      "shares": 16436
     },
     {
       "code": "000776.SZ",
       "name": "廣發證券",
-      "ratio": 0.24,
+      "ratio": 0.25,
       "shares": 20308
     },
     {
-      "code": "000938.SZ",
-      "name": "紫光股份",
-      "ratio": 0.24,
-      "shares": 13749
+      "code": "000807.SZ",
+      "name": "云鋁股份",
+      "ratio": 0.25,
+      "shares": 14083
     },
     {
       "code": "601658.SH",
       "name": "郵儲銀行",
-      "ratio": 0.24,
+      "ratio": 0.25,
       "shares": 75727
     },
     {
-      "code": "000630.SZ",
-      "name": "銅陵有色",
+      "code": "688111.SH",
+      "name": "金山辦公",
       "ratio": 0.24,
-      "shares": 55400
+      "shares": 1671
     },
     {
-      "code": "002600.SZ",
-      "name": "領益智造",
+      "code": "600160.SH",
+      "name": "巨化股份",
       "ratio": 0.24,
-      "shares": 24900
+      "shares": 9700
+    },
+    {
+      "code": "002027.SZ",
+      "name": "分眾傳媒",
+      "ratio": 0.24,
+      "shares": 69763
+    },
+    {
+      "code": "600104.SH",
+      "name": "上汽集團",
+      "ratio": 0.24,
+      "shares": 31821
     },
     {
       "code": "600010.SH",
@@ -802,28 +790,10 @@
       "shares": 156744
     },
     {
-      "code": "600989.SH",
-      "name": "寶豐能源",
-      "ratio": 0.24,
-      "shares": 15087
-    },
-    {
-      "code": "600019.SH",
-      "name": "寶鋼股份",
+      "code": "002600.SZ",
+      "name": "領益智造",
       "ratio": 0.23,
-      "shares": 61315
-    },
-    {
-      "code": "600547.SH",
-      "name": "山東黃金",
-      "ratio": 0.23,
-      "shares": 12531
-    },
-    {
-      "code": "601689.SH",
-      "name": "拓普集團",
-      "ratio": 0.23,
-      "shares": 5883
+      "shares": 24900
     },
     {
       "code": "601825.SH",
@@ -832,16 +802,52 @@
       "shares": 41300
     },
     {
-      "code": "002049.SZ",
-      "name": "紫光國微",
+      "code": "600989.SH",
+      "name": "寶豐能源",
       "ratio": 0.23,
-      "shares": 4656
+      "shares": 15087
     },
     {
-      "code": "600160.SH",
-      "name": "巨化股份",
+      "code": "000938.SZ",
+      "name": "紫光股份",
+      "ratio": 0.23,
+      "shares": 13749
+    },
+    {
+      "code": "605117.SH",
+      "name": "德業股份",
+      "ratio": 0.23,
+      "shares": 3455
+    },
+    {
+      "code": "600019.SH",
+      "name": "寶鋼股份",
       "ratio": 0.22,
-      "shares": 9700
+      "shares": 61315
+    },
+    {
+      "code": "002001.SZ",
+      "name": "新和成",
+      "ratio": 0.22,
+      "shares": 11124
+    },
+    {
+      "code": "688126.SH",
+      "name": "滬硅產業",
+      "ratio": 0.22,
+      "shares": 13000
+    },
+    {
+      "code": "601838.SH",
+      "name": "成都銀行",
+      "ratio": 0.22,
+      "shares": 17896
+    },
+    {
+      "code": "600188.SH",
+      "name": "兗礦能源",
+      "ratio": 0.22,
+      "shares": 13461
     },
     {
       "code": "601336.SH",
@@ -850,64 +856,52 @@
       "shares": 5992
     },
     {
+      "code": "601916.SH",
+      "name": "浙商銀行",
+      "ratio": 0.22,
+      "shares": 109025
+    },
+    {
+      "code": "600547.SH",
+      "name": "山東黃金",
+      "ratio": 0.22,
+      "shares": 12531
+    },
+    {
       "code": "600585.SH",
       "name": "海螺水泥",
-      "ratio": 0.22,
+      "ratio": 0.21,
       "shares": 17310
-    },
-    {
-      "code": "603296.SH",
-      "name": "華勤技術",
-      "ratio": 0.22,
-      "shares": 3000
-    },
-    {
-      "code": "601872.SH",
-      "name": "招商輪船",
-      "ratio": 0.22,
-      "shares": 22299
     },
     {
       "code": "600958.SH",
       "name": "東方證券",
-      "ratio": 0.22,
+      "ratio": 0.21,
       "shares": 37255
+    },
+    {
+      "code": "000630.SZ",
+      "name": "銅陵有色",
+      "ratio": 0.21,
+      "shares": 55400
+    },
+    {
+      "code": "002049.SZ",
+      "name": "紫光國微",
+      "ratio": 0.21,
+      "shares": 4656
     },
     {
       "code": "601390.SH",
       "name": "中國中鐵",
-      "ratio": 0.22,
+      "ratio": 0.21,
       "shares": 71762
     },
     {
-      "code": "601838.SH",
-      "name": "成都銀行",
+      "code": "601872.SH",
+      "name": "招商輪船",
       "ratio": 0.21,
-      "shares": 17896
-    },
-    {
-      "code": "688126.SH",
-      "name": "滬硅產業",
-      "ratio": 0.21,
-      "shares": 13000
-    },
-    {
-      "code": "601916.SH",
-      "name": "浙商銀行",
-      "ratio": 0.21,
-      "shares": 109025
-    },
-    {
-      "code": "002001.SZ",
-      "name": "新和成",
-      "ratio": 0.21,
-      "shares": 11124
-    },
-    {
-      "code": "601669.SH",
-      "name": "中國電建",
-      "ratio": 0.21,
-      "shares": 61532
+      "shares": 22299
     },
     {
       "code": "600795.SH",
@@ -916,34 +910,10 @@
       "shares": 63106
     },
     {
-      "code": "600188.SH",
-      "name": "兗礦能源",
-      "ratio": 0.2,
-      "shares": 13461
-    },
-    {
-      "code": "600066.SH",
-      "name": "宇通客車",
-      "ratio": 0.2,
-      "shares": 9800
-    },
-    {
-      "code": "600362.SH",
-      "name": "江西銅業",
-      "ratio": 0.2,
-      "shares": 7362
-    },
-    {
-      "code": "600426.SH",
-      "name": "華魯恒升",
-      "ratio": 0.2,
-      "shares": 10699
-    },
-    {
-      "code": "600011.SH",
-      "name": "華能國際",
-      "ratio": 0.2,
-      "shares": 32579
+      "code": "000538.SZ",
+      "name": "云南白藥",
+      "ratio": 0.21,
+      "shares": 6372
     },
     {
       "code": "600015.SH",
@@ -952,22 +922,10 @@
       "shares": 46314
     },
     {
-      "code": "000538.SZ",
-      "name": "云南白藥",
+      "code": "601669.SH",
+      "name": "中國電建",
       "ratio": 0.2,
-      "shares": 6372
-    },
-    {
-      "code": "600875.SH",
-      "name": "東方電氣",
-      "ratio": 0.2,
-      "shares": 8932
-    },
-    {
-      "code": "300015.SZ",
-      "name": "愛爾眼科",
-      "ratio": 0.2,
-      "shares": 33899
+      "shares": 61532
     },
     {
       "code": "300661.SZ",
@@ -976,22 +934,34 @@
       "shares": 2942
     },
     {
-      "code": "600048.SH",
-      "name": "保利發展",
-      "ratio": 0.19,
-      "shares": 53287
+      "code": "002648.SZ",
+      "name": "衛星化學",
+      "ratio": 0.2,
+      "shares": 12555
     },
     {
-      "code": "002311.SZ",
-      "name": "海大集團",
-      "ratio": 0.19,
-      "shares": 6227
+      "code": "600362.SH",
+      "name": "江西銅業",
+      "ratio": 0.2,
+      "shares": 7362
     },
     {
-      "code": "605499.SH",
-      "name": "東鵬飲料",
+      "code": "600066.SH",
+      "name": "宇通客車",
       "ratio": 0.19,
-      "shares": 1985
+      "shares": 9800
+    },
+    {
+      "code": "601998.SH",
+      "name": "中信銀行",
+      "ratio": 0.19,
+      "shares": 38852
+    },
+    {
+      "code": "603296.SH",
+      "name": "華勤技術",
+      "ratio": 0.19,
+      "shares": 3000
     },
     {
       "code": "601868.SH",
@@ -1000,16 +970,28 @@
       "shares": 103544
     },
     {
-      "code": "002648.SZ",
-      "name": "衛星化學",
+      "code": "601377.SH",
+      "name": "興業證券",
       "ratio": 0.19,
-      "shares": 12555
+      "shares": 49605
     },
     {
-      "code": "002422.SZ",
-      "name": "科倫藥業",
+      "code": "600426.SH",
+      "name": "華魯恒升",
       "ratio": 0.19,
-      "shares": 8100
+      "shares": 10699
+    },
+    {
+      "code": "000157.SZ",
+      "name": "中聯重科",
+      "ratio": 0.19,
+      "shares": 37264
+    },
+    {
+      "code": "300015.SZ",
+      "name": "愛爾眼科",
+      "ratio": 0.18,
+      "shares": 33899
     },
     {
       "code": "000625.SZ",
@@ -1018,16 +1000,22 @@
       "shares": 35937
     },
     {
+      "code": "600048.SH",
+      "name": "保利發展",
+      "ratio": 0.18,
+      "shares": 53287
+    },
+    {
       "code": "601995.SH",
       "name": "中金公司",
       "ratio": 0.18,
       "shares": 8560
     },
     {
-      "code": "601998.SH",
-      "name": "中信銀行",
+      "code": "600875.SH",
+      "name": "東方電氣",
       "ratio": 0.18,
-      "shares": 38852
+      "shares": 8932
     },
     {
       "code": "000166.SZ",
@@ -1036,100 +1024,28 @@
       "shares": 65083
     },
     {
-      "code": "600436.SH",
-      "name": "片仔黃",
+      "code": "002311.SZ",
+      "name": "海大集團",
       "ratio": 0.18,
-      "shares": 2218
+      "shares": 6227
     },
     {
-      "code": "601377.SH",
-      "name": "興業證券",
+      "code": "002422.SZ",
+      "name": "科倫藥業",
       "ratio": 0.18,
-      "shares": 49605
+      "shares": 8100
     },
     {
-      "code": "600438.SH",
-      "name": "通威股份",
+      "code": "600011.SH",
+      "name": "華能國際",
       "ratio": 0.18,
-      "shares": 19589
+      "shares": 32579
     },
     {
-      "code": "300418.SZ",
-      "name": "昆侖萬維",
+      "code": "605499.SH",
+      "name": "東鵬飲料",
       "ratio": 0.18,
-      "shares": 6313
-    },
-    {
-      "code": "600219.SH",
-      "name": "南山鋁業",
-      "ratio": 0.17,
-      "shares": 52327
-    },
-    {
-      "code": "600570.SH",
-      "name": "恒生電子",
-      "ratio": 0.17,
-      "shares": 11185
-    },
-    {
-      "code": "601360.SH",
-      "name": "三六零",
-      "ratio": 0.17,
-      "shares": 25938
-    },
-    {
-      "code": "600346.SH",
-      "name": "恒力石化",
-      "ratio": 0.17,
-      "shares": 15324
-    },
-    {
-      "code": "600460.SH",
-      "name": "士蘭微",
-      "ratio": 0.17,
-      "shares": 8300
-    },
-    {
-      "code": "600115.SH",
-      "name": "中國東航",
-      "ratio": 0.17,
-      "shares": 63528
-    },
-    {
-      "code": "000975.SZ",
-      "name": "山金國際",
-      "ratio": 0.17,
-      "shares": 12000
-    },
-    {
-      "code": "600415.SH",
-      "name": "小商品城",
-      "ratio": 0.17,
-      "shares": 20844
-    },
-    {
-      "code": "600886.SH",
-      "name": "國投電力",
-      "ratio": 0.17,
-      "shares": 18695
-    },
-    {
-      "code": "603893.SH",
-      "name": "瑞芯微",
-      "ratio": 0.17,
-      "shares": 1500
-    },
-    {
-      "code": "000157.SZ",
-      "name": "中聯重科",
-      "ratio": 0.17,
-      "shares": 37264
-    },
-    {
-      "code": "002074.SZ",
-      "name": "國軒高科",
-      "ratio": 0.17,
-      "shares": 8132
+      "shares": 1985
     },
     {
       "code": "601077.SH",
@@ -1138,16 +1054,40 @@
       "shares": 39600
     },
     {
-      "code": "688036.SH",
-      "name": "傳音控股",
+      "code": "600460.SH",
+      "name": "士蘭微",
       "ratio": 0.17,
-      "shares": 4220
+      "shares": 8300
+    },
+    {
+      "code": "600436.SH",
+      "name": "片仔黃",
+      "ratio": 0.17,
+      "shares": 2218
+    },
+    {
+      "code": "600346.SH",
+      "name": "恒力石化",
+      "ratio": 0.17,
+      "shares": 15324
     },
     {
       "code": "002493.SZ",
       "name": "榮盛石化",
-      "ratio": 0.16,
+      "ratio": 0.17,
       "shares": 22583
+    },
+    {
+      "code": "600438.SH",
+      "name": "通威股份",
+      "ratio": 0.16,
+      "shares": 19589
+    },
+    {
+      "code": "600886.SH",
+      "name": "國投電力",
+      "ratio": 0.16,
+      "shares": 18695
     },
     {
       "code": "002236.SZ",
@@ -1156,16 +1096,10 @@
       "shares": 15234
     },
     {
-      "code": "001979.SZ",
-      "name": "招商蛇口",
+      "code": "600570.SH",
+      "name": "恒生電子",
       "ratio": 0.16,
-      "shares": 27833
-    },
-    {
-      "code": "688396.SH",
-      "name": "華潤微",
-      "ratio": 0.16,
-      "shares": 3830
+      "shares": 11185
     },
     {
       "code": "601058.SH",
@@ -1174,52 +1108,70 @@
       "shares": 19900
     },
     {
-      "code": "300782.SZ",
-      "name": "卓勝微",
-      "ratio": 0.16,
-      "shares": 2500
-    },
-    {
-      "code": "000301.SZ",
-      "name": "東方盛虹",
-      "ratio": 0.16,
-      "shares": 20400
-    },
-    {
       "code": "601898.SH",
       "name": "中煤能源",
-      "ratio": 0.15,
+      "ratio": 0.16,
       "shares": 14460
     },
     {
-      "code": "600233.SH",
-      "name": "圓通速遞",
-      "ratio": 0.15,
-      "shares": 12996
+      "code": "603893.SH",
+      "name": "瑞芯微",
+      "ratio": 0.16,
+      "shares": 1500
     },
     {
-      "code": "600009.SH",
-      "name": "上海機場",
-      "ratio": 0.15,
-      "shares": 9626
+      "code": "601360.SH",
+      "name": "三六零",
+      "ratio": 0.16,
+      "shares": 25938
     },
     {
-      "code": "601877.SH",
-      "name": "正泰電器",
-      "ratio": 0.15,
-      "shares": 8124
+      "code": "300418.SZ",
+      "name": "昆侖萬維",
+      "ratio": 0.16,
+      "shares": 6313
     },
     {
-      "code": "600674.SH",
-      "name": "川投能源",
-      "ratio": 0.15,
-      "shares": 15096
+      "code": "000975.SZ",
+      "name": "山金國際",
+      "ratio": 0.16,
+      "shares": 12000
     },
     {
-      "code": "300803.SZ",
-      "name": "指南針",
+      "code": "600219.SH",
+      "name": "南山鋁業",
+      "ratio": 0.16,
+      "shares": 52327
+    },
+    {
+      "code": "688396.SH",
+      "name": "華潤微",
+      "ratio": 0.16,
+      "shares": 3830
+    },
+    {
+      "code": "688036.SH",
+      "name": "傳音控股",
+      "ratio": 0.16,
+      "shares": 4220
+    },
+    {
+      "code": "600115.SH",
+      "name": "中國東航",
+      "ratio": 0.16,
+      "shares": 63528
+    },
+    {
+      "code": "300782.SZ",
+      "name": "卓勝微",
       "ratio": 0.15,
-      "shares": 2600
+      "shares": 2500
+    },
+    {
+      "code": "002074.SZ",
+      "name": "國軒高科",
+      "ratio": 0.15,
+      "shares": 8132
     },
     {
       "code": "601066.SH",
@@ -1228,40 +1180,70 @@
       "shares": 9634
     },
     {
-      "code": "600026.SH",
-      "name": "中遠海能",
+      "code": "000301.SZ",
+      "name": "東方盛虹",
       "ratio": 0.15,
-      "shares": 12400
+      "shares": 20400
     },
     {
-      "code": "300316.SZ",
-      "name": "晶盛機電",
+      "code": "600415.SH",
+      "name": "小商品城",
       "ratio": 0.15,
-      "shares": 4846
+      "shares": 20844
     },
     {
-      "code": "600029.SH",
-      "name": "南方航空",
+      "code": "001979.SZ",
+      "name": "招商蛇口",
       "ratio": 0.15,
-      "shares": 42456
+      "shares": 27833
     },
     {
-      "code": "688047.SH",
-      "name": "龍芯中科",
+      "code": "600674.SH",
+      "name": "川投能源",
       "ratio": 0.15,
-      "shares": 1600
-    },
-    {
-      "code": "600196.SH",
-      "name": "復星醫藥",
-      "ratio": 0.15,
-      "shares": 9965
+      "shares": 15096
     },
     {
       "code": "002736.SZ",
       "name": "國信證券",
-      "ratio": 0.15,
+      "ratio": 0.14,
       "shares": 22566
+    },
+    {
+      "code": "600233.SH",
+      "name": "圓通速遞",
+      "ratio": 0.14,
+      "shares": 12996
+    },
+    {
+      "code": "300316.SZ",
+      "name": "晶盛機電",
+      "ratio": 0.14,
+      "shares": 4846
+    },
+    {
+      "code": "600009.SH",
+      "name": "上海機場",
+      "ratio": 0.14,
+      "shares": 9626
+    },
+    {
+      "code": "301236.SZ",
+      "name": "軟通動力",
+      "ratio": 0.14,
+      "shares": 5100
+    },
+    {
+      "code": "600196.SH",
+      "name": "復星醫藥",
+      "ratio": 0.14,
+      "shares": 9965
+    },
+    {
+      "code": "600029.SH",
+      "name": "南方航空",
+      "ratio": 0.14,
+      "shares": 42456
     },
     {
       "code": "002920.SZ",
@@ -1270,28 +1252,46 @@
       "shares": 2259
     },
     {
-      "code": "002304.SZ",
-      "name": "洋河股份",
-      "ratio": 0.14,
-      "shares": 4940
-    },
-    {
       "code": "002252.SZ",
       "name": "上海萊士",
       "ratio": 0.14,
       "shares": 42066
     },
     {
-      "code": "600023.SH",
-      "name": "浙能電力",
+      "code": "300803.SZ",
+      "name": "指南針",
       "ratio": 0.14,
-      "shares": 32640
+      "shares": 2600
+    },
+    {
+      "code": "600026.SH",
+      "name": "中遠海能",
+      "ratio": 0.14,
+      "shares": 12400
+    },
+    {
+      "code": "002304.SZ",
+      "name": "洋河股份",
+      "ratio": 0.14,
+      "shares": 4940
     },
     {
       "code": "600741.SH",
       "name": "華域汽車",
       "ratio": 0.14,
       "shares": 12615
+    },
+    {
+      "code": "601877.SH",
+      "name": "正泰電器",
+      "ratio": 0.14,
+      "shares": 8124
+    },
+    {
+      "code": "688047.SH",
+      "name": "龍芯中科",
+      "ratio": 0.14,
+      "shares": 1600
     },
     {
       "code": "000963.SZ",
@@ -1306,22 +1306,10 @@
       "shares": 8361
     },
     {
-      "code": "300866.SZ",
-      "name": "安克創新",
-      "ratio": 0.13,
-      "shares": 1700
-    },
-    {
       "code": "601901.SH",
       "name": "方正證券",
       "ratio": 0.13,
       "shares": 30875
-    },
-    {
-      "code": "601111.SH",
-      "name": "中國國航",
-      "ratio": 0.13,
-      "shares": 30497
     },
     {
       "code": "601788.SH",
@@ -1330,22 +1318,10 @@
       "shares": 14502
     },
     {
-      "code": "600027.SH",
-      "name": "華電國際",
+      "code": "600023.SH",
+      "name": "浙能電力",
       "ratio": 0.13,
-      "shares": 35047
-    },
-    {
-      "code": "300759.SZ",
-      "name": "康龍化成",
-      "ratio": 0.13,
-      "shares": 8317
-    },
-    {
-      "code": "301236.SZ",
-      "name": "軟通動力",
-      "ratio": 0.13,
-      "shares": 5100
+      "shares": 32640
     },
     {
       "code": "601881.SH",
@@ -1354,22 +1330,10 @@
       "shares": 16198
     },
     {
-      "code": "601021.SH",
-      "name": "春秋航空",
-      "ratio": 0.13,
-      "shares": 4104
-    },
-    {
-      "code": "600588.SH",
-      "name": "用友網絡",
-      "ratio": 0.13,
-      "shares": 17280
-    },
-    {
-      "code": "000002.SZ",
-      "name": "萬科Ａ",
-      "ratio": 0.13,
-      "shares": 57072
+      "code": "000983.SZ",
+      "name": "山西焦煤",
+      "ratio": 0.12,
+      "shares": 25356
     },
     {
       "code": "002601.SZ",
@@ -1378,52 +1342,34 @@
       "shares": 13518
     },
     {
+      "code": "601111.SH",
+      "name": "中國國航",
+      "ratio": 0.12,
+      "shares": 30497
+    },
+    {
       "code": "601878.SH",
       "name": "浙商證券",
       "ratio": 0.12,
       "shares": 20707
     },
     {
-      "code": "000786.SZ",
-      "name": "北新建材",
+      "code": "688169.SH",
+      "name": "石頭科技",
       "ratio": 0.12,
-      "shares": 8326
+      "shares": 1640
     },
     {
-      "code": "000661.SZ",
-      "name": "長春高新",
+      "code": "600588.SH",
+      "name": "用友網絡",
       "ratio": 0.12,
-      "shares": 2600
+      "shares": 17280
     },
     {
-      "code": "603369.SH",
-      "name": "今世緣",
+      "code": "300759.SZ",
+      "name": "康龍化成",
       "ratio": 0.12,
-      "shares": 6312
-    },
-    {
-      "code": "688223.SH",
-      "name": "晶科能源",
-      "ratio": 0.12,
-      "shares": 32276
-    },
-    {
-      "code": "600600.SH",
-      "name": "青島啤酒",
-      "ratio": 0.12,
-      "shares": 3024
-    },
-    {
-      "code": "000983.SZ",
-      "name": "山西焦煤",
-      "ratio": 0.12,
-      "shares": 25356
-    },
-    {
-      "code": "301269.SZ",
-      "name": "華大九天",
-      "ratio": 0.12,
-      "shares": 1732
+      "shares": 8317
     },
     {
       "code": "600039.SH",
@@ -1432,16 +1378,52 @@
       "shares": 21670
     },
     {
+      "code": "300866.SZ",
+      "name": "安克創新",
+      "ratio": 0.12,
+      "shares": 1700
+    },
+    {
+      "code": "000786.SZ",
+      "name": "北新建材",
+      "ratio": 0.12,
+      "shares": 8326
+    },
+    {
+      "code": "600600.SH",
+      "name": "青島啤酒",
+      "ratio": 0.12,
+      "shares": 3024
+    },
+    {
+      "code": "601021.SH",
+      "name": "春秋航空",
+      "ratio": 0.12,
+      "shares": 4104
+    },
+    {
+      "code": "600027.SH",
+      "name": "華電國際",
+      "ratio": 0.12,
+      "shares": 35047
+    },
+    {
+      "code": "000002.SZ",
+      "name": "萬科Ａ",
+      "ratio": 0.12,
+      "shares": 57072
+    },
+    {
       "code": "001965.SZ",
       "name": "招商公路",
-      "ratio": 0.12,
+      "ratio": 0.11,
       "shares": 18243
     },
     {
-      "code": "601618.SH",
-      "name": "中國中冶",
+      "code": "000661.SZ",
+      "name": "長春高新",
       "ratio": 0.11,
-      "shares": 63288
+      "shares": 2600
     },
     {
       "code": "601633.SH",
@@ -1450,10 +1432,16 @@
       "shares": 10423
     },
     {
-      "code": "688169.SH",
-      "name": "石頭科技",
+      "code": "601618.SH",
+      "name": "中國中冶",
       "ratio": 0.11,
-      "shares": 1640
+      "shares": 63288
+    },
+    {
+      "code": "301269.SZ",
+      "name": "華大九天",
+      "ratio": 0.11,
+      "shares": 1732
     },
     {
       "code": "300832.SZ",
@@ -1462,16 +1450,16 @@
       "shares": 3679
     },
     {
-      "code": "300251.SZ",
-      "name": "光線傳媒",
+      "code": "688223.SH",
+      "name": "晶科能源",
       "ratio": 0.11,
-      "shares": 13300
+      "shares": 32276
     },
     {
-      "code": "601319.SH",
-      "name": "中國人保",
+      "code": "603369.SH",
+      "name": "今世緣",
       "ratio": 0.11,
-      "shares": 24454
+      "shares": 6312
     },
     {
       "code": "601607.SH",
@@ -1480,28 +1468,16 @@
       "shares": 10100
     },
     {
+      "code": "601319.SH",
+      "name": "中國人保",
+      "ratio": 0.1,
+      "shares": 24454
+    },
+    {
       "code": "600803.SH",
       "name": "新奧股份",
-      "ratio": 0.11,
-      "shares": 8361
-    },
-    {
-      "code": "300347.SZ",
-      "name": "泰格醫藥",
-      "ratio": 0.11,
-      "shares": 4217
-    },
-    {
-      "code": "600085.SH",
-      "name": "同仁堂",
-      "ratio": 0.11,
-      "shares": 6409
-    },
-    {
-      "code": "688472.SH",
-      "name": "阿特斯",
       "ratio": 0.1,
-      "shares": 12600
+      "shares": 8361
     },
     {
       "code": "000999.SZ",
@@ -1510,10 +1486,22 @@
       "shares": 6602
     },
     {
-      "code": "000876.SZ",
-      "name": "新希望",
+      "code": "600085.SH",
+      "name": "同仁堂",
       "ratio": 0.1,
-      "shares": 20134
+      "shares": 6409
+    },
+    {
+      "code": "300251.SZ",
+      "name": "光線傳媒",
+      "ratio": 0.1,
+      "shares": 13300
+    },
+    {
+      "code": "300347.SZ",
+      "name": "泰格醫藥",
+      "ratio": 0.1,
+      "shares": 4217
     },
     {
       "code": "600515.SH",
@@ -1522,21 +1510,33 @@
       "shares": 50125
     },
     {
+      "code": "000876.SZ",
+      "name": "新希望",
+      "ratio": 0.09,
+      "shares": 20134
+    },
+    {
       "code": "000617.SZ",
       "name": "中油資本",
-      "ratio": 0.1,
+      "ratio": 0.09,
       "shares": 19800
     },
     {
       "code": "002459.SZ",
       "name": "晶澳科技",
-      "ratio": 0.1,
+      "ratio": 0.09,
       "shares": 17346
+    },
+    {
+      "code": "688472.SH",
+      "name": "阿特斯",
+      "ratio": 0.09,
+      "shares": 12600
     },
     {
       "code": "300122.SZ",
       "name": "智飛生物",
-      "ratio": 0.1,
+      "ratio": 0.09,
       "shares": 11074
     },
     {
@@ -1546,28 +1546,22 @@
       "shares": 1397
     },
     {
-      "code": "000596.SZ",
-      "name": "古井貢酒",
-      "ratio": 0.09,
-      "shares": 1452
-    },
-    {
-      "code": "603392.SH",
-      "name": "萬泰生物",
-      "ratio": 0.09,
-      "shares": 3765
-    },
-    {
       "code": "601238.SH",
       "name": "廣汽集團",
-      "ratio": 0.09,
+      "ratio": 0.08,
       "shares": 21834
     },
     {
       "code": "600061.SH",
       "name": "國投資本",
-      "ratio": 0.09,
+      "ratio": 0.08,
       "shares": 20640
+    },
+    {
+      "code": "000596.SZ",
+      "name": "古井貢酒",
+      "ratio": 0.08,
+      "shares": 1452
     },
     {
       "code": "603260.SH",
@@ -1580,6 +1574,12 @@
       "name": "百利天恒",
       "ratio": 0.08,
       "shares": 600
+    },
+    {
+      "code": "603392.SH",
+      "name": "萬泰生物",
+      "ratio": 0.08,
+      "shares": 3765
     },
     {
       "code": "600918.SH",

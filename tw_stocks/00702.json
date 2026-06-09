@@ -1,7 +1,7 @@
 {
   "id": "00702",
   "name": "國泰標普低波高息",
-  "fetched_at": "2026-06-01",
+  "fetched_at": "2026-06-08",
   "capital": {
     "ETF名稱": "國泰標普低波高息",
     "交易所代碼": "00702",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2017/08/17",
     "成分股數": 50,
-    "ETF規模": "162.90(百萬台幣)(2026/04/30)",
-    "成交量(股)": "134,824（月均:101,888）",
+    "ETF規模": "162.11(百萬台幣)(2026/06/05)",
+    "成交量(股)": "135,597（月均:95,116）",
     "投資標的": "股票型",
     "經理人": "林淑娟",
     "投資區域": "美國",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "半年配",
     "經理費(%)": "0.35",
-    "殖利率(%)": "5.33（06/01）",
+    "殖利率(%)": "5.31（06/08）",
     "總管理費用(%)": "2.48 (含 2.13 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://www.cathaysite.com.tw/ETF/detail/EAE",
-    "ETF市價": "23.8300（06/01）",
+    "ETF市價": "23.9000（06/08）",
     "融資交易": "Y",
-    "ETF淨值": "23.8700（05/29）",
+    "ETF淨值": "24.2400（06/05）",
     "放空交易": "Y",
-    "折溢價(%)": "0.67(月均:-0.72)",
+    "折溢價(%)": "-2.15(月均:-0.68)",
     "選擇權交易": "",
-    "年化標準差(%)": "10.46（06/01）",
+    "年化標準差(%)": "9.13（06/08）",
     "槓桿多空註記": "",
     "追蹤指數": "標普500低波動高股息指數",
     "基準指數": "S&P500 (SPY.US)",
@@ -94,34 +94,34 @@
   ],
   "holdings": [
     {
-      "code": "VZ.US",
-      "name": "Verizon Communications",
-      "ratio": 3.34,
-      "shares": 3560
-    },
-    {
       "code": "MO.US",
       "name": "Altria Group",
-      "ratio": 3.3,
+      "ratio": 3.4,
       "shares": 2419
     },
     {
       "code": "DOC.US",
       "name": "Healthpeak Properties",
-      "ratio": 3.1,
+      "ratio": 3.17,
       "shares": 8251
     },
     {
-      "code": "KHC.US",
-      "name": "Kraft Heinz",
-      "ratio": 2.9,
-      "shares": 6156
+      "code": "VZ.US",
+      "name": "Verizon Communications",
+      "ratio": 3.14,
+      "shares": 3560
     },
     {
       "code": "PFE.US",
       "name": "Pfizer",
-      "ratio": 2.86,
+      "ratio": 2.82,
       "shares": 5576
+    },
+    {
+      "code": "KHC.US",
+      "name": "Kraft Heinz",
+      "ratio": 2.7,
+      "shares": 6156
     },
     {
       "code": "BEN.US",
@@ -130,16 +130,22 @@
       "shares": 4431
     },
     {
+      "code": "OKE.US",
+      "name": "ONEOK",
+      "ratio": 2.65,
+      "shares": 1545
+    },
+    {
       "code": "VICI.US",
       "name": "VICI Properties",
-      "ratio": 2.56,
+      "ratio": 2.5,
       "shares": 4624
     },
     {
-      "code": "OKE.US",
-      "name": "ONEOK",
-      "ratio": 2.54,
-      "shares": 1545
+      "code": "CCI.US",
+      "name": "Crown Castle",
+      "ratio": 2.36,
+      "shares": 1282
     },
     {
       "code": "KIM.US",
@@ -150,38 +156,32 @@
     {
       "code": "O.US",
       "name": "Realty Income",
-      "ratio": 2.33,
+      "ratio": 2.29,
       "shares": 1934
     },
     {
       "code": "AMCR.US",
       "name": "Amcor",
-      "ratio": 2.31,
+      "ratio": 2.25,
       "shares": 3029
-    },
-    {
-      "code": "CCI.US",
-      "name": "Crown Castle",
-      "ratio": 2.3,
-      "shares": 1282
     },
     {
       "code": "CAG.US",
       "name": "Conagra Brands",
-      "ratio": 2.23,
+      "ratio": 2.16,
       "shares": 8542
-    },
-    {
-      "code": "D.US",
-      "name": "Dominion Energy",
-      "ratio": 2.05,
-      "shares": 1563
     },
     {
       "code": "CVX.US",
       "name": "Chevron",
-      "ratio": 2.02,
+      "ratio": 2.05,
       "shares": 563
+    },
+    {
+      "code": "D.US",
+      "name": "Dominion Energy",
+      "ratio": 2.03,
+      "shares": 1563
     },
     {
       "code": "EXR.US",
@@ -190,130 +190,136 @@
       "shares": 715
     },
     {
-      "code": "KMB.US",
-      "name": "Kimberly-Clark",
-      "ratio": 2.0,
-      "shares": 1044
-    },
-    {
       "code": "PSA.US",
       "name": "Public Storage",
-      "ratio": 2.0,
+      "ratio": 2.02,
       "shares": 335
     },
     {
       "code": "TROW.US",
       "name": "T. Rowe Price Group",
-      "ratio": 2.0,
+      "ratio": 2.01,
       "shares": 977
     },
     {
-      "code": "BMY.US",
-      "name": "Bristol-Myers Squibb",
-      "ratio": 1.99,
-      "shares": 1770
-    },
-    {
-      "code": "T.US",
-      "name": "AT&T",
-      "ratio": 1.93,
-      "shares": 3974
-    },
-    {
-      "code": "HRL.US",
-      "name": "Hormel Foods",
-      "ratio": 1.91,
-      "shares": 4187
-    },
-    {
-      "code": "EOG.US",
-      "name": "EOG Resources, Inc.",
-      "ratio": 1.9,
-      "shares": 727
-    },
-    {
-      "code": "KMI.US",
-      "name": "Kinder Morgan",
-      "ratio": 1.89,
-      "shares": 3099
+      "code": "KMB.US",
+      "name": "Kimberly-Clark",
+      "ratio": 2.01,
+      "shares": 1044
     },
     {
       "code": "UDR.US",
       "name": "UDR",
-      "ratio": 1.88,
+      "ratio": 1.98,
       "shares": 2594
+    },
+    {
+      "code": "BMY.US",
+      "name": "Bristol-Myers Squibb",
+      "ratio": 1.97,
+      "shares": 1770
+    },
+    {
+      "code": "EOG.US",
+      "name": "EOG Resources, Inc.",
+      "ratio": 1.95,
+      "shares": 727
+    },
+    {
+      "code": "HRL.US",
+      "name": "Hormel Foods",
+      "ratio": 1.92,
+      "shares": 4187
+    },
+    {
+      "code": "KMI.US",
+      "name": "Kinder Morgan",
+      "ratio": 1.91,
+      "shares": 3099
     },
     {
       "code": "BXP.US",
       "name": "BXP",
-      "ratio": 1.86,
+      "ratio": 1.91,
       "shares": 1578
     },
     {
       "code": "CPB.US",
       "name": "Campbell's",
-      "ratio": 1.85,
+      "ratio": 1.88,
       "shares": 4465
     },
     {
       "code": "PRU.US",
       "name": "Prudential Financial",
-      "ratio": 1.8,
+      "ratio": 1.86,
       "shares": 913
     },
     {
       "code": "PNW.US",
       "name": "Pinnacle West",
-      "ratio": 1.77,
+      "ratio": 1.82,
       "shares": 906
     },
     {
       "code": "ES.US",
       "name": "Eversource Energy",
-      "ratio": 1.75,
+      "ratio": 1.8,
       "shares": 1309
+    },
+    {
+      "code": "T.US",
+      "name": "AT&T",
+      "ratio": 1.76,
+      "shares": 3974
     },
     {
       "code": "TFC.US",
       "name": "Truist Financial",
-      "ratio": 1.67,
+      "ratio": 1.69,
       "shares": 1766
-    },
-    {
-      "code": "GIS.US",
-      "name": "General Mills",
-      "ratio": 1.64,
-      "shares": 2473
-    },
-    {
-      "code": "PFG.US",
-      "name": "Principal Financial",
-      "ratio": 1.63,
-      "shares": 801
-    },
-    {
-      "code": "EVRG.US",
-      "name": "Evergy",
-      "ratio": 1.63,
-      "shares": 1011
     },
     {
       "code": "CLX.US",
       "name": "Clorox",
-      "ratio": 1.63,
+      "ratio": 1.69,
       "shares": 923
+    },
+    {
+      "code": "EVRG.US",
+      "name": "Evergy",
+      "ratio": 1.64,
+      "shares": 1011
+    },
+    {
+      "code": "PFG.US",
+      "name": "Principal Financial",
+      "ratio": 1.64,
+      "shares": 801
+    },
+    {
+      "code": "GIS.US",
+      "name": "General Mills",
+      "ratio": 1.59,
+      "shares": 2473
     },
     {
       "code": "FE.US",
       "name": "FirstEnergy",
-      "ratio": 1.58,
+      "ratio": 1.57,
       "shares": 1734
     },
     {
       "code": "USB.US",
       "name": "U.S. Bancorp",
-      "ratio": 1.55,
+      "ratio": 1.56,
       "shares": 1440
+    },
+    {
+      "code": "RF.US",
+      "name": "Regions Financial",
+      "ratio": 1.54,
+      "shares": 2772
     },
     {
       "code": "WMB.US",
@@ -322,15 +328,15 @@
       "shares": 1101
     },
     {
-      "code": "CMCSA.US",
-      "name": "Comcast",
-      "ratio": 1.54,
-      "shares": 3146
+      "code": "XOM.US",
+      "name": "Exxon Mobil",
+      "ratio": 1.52,
+      "shares": 520
     },
     {
       "code": "EXC.US",
       "name": "Exelon",
-      "ratio": 1.53,
+      "ratio": 1.52,
       "shares": 1705
     },
     {
@@ -340,34 +346,34 @@
       "shares": 630
     },
     {
-      "code": "RF.US",
-      "name": "Regions Financial",
-      "ratio": 1.52,
-      "shares": 2772
-    },
-    {
-      "code": "XOM.US",
-      "name": "Exxon Mobil",
-      "ratio": 1.48,
-      "shares": 520
-    },
-    {
       "code": "DTE.US",
       "name": "DTE Energy",
-      "ratio": 1.47,
+      "ratio": 1.49,
       "shares": 524
+    },
+    {
+      "code": "CMCSA.US",
+      "name": "Comcast",
+      "ratio": 1.46,
+      "shares": 3146
     },
     {
       "code": "PAYX.US",
       "name": "Paychex",
-      "ratio": 1.39,
+      "ratio": 1.43,
       "shares": 733
     },
     {
       "code": "OMC.US",
       "name": "Omnicom Group",
-      "ratio": 1.36,
+      "ratio": 1.4,
       "shares": 955
+    },
+    {
+      "code": "FITB.US",
+      "name": "Fifth Third",
+      "ratio": 1.32,
+      "shares": 1301
     },
     {
       "code": "HBAN.US",
@@ -376,15 +382,9 @@
       "shares": 3979
     },
     {
-      "code": "FITB.US",
-      "name": "Fifth Third",
-      "ratio": 1.27,
-      "shares": 1301
-    },
-    {
       "code": "GPC.US",
       "name": "Genuine Parts",
-      "ratio": 1.0,
+      "ratio": 0.98,
       "shares": 514
     }
   ]

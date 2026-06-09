@@ -1,7 +1,7 @@
 {
   "id": "009811",
   "name": "統一美國50",
-  "fetched_at": "2026-06-01",
+  "fetched_at": "2026-06-08",
   "capital": {
     "ETF名稱": "統一美國50",
     "交易所代碼": "009811",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2025/07/29",
     "成分股數": 51,
-    "ETF規模": "3,802.84(百萬台幣)(2026/04/30)",
-    "成交量(股)": "3,350,537（月均:2,606,378）",
+    "ETF規模": "3,595.23(百萬台幣)(2026/06/05)",
+    "成交量(股)": "1,885,148（月均:2,544,503）",
     "投資標的": "股票型",
     "經理人": "吳湘菱",
     "投資區域": "美國",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "半年配",
     "經理費(%)": "0.35",
-    "殖利率(%)": "N/A（06/01）",
+    "殖利率(%)": "N/A（06/08）",
     "總管理費用(%)": "0.38 (含 0.03 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://www.ezmoney.com.tw/ETF/Fund/Info?fundCode=50YTW",
-    "ETF市價": "13.1100（06/01）",
+    "ETF市價": "12.7400（06/08）",
     "融資交易": "Y",
-    "ETF淨值": "13.0800（05/29）",
+    "ETF淨值": "12.6800（06/05）",
     "放空交易": "Y",
-    "折溢價(%)": "-0.08(月均:-0.49)",
+    "折溢價(%)": "2.52(月均:-0.25)",
     "選擇權交易": "",
-    "年化標準差(%)": "N/A（06/01）",
+    "年化標準差(%)": "N/A（06/08）",
     "槓桿多空註記": "",
     "追蹤指數": "NYSE美國50指數(NYSE U.S. 50 Index)",
     "基準指數": "NYSE FANG+ Index",
@@ -45,308 +45,308 @@
     {
       "code": "NVDA.US",
       "name": "NVIDIA",
-      "ratio": 11.08,
-      "shares": 63538
+      "ratio": 11.15,
+      "shares": 61974
     },
     {
       "code": "AAPL.US",
       "name": "Apple",
-      "ratio": 10.28,
-      "shares": 39863
+      "ratio": 10.48,
+      "shares": 38882
     },
     {
       "code": "MSFT.US",
       "name": "Microsoft",
-      "ratio": 7.4,
-      "shares": 19879
+      "ratio": 7.08,
+      "shares": 19389
     },
     {
       "code": "AMZN.US",
       "name": "Amazon",
-      "ratio": 5.91,
-      "shares": 26443
+      "ratio": 5.56,
+      "shares": 25793
     },
     {
       "code": "GOOGL.US",
       "name": "Alphabet - Class A Common Stock",
-      "ratio": 4.96,
-      "shares": 15771
-    },
-    {
-      "code": "AVGO.US",
-      "name": "Broadcom",
-      "ratio": 4.66,
-      "shares": 12618
+      "ratio": 4.97,
+      "shares": 15383
     },
     {
       "code": "GOOG.US",
       "name": "Alphabet - Class C Capital Stock",
-      "ratio": 4.27,
-      "shares": 13725
+      "ratio": 4.29,
+      "shares": 13387
+    },
+    {
+      "code": "AVGO.US",
+      "name": "Broadcom",
+      "ratio": 4.16,
+      "shares": 12307
     },
     {
       "code": "TSLA.US",
       "name": "Tesla",
-      "ratio": 3.27,
-      "shares": 9074
+      "ratio": 3.03,
+      "shares": 8851
     },
     {
       "code": "META.US",
       "name": "Meta",
-      "ratio": 3.1,
-      "shares": 5935
+      "ratio": 3.01,
+      "shares": 5789
     },
     {
       "code": "MU.US",
       "name": "Micron",
-      "ratio": 2.44,
-      "shares": 3046
+      "ratio": 2.25,
+      "shares": 2971
     },
     {
       "code": "LLY.US",
       "name": "Eli Lilly",
-      "ratio": 2.11,
-      "shares": 2308
-    },
-    {
-      "code": "AMD.US",
-      "name": "AMD",
-      "ratio": 1.88,
-      "shares": 4410
+      "ratio": 2.23,
+      "shares": 2251
     },
     {
       "code": "JPM.US",
       "name": "JPMorgan Chase",
-      "ratio": 1.81,
-      "shares": 7300
+      "ratio": 1.95,
+      "shares": 7121
+    },
+    {
+      "code": "AMD.US",
+      "name": "AMD",
+      "ratio": 1.76,
+      "shares": 4301
     },
     {
       "code": "BRK.B.US",
       "name": "Berkshire Hathaway - Class B",
-      "ratio": 1.48,
-      "shares": 3763
+      "ratio": 1.57,
+      "shares": 3670
     },
     {
       "code": "XOM.US",
       "name": "Exxon Mobil",
-      "ratio": 1.36,
-      "shares": 11298
-    },
-    {
-      "code": "V.US",
-      "name": "Visa",
-      "ratio": 1.23,
-      "shares": 4560
+      "ratio": 1.45,
+      "shares": 11020
     },
     {
       "code": "JNJ.US",
       "name": "Johnson & Johnson",
-      "ratio": 1.22,
-      "shares": 6542
+      "ratio": 1.3,
+      "shares": 6381
+    },
+    {
+      "code": "V.US",
+      "name": "Visa",
+      "ratio": 1.26,
+      "shares": 4448
     },
     {
       "code": "WMT.US",
       "name": "Walmart",
-      "ratio": 1.14,
-      "shares": 11876
-    },
-    {
-      "code": "INTC.US",
-      "name": "Intel",
-      "ratio": 1.09,
-      "shares": 11474
+      "ratio": 1.21,
+      "shares": 11583
     },
     {
       "code": "CSCO.US",
       "name": "Cisco",
-      "ratio": 1.07,
-      "shares": 10712
+      "ratio": 1.11,
+      "shares": 10449
     },
     {
       "code": "COST.US",
       "name": "Costco",
-      "ratio": 0.95,
-      "shares": 1204
+      "ratio": 1.0,
+      "shares": 1174
     },
     {
       "code": "CAT.US",
       "name": "Caterpillar",
-      "ratio": 0.91,
-      "shares": 1262
+      "ratio": 0.98,
+      "shares": 1231
     },
     {
-      "code": "MA.US",
-      "name": "Mastercard",
-      "ratio": 0.9,
-      "shares": 2202
-    },
-    {
-      "code": "LRCX.US",
-      "name": "Lam Research",
-      "ratio": 0.89,
-      "shares": 3383
-    },
-    {
-      "code": "ORCL.US",
-      "name": "Oracle",
-      "ratio": 0.87,
-      "shares": 4649
+      "code": "INTC.US",
+      "name": "Intel",
+      "ratio": 0.97,
+      "shares": 11191
     },
     {
       "code": "ABBV.US",
       "name": "AbbVie",
-      "ratio": 0.86,
-      "shares": 4801
+      "ratio": 0.93,
+      "shares": 4683
+    },
+    {
+      "code": "MA.US",
+      "name": "Mastercard",
+      "ratio": 0.92,
+      "shares": 2148
     },
     {
       "code": "BAC.US",
       "name": "Bank of America",
-      "ratio": 0.83,
-      "shares": 19455
+      "ratio": 0.9,
+      "shares": 18976
+    },
+    {
+      "code": "LRCX.US",
+      "name": "Lam Research",
+      "ratio": 0.88,
+      "shares": 3300
     },
     {
       "code": "CVX.US",
       "name": "Chevron",
-      "ratio": 0.81,
-      "shares": 5397
+      "ratio": 0.86,
+      "shares": 5264
     },
     {
-      "code": "NFLX.US",
-      "name": "Netflix",
-      "ratio": 0.81,
-      "shares": 11407
-    },
-    {
-      "code": "AMAT.US",
-      "name": "Applied Materials",
-      "ratio": 0.8,
-      "shares": 2148
+      "code": "ORCL.US",
+      "name": "Oracle",
+      "ratio": 0.85,
+      "shares": 4534
     },
     {
       "code": "UNH.US",
       "name": "UnitedHealth",
-      "ratio": 0.77,
-      "shares": 2462
+      "ratio": 0.84,
+      "shares": 2401
     },
     {
-      "code": "PLTR.US",
-      "name": "Palantir Technologies",
-      "ratio": 0.77,
-      "shares": 5953
+      "code": "AMAT.US",
+      "name": "Applied Materials",
+      "ratio": 0.83,
+      "shares": 2095
     },
     {
       "code": "GE.US",
       "name": "GE Aerospace",
-      "ratio": 0.76,
-      "shares": 2843
+      "ratio": 0.8,
+      "shares": 2773
+    },
+    {
+      "code": "NFLX.US",
+      "name": "Netflix",
+      "ratio": 0.8,
+      "shares": 11126
     },
     {
       "code": "KO.US",
       "name": "Coca-Cola",
-      "ratio": 0.76,
-      "shares": 11612
+      "ratio": 0.79,
+      "shares": 11326
     },
     {
       "code": "PG.US",
       "name": "Procter & Gamble",
-      "ratio": 0.75,
-      "shares": 6313
+      "ratio": 0.79,
+      "shares": 6158
     },
     {
       "code": "HD.US",
       "name": "Home Depot",
-      "ratio": 0.71,
-      "shares": 2704
+      "ratio": 0.72,
+      "shares": 2638
     },
     {
       "code": "GS.US",
       "name": "Goldman Sachs",
-      "ratio": 0.68,
-      "shares": 802
+      "ratio": 0.71,
+      "shares": 782
     },
     {
       "code": "MRK.US",
       "name": "Merck",
-      "ratio": 0.66,
-      "shares": 6709
+      "ratio": 0.69,
+      "shares": 6544
     },
     {
-      "code": "IBM.US",
-      "name": "IBM",
-      "ratio": 0.63,
-      "shares": 2547
+      "code": "PLTR.US",
+      "name": "Palantir Technologies",
+      "ratio": 0.69,
+      "shares": 5806
     },
     {
       "code": "PM.US",
       "name": "Philip Morris International Inc.",
-      "ratio": 0.62,
-      "shares": 4223
+      "ratio": 0.64,
+      "shares": 4119
     },
     {
-      "code": "GEV.US",
-      "name": "GE Vernova",
-      "ratio": 0.59,
-      "shares": 732
+      "code": "IBM.US",
+      "name": "IBM",
+      "ratio": 0.62,
+      "shares": 2485
     },
     {
       "code": "MS.US",
       "name": "Morgan Stanley",
-      "ratio": 0.56,
-      "shares": 3279
-    },
-    {
-      "code": "RTX.US",
-      "name": "RTX",
-      "ratio": 0.54,
-      "shares": 3646
+      "ratio": 0.59,
+      "shares": 3199
     },
     {
       "code": "WFC.US",
       "name": "Wells Fargo",
-      "ratio": 0.54,
-      "shares": 8369
+      "ratio": 0.59,
+      "shares": 8163
+    },
+    {
+      "code": "GEV.US",
+      "name": "GE Vernova",
+      "ratio": 0.58,
+      "shares": 714
+    },
+    {
+      "code": "RTX.US",
+      "name": "RTX",
+      "ratio": 0.56,
+      "shares": 3556
     },
     {
       "code": "LIN.US",
       "name": "Linde",
-      "ratio": 0.52,
-      "shares": 1253
+      "ratio": 0.54,
+      "shares": 1222
     },
     {
       "code": "AXP.US",
       "name": "American Express",
-      "ratio": 0.49,
-      "shares": 1864
+      "ratio": 0.5,
+      "shares": 1818
     },
     {
       "code": "MCD.US",
       "name": "McDonald's",
-      "ratio": 0.45,
-      "shares": 1930
-    },
-    {
-      "code": "VZ.US",
-      "name": "Verizon Communications",
-      "ratio": 0.45,
-      "shares": 11459
+      "ratio": 0.46,
+      "shares": 1883
     },
     {
       "code": "PEP.US",
       "name": "PepsiCo",
-      "ratio": 0.44,
-      "shares": 3701
+      "ratio": 0.45,
+      "shares": 3610
     },
     {
       "code": "AMGN.US",
       "name": "Amgen Inc.",
-      "ratio": 0.41,
-      "shares": 1462
+      "ratio": 0.44,
+      "shares": 1426
+    },
+    {
+      "code": "VZ.US",
+      "name": "Verizon Communications",
+      "ratio": 0.44,
+      "shares": 11177
     },
     {
       "code": "TMUS.US",
       "name": "T-Mobile US",
-      "ratio": 0.21,
-      "shares": 1324
+      "ratio": 0.2,
+      "shares": 1292
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "00861",
   "name": "元大全球未來通訊",
-  "fetched_at": "2026-06-01",
+  "fetched_at": "2026-06-08",
   "capital": {
     "ETF名稱": "元大全球未來通訊",
     "交易所代碼": "00861",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2019/11/19",
     "成分股數": 49,
-    "ETF規模": "5,281.19(百萬台幣)(2026/04/30)",
-    "成交量(股)": "284,377（月均:256,630）",
+    "ETF規模": "6,087.50(百萬台幣)(2026/06/05)",
+    "成交量(股)": "305,101（月均:295,441）",
     "投資標的": "電信股",
     "經理人": "方雅婷",
     "投資區域": "全球",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "",
     "經理費(%)": "0.9",
-    "殖利率(%)": "N/A（06/01）",
+    "殖利率(%)": "N/A（06/08）",
     "總管理費用(%)": "1.22 (含 0.32 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://www.yuantaetfs.com/product/detail/00861/Basic_information",
-    "ETF市價": "91.5000（06/01）",
+    "ETF市價": "88.3000（06/08）",
     "融資交易": "Y",
-    "ETF淨值": "90.0800（05/29）",
+    "ETF淨值": "88.9800（06/05）",
     "放空交易": "Y",
-    "折溢價(%)": "-0.20(月均:-0.45)",
+    "折溢價(%)": "4.57(月均:-0.17)",
     "選擇權交易": "",
-    "年化標準差(%)": "26.72（06/01）",
+    "年化標準差(%)": "15.64（06/08）",
     "槓桿多空註記": "",
     "追蹤指數": "NYSE FactSet全球未來通訊指數",
     "基準指數": "ICE FactSet Global NextGen Communications Index",
@@ -71,116 +71,122 @@
     {
       "code": "005930.KS",
       "name": "SAMSUNG ELEC",
-      "ratio": 9.36,
+      "ratio": 9.67,
       "shares": 87525
     },
     {
       "code": "CSCO.US",
       "name": "Cisco",
-      "ratio": 7.91,
+      "ratio": 8.13,
       "shares": 129115
-    },
-    {
-      "code": "AVGO.US",
-      "name": "Broadcom",
-      "ratio": 7.59,
-      "shares": 33382
     },
     {
       "code": "2330.TW",
       "name": "台積電",
-      "ratio": 7.03,
+      "ratio": 7.15,
       "shares": 184000
     },
     {
       "code": "AAPL.US",
       "name": "Apple",
-      "ratio": 6.83,
+      "ratio": 6.84,
       "shares": 42996
+    },
+    {
+      "code": "AVGO.US",
+      "name": "Broadcom",
+      "ratio": 6.66,
+      "shares": 33382
     },
     {
       "code": "LRCX.US",
       "name": "Lam Research",
-      "ratio": 6.6,
+      "ratio": 6.4,
       "shares": 40777
     },
     {
       "code": "AMAT.US",
       "name": "Applied Materials",
-      "ratio": 5.94,
+      "ratio": 6.07,
       "shares": 25917
     },
     {
       "code": "QCOM.US",
       "name": "QUALCOMM",
-      "ratio": 4.46,
+      "ratio": 3.9,
       "shares": 34926
+    },
+    {
+      "code": "MRVL.US",
+      "name": "Marvell",
+      "ratio": 3.88,
+      "shares": 28497
     },
     {
       "code": "2454.TW",
       "name": "聯發科",
-      "ratio": 3.36,
+      "ratio": 3.39,
       "shares": 48000
     },
     {
       "code": "APH.US",
       "name": "Amphenol",
-      "ratio": 3.03,
+      "ratio": 2.88,
       "shares": 40039
-    },
-    {
-      "code": "MRVL.US",
-      "name": "Marvell",
-      "ratio": 2.97,
-      "shares": 28497
     },
     {
       "code": "8035.JP",
       "name": "Tokyo Electron",
-      "ratio": 2.5,
+      "ratio": 2.87,
       "shares": 14900
     },
     {
       "code": "6981.JP",
       "name": "Murata Mfg.",
-      "ratio": 1.94,
+      "ratio": 1.98,
       "shares": 63000
     },
     {
       "code": "EQIX.US",
       "name": "Equinix",
-      "ratio": 1.74,
+      "ratio": 1.79,
       "shares": 3202
     },
     {
       "code": "VZ.US",
       "name": "Verizon Communications",
-      "ratio": 1.6,
+      "ratio": 1.54,
       "shares": 65751
     },
     {
       "code": "9984.JP",
       "name": "SoftBank Group",
-      "ratio": 1.39,
+      "ratio": 1.4,
       "shares": 58100
-    },
-    {
-      "code": "T.US",
-      "name": "AT&T",
-      "ratio": 1.38,
-      "shares": 109026
     },
     {
       "code": "",
       "name": "NOKIA OYJ",
-      "ratio": 1.3,
+      "ratio": 1.38,
       "shares": 175549
+    },
+    {
+      "code": "T.US",
+      "name": "AT&T",
+      "ratio": 1.28,
+      "shares": 109026
     },
     {
       "code": "MPWR.US",
       "name": "Monolithic Power Systems",
-      "ratio": 1.22,
+      "ratio": 1.18,
       "shares": 1534
+    },
+    {
+      "code": "COHR.US",
+      "name": "Coherent",
+      "ratio": 1.13,
+      "shares": 5796
     },
     {
       "code": "DLR.US",
@@ -189,52 +195,46 @@
       "shares": 11244
     },
     {
-      "code": "3711.TW",
-      "name": "日月光投控",
-      "ratio": 1.09,
-      "shares": 110000
-    },
-    {
-      "code": "COHR.US",
-      "name": "Coherent",
-      "ratio": 1.07,
-      "shares": 5796
-    },
-    {
       "code": "TEL.US",
       "name": "TE Connectivity",
-      "ratio": 1.04,
+      "ratio": 1.06,
       "shares": 9603
+    },
+    {
+      "code": "3711.TW",
+      "name": "日月光投控",
+      "ratio": 1.04,
+      "shares": 110000
     },
     {
       "code": "LITE.US",
       "name": "Lumentum",
-      "ratio": 0.98,
+      "ratio": 1.01,
       "shares": 2255
     },
     {
       "code": "KEYS.US",
       "name": "Keysight Technologies",
-      "ratio": 0.96,
+      "ratio": 0.95,
       "shares": 5574
     },
     {
       "code": "",
       "name": "DEUTSCHE TELEKOM AG-REG",
-      "ratio": 0.93,
+      "ratio": 0.9,
       "shares": 54250
-    },
-    {
-      "code": "2303.TW",
-      "name": "聯電",
-      "ratio": 0.89,
-      "shares": 381000
     },
     {
       "code": "5803.JP",
       "name": "Fujikura",
       "ratio": 0.88,
       "shares": 57600
+    },
+    {
+      "code": "2303.TW",
+      "name": "聯電",
+      "ratio": 0.82,
+      "shares": 381000
     },
     {
       "code": "NBIS.US",
@@ -245,97 +245,97 @@
     {
       "code": "2383.TW",
       "name": "台光電",
-      "ratio": 0.75,
+      "ratio": 0.72,
       "shares": 9000
-    },
-    {
-      "code": "3037.TW",
-      "name": "欣興",
-      "ratio": 0.74,
-      "shares": 43000
     },
     {
       "code": "TMUS.US",
       "name": "T-Mobile US",
-      "ratio": 0.73,
+      "ratio": 0.7,
       "shares": 7599
     },
     {
-      "code": "CRDO.US",
-      "name": "Credo",
-      "ratio": 0.65,
-      "shares": 5406
+      "code": "6146.JP",
+      "name": "DISCO",
+      "ratio": 0.68,
+      "shares": 2900
     },
     {
-      "code": "",
-      "name": "ERICSSON LM-B SHS",
-      "ratio": 0.63,
-      "shares": 95461
-    },
-    {
-      "code": "IRM.US",
-      "name": "Iron Mountain",
-      "ratio": 0.63,
-      "shares": 9597
+      "code": "3037.TW",
+      "name": "欣興",
+      "ratio": 0.66,
+      "shares": 43000
     },
     {
       "code": "2327.TW",
       "name": "國巨",
-      "ratio": 0.63,
+      "ratio": 0.66,
       "shares": 52248
     },
     {
       "code": "2345.TW",
       "name": "智邦",
-      "ratio": 0.63,
+      "ratio": 0.65,
       "shares": 16000
     },
     {
-      "code": "6146.JP",
-      "name": "DISCO",
-      "ratio": 0.6,
-      "shares": 2900
+      "code": "",
+      "name": "ERICSSON LM-B SHS",
+      "ratio": 0.64,
+      "shares": 95461
     },
     {
-      "code": "CRWV.US",
-      "name": "CoreWeave",
+      "code": "IRM.US",
+      "name": "Iron Mountain",
+      "ratio": 0.62,
+      "shares": 9597
+    },
+    {
+      "code": "CRDO.US",
+      "name": "Credo",
       "ratio": 0.58,
-      "shares": 10491
-    },
-    {
-      "code": "Q.US",
-      "name": "Qnity",
-      "ratio": 0.54,
-      "shares": 6861
-    },
-    {
-      "code": "2360.TW",
-      "name": "致茂",
-      "ratio": 0.49,
-      "shares": 12000
+      "shares": 5406
     },
     {
       "code": "2382.TW",
       "name": "廣達",
-      "ratio": 0.47,
+      "ratio": 0.55,
       "shares": 86000
     },
     {
-      "code": "TSEM.US",
-      "name": "Tower Semiconductor",
-      "ratio": 0.45,
-      "shares": 3436
+      "code": "CRWV.US",
+      "name": "CoreWeave",
+      "ratio": 0.54,
+      "shares": 10491
+    },
+    {
+      "code": "2360.TW",
+      "name": "致茂",
+      "ratio": 0.51,
+      "shares": 12000
+    },
+    {
+      "code": "Q.US",
+      "name": "Qnity",
+      "ratio": 0.5,
+      "shares": 6861
     },
     {
       "code": "9433.JP",
       "name": "KDDI",
-      "ratio": 0.43,
+      "ratio": 0.42,
       "shares": 49000
+    },
+    {
+      "code": "TSEM.US",
+      "name": "Tower Semiconductor",
+      "ratio": 0.42,
+      "shares": 3436
     },
     {
       "code": "LSCC.US",
       "name": "Lattice Semiconductor",
-      "ratio": 0.33,
+      "ratio": 0.31,
       "shares": 4439
     },
     {
@@ -347,13 +347,13 @@
     {
       "code": "TU.US",
       "name": "TELUS Corp. Non Voting shares",
-      "ratio": 0.16,
+      "ratio": 0.15,
       "shares": 24336
     },
     {
       "code": "Persero",
       "name": "PT Telkom Indonesia",
-      "ratio": 0.13,
+      "ratio": 0.12,
       "shares": 15453
     },
     {
