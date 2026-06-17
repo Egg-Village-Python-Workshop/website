@@ -1,7 +1,7 @@
 {
   "id": "00712",
   "name": "復華富時不動產",
-  "fetched_at": "2026-06-08",
+  "fetched_at": "2026-06-15",
   "capital": {
     "ETF名稱": "復華富時不動產",
     "交易所代碼": "00712",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2017/08/21",
     "成分股數": 32,
-    "ETF規模": "45,419.00(百萬台幣)(2026/06/08)",
-    "成交量(股)": "69,327,707（月均:33,647,864）",
+    "ETF規模": "46,490.89(百萬台幣)(2026/06/15)",
+    "成交量(股)": "28,815,166（月均:37,532,567）",
     "投資標的": "REIT",
     "經理人": "曹君龍",
     "投資區域": "美國",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "季配",
     "經理費(%)": "0.25",
-    "殖利率(%)": "9.26（06/08）",
+    "殖利率(%)": "9.09（06/15）",
     "總管理費用(%)": "3.77 (含 3.52 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF07",
-    "ETF市價": "8.6900（06/08）",
+    "ETF市價": "8.8600（06/15）",
     "融資交易": "Y",
-    "ETF淨值": "8.6500（06/05）",
+    "ETF淨值": "8.8000（06/12）",
     "放空交易": "Y",
-    "折溢價(%)": "0.69(月均:0.65)",
+    "折溢價(%)": "0.00(月均:0.53)",
     "選擇權交易": "",
-    "年化標準差(%)": "13.95（06/08）",
+    "年化標準差(%)": "10.72（06/15）",
     "槓桿多空註記": "",
     "追蹤指數": "富時NAREIT抵押權型不動產投資信託指數",
     "基準指數": "Dow Jones U.S. Real Estate Index",
@@ -42,208 +42,208 @@
   },
   "sectors": [
     {
-      "name": "美國",
-      "amount_wan": 4444051.1,
-      "ratio": 97.92
+      "name": "金融",
+      "amount_wan": 4346444.4,
+      "ratio": 99.07
     },
     {
       "name": "流動資產",
-      "amount_wan": 94399.8,
-      "ratio": 2.08
+      "amount_wan": 40801.4,
+      "ratio": 0.93
     }
   ],
   "holdings": [
     {
       "code": "NLY.US",
       "name": "Annaly Capital Management",
-      "ratio": 24.21,
-      "shares": 16466264
+      "ratio": 24.8,
+      "shares": 16626283
     },
     {
       "code": "AGNC.US",
       "name": "AGNC Investment",
-      "ratio": 18.14,
-      "shares": 25739895
+      "ratio": 18.16,
+      "shares": 25990035
     },
     {
       "code": "STWD.US",
       "name": "STARWOOD PROPERTY TRUST, INC.",
-      "ratio": 9.51,
-      "shares": 8047354
+      "ratio": 9.36,
+      "shares": 8125559
     },
     {
       "code": "RITM.US",
       "name": "Rithm Capital",
-      "ratio": 7.4,
-      "shares": 11699108
+      "ratio": 7.46,
+      "shares": 11812799
     },
     {
       "code": "DX.US",
       "name": "Dynex Capital Inc.",
-      "ratio": 5.39,
-      "shares": 6042370
+      "ratio": 5.35,
+      "shares": 6101091
     },
     {
       "code": "BXMT.US",
       "name": "Blackstone Mortgage Trust, Inc.",
-      "ratio": 4.12,
-      "shares": 3237288
+      "ratio": 4.07,
+      "shares": 3268747
     },
     {
       "code": "ARR.US",
       "name": "Armour Residential REIT, Inc.",
-      "ratio": 4.05,
-      "shares": 3414667
+      "ratio": 4.0,
+      "shares": 3447850
     },
     {
       "code": "EFC.US",
       "name": "Ellington Financial",
-      "ratio": 2.92,
-      "shares": 3105024
+      "ratio": 2.88,
+      "shares": 3106567
     },
     {
       "code": "ORC.US",
       "name": "Orchid Island Capital",
-      "ratio": 2.46,
-      "shares": 5328520
+      "ratio": 2.36,
+      "shares": 5332420
     },
     {
       "code": "ARI.US",
       "name": "Apollo Commercial Real Estate Fi",
-      "ratio": 1.98,
-      "shares": 2600127
+      "ratio": 1.91,
+      "shares": 2625394
     },
     {
       "code": "CIM.US",
       "name": "Chimera",
-      "ratio": 1.75,
-      "shares": 1902806
+      "ratio": 1.74,
+      "shares": 1921297
     },
     {
       "code": "LADR.US",
       "name": "Ladder Capital Corp",
-      "ratio": 1.74,
-      "shares": 2458430
+      "ratio": 1.71,
+      "shares": 2482321
     },
     {
       "code": "TWO.US",
       "name": "Two Harbors Investment",
-      "ratio": 1.71,
-      "shares": 2004137
+      "ratio": 1.69,
+      "shares": 2023614
     },
     {
       "code": "ABR.US",
       "name": "Arbor Realty Trust",
-      "ratio": 1.56,
-      "shares": 4286843
-    },
-    {
-      "code": "MFA.US",
-      "name": "MFA Financial",
-      "ratio": 1.23,
-      "shares": 1917031
+      "ratio": 1.51,
+      "shares": 4287410
     },
     {
       "code": "ADAM.US",
       "name": "Adamas Trust",
-      "ratio": 1.23,
-      "shares": 1978949
+      "ratio": 1.26,
+      "shares": 1998180
+    },
+    {
+      "code": "MFA.US",
+      "name": "MFA Financial",
+      "ratio": 1.24,
+      "shares": 1935661
     },
     {
       "code": "PMT.US",
       "name": "PennyMac Mortgage Investment Tru",
-      "ratio": 1.22,
-      "shares": 1725609
+      "ratio": 1.2,
+      "shares": 1742380
     },
     {
       "code": "BRSP.US",
       "name": "BrightSpire Capital",
       "ratio": 1.15,
-      "shares": 3001098
+      "shares": 3030262
     },
     {
       "code": "FBRT.US",
       "name": "Franklin BSP Realty Trust",
-      "ratio": 1.13,
-      "shares": 1904499
+      "ratio": 1.09,
+      "shares": 1923008
     },
     {
       "code": "RWT.US",
       "name": "Redwood Trust",
-      "ratio": 1.09,
-      "shares": 2947479
+      "ratio": 1.06,
+      "shares": 2976124
     },
     {
       "code": "TRTX.US",
       "name": "TPG RE Finance Trust",
       "ratio": 0.98,
-      "shares": 1662838
+      "shares": 1678997
     },
     {
       "code": "IVR.US",
       "name": "Invesco Mortgage Capital Inc.",
       "ratio": 0.97,
-      "shares": 1792984
+      "shares": 1810408
     },
     {
       "code": "KREF.US",
       "name": "KKR Real Estate Finance Trust",
-      "ratio": 0.62,
-      "shares": 1283216
+      "ratio": 0.64,
+      "shares": 1295685
     },
     {
       "code": "ACRE.US",
       "name": "Ares Commercial Real Estate Corp",
-      "ratio": 0.43,
-      "shares": 1230039
+      "ratio": 0.42,
+      "shares": 1241992
     },
     {
       "code": "MITT.US",
       "name": "TPG Mortgage Investment Trust",
-      "ratio": 0.35,
-      "shares": 665196
+      "ratio": 0.36,
+      "shares": 671660
     },
     {
       "code": "REFI.US",
       "name": "Chicago Atlantic Real Estate Fin",
       "ratio": 0.33,
-      "shares": 422184
+      "shares": 426286
     },
     {
       "code": "RC.US",
       "name": "Ready Capital",
       "ratio": 0.32,
-      "shares": 2724906
+      "shares": 2751386
+    },
+    {
+      "code": "CMTG.US",
+      "name": "Claros Mortgage Trust",
+      "ratio": 0.3,
+      "shares": 1734231
     },
     {
       "code": "SEVN.US",
       "name": "Seven Hills Realty Trust",
       "ratio": 0.3,
-      "shares": 513570
-    },
-    {
-      "code": "CMTG.US",
-      "name": "Claros Mortgage Trust",
-      "ratio": 0.29,
-      "shares": 1717544
+      "shares": 518560
     },
     {
       "code": "AOMR.US",
       "name": "Angel Oak Mortgage REIT",
       "ratio": 0.19,
-      "shares": 331293
+      "shares": 334511
     },
     {
       "code": "NREF.US",
       "name": "NexPoint Real Estate Finance",
       "ratio": 0.17,
-      "shares": 155848
+      "shares": 157363
     },
     {
       "code": "ACR.US",
       "name": "ACRES Commercial Realty",
-      "ratio": 0.14,
-      "shares": 109762
+      "ratio": 0.13,
+      "shares": 109832
     }
   ]
 }

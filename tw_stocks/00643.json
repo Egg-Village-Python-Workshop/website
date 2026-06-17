@@ -1,7 +1,7 @@
 {
   "id": "00643",
   "name": "群益深証中小",
-  "fetched_at": "2026-06-08",
+  "fetched_at": "2026-06-15",
   "capital": {
     "ETF名稱": "群益深証中小",
     "交易所代碼": "00643",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2015/12/02",
     "成分股數": 97,
-    "ETF規模": "1,529.13(百萬台幣)(2026/06/08)",
-    "成交量(股)": "3,928,584（月均:3,158,180）",
+    "ETF規模": "1,552.73(百萬台幣)(2026/06/15)",
+    "成交量(股)": "2,948,313（月均:3,037,392）",
     "投資標的": "中小型股",
     "經理人": "洪祥益",
     "投資區域": "中國",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "",
     "經理費(%)": "0.95",
-    "殖利率(%)": "N/A（06/08）",
+    "殖利率(%)": "N/A（06/15）",
     "總管理費用(%)": "1.07 (含 0.12 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://www.capitalfund.com.tw/etf/product/detail/069",
-    "ETF市價": "18.9700（06/08）",
+    "ETF市價": "19.7100（06/15）",
     "融資交易": "Y",
-    "ETF淨值": "19.1900（06/05）",
+    "ETF淨值": "19.9800（06/12）",
     "放空交易": "Y",
-    "折溢價(%)": "-1.15(月均:-0.43)",
+    "折溢價(%)": "-1.35(月均:-0.56)",
     "選擇權交易": "",
-    "年化標準差(%)": "21.45（06/08）",
+    "年化標準差(%)": "18.77（06/15）",
     "槓桿多空註記": "",
     "追蹤指數": "中小企業100指數",
     "基準指數": "深證中小版指數",
@@ -43,233 +43,239 @@
   "sectors": [
     {
       "name": "科技",
-      "amount_wan": 66442.8,
-      "ratio": 39.33
+      "amount_wan": 70640.0,
+      "ratio": 43.85
     },
     {
       "name": "資本設備",
-      "amount_wan": 27790.1,
-      "ratio": 16.45
+      "amount_wan": 26757.8,
+      "ratio": 16.61
     },
     {
       "name": "耐久財消費",
-      "amount_wan": 18076.2,
-      "ratio": 10.7
+      "amount_wan": 15191.2,
+      "ratio": 9.43
     },
     {
       "name": "原物料",
-      "amount_wan": 13413.6,
-      "ratio": 7.94
+      "amount_wan": 11244.4,
+      "ratio": 6.98
     },
     {
       "name": "民生消費",
-      "amount_wan": 10389.6,
-      "ratio": 6.15
+      "amount_wan": 9101.8,
+      "ratio": 5.65
     },
     {
       "name": "金融",
-      "amount_wan": 8598.9,
-      "ratio": 5.09
+      "amount_wan": 7668.1,
+      "ratio": 4.76
     },
     {
       "name": "新能源",
-      "amount_wan": 6639.2,
-      "ratio": 3.93
+      "amount_wan": 4720.1,
+      "ratio": 2.93
     },
     {
       "name": "農產品",
-      "amount_wan": 5000.5,
-      "ratio": 2.96
+      "amount_wan": 4204.6,
+      "ratio": 2.61
     },
     {
       "name": "醫藥",
-      "amount_wan": 5000.5,
-      "ratio": 2.96
+      "amount_wan": 4188.5,
+      "ratio": 2.6
     },
     {
       "name": "能源",
-      "amount_wan": 3547.7,
-      "ratio": 2.1
+      "amount_wan": 3012.5,
+      "ratio": 1.87
     },
     {
       "name": "公用事業",
-      "amount_wan": 1334.6,
-      "ratio": 0.79
+      "amount_wan": 1369.3,
+      "ratio": 0.85
     },
     {
       "name": "房地產",
-      "amount_wan": 371.7,
-      "ratio": 0.22
+      "amount_wan": 402.7,
+      "ratio": 0.25
     }
   ],
   "holdings": [
     {
       "code": "002475.SZ",
       "name": "立訊精密",
-      "ratio": 7.05,
-      "shares": 350000
+      "ratio": 6.53,
+      "shares": 319000
     },
     {
       "code": "002384.SZ",
       "name": "東山精密",
-      "ratio": 6.16,
-      "shares": 95000
-    },
-    {
-      "code": "002594.SZ",
-      "name": "比亞迪",
-      "ratio": 5.28,
-      "shares": 190000
+      "ratio": 6.33,
+      "shares": 88000
     },
     {
       "code": "002371.SZ",
       "name": "北方華創",
-      "ratio": 5.14,
-      "shares": 28800
+      "ratio": 5.7,
+      "shares": 27800
+    },
+    {
+      "code": "002594.SZ",
+      "name": "比亞迪",
+      "ratio": 4.64,
+      "shares": 170000
     },
     {
       "code": "002463.SZ",
       "name": "滬電股份",
-      "ratio": 4.13,
-      "shares": 99000
-    },
-    {
-      "code": "002142.SZ",
-      "name": "寧波銀行",
-      "ratio": 2.41,
-      "shares": 254700
-    },
-    {
-      "code": "002050.SZ",
-      "name": "三花智控",
-      "ratio": 2.34,
-      "shares": 162000
-    },
-    {
-      "code": "002028.SZ",
-      "name": "思源電氣",
-      "ratio": 2.33,
-      "shares": 43000
+      "ratio": 3.78,
+      "shares": 94000
     },
     {
       "code": "002281.SZ",
       "name": "光迅科技",
-      "ratio": 2.21,
+      "ratio": 2.37,
       "shares": 35000
+    },
+    {
+      "code": "002028.SZ",
+      "name": "思源電氣",
+      "ratio": 2.3,
+      "shares": 43000
+    },
+    {
+      "code": "002142.SZ",
+      "name": "寧波銀行",
+      "ratio": 2.22,
+      "shares": 229700
     },
     {
       "code": "002008.SZ",
       "name": "大族激光",
-      "ratio": 2.14,
+      "ratio": 2.17,
       "shares": 58000
     },
     {
       "code": "002916.SZ",
       "name": "深南電路",
-      "ratio": 2.03,
+      "ratio": 2.16,
       "shares": 18000
     },
     {
-      "code": "002230.SZ",
-      "name": "科大訊飛",
+      "code": "002050.SZ",
+      "name": "三花智控",
       "ratio": 2.02,
-      "shares": 150000
+      "shares": 147000
     },
     {
       "code": "002353.SZ",
       "name": "杰瑞股份",
-      "ratio": 2.02,
-      "shares": 45000
-    },
-    {
-      "code": "002714.SZ",
-      "name": "牧原股份",
-      "ratio": 2.0,
-      "shares": 192000
-    },
-    {
-      "code": "002938.SZ",
-      "name": "鵬鼎控股",
-      "ratio": 1.71,
-      "shares": 50000
-    },
-    {
-      "code": "002352.SZ",
-      "name": "順豐控股",
-      "ratio": 1.69,
-      "shares": 160000
-    },
-    {
-      "code": "002156.SZ",
-      "name": "通富微電",
-      "ratio": 1.65,
-      "shares": 87000
+      "ratio": 1.95,
+      "shares": 42000
     },
     {
       "code": "002460.SZ",
       "name": "贛鋒鋰業",
-      "ratio": 1.59,
+      "ratio": 1.78,
       "shares": 83000
+    },
+    {
+      "code": "002230.SZ",
+      "name": "科大訊飛",
+      "ratio": 1.62,
+      "shares": 130000
+    },
+    {
+      "code": "002156.SZ",
+      "name": "通富微電",
+      "ratio": 1.61,
+      "shares": 87000
+    },
+    {
+      "code": "002938.SZ",
+      "name": "鵬鼎控股",
+      "ratio": 1.57,
+      "shares": 50000
+    },
+    {
+      "code": "002714.SZ",
+      "name": "牧原股份",
+      "ratio": 1.51,
+      "shares": 142000
+    },
+    {
+      "code": "002352.SZ",
+      "name": "順豐控股",
+      "ratio": 1.51,
+      "shares": 150000
+    },
+    {
+      "code": "002602.SZ",
+      "name": "世紀華通",
+      "ratio": 1.43,
+      "shares": 340000
     },
     {
       "code": "002709.SZ",
       "name": "天賜材料",
-      "ratio": 1.37,
+      "ratio": 1.41,
       "shares": 95600
     },
     {
       "code": "002851.SZ",
       "name": "麥格米特",
-      "ratio": 1.32,
+      "ratio": 1.3,
       "shares": 29000
-    },
-    {
-      "code": "002202.SZ",
-      "name": "金風科技",
-      "ratio": 1.29,
-      "shares": 195400
-    },
-    {
-      "code": "002241.SZ",
-      "name": "歌爾股份",
-      "ratio": 1.29,
-      "shares": 183000
     },
     {
       "code": "002625.SZ",
       "name": "光啟技術",
-      "ratio": 1.21,
+      "ratio": 1.3,
       "shares": 113000
     },
     {
       "code": "002466.SZ",
       "name": "天齊鋰業",
-      "ratio": 1.16,
-      "shares": 68000
+      "ratio": 1.26,
+      "shares": 66000
+    },
+    {
+      "code": "002202.SZ",
+      "name": "金風科技",
+      "ratio": 1.25,
+      "shares": 195400
+    },
+    {
+      "code": "002080.SZ",
+      "name": "中材科技",
+      "ratio": 1.08,
+      "shares": 53000
     },
     {
       "code": "002001.SZ",
       "name": "新和成",
-      "ratio": 1.11,
-      "shares": 118000
-    },
-    {
-      "code": "002049.SZ",
-      "name": "紫光國微",
       "ratio": 1.07,
-      "shares": 50000
-    },
-    {
-      "code": "002027.SZ",
-      "name": "分眾傳媒",
-      "ratio": 1.06,
-      "shares": 660000
+      "shares": 118000
     },
     {
       "code": "002600.SZ",
       "name": "領益智造",
-      "ratio": 1.03,
+      "ratio": 1.07,
       "shares": 236300
+    },
+    {
+      "code": "002241.SZ",
+      "name": "歌爾股份",
+      "ratio": 1.06,
+      "shares": 150000
+    },
+    {
+      "code": "002027.SZ",
+      "name": "分眾傳媒",
+      "ratio": 1.05,
+      "shares": 650000
     },
     {
       "code": "002185.SZ",
@@ -278,58 +284,52 @@
       "shares": 197000
     },
     {
-      "code": "002080.SZ",
-      "name": "中材科技",
-      "ratio": 0.95,
-      "shares": 53000
-    },
-    {
-      "code": "002648.SZ",
-      "name": "衛星化學",
-      "ratio": 0.92,
-      "shares": 125000
-    },
-    {
       "code": "002422.SZ",
       "name": "科倫藥業",
-      "ratio": 0.9,
+      "ratio": 0.96,
       "shares": 87500
     },
     {
-      "code": "002195.SZ",
-      "name": "巖山科技",
-      "ratio": 0.87,
-      "shares": 400000
-    },
-    {
-      "code": "002532.SZ",
-      "name": "天山鋁業",
-      "ratio": 0.8,
-      "shares": 200000
-    },
-    {
-      "code": "002311.SZ",
-      "name": "海大集團",
-      "ratio": 0.79,
-      "shares": 59000
+      "code": "002837.SZ",
+      "name": "英維克",
+      "ratio": 0.91,
+      "shares": 43000
     },
     {
       "code": "002738.SZ",
       "name": "中礦資源",
-      "ratio": 0.79,
+      "ratio": 0.9,
       "shares": 48000
+    },
+    {
+      "code": "002409.SZ",
+      "name": "雅克科技",
+      "ratio": 0.88,
+      "shares": 21000
+    },
+    {
+      "code": "002648.SZ",
+      "name": "衛星化學",
+      "ratio": 0.87,
+      "shares": 125000
+    },
+    {
+      "code": "002049.SZ",
+      "name": "紫光國微",
+      "ratio": 0.85,
+      "shares": 38000
+    },
+    {
+      "code": "002532.SZ",
+      "name": "天山鋁業",
+      "ratio": 0.81,
+      "shares": 200000
     },
     {
       "code": "002850.SZ",
       "name": "科達利",
-      "ratio": 0.76,
+      "ratio": 0.79,
       "shares": 13700
-    },
-    {
-      "code": "002966.SZ",
-      "name": "蘇州銀行",
-      "ratio": 0.73,
-      "shares": 295000
     },
     {
       "code": "002074.SZ",
@@ -338,34 +338,28 @@
       "shares": 83000
     },
     {
-      "code": "002812.SZ",
-      "name": "恩捷股份",
+      "code": "002493.SZ",
+      "name": "榮盛石化",
       "ratio": 0.72,
-      "shares": 38500
+      "shares": 200000
+    },
+    {
+      "code": "002966.SZ",
+      "name": "蘇州銀行",
+      "ratio": 0.72,
+      "shares": 295000
     },
     {
       "code": "003816.SZ",
       "name": "中國廣核",
-      "ratio": 0.7,
+      "ratio": 0.71,
       "shares": 535000
     },
     {
-      "code": "002493.SZ",
-      "name": "榮盛石化",
-      "ratio": 0.69,
-      "shares": 200000
-    },
-    {
-      "code": "002558.SZ",
-      "name": "巨人網絡",
-      "ratio": 0.68,
-      "shares": 90000
-    },
-    {
-      "code": "002409.SZ",
-      "name": "雅克科技",
-      "ratio": 0.68,
-      "shares": 21000
+      "code": "002812.SZ",
+      "name": "恩捷股份",
+      "ratio": 0.67,
+      "shares": 33000
     },
     {
       "code": "002595.SZ",
@@ -374,28 +368,34 @@
       "shares": 44950
     },
     {
-      "code": "002128.SZ",
-      "name": "電投能源",
-      "ratio": 0.65,
-      "shares": 75000
+      "code": "002558.SZ",
+      "name": "巨人網絡",
+      "ratio": 0.66,
+      "shares": 90000
     },
     {
       "code": "002340.SZ",
       "name": "格林美",
-      "ratio": 0.63,
+      "ratio": 0.64,
+      "shares": 280000
+    },
+    {
+      "code": "002195.SZ",
+      "name": "巖山科技",
+      "ratio": 0.64,
       "shares": 300000
+    },
+    {
+      "code": "002128.SZ",
+      "name": "電投能源",
+      "ratio": 0.61,
+      "shares": 75000
     },
     {
       "code": "002555.SZ",
       "name": "三七互娛",
-      "ratio": 0.63,
+      "ratio": 0.61,
       "shares": 111000
-    },
-    {
-      "code": "002465.SZ",
-      "name": "海格通信",
-      "ratio": 0.63,
-      "shares": 142000
     },
     {
       "code": "002517.SZ",
@@ -404,10 +404,22 @@
       "shares": 133000
     },
     {
+      "code": "002465.SZ",
+      "name": "海格通信",
+      "ratio": 0.59,
+      "shares": 142000
+    },
+    {
       "code": "002236.SZ",
       "name": "大華股份",
-      "ratio": 0.58,
+      "ratio": 0.56,
       "shares": 115000
+    },
+    {
+      "code": "002311.SZ",
+      "name": "海大集團",
+      "ratio": 0.55,
+      "shares": 41000
     },
     {
       "code": "002821.SZ",
@@ -419,67 +431,73 @@
       "code": "002261.SZ",
       "name": "拓維信息",
       "ratio": 0.54,
-      "shares": 65000
+      "shares": 60000
     },
     {
       "code": "002129.SZ",
       "name": "TCL中環",
       "ratio": 0.52,
-      "shares": 190000
-    },
-    {
-      "code": "002056.SZ",
-      "name": "橫店東磁",
-      "ratio": 0.51,
-      "shares": 63400
-    },
-    {
-      "code": "002456.SZ",
-      "name": "歐菲光",
-      "ratio": 0.51,
-      "shares": 180000
+      "shares": 170000
     },
     {
       "code": "002444.SZ",
       "name": "巨星科技",
-      "ratio": 0.5,
+      "ratio": 0.51,
       "shares": 53200
     },
     {
       "code": "002736.SZ",
       "name": "國信證券",
-      "ratio": 0.49,
+      "ratio": 0.51,
       "shares": 162000
     },
     {
-      "code": "002920.SZ",
-      "name": "德賽西威",
-      "ratio": 0.49,
-      "shares": 17000
+      "code": "002131.SZ",
+      "name": "利歐股份",
+      "ratio": 0.5,
+      "shares": 310000
     },
     {
       "code": "002078.SZ",
       "name": "太陽紙業",
-      "ratio": 0.47,
+      "ratio": 0.49,
       "shares": 119500
     },
     {
-      "code": "002252.SZ",
-      "name": "上海萊士",
-      "ratio": 0.47,
-      "shares": 300000
+      "code": "002056.SZ",
+      "name": "橫店東磁",
+      "ratio": 0.48,
+      "shares": 63400
     },
     {
-      "code": "002304.SZ",
-      "name": "洋河股份",
+      "code": "002456.SZ",
+      "name": "歐菲光",
+      "ratio": 0.48,
+      "shares": 180000
+    },
+    {
+      "code": "002414.SZ",
+      "name": "高德紅外",
+      "ratio": 0.48,
+      "shares": 117696
+    },
+    {
+      "code": "002920.SZ",
+      "name": "德賽西威",
       "ratio": 0.46,
-      "shares": 36000
+      "shares": 17000
     },
     {
-      "code": "002797.SZ",
-      "name": "第一創業",
+      "code": "002601.SZ",
+      "name": "龍佰集團",
       "ratio": 0.44,
-      "shares": 230000
+      "shares": 94000
+    },
+    {
+      "code": "002064.SZ",
+      "name": "華峰化學",
+      "ratio": 0.43,
+      "shares": 130000
     },
     {
       "code": "002271.SZ",
@@ -488,28 +506,22 @@
       "shares": 114000
     },
     {
-      "code": "002414.SZ",
-      "name": "高德紅外",
+      "code": "",
+      "name": "辰州礦業",
       "ratio": 0.42,
-      "shares": 117696
+      "shares": 55000
     },
     {
-      "code": "002064.SZ",
-      "name": "華峰化學",
+      "code": "002085.SZ",
+      "name": "萬豐奧威",
+      "ratio": 0.42,
+      "shares": 101000
+    },
+    {
+      "code": "002797.SZ",
+      "name": "第一創業",
       "ratio": 0.41,
-      "shares": 130000
-    },
-    {
-      "code": "002601.SZ",
-      "name": "龍佰集團",
-      "ratio": 0.4,
-      "shares": 94000
-    },
-    {
-      "code": "002405.SZ",
-      "name": "四維圖新",
-      "ratio": 0.39,
-      "shares": 169000
+      "shares": 210000
     },
     {
       "code": "002157.SZ",
@@ -518,16 +530,34 @@
       "shares": 420000
     },
     {
-      "code": "002085.SZ",
-      "name": "萬豐奧威",
-      "ratio": 0.38,
-      "shares": 101000
+      "code": "002304.SZ",
+      "name": "洋河股份",
+      "ratio": 0.39,
+      "shares": 30000
     },
     {
       "code": "002673.SZ",
       "name": "西部證券",
-      "ratio": 0.36,
+      "ratio": 0.38,
       "shares": 190000
+    },
+    {
+      "code": "002429.SZ",
+      "name": "兆馳股份",
+      "ratio": 0.37,
+      "shares": 110000
+    },
+    {
+      "code": "002487.SZ",
+      "name": "大金重工",
+      "ratio": 0.36,
+      "shares": 20000
+    },
+    {
+      "code": "002831.SZ",
+      "name": "裕同科技",
+      "ratio": 0.36,
+      "shares": 39253
     },
     {
       "code": "002223.SZ",
@@ -538,32 +568,14 @@
     {
       "code": "002294.SZ",
       "name": "信立泰",
-      "ratio": 0.35,
+      "ratio": 0.34,
       "shares": 36500
     },
     {
-      "code": "002459.SZ",
-      "name": "晶澳科技",
-      "ratio": 0.34,
-      "shares": 140000
-    },
-    {
-      "code": "002624.SZ",
-      "name": "完美世界",
-      "ratio": 0.34,
-      "shares": 79000
-    },
-    {
-      "code": "002831.SZ",
-      "name": "裕同科技",
+      "code": "002252.SZ",
+      "name": "上海萊士",
       "ratio": 0.33,
-      "shares": 39253
-    },
-    {
-      "code": "002841.SZ",
-      "name": "視源股份",
-      "ratio": 0.32,
-      "shares": 30000
+      "shares": 220000
     },
     {
       "code": "002007.SZ",
@@ -572,82 +584,70 @@
       "shares": 80000
     },
     {
+      "code": "002841.SZ",
+      "name": "視源股份",
+      "ratio": 0.31,
+      "shares": 30000
+    },
+    {
+      "code": "002624.SZ",
+      "name": "完美世界",
+      "ratio": 0.31,
+      "shares": 79000
+    },
+    {
       "code": "002152.SZ",
       "name": "廣電運通",
       "ratio": 0.3,
       "shares": 99000
     },
     {
-      "code": "002410.SZ",
-      "name": "廣聯達",
-      "ratio": 0.3,
-      "shares": 106000
-    },
-    {
-      "code": "002739.SZ",
-      "name": "儒意電影",
+      "code": "002603.SZ",
+      "name": "以嶺藥業",
       "ratio": 0.29,
-      "shares": 112700
+      "shares": 59600
     },
     {
       "code": "002653.SZ",
       "name": "海思科",
-      "ratio": 0.28,
+      "ratio": 0.29,
       "shares": 20000
     },
     {
-      "code": "002603.SZ",
-      "name": "以嶺藥業",
-      "ratio": 0.27,
-      "shares": 59600
+      "code": "003022.SZ",
+      "name": "聯泓新科",
+      "ratio": 0.23,
+      "shares": 28000
     },
     {
       "code": "002244.SZ",
       "name": "濱江集團",
-      "ratio": 0.24,
+      "ratio": 0.23,
       "shares": 83200
     },
     {
       "code": "002180.SZ",
       "name": "奔圖科技",
-      "ratio": 0.24,
+      "ratio": 0.22,
       "shares": 50000
-    },
-    {
-      "code": "002568.SZ",
-      "name": "百潤股份",
-      "ratio": 0.23,
-      "shares": 41000
     },
     {
       "code": "002430.SZ",
       "name": "杭氧股份",
-      "ratio": 0.21,
+      "ratio": 0.22,
       "shares": 28100
-    },
-    {
-      "code": "002120.SZ",
-      "name": "韻達股份",
-      "ratio": 0.21,
-      "shares": 105000
     },
     {
       "code": "002939.SZ",
       "name": "長城證券",
-      "ratio": 0.21,
+      "ratio": 0.22,
       "shares": 85800
     },
     {
-      "code": "003022.SZ",
-      "name": "聯泓新科",
-      "ratio": 0.19,
-      "shares": 28000
-    },
-    {
-      "code": "002262.SZ",
-      "name": "恩華藥業",
-      "ratio": 0.19,
-      "shares": 32200
+      "code": "002459.SZ",
+      "name": "晶澳科技",
+      "ratio": 0.21,
+      "shares": 80000
     },
     {
       "code": "002423.SZ",
@@ -658,14 +658,8 @@
     {
       "code": "002608.SZ",
       "name": "江蘇國信",
-      "ratio": 0.17,
+      "ratio": 0.15,
       "shares": 56700
-    },
-    {
-      "code": "002773.SZ",
-      "name": "康弘藥業",
-      "ratio": 0.16,
-      "shares": 25000
     },
     {
       "code": "002032.SZ",
@@ -674,16 +668,22 @@
       "shares": 11500
     },
     {
-      "code": "002153.SZ",
-      "name": "石基信息",
-      "ratio": 0.12,
-      "shares": 49502
+      "code": "002773.SZ",
+      "name": "康弘藥業",
+      "ratio": 0.15,
+      "shares": 25000
     },
     {
       "code": "002945.SZ",
       "name": "華林證券",
-      "ratio": 0.11,
+      "ratio": 0.12,
       "shares": 27600
+    },
+    {
+      "code": "002153.SZ",
+      "name": "石基信息",
+      "ratio": 0.12,
+      "shares": 49502
     }
   ]
 }

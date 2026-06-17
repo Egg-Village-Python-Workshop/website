@@ -1,7 +1,7 @@
 {
   "id": "00983D",
   "name": "主動富邦複合收益",
-  "fetched_at": "2026-06-08",
+  "fetched_at": "2026-06-15",
   "capital": {
     "ETF名稱": "主動富邦複合收益",
     "交易所代碼": "00983D",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2025/10/14",
     "成分股數": 84,
-    "ETF規模": "1,050.00(百萬台幣)(2026/06/05)",
-    "成交量(股)": "1,611,524（月均:1,282,034）",
+    "ETF規模": "1,054.72(百萬台幣)(2026/06/12)",
+    "成交量(股)": "811,525（月均:1,163,522）",
     "投資標的": "債券型",
     "經理人": "游陳達",
     "投資區域": "全球",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "月配",
     "經理費(%)": "0.65",
-    "殖利率(%)": "7.14（06/08）",
+    "殖利率(%)": "7.09（06/15）",
     "總管理費用(%)": "",
     "經銷商": "",
     "官方網站連結": "https://websys.fsit.com.tw/FubonETF/Fund/Profile.aspx?stkId=00983D",
-    "ETF市價": "10.0800（06/08）",
+    "ETF市價": "10.1600（06/15）",
     "融資交易": "Y",
-    "ETF淨值": "10.0771（06/05）",
+    "ETF淨值": "10.1712（06/12）",
     "放空交易": "Y",
-    "折溢價(%)": "0.33(月均:-0.05)",
+    "折溢價(%)": "-0.31(月均:-0.18)",
     "選擇權交易": "",
-    "年化標準差(%)": "N/A（06/08）",
+    "年化標準差(%)": "N/A（06/15）",
     "槓桿多空註記": "",
     "追蹤指數": "",
     "基準指數": "道瓊全球指數",
@@ -99,45 +99,45 @@
   ],
   "holdings": [
     {
-      "code": "LQDW.US",
-      "name": "iShares Investment Grade Corpora",
-      "ratio": 7.13,
-      "shares": 100000
-    },
-    {
       "code": "TLTW.US",
       "name": "iShares 20+ Year Treasury Bond B",
-      "ratio": 6.27,
-      "shares": 95000
+      "ratio": 7.18,
+      "shares": 108000
+    },
+    {
+      "code": "LQDW.US",
+      "name": "iShares Investment Grade Corpora",
+      "ratio": 7.17,
+      "shares": 100000
     },
     {
       "code": "",
       "name": "C 8 1/8 07/15/39",
-      "ratio": 2.27,
+      "ratio": 2.28,
       "shares": null
     },
     {
       "code": "",
       "name": "DOW 9.4 05/15/39",
-      "ratio": 2.06,
+      "ratio": 2.08,
       "shares": null
     },
     {
       "code": "",
       "name": "ABIBB 8.2 01/15/39",
-      "ratio": 1.91,
+      "ratio": 1.92,
       "shares": null
     },
     {
       "code": "",
       "name": "BACR 7.437 11/02/33",
-      "ratio": 1.9,
+      "ratio": 1.91,
       "shares": null
     },
     {
       "code": "",
       "name": "TRPCN 7 5/8 01/15/39",
-      "ratio": 1.79,
+      "ratio": 1.8,
       "shares": null
     },
     {
@@ -155,19 +155,13 @@
     {
       "code": "",
       "name": "RAKUTN 11 1/4 02/15/27",
-      "ratio": 1.75,
+      "ratio": 1.74,
       "shares": null
     },
     {
       "code": "",
       "name": "DELL 8.1 07/15/36",
       "ratio": 1.68,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "PFE 7.2 03/15/39",
-      "ratio": 1.64,
       "shares": null
     },
     {
@@ -179,7 +173,7 @@
     {
       "code": "",
       "name": "DELL 8.35 07/15/46",
-      "ratio": 1.59,
+      "ratio": 1.6,
       "shares": null
     },
     {
@@ -191,13 +185,7 @@
     {
       "code": "",
       "name": "DTV 8 7/8 02/01/30",
-      "ratio": 1.53,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "DIS 7 3/4 12/01/45",
-      "ratio": 1.52,
+      "ratio": 1.54,
       "shares": null
     },
     {
@@ -221,7 +209,7 @@
     {
       "code": "",
       "name": "CYH 10 7/8 01/15/32",
-      "ratio": 1.44,
+      "ratio": 1.45,
       "shares": null
     },
     {
@@ -233,12 +221,18 @@
     {
       "code": "",
       "name": "MS 7 1/4 04/01/32",
-      "ratio": 1.41,
+      "ratio": 1.42,
       "shares": null
     },
     {
       "code": "",
       "name": "ORCL 6.9 11/09/52",
+      "ratio": 1.4,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "PFE 7.2 03/15/39",
       "ratio": 1.4,
       "shares": null
     },
@@ -251,7 +245,7 @@
     {
       "code": "",
       "name": "CRWV 9 02/01/31",
-      "ratio": 1.33,
+      "ratio": 1.32,
       "shares": null
     },
     {
@@ -263,6 +257,12 @@
     {
       "code": "",
       "name": "BATSLN 7.081 08/02/53",
+      "ratio": 1.32,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "DIS 7 3/4 12/01/45",
       "ratio": 1.31,
       "shares": null
     },
@@ -281,24 +281,24 @@
     {
       "code": "",
       "name": "SUCN 6.85 06/01/39",
-      "ratio": 1.19,
+      "ratio": 1.2,
       "shares": null
     },
     {
       "code": "",
       "name": "GM 6 3/4 04/01/46",
-      "ratio": 1.16,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "PCG 6 3/4 01/15/53",
-      "ratio": 1.13,
+      "ratio": 1.17,
       "shares": null
     },
     {
       "code": "",
       "name": "BRKHEC 6 3/4 07/01/37",
+      "ratio": 1.13,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "PCG 6 3/4 01/15/53",
       "ratio": 1.13,
       "shares": null
     },
@@ -311,7 +311,7 @@
     {
       "code": "",
       "name": "VZ 7 3/4 12/01/30",
-      "ratio": 1.1,
+      "ratio": 1.11,
       "shares": null
     },
     {
@@ -323,36 +323,42 @@
     {
       "code": "",
       "name": "BATSLN 7.079 08/02/43",
-      "ratio": 1.06,
+      "ratio": 1.07,
       "shares": null
     },
     {
       "code": "",
       "name": "HSBC 6.332 03/09/44",
-      "ratio": 1.05,
+      "ratio": 1.06,
       "shares": null
     },
     {
       "code": "",
       "name": "KMI 6.95 01/15/38",
-      "ratio": 1.03,
+      "ratio": 1.04,
       "shares": null
     },
     {
       "code": "",
       "name": "AWK 6.593 10/15/37",
-      "ratio": 1.03,
+      "ratio": 1.04,
       "shares": null
     },
     {
       "code": "",
       "name": "CMCSA 6.95 08/15/37",
-      "ratio": 1.0,
+      "ratio": 1.01,
       "shares": null
     },
     {
       "code": "",
       "name": "HPE 6.35 10/15/45",
+      "ratio": 0.99,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "KHC 6 7/8 01/26/39",
       "ratio": 0.98,
       "shares": null
     },
@@ -364,14 +370,8 @@
     },
     {
       "code": "",
-      "name": "KHC 6 7/8 01/26/39",
-      "ratio": 0.98,
-      "shares": null
-    },
-    {
-      "code": "",
       "name": "PCG 6.7 04/01/53",
-      "ratio": 0.93,
+      "ratio": 0.94,
       "shares": null
     },
     {
@@ -388,13 +388,13 @@
     },
     {
       "code": "",
-      "name": "MINAU 9 1/4 10/01/28",
+      "name": "UNITEDHEALTH GROUP INC 6.875 02/15/38",
       "ratio": 0.85,
       "shares": null
     },
     {
       "code": "",
-      "name": "UNITEDHEALTH GROUP INC 6.875 02/15/38",
+      "name": "MINAU 9 1/4 10/01/28",
       "ratio": 0.85,
       "shares": null
     },
@@ -413,13 +413,13 @@
     {
       "code": "",
       "name": "PDM 9 1/4 07/20/28",
-      "ratio": 0.82,
+      "ratio": 0.81,
       "shares": null
     },
     {
       "code": "",
       "name": "CP 7 1/8 10/15/31",
-      "ratio": 0.79,
+      "ratio": 0.8,
       "shares": null
     },
     {
@@ -437,12 +437,18 @@
     {
       "code": "",
       "name": "DOW 6.9 05/15/53",
-      "ratio": 0.72,
+      "ratio": 0.74,
       "shares": null
     },
     {
       "code": "",
       "name": "VLO 6 5/8 06/15/37",
+      "ratio": 0.73,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "MCD 6.3 03/01/38",
       "ratio": 0.72,
       "shares": null
     },
@@ -450,12 +456,6 @@
       "code": "",
       "name": "AET 6 5/8 06/15/36",
       "ratio": 0.72,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "MCD 6.3 03/01/38",
-      "ratio": 0.71,
       "shares": null
     },
     {
@@ -473,7 +473,7 @@
     {
       "code": "",
       "name": "HTZ 12 5/8 07/15/29",
-      "ratio": 0.68,
+      "ratio": 0.69,
       "shares": null
     },
     {
@@ -497,7 +497,7 @@
     {
       "code": "",
       "name": "SABHLD 10 3/4 11/15/29",
-      "ratio": 0.54,
+      "ratio": 0.55,
       "shares": null
     },
     {
@@ -539,19 +539,19 @@
     {
       "code": "",
       "name": "GM 6.6 04/01/36",
-      "ratio": 0.38,
+      "ratio": 0.39,
       "shares": null
     },
     {
       "code": "",
       "name": "SJM 6 1/2 11/15/53",
-      "ratio": 0.19,
+      "ratio": 0.2,
       "shares": null
     },
     {
       "code": "",
       "name": "T 6.55 02/15/39",
-      "ratio": 0.19,
+      "ratio": 0.2,
       "shares": null
     },
     {

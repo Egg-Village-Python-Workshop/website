@@ -1,7 +1,7 @@
 {
   "id": "00983A",
   "name": "主動中信ARK創新",
-  "fetched_at": "2026-06-08",
+  "fetched_at": "2026-06-15",
   "capital": {
     "ETF名稱": "主動中信ARK創新",
     "交易所代碼": "00983A",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2025/06/18",
     "成分股數": 37,
-    "ETF規模": "2,155.88(百萬台幣)(2026/06/05)",
-    "成交量(股)": "2,558,681（月均:3,611,821）",
+    "ETF規模": "2,062.36(百萬台幣)(2026/06/12)",
+    "成交量(股)": "8,107,539（月均:4,600,223）",
     "投資標的": "股票型",
     "經理人": "唐祖蔭／王建武",
     "投資區域": "美國",
@@ -23,22 +23,22 @@
     "投資風格": "",
     "配息頻率": "年配",
     "經理費(%)": "1",
-    "殖利率(%)": "N/A（06/08）",
+    "殖利率(%)": "N/A（06/15）",
     "總管理費用(%)": "0.6",
     "經銷商": "",
     "官方網站連結": "https://www.ctbcinvestments.com.tw/Etf/00586267/Info",
-    "ETF市價": "11.3500（06/08）",
+    "ETF市價": "11.7200（06/15）",
     "融資交易": "Y",
-    "ETF淨值": "11.2800（06/05）",
+    "ETF淨值": "11.5400（06/12）",
     "放空交易": "Y",
-    "折溢價(%)": "5.41(月均:-0.57)",
+    "折溢價(%)": "-1.65(月均:-0.50)",
     "選擇權交易": "",
-    "年化標準差(%)": "N/A（06/08）",
+    "年化標準差(%)": "N/A（06/15）",
     "槓桿多空註記": "",
     "追蹤指數": "",
     "基準指數": "S&P500 (SPY.US)",
     "投資策略": "本基金為主動式交易所交易基金，原則上以投資美國企業為主，主要追求具「顛覆式創新」概念及爆發性增長企業之報酬為目標， 本基金藉由經理公司投資研究團隊對於全球經濟及投資市場分析，及海外投資顧問公司在「顛覆式創新」概念研究之豐富資源與經驗，依投資目標及策略，主動建構及調整投資組合，透過布局於具備成長潛力的顛覆式創新企業之配置，掌握「顛覆式創新」概念之有價證券所帶來具經濟效益創新革命的績效表現。",
-    "文件下載": "基金概覽年報簡式公開說明書公開說明書"
+    "文件下載": "基金概覽年報公開說明書簡式公開說明書"
   },
   "sectors": [
     {
@@ -86,194 +86,188 @@
     {
       "code": "TSLA.US",
       "name": "Tesla",
-      "ratio": 9.22,
-      "shares": 16131
+      "ratio": 9.76,
+      "shares": 15675
     },
     {
       "code": "AMD.US",
       "name": "AMD",
-      "ratio": 7.91,
-      "shares": 11607
-    },
-    {
-      "code": "PLTR.US",
-      "name": "Palantir Technologies",
-      "ratio": 6.35,
-      "shares": 32051
+      "ratio": 8.85,
+      "shares": 11282
     },
     {
       "code": "ROKU.US",
       "name": "Roku",
-      "ratio": 5.48,
-      "shares": 30674
+      "ratio": 7.27,
+      "shares": 33025
+    },
+    {
+      "code": "HOOD.US",
+      "name": "Robinhood Markets",
+      "ratio": 4.79,
+      "shares": 33521
+    },
+    {
+      "code": "PLTR.US",
+      "name": "Palantir Technologies",
+      "ratio": 4.69,
+      "shares": 23886
     },
     {
       "code": "TXG.US",
       "name": "10x Genomics",
-      "ratio": 5.28,
-      "shares": 116423
+      "ratio": 4.43,
+      "shares": 100188
     },
     {
       "code": "SHOP.US",
       "name": "Shopify",
-      "ratio": 4.24,
+      "ratio": 4.4,
       "shares": 26495
-    },
-    {
-      "code": "CRCL.US",
-      "name": "Circle",
-      "ratio": 4.06,
-      "shares": 34599
     },
     {
       "code": "ADR",
       "name": "TSMC",
-      "ratio": 4.02,
+      "ratio": 4.31,
       "shares": 6630
     },
     {
       "code": "CRSP.US",
       "name": "CRISPR Therapeutics",
-      "ratio": 3.64,
+      "ratio": 3.66,
       "shares": 47988
     },
     {
       "code": "BEAM.US",
       "name": "Beam Therapeutics",
-      "ratio": 3.5,
+      "ratio": 3.62,
       "shares": 81347
-    },
-    {
-      "code": "HOOD.US",
-      "name": "Robinhood Markets",
-      "ratio": 3.38,
-      "shares": 28047
-    },
-    {
-      "code": "NVDA.US",
-      "name": "NVIDIA",
-      "ratio": 3.37,
-      "shares": 11230
     },
     {
       "code": "COIN.US",
       "name": "Coinbase",
-      "ratio": 3.21,
+      "ratio": 3.53,
       "shares": 14423
+    },
+    {
+      "code": "NVDA.US",
+      "name": "NVIDIA",
+      "ratio": 3.53,
+      "shares": 11230
     },
     {
       "code": "TWST.US",
       "name": "Twist Bioscience",
-      "ratio": 3.05,
+      "ratio": 3.52,
       "shares": 30144
     },
     {
-      "code": "TER.US",
-      "name": "Teradyne",
-      "ratio": 2.96,
-      "shares": 5657
+      "code": "CRCL.US",
+      "name": "Circle",
+      "ratio": 3.11,
+      "shares": 26054
     },
     {
       "code": "AMZN.US",
       "name": "Amazon",
-      "ratio": 2.88,
+      "ratio": 2.92,
       "shares": 7997
     },
     {
-      "code": "XYZ.US",
-      "name": "Block",
-      "ratio": 2.66,
-      "shares": 26695
+      "code": "TER.US",
+      "name": "Teradyne",
+      "ratio": 2.92,
+      "shares": 4717
     },
     {
       "code": "NTRA.US",
       "name": "Natera",
-      "ratio": 2.39,
+      "ratio": 2.47,
       "shares": 7584
-    },
-    {
-      "code": "CRWV.US",
-      "name": "CoreWeave",
-      "ratio": 2.21,
-      "shares": 15060
     },
     {
       "code": "ILMN.US",
       "name": "Illumina",
-      "ratio": 2.13,
-      "shares": 8961
+      "ratio": 2.41,
+      "shares": 9784
     },
     {
-      "code": "META.US",
-      "name": "Meta",
-      "ratio": 2.13,
-      "shares": 2457
+      "code": "CRWV.US",
+      "name": "CoreWeave",
+      "ratio": 2.32,
+      "shares": 15060
     },
     {
       "code": "VCYT.US",
       "name": "Veracyte",
-      "ratio": 1.91,
-      "shares": 26741
+      "ratio": 2.04,
+      "shares": 28127
+    },
+    {
+      "code": "XYZ.US",
+      "name": "Block",
+      "ratio": 1.81,
+      "shares": 16952
     },
     {
       "code": "AVGO.US",
       "name": "Broadcom",
-      "ratio": 1.62,
+      "ratio": 1.69,
       "shares": 2881
     },
     {
       "code": "GOOGL.US",
       "name": "Alphabet - Class A Common Stock",
-      "ratio": 1.33,
+      "ratio": 1.36,
       "shares": 2460
-    },
-    {
-      "code": "BMNR.US",
-      "name": "BitMine",
-      "ratio": 1.18,
-      "shares": 50766
     },
     {
       "code": "TEM.US",
       "name": "Tempus",
-      "ratio": 1.07,
+      "ratio": 1.15,
       "shares": 15715
-    },
-    {
-      "code": "BLSH.US",
-      "name": "Bullish",
-      "ratio": 0.99,
-      "shares": 25177
-    },
-    {
-      "code": "CCJ.US",
-      "name": "Cameco",
-      "ratio": 0.86,
-      "shares": 5688
-    },
-    {
-      "code": "DE.US",
-      "name": "Deere",
-      "ratio": 0.74,
-      "shares": 872
     },
     {
       "code": "NTLA.US",
       "name": "Intellia Therapeutics",
-      "ratio": 0.74,
-      "shares": 37303
+      "ratio": 1.13,
+      "shares": 60943
     },
     {
-      "code": "BIDU.US",
-      "name": "Baidu",
-      "ratio": 0.63,
-      "shares": 3534
+      "code": "META.US",
+      "name": "Meta",
+      "ratio": 1.0,
+      "shares": 1147
     },
     {
-      "code": "BWXT.US",
-      "name": "BWX Technologies",
-      "ratio": 0.39,
-      "shares": 1437
+      "code": "GOOG.US",
+      "name": "Alphabet - Class C Capital Stock",
+      "ratio": 0.83,
+      "shares": 1503
+    },
+    {
+      "code": "DE.US",
+      "name": "Deere",
+      "ratio": 0.77,
+      "shares": 872
+    },
+    {
+      "code": "CBRS.US",
+      "name": "Cerebras",
+      "ratio": 0.46,
+      "shares": 1398
+    },
+    {
+      "code": "CCJ.US",
+      "name": "Cameco",
+      "ratio": 0.43,
+      "shares": 2768
+    },
+    {
+      "code": "BLSH.US",
+      "name": "Bullish",
+      "ratio": 0.43,
+      "shares": 10335
     },
     {
       "code": "JOBY.US",
@@ -282,22 +276,22 @@
       "shares": 26283
     },
     {
-      "code": "CBRS.US",
-      "name": "Cerebras",
-      "ratio": 0.26,
-      "shares": 880
-    },
-    {
-      "code": "BABA.US",
-      "name": "Alibaba Group",
-      "ratio": 0.22,
-      "shares": 1230
+      "code": "BWXT.US",
+      "name": "BWX Technologies",
+      "ratio": 0.33,
+      "shares": 1113
     },
     {
       "code": "P.US",
       "name": "Everpure",
-      "ratio": 0.22,
+      "ratio": 0.24,
       "shares": 2125
+    },
+    {
+      "code": "BMNR.US",
+      "name": "BitMine",
+      "ratio": 0.21,
+      "shares": 8440
     },
     {
       "code": "CERS.US",
@@ -306,15 +300,15 @@
       "shares": 38274
     },
     {
-      "code": "XE.US",
-      "name": "X-Energy",
-      "ratio": 0.13,
-      "shares": 4155
+      "code": "BABA.US",
+      "name": "Alibaba Group",
+      "ratio": 0.11,
+      "shares": 644
     },
     {
       "code": "FIG.US",
       "name": "Figma",
-      "ratio": 0.09,
+      "ratio": 0.08,
       "shares": 2818
     }
   ]

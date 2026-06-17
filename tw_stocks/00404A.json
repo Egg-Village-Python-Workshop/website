@@ -1,7 +1,7 @@
 {
   "id": "00404A",
   "name": "主動聯博動能50",
-  "fetched_at": "2026-06-08",
+  "fetched_at": "2026-06-15",
   "capital": {
     "ETF名稱": "主動聯博動能50",
     "交易所代碼": "00404A",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2026/06/09",
     "成分股數": 0,
-    "ETF規模": "2,019.94(百萬)(2026/06/08)",
-    "成交量(股)": "N/A（月均:N/A）",
+    "ETF規模": "2,748.18(百萬)(2026/06/15)",
+    "成交量(股)": "17,869,995（月均:31,175,527）",
     "投資標的": "股票型",
     "經理人": "黃靜怡",
     "投資區域": "台灣",
@@ -23,341 +23,347 @@
     "投資風格": "",
     "配息頻率": "季配",
     "經理費(%)": "0.75",
-    "殖利率(%)": "N/A（N/A）",
+    "殖利率(%)": "N/A（06/15）",
     "總管理費用(%)": "",
     "經銷商": "",
     "官方網站連結": "https://www.abfunds.com.tw/zh-tw/funds/etf/active/equities/abitl-taiwan-momentum-equity-premium-income-50-active-etf.-.TW00000404A5.html",
-    "ETF市價": "N/A（N/A）",
+    "ETF市價": "10.0000（06/15）",
     "融資交易": "Y",
-    "ETF淨值": "9.6300（06/08）",
+    "ETF淨值": "10.0400（06/15）",
     "放空交易": "Y",
-    "折溢價(%)": "",
+    "折溢價(%)": "-0.40(月均:0.06)",
     "選擇權交易": "",
-    "年化標準差(%)": "N/A（N/A）",
+    "年化標準差(%)": "N/A（06/15）",
     "槓桿多空註記": "",
     "追蹤指數": "",
     "基準指數": "加權指數",
     "投資策略": "(一)本基金投資於中華民國之有價證券為中華民國之政府公債、公司債(含次順位公司債、無擔保公司債、承銷中公司債)、轉換公司債、交換公司債、附認股權公司債、金融債券(含次順位金融債券)、依金融資產證券化條例公開招募之受益證券或資產基礎證券、依不動產證券化條例募集之不動產資產信託受益證券、經金管會核准於我國境內募集發行之國際金融組織債券，以及債券型(含固定收益型)或貨幣市場型基金受益憑證(包含槓桿及反向指數股票型基金)。(二)本基金投資之外國有價證券為： 1、由外國國家或機構所保證或發行之債券(含政府公債、公司債(含無擔保公司債、次順位公司債(含無到期日次順位公司債))、轉換公司債、交換公司債、附認股權公司債、金融債券、次順位金融債券(含無到期日次順位金融債券)、金融資產證券化之受益證券或資產基礎證券、不動產資產信託受益證券(REATs)、由金融機構發行具損失吸收能力之債券(如應急可轉換債券(ContingentConvertible Bond, CoCo Bond)、具總損失吸收能力(Total Loss-Absorbing Capacity, TLAC)債券及符合自有資金及合格債務最低要求(Minimum Requirement for Own Funds and Eligible Liabilities,MREL)之債券)、符合美國Rule 144A規定之債券)及本國企業赴海外發行之公司債。 2、於外國證券交易所及其他經金管會核准之外國店頭市場交易之封閉式債券型(含固定收益型)或貨幣市場型基金受益憑證、基金股份、投資單位(包含槓桿及反向指數股票型基金)及追蹤、模擬或複製債券指數表現之指數股票型基金。 3、經金管會核准或申報生效得募集及銷售之外國基金管理機構所發行或經理之債券型(含固定收益型)或貨幣市場型基金受益憑證、基金股份、投資單位。 4、本基金可投資之國家及地區詳如本基金公開說明書。",
-    "文件下載": "簡式公開說明書公開說明書"
+    "文件下載": "公開說明書簡式公開說明書"
   },
   "sectors": [],
   "holdings": [
     {
-      "code": "",
-      "name": "TAIWAN SEMICONDUCTOR MFG CO. LTD",
-      "ratio": 22.61,
-      "shares": null
+      "code": "2330.TW",
+      "name": "台積電",
+      "ratio": 22.82,
+      "shares": 264000
     },
     {
       "code": "",
-      "name": "MEDIATEK INC",
-      "ratio": 6.95,
+      "name": "臺股期貨07/26",
+      "ratio": 12.34,
       "shares": null
     },
     {
-      "code": "",
-      "name": "DELTA ELECTRONICS INC TWD10",
-      "ratio": 5.02,
-      "shares": null
+      "code": "2454.TW",
+      "name": "聯發科",
+      "ratio": 7.56,
+      "shares": 46500
     },
     {
-      "code": "",
-      "name": "YUANTA FINANCIAL HOLDING CO LTD ORD TWD10",
-      "ratio": 3.54,
-      "shares": null
+      "code": "2308.TW",
+      "name": "台達電",
+      "ratio": 4.83,
+      "shares": 60000
     },
     {
-      "code": "",
-      "name": "ASE TECHNOLOGY HOLDING CO LTD ORD TWD10",
-      "ratio": 3.4,
-      "shares": null
+      "code": "2885.TW",
+      "name": "元大金",
+      "ratio": 3.67,
+      "shares": 1551000
     },
     {
-      "code": "",
-      "name": "KGI FINANCIAL HOLDING CO LTD",
-      "ratio": 2.71,
-      "shares": null
+      "code": "3711.TW",
+      "name": "日月光投控",
+      "ratio": 3.46,
+      "shares": 161000
     },
     {
-      "code": "",
-      "name": "QUANTA COMPUTER INC",
-      "ratio": 2.65,
-      "shares": null
+      "code": "2883.TW",
+      "name": "凱基金",
+      "ratio": 2.69,
+      "shares": 2569000
     },
     {
-      "code": "",
-      "name": "ASPEED TECHNOLOGY INC ORD TWD10",
-      "ratio": 2.34,
-      "shares": null
+      "code": "2382.TW",
+      "name": "廣達",
+      "ratio": 2.52,
+      "shares": 187000
     },
     {
-      "code": "",
-      "name": "ASUSTEK COMPUTER INC",
-      "ratio": 2.21,
-      "shares": null
+      "code": "2357.TW",
+      "name": "華碩",
+      "ratio": 2.22,
+      "shares": 77000
     },
     {
-      "code": "",
-      "name": "EVERGREEN MARINE CORPORATION",
-      "ratio": 2.01,
-      "shares": null
+      "code": "5274.TW",
+      "name": "信驊",
+      "ratio": 2.14,
+      "shares": 3300
     },
     {
-      "code": "",
-      "name": "WISDOM MARINE LINES CO LTD",
+      "code": "2603.TW",
+      "name": "長榮",
+      "ratio": 1.97,
+      "shares": 241000
+    },
+    {
+      "code": "6196.TW",
+      "name": "帆宣",
+      "ratio": 1.86,
+      "shares": 89000
+    },
+    {
+      "code": "2637.TW",
+      "name": "慧洋-KY",
+      "ratio": 1.83,
+      "shares": 636000
+    },
+    {
+      "code": "5434.TW",
+      "name": "崇越",
+      "ratio": 1.82,
+      "shares": 107000
+    },
+    {
+      "code": "3265.TW",
+      "name": "台星科",
       "ratio": 1.81,
-      "shares": null
+      "shares": 282000
     },
     {
-      "code": "",
-      "name": "MARKETECH INTERNATIONAL CORP ORD TWD10",
-      "ratio": 1.81,
-      "shares": null
+      "code": "6414.TW",
+      "name": "樺漢",
+      "ratio": 1.72,
+      "shares": 124000
     },
     {
-      "code": "",
-      "name": "ENNOCONN CORPORATION ORD TWD10",
-      "ratio": 1.8,
-      "shares": null
+      "code": "8016.TW",
+      "name": "矽創",
+      "ratio": 1.69,
+      "shares": 169000
     },
     {
-      "code": "",
-      "name": "WINSTEK SEMICONDUCTOR CO LTD ORD TWD 10",
-      "ratio": 1.78,
-      "shares": null
+      "code": "2360.TW",
+      "name": "致茂",
+      "ratio": 1.57,
+      "shares": 19000
     },
     {
-      "code": "",
-      "name": "TOPCO SCIENTIFIC CO LTD ORD TWD10",
-      "ratio": 1.78,
-      "shares": null
+      "code": "2383.TW",
+      "name": "台光電",
+      "ratio": 1.46,
+      "shares": 8000
     },
     {
-      "code": "",
-      "name": "SITRONIX TECHNOLOGY CORP ORD TWD10",
-      "ratio": 1.75,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "CHROMA ATE INC ORD TWD10",
-      "ratio": 1.58,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "ELITE MATERIAL CO LTD ORD TWD 10",
+      "code": "2303.TW",
+      "name": "聯電",
       "ratio": 1.42,
-      "shares": null
+      "shares": 275000
     },
     {
-      "code": "",
-      "name": "ASIA VITAL COMPONENTS ORD TWD10",
+      "code": "3443.TW",
+      "name": "創意",
       "ratio": 1.4,
-      "shares": null
+      "shares": 8000
     },
     {
-      "code": "",
-      "name": "MPI CORP ORD TWD10",
+      "code": "3260.TW",
+      "name": "威剛",
       "ratio": 1.37,
-      "shares": null
+      "shares": 89000
     },
     {
-      "code": "",
-      "name": "UNITED MICROELECTRONICS CORP ORD TWD10",
+      "code": "3017.TW",
+      "name": "奇鋐",
+      "ratio": 1.32,
+      "shares": 15000
+    },
+    {
+      "code": "6223.TW",
+      "name": "旺矽",
       "ratio": 1.29,
-      "shares": null
+      "shares": 5500
     },
     {
-      "code": "",
-      "name": "A-DATA TECHNOLOGY CO LTD ORD TWD10",
-      "ratio": 1.28,
-      "shares": null
+      "code": "8299.TW",
+      "name": "群聯",
+      "ratio": 1.27,
+      "shares": 15000
     },
     {
-      "code": "",
-      "name": "GLOBAL UNICHIP CORP ORD TWD10",
-      "ratio": 1.26,
-      "shares": null
+      "code": "4766.TW",
+      "name": "南寶",
+      "ratio": 1.09,
+      "shares": 81000
     },
     {
-      "code": "",
-      "name": "PHISON ELECTRONICS CORP ORD TWD10",
-      "ratio": 1.23,
-      "shares": null
+      "code": "3264.TW",
+      "name": "欣銓",
+      "ratio": 1.09,
+      "shares": 131000
     },
     {
-      "code": "",
-      "name": "NAN PAO RESINS CHEMICAL CO LTD ORD TWD 10",
-      "ratio": 1.12,
-      "shares": null
+      "code": "2606.TW",
+      "name": "裕民",
+      "ratio": 1.07,
+      "shares": 437000
     },
     {
-      "code": "",
-      "name": "U MING MARINE TRANSPORT CORP COM TWD10",
-      "ratio": 1.11,
-      "shares": null
+      "code": "2345.TW",
+      "name": "智邦",
+      "ratio": 0.97,
+      "shares": 11000
     },
     {
-      "code": "",
-      "name": "ARDENTEC CORPORATION ORD TWD10",
-      "ratio": 0.98,
-      "shares": null
+      "code": "6515.TW",
+      "name": "穎崴",
+      "ratio": 0.9,
+      "shares": 2500
     },
     {
-      "code": "",
-      "name": "ACCTON TECHNOLOGY CORP ORD TWD 10",
-      "ratio": 0.96,
-      "shares": null
+      "code": "2347.TW",
+      "name": "聯強",
+      "ratio": 0.87,
+      "shares": 265000
     },
     {
-      "code": "",
-      "name": "GOLD CIRCUIT ELECTRONICS LTD ORD TWD 10",
-      "ratio": 0.94,
-      "shares": null
+      "code": "2368.TW",
+      "name": "金像電",
+      "ratio": 0.82,
+      "shares": 17000
     },
     {
-      "code": "",
-      "name": "SYNNEX TECHNOLOGY INTERNATIONAL CORPORATION",
-      "ratio": 0.91,
-      "shares": null
+      "code": "5347.TW",
+      "name": "世界",
+      "ratio": 0.77,
+      "shares": 121000
     },
     {
-      "code": "",
-      "name": "WINWAY TECHNOLOGY CO LTD ORD TWD10.000000000",
-      "ratio": 0.83,
-      "shares": null
+      "code": "3529.TW",
+      "name": "力旺",
+      "ratio": 0.7,
+      "shares": 6000
     },
     {
-      "code": "",
-      "name": "VANGUARD INTERNATIONAL SEMICONDUCTOR CORPORATION ORD TWD10",
-      "ratio": 0.76,
-      "shares": null
+      "code": "4961.TW",
+      "name": "天鈺",
+      "ratio": 0.68,
+      "shares": 109000
     },
     {
-      "code": "",
-      "name": "FITIPOWER INTEGRATED TECHNOLOG ORD TWD10.000000000",
+      "code": "6679.TW",
+      "name": "鈺太",
       "ratio": 0.64,
-      "shares": null
+      "shares": 65000
     },
     {
-      "code": "",
-      "name": "EMEMORY TECHNOLOGY INC",
-      "ratio": 0.63,
-      "shares": null
+      "code": "2404.TW",
+      "name": "漢唐",
+      "ratio": 0.6,
+      "shares": 12000
     },
     {
-      "code": "",
-      "name": "ZILLTEK TECHNOLOGY CORP ORD TWD10",
-      "ratio": 0.61,
-      "shares": null
+      "code": "5289.TW",
+      "name": "宜鼎",
+      "ratio": 0.56,
+      "shares": 8000
     },
     {
-      "code": "",
-      "name": "UNITED INTEGRATED SERVICES CO ORD TWD 10",
+      "code": "2327.TW",
+      "name": "國巨",
       "ratio": 0.55,
-      "shares": null
+      "shares": 16000
     },
     {
-      "code": "",
-      "name": "INNODISK CORP ORD TWD 10",
-      "ratio": 0.54,
-      "shares": null
+      "code": "6669.TW",
+      "name": "緯穎",
+      "ratio": 0.53,
+      "shares": 3000
     },
     {
-      "code": "",
-      "name": "WIWYNN CORP ORD TWD 10",
+      "code": "3034.TW",
+      "name": "聯詠",
       "ratio": 0.52,
-      "shares": null
+      "shares": 29000
     },
     {
-      "code": "",
-      "name": "NOVATEK MICROELECTRONICS CORP LTD",
-      "ratio": 0.52,
-      "shares": null
+      "code": "6531.TW",
+      "name": "愛普",
+      "ratio": 0.47,
+      "shares": 14000
     },
     {
-      "code": "",
-      "name": "YAGEO CORP ORD TWD 10",
-      "ratio": 0.48,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "KINSUS INTERCONNECT TECHNOLOGY CORP ORD TWD10",
-      "ratio": 0.45,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "TAIEX FUTURES JUL26 15-JUL-2026",
+      "code": "3189.TW",
+      "name": "景碩",
       "ratio": 0.43,
-      "shares": null
+      "shares": 18000
     },
     {
-      "code": "",
-      "name": "UNIMICRON TECHNOLOGY CORPORATION",
-      "ratio": 0.41,
-      "shares": null
+      "code": "3037.TW",
+      "name": "欣興",
+      "ratio": 0.42,
+      "shares": 12000
     },
     {
-      "code": "",
-      "name": "AP MEMORY TECHNOLOGY CORP ORD TWD5.000000000",
-      "ratio": 0.41,
-      "shares": null
+      "code": "2451.TW",
+      "name": "創見",
+      "ratio": 0.28,
+      "shares": 25000
     },
     {
-      "code": "",
-      "name": "TRANSCEND INFORMATION INC ORD TWD10",
+      "code": "8028.TW",
+      "name": "昇陽半導體",
+      "ratio": 0.27,
+      "shares": 23000
+    },
+    {
+      "code": "3010.TW",
+      "name": "華立",
       "ratio": 0.26,
-      "shares": null
+      "shares": 55000
+    },
+    {
+      "code": "3131.TW",
+      "name": "弘塑",
+      "ratio": 0.23,
+      "shares": 2000
+    },
+    {
+      "code": "6239.TW",
+      "name": "力成",
+      "ratio": 0.19,
+      "shares": 16000
+    },
+    {
+      "code": "2351.TW",
+      "name": "順德",
+      "ratio": 0.19,
+      "shares": 28000
+    },
+    {
+      "code": "6640.TW",
+      "name": "均華",
+      "ratio": 0.08,
+      "shares": 2000
     },
     {
       "code": "",
-      "name": "WAH LEE INDUSTRIAL CORP ORD TWD10",
-      "ratio": 0.26,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "PHOENIX SILICON INTERNATIONAL ORD TWD 10",
-      "ratio": 0.26,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "SDI CORP ORD TWD 10",
-      "ratio": 0.17,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "POWERTECH TECHNOLOGY INC ORD TWD10",
-      "ratio": 0.17,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "GRAND PLASTIC TECHNOLOGY CORP ORD TWD 10",
-      "ratio": 0.15,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "GALLANT MICRO MACHINING CO LTD ORD TWD 10",
-      "ratio": 0.11,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "CALL JULY 26 CALLS ON TWSE 15-JUL-2026 50",
-      "ratio": 0.0,
-      "shares": null
-    },
-    {
-      "code": "",
-      "name": "CALL AUGUST 26 CALLS ON TWSE 19-AUG-2026 50",
+      "name": "臺指選擇權08/26 51000 買權",
       "ratio": -0.02,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "臺指選擇權07/26 49200 買權",
+      "ratio": -0.27,
+      "shares": null
+    },
+    {
+      "code": "",
+      "name": "名稱",
+      "ratio": null,
       "shares": null
     }
   ]

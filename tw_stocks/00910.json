@@ -1,7 +1,7 @@
 {
   "id": "00910",
   "name": "第一金太空衛星",
-  "fetched_at": "2026-06-08",
+  "fetched_at": "2026-06-15",
   "capital": {
     "ETF名稱": "第一金太空衛星",
     "交易所代碼": "00910",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2022/07/20",
     "成分股數": 29,
-    "ETF規模": "8,921.00(百萬台幣)(2026/06/08)",
-    "成交量(股)": "4,097,132（月均:4,713,669）",
+    "ETF規模": "9,868.96(百萬台幣)(2026/06/15)",
+    "成交量(股)": "15,208,407（月均:6,170,971）",
     "投資標的": "工業類股",
     "經理人": "曾萬勝",
     "投資區域": "全球",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "",
     "經理費(%)": "0.9",
-    "殖利率(%)": "N/A（06/08）",
+    "殖利率(%)": "N/A（06/15）",
     "總管理費用(%)": "1.17 (含 0.27 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://www.fsitc.com.tw/FundDetail.aspx?ID=167#TabLinkdivEditTab1",
-    "ETF市價": "70.6000（06/08）",
+    "ETF市價": "70.4500（06/15）",
     "融資交易": "Y",
-    "ETF淨值": "70.8600（06/05）",
+    "ETF淨值": "68.3300（06/12）",
     "放空交易": "Y",
-    "折溢價(%)": "8.03(月均:-0.06)",
+    "折溢價(%)": "10.13(月均:1.05)",
     "選擇權交易": "",
-    "年化標準差(%)": "33.89（06/08）",
+    "年化標準差(%)": "39.92（06/15）",
     "槓桿多空註記": "",
     "追蹤指數": "Solactive太空衛星指數",
     "基準指數": "The Space Index",
@@ -43,204 +43,204 @@
   "sectors": [
     {
       "name": "工業",
-      "amount_wan": 345551.7,
-      "ratio": 56.34
+      "amount_wan": 512076.6,
+      "ratio": 60.83
     },
     {
       "name": "資訊技術",
-      "amount_wan": 116717.2,
-      "ratio": 19.03
+      "amount_wan": 147233.6,
+      "ratio": 17.49
     },
     {
       "name": "通訊服務",
-      "amount_wan": 111626.6,
-      "ratio": 18.2
+      "amount_wan": 138310.3,
+      "ratio": 16.43
     },
     {
       "name": "非核心消費",
-      "amount_wan": 33794.6,
-      "ratio": 5.51
+      "amount_wan": 34851.2,
+      "ratio": 4.14
     },
     {
       "name": "現金",
-      "amount_wan": 5642.7,
-      "ratio": 0.92
+      "amount_wan": 9344.2,
+      "ratio": 1.11
     }
   ],
   "holdings": [
     {
       "code": "",
       "name": "Satellogic Inc",
-      "ratio": 5.66,
-      "shares": 2122466
-    },
-    {
-      "code": "RDW.US",
-      "name": "Redwire",
-      "ratio": 5.31,
-      "shares": 773053
+      "ratio": 5.49,
+      "shares": 2455818
     },
     {
       "code": "SPIR.US",
       "name": "Spire Global",
-      "ratio": 4.97,
-      "shares": 778084
+      "ratio": 5.48,
+      "shares": 900288
     },
     {
       "code": "6285.TW",
       "name": "啟碁",
-      "ratio": 4.93,
-      "shares": 1429000
+      "ratio": 4.73,
+      "shares": 1652000
+    },
+    {
+      "code": "RDW.US",
+      "name": "Redwire",
+      "ratio": 4.54,
+      "shares": 894467
     },
     {
       "code": "2455.TW",
       "name": "全新",
-      "ratio": 4.74,
-      "shares": 1006000
+      "ratio": 4.29,
+      "shares": 1149000
     },
     {
       "code": "FLY.US",
       "name": "Firefly Aerospace",
-      "ratio": 4.51,
-      "shares": 335231
-    },
-    {
-      "code": "",
-      "name": "Intuitive Machines I",
-      "ratio": 4.21,
-      "shares": 385281
-    },
-    {
-      "code": "RKLB.US",
-      "name": "Rocket Lab",
-      "ratio": 4.09,
-      "shares": 99763
-    },
-    {
-      "code": "VOYG.US",
-      "name": "Voyager Technologies",
-      "ratio": 3.82,
-      "shares": 246866
-    },
-    {
-      "code": "",
-      "name": "BlackSky Technology",
-      "ratio": 3.82,
-      "shares": 295224
+      "ratio": 4.15,
+      "shares": 387881
     },
     {
       "code": "VSAT.US",
       "name": "Viasat",
-      "ratio": 3.75,
-      "shares": 149957
+      "ratio": 4.08,
+      "shares": 173509
+    },
+    {
+      "code": "",
+      "name": "Intuitive Machines I",
+      "ratio": 3.98,
+      "shares": 445793
+    },
+    {
+      "code": "RKLB.US",
+      "name": "Rocket Lab",
+      "ratio": 3.96,
+      "shares": 115431
+    },
+    {
+      "code": "VOYG.US",
+      "name": "Voyager Technologies",
+      "ratio": 3.94,
+      "shares": 285639
+    },
+    {
+      "code": "",
+      "name": "BlackSky Technology",
+      "ratio": 3.72,
+      "shares": 341591
     },
     {
       "code": "GSAT.US",
       "name": "Globalstar",
-      "ratio": 3.55,
-      "shares": 117030
+      "ratio": 3.69,
+      "shares": 135411
     },
     {
       "code": "9412.JP",
       "name": "SKY Perfect JSAT",
-      "ratio": 3.51,
-      "shares": 414099
-    },
-    {
-      "code": "PL.US",
-      "name": "Planet",
-      "ratio": 3.31,
-      "shares": 275920
-    },
-    {
-      "code": "",
-      "name": "MDA Space Ltd",
-      "ratio": 3.28,
-      "shares": 228581
-    },
-    {
-      "code": "SIRI.US",
-      "name": "Sirius XM",
-      "ratio": 3.21,
-      "shares": 319095
+      "ratio": 3.48,
+      "shares": 477369
     },
     {
       "code": "PKE.US",
       "name": "Park Aerospace",
-      "ratio": 2.98,
-      "shares": 246530
+      "ratio": 3.41,
+      "shares": 285249
     },
     {
-      "code": "189300.KS",
-      "name": "INTELLIAN TECHNOLOGIES",
-      "ratio": 2.87,
-      "shares": 106095
+      "code": "SIRI.US",
+      "name": "Sirius XM",
+      "ratio": 3.41,
+      "shares": 369212
     },
     {
-      "code": "",
-      "name": "AIRBUS SE",
-      "ratio": 2.74,
-      "shares": 35388
-    },
-    {
-      "code": "",
-      "name": "Avio SpA",
-      "ratio": 2.74,
-      "shares": 165244
-    },
-    {
-      "code": "SATS.US",
-      "name": "EchoStar",
-      "ratio": 2.72,
-      "shares": 62913
-    },
-    {
-      "code": "6486.JP",
-      "name": "Eagle Industry",
-      "ratio": 2.56,
-      "shares": 376496
+      "code": "PL.US",
+      "name": "Planet",
+      "ratio": 3.34,
+      "shares": 319256
     },
     {
       "code": "",
-      "name": "Garmin Ltd",
-      "ratio": 2.52,
-      "shares": 28632
+      "name": "MDA Space Ltd",
+      "ratio": 3.3,
+      "shares": 263301
     },
     {
       "code": "CR.US",
       "name": "Crane",
-      "ratio": 2.48,
-      "shares": 35270
+      "ratio": 2.83,
+      "shares": 40810
     },
     {
-      "code": "ASTS.US",
-      "name": "AST SpaceMobile",
-      "ratio": 2.38,
-      "shares": 68395
+      "code": "",
+      "name": "AIRBUS SE",
+      "ratio": 2.83,
+      "shares": 40663
+    },
+    {
+      "code": "189300.KS",
+      "name": "INTELLIAN TECHNOLOGIES",
+      "ratio": 2.81,
+      "shares": 121464
+    },
+    {
+      "code": "SATS.US",
+      "name": "EchoStar",
+      "ratio": 2.79,
+      "shares": 72794
+    },
+    {
+      "code": "",
+      "name": "Avio SpA",
+      "ratio": 2.76,
+      "shares": 189875
+    },
+    {
+      "code": "",
+      "name": "Garmin Ltd",
+      "ratio": 2.65,
+      "shares": 33129
+    },
+    {
+      "code": "6486.JP",
+      "name": "Eagle Industry",
+      "ratio": 2.57,
+      "shares": 434021
     },
     {
       "code": "",
       "name": "Gilat Satellite Netw",
-      "ratio": 2.2,
-      "shares": 407378
+      "ratio": 2.37,
+      "shares": 471360
+    },
+    {
+      "code": "ASTS.US",
+      "name": "AST SpaceMobile",
+      "ratio": 2.19,
+      "shares": 79137
     },
     {
       "code": "7011.JP",
       "name": "Mitsubishi Heavy",
-      "ratio": 2.15,
-      "shares": 244196
+      "ratio": 2.09,
+      "shares": 281506
     },
     {
       "code": "099320.KS",
       "name": "Satrec Initiative",
-      "ratio": 2.02,
-      "shares": 69937
+      "ratio": 2.08,
+      "shares": 80069
     },
     {
       "code": "GOGO.US",
       "name": "Gogo",
-      "ratio": 1.93,
-      "shares": 1369074
+      "ratio": 1.94,
+      "shares": 1584093
     }
   ]
 }

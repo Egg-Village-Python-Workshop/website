@@ -1,7 +1,7 @@
 {
   "id": "00893",
   "name": "國泰智能電動車",
-  "fetched_at": "2026-06-08",
+  "fetched_at": "2026-06-15",
   "capital": {
     "ETF名稱": "國泰智能電動車",
     "交易所代碼": "00893",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2021/07/01",
     "成分股數": 30,
-    "ETF規模": "16,525.90(百萬台幣)(2026/06/05)",
-    "成交量(股)": "663,022（月均:1,590,984）",
+    "ETF規模": "17,092.06(百萬台幣)(2026/06/12)",
+    "成交量(股)": "1,478,136（月均:1,510,052）",
     "投資標的": "資訊科技股",
     "經理人": "游凱卉",
     "投資區域": "全球",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "",
     "經理費(%)": "0.9",
-    "殖利率(%)": "N/A（06/08）",
+    "殖利率(%)": "N/A（06/15）",
     "總管理費用(%)": "1.35 (含 0.45 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://www.cathaysite.com.tw/ETF/detail/ECW",
-    "ETF市價": "44.4300（06/08）",
+    "ETF市價": "46.9300（06/15）",
     "融資交易": "Y",
-    "ETF淨值": "44.5600（06/05）",
+    "ETF淨值": "46.0800（06/12）",
     "放空交易": "Y",
-    "折溢價(%)": "5.50(月均:-0.32)",
+    "折溢價(%)": "-1.54(月均:-0.16)",
     "選擇權交易": "",
-    "年化標準差(%)": "27.72（06/08）",
+    "年化標準差(%)": "25.16（06/15）",
     "槓桿多空註記": "",
     "追蹤指數": "NYSE FactSet全球智能電動車指數",
     "基準指數": "Global Autonomous and Electric Vehicles Price Retu",
@@ -43,83 +43,83 @@
   "sectors": [
     {
       "name": "資訊技術",
-      "amount_wan": 864505.4,
-      "ratio": 54.75
+      "amount_wan": 1053773.8,
+      "ratio": 59.47
     },
     {
       "name": "非核心消費",
-      "amount_wan": 338065.0,
-      "ratio": 21.41
+      "amount_wan": 365728.8,
+      "ratio": 20.64
     },
     {
       "name": "工業",
-      "amount_wan": 261325.4,
-      "ratio": 16.55
-    },
-    {
-      "name": "原材料",
-      "amount_wan": 38843.5,
-      "ratio": 2.46
+      "amount_wan": 262601.8,
+      "ratio": 14.82
     },
     {
       "name": "能源",
-      "amount_wan": 36632.9,
-      "ratio": 2.32
+      "amount_wan": 35970.4,
+      "ratio": 2.03
+    },
+    {
+      "name": "原材料",
+      "amount_wan": 35084.4,
+      "ratio": 1.98
     }
   ],
   "holdings": [
     {
       "code": "AMD.US",
       "name": "AMD",
-      "ratio": 21.44,
+      "ratio": 22.81,
       "shares": 241023
     },
     {
       "code": "NVDA.US",
       "name": "NVIDIA",
-      "ratio": 13.01,
+      "ratio": 12.63,
       "shares": 332697
     },
     {
       "code": "TSLA.US",
       "name": "Tesla",
-      "ratio": 12.49,
+      "ratio": 12.59,
       "shares": 167486
     },
     {
       "code": "TXN.US",
       "name": "Texas Instruments",
-      "ratio": 10.01,
+      "ratio": 10.26,
       "shares": 184199
     },
     {
       "code": "",
       "name": "ABB Rg",
-      "ratio": 6.17,
+      "ratio": 5.82,
       "shares": 306942
     },
     {
       "code": "300750.SZ",
       "name": "寧德時代",
-      "ratio": 5.71,
+      "ratio": 5.44,
       "shares": 503400
     },
     {
       "code": "2308.TW",
       "name": "台達電",
-      "ratio": 4.73,
+      "ratio": 4.41,
       "shares": 340000
     },
     {
       "code": "",
       "name": "Infineon Technolo N",
-      "ratio": 3.83,
+      "ratio": 3.96,
       "shares": 232244
     },
     {
       "code": "EMR.US",
       "name": "Emerson Electric",
-      "ratio": 3.1,
+      "ratio": 3.12,
       "shares": 117815
     },
     {
@@ -131,38 +131,38 @@
     {
       "code": "6752.JP",
       "name": "Panasonic Holdings",
-      "ratio": 2.25,
+      "ratio": 2.2,
       "shares": 501500
     },
     {
       "code": "BE.US",
       "name": "Bloom Energy",
-      "ratio": 2.02,
+      "ratio": 1.93,
       "shares": 40149
     },
     {
       "code": "1211.HK",
       "name": "比亞迪股份",
-      "ratio": 1.79,
+      "ratio": 1.67,
       "shares": 818900
     },
     {
       "code": "009150.KS",
       "name": "Samsung Elec Mech",
-      "ratio": 1.7,
+      "ratio": 1.63,
       "shares": 7826
-    },
-    {
-      "code": "006400.KS",
-      "name": "SAMSUNG SDI",
-      "ratio": 0.78,
-      "shares": 11071
     },
     {
       "code": "ALB.US",
       "name": "Albemarle",
-      "ratio": 0.74,
+      "ratio": 0.79,
       "shares": 25019
+    },
+    {
+      "code": "006400.KS",
+      "name": "SAMSUNG SDI",
+      "ratio": 0.73,
+      "shares": 11071
     },
     {
       "code": "BWA.US",
@@ -177,46 +177,40 @@
       "shares": 1261000
     },
     {
-      "code": "373220.KS",
-      "name": "LG ENERGY SOLUTION",
-      "ratio": 0.53,
-      "shares": 10265
-    },
-    {
       "code": "RIVN.US",
       "name": "Rivian",
       "ratio": 0.52,
       "shares": 167710
     },
     {
+      "code": "373220.KS",
+      "name": "LG ENERGY SOLUTION",
+      "ratio": 0.5,
+      "shares": 10265
+    },
+    {
       "code": "9868.HK",
       "name": "小鵬集團－Ｗ",
-      "ratio": 0.52,
+      "ratio": 0.45,
       "shares": 327800
     },
     {
       "code": "SWKS.US",
       "name": "Skyworks Solutions",
-      "ratio": 0.45,
+      "ratio": 0.44,
       "shares": 31915
     },
     {
       "code": "603799.SH",
       "name": "華友鈷業",
-      "ratio": 0.44,
+      "ratio": 0.43,
       "shares": 310365
     },
     {
       "code": "300014.SZ",
       "name": "億緯鋰能",
-      "ratio": 0.42,
+      "ratio": 0.41,
       "shares": 258914
-    },
-    {
-      "code": "2015.HK",
-      "name": "理想汽車－Ｗ",
-      "ratio": 0.38,
-      "shares": 273700
     },
     {
       "code": "002709.SZ",
@@ -225,21 +219,27 @@
       "shares": 279200
     },
     {
+      "code": "2015.HK",
+      "name": "理想汽車－Ｗ",
+      "ratio": 0.37,
+      "shares": 273700
+    },
+    {
       "code": "ALV.US",
       "name": "Autoliv",
-      "ratio": 0.38,
+      "ratio": 0.37,
       "shares": 15446
     },
     {
       "code": "051910.KS",
       "name": "LG Chem",
-      "ratio": 0.37,
+      "ratio": 0.36,
       "shares": 8660
     },
     {
       "code": "9866.HK",
       "name": "蔚來－ＳＷ",
-      "ratio": 0.33,
+      "ratio": 0.31,
       "shares": 307270
     },
     {

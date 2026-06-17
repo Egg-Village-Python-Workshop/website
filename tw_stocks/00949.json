@@ -1,7 +1,7 @@
 {
   "id": "00949",
   "name": "復華日本龍頭",
-  "fetched_at": "2026-06-08",
+  "fetched_at": "2026-06-15",
   "capital": {
     "ETF名稱": "復華日本龍頭",
     "交易所代碼": "00949",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2024/07/01",
     "成分股數": 30,
-    "ETF規模": "3,893.75(百萬台幣)(2026/06/08)",
-    "成交量(股)": "1,216,426（月均:1,357,239）",
+    "ETF規模": "3,740.82(百萬台幣)(2026/06/15)",
+    "成交量(股)": "595,935（月均:1,092,100）",
     "投資標的": "股票型",
     "經理人": "劉昌祚",
     "投資區域": "日本",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "年配",
     "經理費(%)": "0.6",
-    "殖利率(%)": "N/A（06/08）",
+    "殖利率(%)": "N/A（06/15）",
     "總管理費用(%)": "1.27 (含 0.67 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://www.fhtrust.com.tw/ETF/etf_detail/ETF22",
-    "ETF市價": "20.1600（06/08）",
+    "ETF市價": "20.5100（06/15）",
     "融資交易": "Y",
-    "ETF淨值": "20.2400（06/08）",
+    "ETF淨值": "20.5700（06/12）",
     "放空交易": "Y",
-    "折溢價(%)": "-0.40(月均:-0.30)",
+    "折溢價(%)": "-0.29(月均:-0.26)",
     "選擇權交易": "",
-    "年化標準差(%)": "12.01（06/08）",
+    "年化標準差(%)": "18.15（06/15）",
     "槓桿多空註記": "",
     "追蹤指數": "NYSE FactSet日本護城河優勢龍頭企業指數",
     "基準指數": "日經(1321.JP)",
@@ -43,225 +43,230 @@
   "sectors": [
     {
       "name": "非核心消費品",
-      "amount_wan": 137244.3,
-      "ratio": 35.05
+      "amount_wan": 139399.4,
+      "ratio": 34.77
     },
     {
       "name": "工業",
-      "amount_wan": 129021.4,
-      "ratio": 32.95
+      "amount_wan": 116747.5,
+      "ratio": 29.12
     },
     {
       "name": "資訊技術",
-      "amount_wan": 58695.9,
-      "ratio": 14.99
+      "amount_wan": 76535.4,
+      "ratio": 19.09
     },
     {
       "name": "醫療保健",
-      "amount_wan": 26626.6,
-      "ratio": 6.8
+      "amount_wan": 24937.1,
+      "ratio": 6.22
     },
     {
       "name": "流動資產",
-      "amount_wan": 16093.4,
-      "ratio": 4.11
+      "amount_wan": 20406.8,
+      "ratio": 5.09
     },
     {
       "name": "通訊服務",
-      "amount_wan": 14957.9,
-      "ratio": 3.82
+      "amount_wan": 13069.9,
+      "ratio": 3.26
     },
     {
       "name": "核心消費品",
-      "amount_wan": 6460.9,
-      "ratio": 1.65
+      "amount_wan": 6013.8,
+      "ratio": 1.5
     },
     {
       "name": "原材料",
-      "amount_wan": 2427.7,
-      "ratio": 0.62
+      "amount_wan": 2405.5,
+      "ratio": 0.6
+    },
+    {
+      "name": "金融",
+      "amount_wan": 1443.3,
+      "ratio": 0.36
     }
   ],
   "holdings": [
     {
       "code": "7203.JP",
       "name": "TOYOTA MOTOR",
-      "ratio": 10.98,
-      "shares": 750600
+      "ratio": 12.08,
+      "shares": 813900
+    },
+    {
+      "code": "6501.JP",
+      "name": "Hitachi",
+      "ratio": 6.97,
+      "shares": 287800
     },
     {
       "code": "6758.JP",
       "name": "SONY GROUP",
-      "ratio": 8.03,
-      "shares": 441600
-    },
-    {
-      "code": "8058.JP",
-      "name": "Mitsubishi",
-      "ratio": 6.39,
-      "shares": 254900
+      "ratio": 6.54,
+      "shares": 385500
     },
     {
       "code": "6981.JP",
       "name": "Murata Mfg.",
-      "ratio": 6.23,
-      "shares": 138000
-    },
-    {
-      "code": "6098.JP",
-      "name": "Recruit Holdings",
-      "ratio": 6.0,
-      "shares": 107700
+      "ratio": 6.42,
+      "shares": 124900
     },
     {
       "code": "9983.JP",
       "name": "Fast Retailing",
-      "ratio": 5.35,
-      "shares": 13100
+      "ratio": 5.06,
+      "shares": 12200
     },
     {
-      "code": "8031.JP",
-      "name": "MITSUI",
-      "ratio": 4.62,
-      "shares": 180900
+      "code": "6098.JP",
+      "name": "Recruit Holdings",
+      "ratio": 5.04,
+      "shares": 91900
+    },
+    {
+      "code": "8058.JP",
+      "name": "Mitsubishi",
+      "ratio": 4.97,
+      "shares": 205700
     },
     {
       "code": "7011.JP",
       "name": "Mitsubishi Heavy",
-      "ratio": 4.46,
-      "shares": 232400
+      "ratio": 3.99,
+      "shares": 213100
     },
     {
-      "code": "7974.JP",
-      "name": "Nintendo",
-      "ratio": 3.63,
-      "shares": 91700
-    },
-    {
-      "code": "5802.JP",
-      "name": "Sumitomo Electric",
-      "ratio": 3.39,
-      "shares": 53800
+      "code": "8031.JP",
+      "name": "MITSUI",
+      "ratio": 3.93,
+      "shares": 159000
     },
     {
       "code": "6752.JP",
       "name": "Panasonic Holdings",
-      "ratio": 3.18,
-      "shares": 171800
+      "ratio": 3.16,
+      "shares": 154000
+    },
+    {
+      "code": "7974.JP",
+      "name": "Nintendo",
+      "ratio": 2.96,
+      "shares": 81400
+    },
+    {
+      "code": "5802.JP",
+      "name": "Sumitomo Electric",
+      "ratio": 2.82,
+      "shares": 47900
     },
     {
       "code": "4502.JP",
       "name": "Takeda Pharmaceutical",
-      "ratio": 2.97,
-      "shares": 113400
-    },
-    {
-      "code": "8002.JP",
-      "name": "Marubeni",
-      "ratio": 2.7,
-      "shares": 107100
-    },
-    {
-      "code": "7267.JP",
-      "name": "HONDA MOTOR",
-      "ratio": 2.68,
-      "shares": 359400
-    },
-    {
-      "code": "6762.JP",
-      "name": "TDK",
-      "ratio": 2.66,
-      "shares": 138300
+      "ratio": 2.62,
+      "shares": 100600
     },
     {
       "code": "6723.JP",
       "name": "Renesas Electronics",
-      "ratio": 2.59,
-      "shares": 120800
+      "ratio": 2.44,
+      "shares": 106400
+    },
+    {
+      "code": "6762.JP",
+      "name": "TDK",
+      "ratio": 2.43,
+      "shares": 121900
+    },
+    {
+      "code": "8002.JP",
+      "name": "Marubeni",
+      "ratio": 2.43,
+      "shares": 94300
     },
     {
       "code": "6367.JP",
       "name": "Daikin Industries",
-      "ratio": 2.41,
-      "shares": 19800
+      "ratio": 2.09,
+      "shares": 17500
+    },
+    {
+      "code": "7267.JP",
+      "name": "HONDA MOTOR",
+      "ratio": 2.03,
+      "shares": 271600
     },
     {
       "code": "6301.JP",
       "name": "Komatsu",
-      "ratio": 2.28,
-      "shares": 67200
+      "ratio": 2.01,
+      "shares": 57600
     },
     {
       "code": "7751.JP",
       "name": "Canon",
-      "ratio": 2.08,
-      "shares": 92700
-    },
-    {
-      "code": "6701.JP",
-      "name": "NEC",
-      "ratio": 1.95,
-      "shares": 91600
+      "ratio": 1.82,
+      "shares": 82200
     },
     {
       "code": "6971.JP",
       "name": "Kyocera",
-      "ratio": 1.88,
-      "shares": 101600
+      "ratio": 1.76,
+      "shares": 89700
+    },
+    {
+      "code": "6701.JP",
+      "name": "NEC",
+      "ratio": 1.6,
+      "shares": 81300
+    },
+    {
+      "code": "4568.JP",
+      "name": "Daiichi Sankyo",
+      "ratio": 1.52,
+      "shares": 116800
     },
     {
       "code": "4578.JP",
       "name": "Otsuka Holdings",
-      "ratio": 1.78,
-      "shares": 32500
+      "ratio": 1.5,
+      "shares": 28600
     },
     {
-      "code": "3382.JP",
-      "name": "Seven & I Holdings",
-      "ratio": 1.61,
-      "shares": 162100
+      "code": "8015.JP",
+      "name": "Toyota Tsusho",
+      "ratio": 1.44,
+      "shares": 43400
     },
     {
       "code": "4901.JP",
       "name": "FUJIFILM",
-      "ratio": 1.53,
-      "shares": 86000
+      "ratio": 1.35,
+      "shares": 76500
     },
     {
       "code": "4503.JP",
       "name": "Astellas Pharma",
-      "ratio": 1.43,
-      "shares": 127900
+      "ratio": 1.25,
+      "shares": 113600
     },
     {
       "code": "7832.JP",
       "name": "Bandai Namco Holdings",
-      "ratio": 0.76,
-      "shares": 39500
+      "ratio": 0.63,
+      "shares": 34500
     },
     {
-      "code": "9104.JP",
-      "name": "MOL",
-      "ratio": 0.75,
-      "shares": 25000
+      "code": "6479.JP",
+      "name": "MINEBEA MITSUMI",
+      "ratio": 0.57,
+      "shares": 25100
     },
     {
       "code": "3402.JP",
       "name": "Toray",
-      "ratio": 0.57,
-      "shares": 101000
-    },
-    {
-      "code": "7309.JP",
-      "name": "Shimano",
-      "ratio": 0.43,
-      "shares": 5300
-    },
-    {
-      "code": "8473.JP",
-      "name": "SBI Holdings",
-      "ratio": 0.37,
-      "shares": 25000
+      "ratio": 0.56,
+      "shares": 90700
     }
   ]
 }

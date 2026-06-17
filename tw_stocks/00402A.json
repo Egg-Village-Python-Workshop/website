@@ -1,7 +1,7 @@
 {
   "id": "00402A",
   "name": "主動安聯美國科技",
-  "fetched_at": "2026-06-08",
+  "fetched_at": "2026-06-15",
   "capital": {
     "ETF名稱": "主動安聯美國科技",
     "交易所代碼": "00402A",
@@ -13,9 +13,9 @@
     "成立日期": "2026/05/29（已成立0年）",
     "淨值幣別": "台幣",
     "上市日期": "2026/06/09",
-    "成分股數": 0,
-    "ETF規模": "6,578.74(百萬)(2026/06/05)",
-    "成交量(股)": "N/A（月均:N/A）",
+    "成分股數": 4,
+    "ETF規模": "8,865.56(百萬台幣)(2026/06/12)",
+    "成交量(股)": "33,223,238（月均:73,564,860）",
     "投資標的": "股票型",
     "經理人": "洪華珍",
     "投資區域": "北美",
@@ -23,198 +23,336 @@
     "投資風格": "",
     "配息頻率": "年配",
     "經理費(%)": "1",
-    "殖利率(%)": "N/A（N/A）",
+    "殖利率(%)": "N/A（06/15）",
     "總管理費用(%)": "",
     "經銷商": "",
     "官方網站連結": "https://etf.allianzgi.com.tw/etf-info/E0003",
-    "ETF市價": "N/A（N/A）",
+    "ETF市價": "9.9200（06/15）",
     "融資交易": "Y",
-    "ETF淨值": "9.4800（06/05）",
+    "ETF淨值": "9.7400（06/11）",
     "放空交易": "Y",
-    "折溢價(%)": "",
+    "折溢價(%)": "-1.13(月均:0.73)",
     "選擇權交易": "",
-    "年化標準差(%)": "N/A（N/A）",
+    "年化標準差(%)": "N/A（06/15）",
     "槓桿多空註記": "",
     "追蹤指數": "",
     "基準指數": "Dow Jones U.S. Technology Index",
     "投資策略": "本基金係以主動式策略聚焦於美國科技領航產業，透過安聯環球投資股票團隊的研究資源，採取由上至下(Top-down)的基本面分析及由下而上(Bottom-up)的個股評估，並透過研究分析，進行最適投資組合配置，為投資人提供長期資本增值的投資機會。",
-    "文件下載": "公開說明書"
+    "文件下載": "公開說明書簡式公開說明書"
   },
   "sectors": [],
   "holdings": [
     {
       "code": "NVDA.US",
       "name": "NVIDIA",
-      "ratio": 8.36,
-      "shares": 85000
+      "ratio": 7.77,
+      "shares": 107000
     },
     {
       "code": "AAPL.US",
       "name": "Apple",
-      "ratio": 6.97,
-      "shares": 47400
+      "ratio": 6.07,
+      "shares": 58500
     },
     {
       "code": "MU.US",
       "name": "Micron",
-      "ratio": 5.42,
-      "shares": 13100
+      "ratio": 5.95,
+      "shares": 17000
     },
     {
       "code": "AMZN.US",
       "name": "Amazon",
-      "ratio": 5.39,
-      "shares": 45800
-    },
-    {
-      "code": "MSFT.US",
-      "name": "Microsoft",
-      "ratio": 4.13,
-      "shares": 20700
-    },
-    {
-      "code": "GOOG.US",
-      "name": "Alphabet - Class C Capital Stock",
-      "ratio": 3.88,
-      "shares": 22200
-    },
-    {
-      "code": "GOOGL.US",
-      "name": "Alphabet - Class A Common Stock",
-      "ratio": 3.88,
-      "shares": 22000
+      "ratio": 4.62,
+      "shares": 54300
     },
     {
       "code": "AMD.US",
       "name": "AMD",
-      "ratio": 3.88,
-      "shares": 17400
+      "ratio": 3.89,
+      "shares": 21300
     },
     {
-      "code": "META.US",
-      "name": "Meta",
-      "ratio": 3.4,
-      "shares": 12000
+      "code": "GOOGL.US",
+      "name": "Alphabet - Class A Common Stock",
+      "ratio": 3.72,
+      "shares": 29000
     },
     {
-      "code": "AVGO.US",
-      "name": "Broadcom",
-      "ratio": 2.9,
-      "shares": 15700
+      "code": "MSFT.US",
+      "name": "Microsoft",
+      "ratio": 3.62,
+      "shares": 26000
     },
     {
-      "code": "ARM.US",
-      "name": "Arm",
-      "ratio": 2.82,
-      "shares": 17200
+      "code": "GOOG.US",
+      "name": "Alphabet - Class C Capital Stock",
+      "ratio": 3.53,
+      "shares": 27600
     },
     {
       "code": "LRCX.US",
       "name": "Lam Research",
-      "ratio": 2.39,
-      "shares": 16500
+      "ratio": 3.09,
+      "shares": 23600
+    },
+    {
+      "code": "AVGO.US",
+      "name": "Broadcom",
+      "ratio": 2.74,
+      "shares": 20100
+    },
+    {
+      "code": "META.US",
+      "name": "Meta",
+      "ratio": 2.73,
+      "shares": 13500
     },
     {
       "code": "WDC.US",
       "name": "Western Digital",
-      "ratio": 2.3,
-      "shares": 9400
+      "ratio": 2.45,
+      "shares": 12200
     },
     {
       "code": "PANW.US",
       "name": "Palo Alto",
-      "ratio": 2.21,
-      "shares": 17000
+      "ratio": 2.41,
+      "shares": 24200
     },
     {
       "code": "TXN.US",
       "name": "Texas Instruments",
-      "ratio": 2.0,
-      "shares": 14700
+      "ratio": 2.13,
+      "shares": 19800
+    },
+    {
+      "code": "KLAC.US",
+      "name": "KLA",
+      "ratio": 2.09,
+      "shares": 23000
     },
     {
       "code": "ADI.US",
       "name": "Analog Devices",
-      "ratio": 1.73,
-      "shares": 9000
+      "ratio": 1.85,
+      "shares": 12400
     },
     {
-      "code": "COHR.US",
-      "name": "Coherent",
-      "ratio": 1.71,
-      "shares": 9500
+      "code": "LITE.US",
+      "name": "Lumentum",
+      "ratio": 1.68,
+      "shares": 5100
     },
     {
       "code": "CDNS.US",
       "name": "Cadence Design Systems",
       "ratio": 1.62,
-      "shares": 9000
+      "shares": 11800
     },
     {
-      "code": "KLAC.US",
-      "name": "KLA",
+      "code": "COHR.US",
+      "name": "Coherent",
       "ratio": 1.57,
-      "shares": 1700
-    },
-    {
-      "code": "CIEN.US",
-      "name": "Ciena",
-      "ratio": 1.52,
-      "shares": 6500
+      "shares": 11400
     },
     {
       "code": "MRVL.US",
       "name": "Marvell",
-      "ratio": 1.51,
-      "shares": 12000
+      "ratio": 1.57,
+      "shares": 15700
     },
     {
       "code": "MCHP.US",
       "name": "Microchip Technology",
-      "ratio": 1.44,
-      "shares": 34000
-    },
-    {
-      "code": "LITE.US",
-      "name": "Lumentum",
-      "ratio": 1.4,
-      "shares": 3400
-    },
-    {
-      "code": "ADR",
-      "name": "TSMC",
-      "ratio": 1.31,
-      "shares": 6600
+      "ratio": 1.55,
+      "shares": 45600
     },
     {
       "code": "ASML.US",
       "name": "ASML Holding",
-      "ratio": 1.1,
-      "shares": 1400
+      "ratio": 1.4,
+      "shares": 2100
+    },
+    {
+      "code": "NFLX.US",
+      "name": "Netflix",
+      "ratio": 1.36,
+      "shares": 47500
+    },
+    {
+      "code": "ADR",
+      "name": "TSMC",
+      "ratio": 1.33,
+      "shares": 8800
+    },
+    {
+      "code": "INTC.US",
+      "name": "Intel",
+      "ratio": 1.28,
+      "shares": 28700
     },
     {
       "code": "STX.US",
       "name": "Seagate",
-      "ratio": 1.05,
-      "shares": 2600
+      "ratio": 1.26,
+      "shares": 3800
+    },
+    {
+      "code": "CIEN.US",
+      "name": "Ciena",
+      "ratio": 1.24,
+      "shares": 7800
+    },
+    {
+      "code": "PLTR.US",
+      "name": "Palantir Technologies",
+      "ratio": 1.2,
+      "shares": 26200
+    },
+    {
+      "code": "V.US",
+      "name": "Visa",
+      "ratio": 1.18,
+      "shares": 10300
     },
     {
       "code": "NXPI.US",
       "name": "NXP Semiconductors",
-      "ratio": 0.98,
-      "shares": 6900
+      "ratio": 1.13,
+      "shares": 10400
+    },
+    {
+      "code": "ARM.US",
+      "name": "Arm",
+      "ratio": 1.01,
+      "shares": 7400
+    },
+    {
+      "code": "CRWD.US",
+      "name": "CrowdStrike Holdings",
+      "ratio": 0.9,
+      "shares": 3700
+    },
+    {
+      "code": "ANET.US",
+      "name": "Arista Networks",
+      "ratio": 0.89,
+      "shares": 15300
     },
     {
       "code": "CLS.US",
       "name": "Celestica",
-      "ratio": 0.91,
-      "shares": 5100
+      "ratio": 0.86,
+      "shares": 6100
     },
     {
       "code": "ON.US",
       "name": "ON Semiconductor",
+      "ratio": 0.72,
+      "shares": 17300
+    },
+    {
+      "code": "AXON.US",
+      "name": "Axon Enterprise",
       "ratio": 0.68,
-      "shares": 12100
+      "shares": 4300
+    },
+    {
+      "code": "BABA.US",
+      "name": "Alibaba Group",
+      "ratio": 0.68,
+      "shares": 16800
+    },
+    {
+      "code": "DASH.US",
+      "name": "DoorDash",
+      "ratio": 0.61,
+      "shares": 11400
+    },
+    {
+      "code": "BKNG.US",
+      "name": "Booking Holdings",
+      "ratio": 0.6,
+      "shares": 10200
+    },
+    {
+      "code": "SHOP.US",
+      "name": "Shopify",
+      "ratio": 0.6,
+      "shares": 15600
+    },
+    {
+      "code": "MELI.US",
+      "name": "MercadoLibre",
+      "ratio": 0.57,
+      "shares": 1000
+    },
+    {
+      "code": "SNOW.US",
+      "name": "Snowflake",
+      "ratio": 0.55,
+      "shares": 6600
+    },
+    {
+      "code": "SIMO.US",
+      "name": "Silicon Motion",
+      "ratio": 0.54,
+      "shares": 5400
+    },
+    {
+      "code": "TTWO.US",
+      "name": "Take-Two",
+      "ratio": 0.54,
+      "shares": 7100
+    },
+    {
+      "code": "MDB.US",
+      "name": "MongoDB",
+      "ratio": 0.53,
+      "shares": 4300
+    },
+    {
+      "code": "UBER.US",
+      "name": "Uber",
+      "ratio": 0.51,
+      "shares": 20600
+    },
+    {
+      "code": "TER.US",
+      "name": "Teradyne",
+      "ratio": 0.49,
+      "shares": 3400
+    },
+    {
+      "code": "NOW.US",
+      "name": "ServiceNow",
+      "ratio": 0.46,
+      "shares": 12500
+    },
+    {
+      "code": "SPOT.US",
+      "name": "Spotify",
+      "ratio": 0.43,
+      "shares": 2500
+    },
+    {
+      "code": "ZS.US",
+      "name": "Zscaler",
+      "ratio": 0.31,
+      "shares": 6800
+    },
+    {
+      "code": "INTU.US",
+      "name": "Intuit",
+      "ratio": 0.23,
+      "shares": 2300
+    },
+    {
+      "code": "FSLY.US",
+      "name": "Fastly",
+      "ratio": 0.22,
+      "shares": 33100
     }
   ]
 }

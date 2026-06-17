@@ -1,7 +1,7 @@
 {
   "id": "009805",
   "name": "新光美國電力基建",
-  "fetched_at": "2026-06-08",
+  "fetched_at": "2026-06-15",
   "capital": {
     "ETF名稱": "新光美國電力基建",
     "交易所代碼": "009805",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2025/05/13",
     "成分股數": 50,
-    "ETF規模": "11,021.71(百萬台幣)(2026/06/05)",
-    "成交量(股)": "8,602,609（月均:14,669,442）",
+    "ETF規模": "11,088.50(百萬台幣)(2026/06/12)",
+    "成交量(股)": "6,323,252（月均:14,828,745）",
     "投資標的": "股票型",
     "經理人": "劉恆誌",
     "投資區域": "美國",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "季配",
     "經理費(%)": "0.68",
-    "殖利率(%)": "N/A（06/08）",
+    "殖利率(%)": "N/A（06/15）",
     "總管理費用(%)": "0.21",
     "經銷商": "",
     "官方網站連結": "https://www.tsit.com.tw/ETF/Home/ETFSeriesDetail/009805",
-    "ETF市價": "16.2600（06/08）",
+    "ETF市價": "16.2900（06/15）",
     "融資交易": "Y",
-    "ETF淨值": "16.1200（06/05）",
+    "ETF淨值": "16.1800（06/12）",
     "放空交易": "Y",
-    "折溢價(%)": "2.92(月均:0.16)",
+    "折溢價(%)": "-1.48(月均:0.45)",
     "選擇權交易": "",
-    "年化標準差(%)": "15.05（06/08）",
+    "年化標準差(%)": "15.62（06/15）",
     "槓桿多空註記": "",
     "追蹤指數": "NYSE FactSet 美國電力基建息收指數",
     "基準指數": "Dow Jones U.S. Utilities Index",
@@ -43,320 +43,350 @@
   "sectors": [
     {
       "name": "工業",
-      "amount_wan": 709134.1,
-      "ratio": 63.49
+      "amount_wan": 728036.1,
+      "ratio": 62.6
     },
     {
       "name": "公用事業",
-      "amount_wan": 371041.7,
-      "ratio": 33.22
+      "amount_wan": 376113.2,
+      "ratio": 32.34
     },
     {
       "name": "資訊技術",
-      "amount_wan": 26917.8,
-      "ratio": 2.41
+      "amount_wan": 43845.0,
+      "ratio": 3.77
     }
   ],
   "holdings": [
     {
+      "code": "ETN.US",
+      "name": "Eaton",
+      "ratio": 9.78,
+      "shares": 87630
+    },
+    {
       "code": "GEV.US",
       "name": "GE Vernova",
-      "ratio": 12.28,
-      "shares": 46066
+      "ratio": 9.72,
+      "shares": 36253
     },
     {
       "code": "VRT.US",
       "name": "Vertiv",
-      "ratio": 10.47,
-      "shares": 121981
-    },
-    {
-      "code": "ETN.US",
-      "name": "Eaton",
-      "ratio": 9.03,
-      "shares": 79879
+      "ratio": 8.73,
+      "shares": 101079
     },
     {
       "code": "PWR.US",
       "name": "Quanta Services",
-      "ratio": 7.32,
-      "shares": 36898
-    },
-    {
-      "code": "HUBB.US",
-      "name": "Hubbell",
-      "ratio": 5.41,
-      "shares": 39713
-    },
-    {
-      "code": "BE.US",
-      "name": "Bloom Energy",
-      "ratio": 4.11,
-      "shares": 54564
+      "ratio": 8.03,
+      "shares": 39788
     },
     {
       "code": "NEE.US",
       "name": "NextEra Energy",
-      "ratio": 3.62,
-      "shares": 147552
-    },
-    {
-      "code": "SO.US",
-      "name": "Southern",
-      "ratio": 3.09,
-      "shares": 117028
+      "ratio": 5.35,
+      "shares": 218390
     },
     {
       "code": "DUK.US",
       "name": "Duke Energy",
-      "ratio": 2.93,
-      "shares": 82619
+      "ratio": 4.14,
+      "shares": 116148
     },
     {
-      "code": "NXT.US",
-      "name": "Nextpower",
-      "ratio": 2.74,
-      "shares": 73056
+      "code": "BE.US",
+      "name": "Bloom Energy",
+      "ratio": 4.07,
+      "shares": 54828
     },
     {
-      "code": "FSLR.US",
-      "name": "First Solar",
-      "ratio": 2.63,
-      "shares": 33008
+      "code": "SO.US",
+      "name": "Southern",
+      "ratio": 3.38,
+      "shares": 125968
+    },
+    {
+      "code": "NVT.US",
+      "name": "nVent Electric",
+      "ratio": 2.98,
+      "shares": 62978
+    },
+    {
+      "code": "HUBB.US",
+      "name": "Hubbell",
+      "ratio": 2.95,
+      "shares": 21686
     },
     {
       "code": "D.US",
       "name": "Dominion Energy",
-      "ratio": 2.31,
-      "shares": 120975
+      "ratio": 2.54,
+      "shares": 131022
     },
     {
       "code": "AEP.US",
       "name": "American Electric Power",
-      "ratio": 2.09,
-      "shares": 56660
+      "ratio": 2.24,
+      "shares": 60683
     },
     {
-      "code": "AGX.US",
-      "name": "Argan",
-      "ratio": 1.97,
-      "shares": 9932
-    },
-    {
-      "code": "POWL.US",
-      "name": "Powell Industries, Inc.",
-      "ratio": 1.72,
-      "shares": 21103
-    },
-    {
-      "code": "SWX.US",
-      "name": "Southwest Gas",
-      "ratio": 1.66,
-      "shares": 65675
-    },
-    {
-      "code": "MTZ.US",
-      "name": "MasTec",
-      "ratio": 1.56,
-      "shares": 15048
-    },
-    {
-      "code": "ED.US",
-      "name": "Consolidated Edison",
-      "ratio": 1.55,
-      "shares": 51099
+      "code": "FSLR.US",
+      "name": "First Solar",
+      "ratio": 2.07,
+      "shares": 27197
     },
     {
       "code": "EXC.US",
       "name": "Exelon",
-      "ratio": 1.4,
-      "shares": 107418
-    },
-    {
-      "code": "PEG.US",
-      "name": "Public Service Enterprise",
-      "ratio": 1.2,
-      "shares": 53029
-    },
-    {
-      "code": "ENS.US",
-      "name": "EnerSys",
-      "ratio": 1.18,
-      "shares": 18120
-    },
-    {
-      "code": "EIX.US",
-      "name": "Edison International",
-      "ratio": 1.14,
-      "shares": 54509
-    },
-    {
-      "code": "WEC.US",
-      "name": "WEC Energy",
-      "ratio": 1.11,
-      "shares": 34552
-    },
-    {
-      "code": "GNRC.US",
-      "name": "Generac",
-      "ratio": 1.08,
-      "shares": 14428
-    },
-    {
-      "code": "ES.US",
-      "name": "Eversource Energy",
-      "ratio": 1.07,
-      "shares": 53140
+      "ratio": 2.01,
+      "shares": 152528
     },
     {
       "code": "CEG.US",
       "name": "Constellation",
-      "ratio": 1.05,
-      "shares": 14370
-    },
-    {
-      "code": "TTEK.US",
-      "name": "Tetra Tech",
-      "ratio": 1.03,
-      "shares": 129716
-    },
-    {
-      "code": "ETR.US",
-      "name": "Entergy",
-      "ratio": 1.0,
-      "shares": 31595
+      "ratio": 1.82,
+      "shares": 25214
     },
     {
       "code": "XEL.US",
       "name": "Xcel Energy",
-      "ratio": 0.95,
-      "shares": 41875
+      "ratio": 1.57,
+      "shares": 69720
     },
     {
-      "code": "VICR.US",
-      "name": "Vicor Corporation",
-      "ratio": 0.87,
-      "shares": 11297
+      "code": "MTZ.US",
+      "name": "MasTec",
+      "ratio": 1.31,
+      "shares": 12687
     },
     {
-      "code": "ACM.US",
-      "name": "AECOM",
-      "ratio": 0.87,
-      "shares": 42647
+      "code": "PEG.US",
+      "name": "Public Service Enterprise",
+      "ratio": 1.26,
+      "shares": 55658
+    },
+    {
+      "code": "ED.US",
+      "name": "Consolidated Edison",
+      "ratio": 1.26,
+      "shares": 41158
+    },
+    {
+      "code": "EIX.US",
+      "name": "Edison International",
+      "ratio": 1.19,
+      "shares": 57306
+    },
+    {
+      "code": "WEC.US",
+      "name": "WEC Energy",
+      "ratio": 1.18,
+      "shares": 36381
     },
     {
       "code": "FE.US",
       "name": "FirstEnergy",
-      "ratio": 0.81,
-      "shares": 61358
+      "ratio": 1.16,
+      "shares": 86169
     },
     {
-      "code": "PPL.US",
-      "name": "PPL",
-      "ratio": 0.8,
-      "shares": 78607
+      "code": "ES.US",
+      "name": "Eversource Energy",
+      "ratio": 1.1,
+      "shares": 56020
+    },
+    {
+      "code": "ETR.US",
+      "name": "Entergy",
+      "ratio": 1.08,
+      "shares": 34069
+    },
+    {
+      "code": "ACM.US",
+      "name": "AECOM",
+      "ratio": 1.05,
+      "shares": 52626
     },
     {
       "code": "VST.US",
       "name": "Vistra",
-      "ratio": 0.66,
-      "shares": 15450
+      "ratio": 1.05,
+      "shares": 24908
+    },
+    {
+      "code": "AGX.US",
+      "name": "Argan",
+      "ratio": 1.01,
+      "shares": 5507
     },
     {
       "code": "DTE.US",
       "name": "DTE Energy",
-      "ratio": 0.61,
-      "shares": 14674
+      "ratio": 0.97,
+      "shares": 23174
     },
     {
       "code": "AEE.US",
       "name": "Ameren Corporation",
-      "ratio": 0.6,
-      "shares": 19104
+      "ratio": 0.96,
+      "shares": 30851
+    },
+    {
+      "code": "ENS.US",
+      "name": "EnerSys",
+      "ratio": 0.95,
+      "shares": 14830
+    },
+    {
+      "code": "AEIS.US",
+      "name": "Advanced Energy",
+      "ratio": 0.92,
+      "shares": 9076
+    },
+    {
+      "code": "GNRC.US",
+      "name": "Generac",
+      "ratio": 0.89,
+      "shares": 11914
+    },
+    {
+      "code": "TTEK.US",
+      "name": "Tetra Tech",
+      "ratio": 0.86,
+      "shares": 106381
+    },
+    {
+      "code": "PPL.US",
+      "name": "PPL",
+      "ratio": 0.86,
+      "shares": 84012
     },
     {
       "code": "EVRG.US",
       "name": "Evergy",
-      "ratio": 0.57,
-      "shares": 24156
-    },
-    {
-      "code": "ENPH.US",
-      "name": "Enphase Energy",
-      "ratio": 0.5,
-      "shares": 31476
-    },
-    {
-      "code": "PNW.US",
-      "name": "Pinnacle West",
-      "ratio": 0.5,
-      "shares": 16932
-    },
-    {
-      "code": "CMS.US",
-      "name": "CMS Energy",
-      "ratio": 0.44,
-      "shares": 21448
-    },
-    {
-      "code": "OGE.US",
-      "name": "OGE Energy",
-      "ratio": 0.4,
-      "shares": 29002
+      "ratio": 0.81,
+      "shares": 33923
     },
     {
       "code": "PCG.US",
       "name": "PG&E",
-      "ratio": 0.38,
-      "shares": 77540
+      "ratio": 0.79,
+      "shares": 163321
+    },
+    {
+      "code": "CMS.US",
+      "name": "CMS Energy",
+      "ratio": 0.72,
+      "shares": 34345
+    },
+    {
+      "code": "POWL.US",
+      "name": "Powell Industries, Inc.",
+      "ratio": 0.64,
+      "shares": 7640
     },
     {
       "code": "LNT.US",
       "name": "Alliant Energy",
-      "ratio": 0.38,
-      "shares": 18188
+      "ratio": 0.6,
+      "shares": 28850
     },
     {
       "code": "CNP.US",
       "name": "CenterPoint Energy",
-      "ratio": 0.37,
-      "shares": 29949
+      "ratio": 0.6,
+      "shares": 48660
+    },
+    {
+      "code": "VICR.US",
+      "name": "Vicor Corporation",
+      "ratio": 0.57,
+      "shares": 6577
     },
     {
       "code": "NRG.US",
       "name": "NRG Energy",
-      "ratio": 0.32,
-      "shares": 8750
+      "ratio": 0.54,
+      "shares": 15022
+    },
+    {
+      "code": "PNW.US",
+      "name": "Pinnacle West",
+      "ratio": 0.53,
+      "shares": 18047
     },
     {
       "code": "AES.US",
       "name": "The AES Corporation",
-      "ratio": 0.32,
-      "shares": 75391
+      "ratio": 0.44,
+      "shares": 105753
     },
     {
-      "code": "AMSC.US",
-      "name": "American Superconductor",
-      "ratio": 0.26,
-      "shares": 21740
+      "code": "ENPH.US",
+      "name": "Enphase Energy",
+      "ratio": 0.41,
+      "shares": 26319
+    },
+    {
+      "code": "MYRG.US",
+      "name": "MYR Group, Inc.",
+      "ratio": 0.39,
+      "shares": 3086
+    },
+    {
+      "code": "BELFB.US",
+      "name": "Bel Fuse - Class B Common Stock",
+      "ratio": 0.27,
+      "shares": 3177
     },
     {
       "code": "ITRI.US",
       "name": "Itron",
-      "ratio": 0.25,
-      "shares": 10741
+      "ratio": 0.21,
+      "shares": 8976
     },
     {
-      "code": "MEI.US",
-      "name": "Methode Electronics",
-      "ratio": 0.11,
-      "shares": 33573
+      "code": "FLNC.US",
+      "name": "Fluence Energy",
+      "ratio": 0.14,
+      "shares": 20649
     },
     {
       "code": "MVST.US",
       "name": "Microvast",
-      "ratio": 0.02,
-      "shares": 49935
+      "ratio": 0.01,
+      "shares": 42816
+    },
+    {
+      "code": "NXT.US",
+      "name": "Nextpower",
+      "ratio": 0.0,
+      "shares": 100
+    },
+    {
+      "code": "SWX.US",
+      "name": "Southwest Gas",
+      "ratio": 0.0,
+      "shares": 100
+    },
+    {
+      "code": "OGE.US",
+      "name": "OGE Energy",
+      "ratio": 0.0,
+      "shares": 100
+    },
+    {
+      "code": "AMSC.US",
+      "name": "American Superconductor",
+      "ratio": 0.0,
+      "shares": 100
+    },
+    {
+      "code": "MEI.US",
+      "name": "Methode Electronics",
+      "ratio": 0.0,
+      "shares": 100
     }
   ]
 }
