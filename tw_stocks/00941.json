@@ -1,7 +1,7 @@
 {
   "id": "00941",
   "name": "中信上游半導體",
-  "fetched_at": "2026-06-15",
+  "fetched_at": "2026-06-22",
   "capital": {
     "ETF名稱": "中信上游半導體",
     "交易所代碼": "00941",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2024/03/15",
     "成分股數": 50,
-    "ETF規模": "12,302.06(百萬台幣)(2026/06/12)",
-    "成交量(股)": "3,352,053（月均:2,230,421）",
+    "ETF規模": "12,707.54(百萬台幣)(2026/06/18)",
+    "成交量(股)": "1,694,204（月均:2,358,390）",
     "投資標的": "資訊科技股",
     "經理人": "葉松炫",
     "投資區域": "全球",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "",
     "經理費(%)": "0.9",
-    "殖利率(%)": "N/A（06/15）",
+    "殖利率(%)": "N/A（06/22）",
     "總管理費用(%)": "1.19 (含 0.29 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://www.ctbcinvestments.com.tw/Etf/93176279/Info",
-    "ETF市價": "28.5800（06/15）",
+    "ETF市價": "28.9900（06/22）",
     "融資交易": "Y",
-    "ETF淨值": "27.8100（06/12）",
+    "ETF淨值": "28.9300（06/18）",
     "放空交易": "Y",
-    "折溢價(%)": "-1.33(月均:-0.54)",
+    "折溢價(%)": "-1.14(月均:-0.55)",
     "選擇權交易": "",
-    "年化標準差(%)": "18.77（06/15）",
+    "年化標準差(%)": "21.67（06/22）",
     "槓桿多空註記": "",
     "追蹤指數": "NYSE Factset上游半導體指數",
     "基準指數": "ICE FactSet Selected Upstream Semiconductor Index",
@@ -43,307 +43,301 @@
   "sectors": [
     {
       "name": "資訊科技",
-      "amount_wan": 607375.1,
-      "ratio": 53.2
+      "amount_wan": 641634.6,
+      "ratio": 55.9
     },
     {
       "name": "原材料",
-      "amount_wan": 500057.0,
-      "ratio": 43.8
+      "amount_wan": 479791.2,
+      "ratio": 41.8
     },
     {
       "name": "現金",
-      "amount_wan": 19408.6,
-      "ratio": 1.7
+      "amount_wan": 14921.7,
+      "ratio": 1.3
     },
     {
       "name": "工業",
-      "amount_wan": 14841.9,
-      "ratio": 1.3
+      "amount_wan": 12626.1,
+      "ratio": 1.1
     }
   ],
   "holdings": [
     {
       "code": "AMAT.US",
       "name": "Applied Materials",
-      "ratio": 8.6,
-      "shares": 59100
-    },
-    {
-      "code": "KLAC.US",
-      "name": "KLA",
-      "ratio": 8.5,
-      "shares": 130000
+      "ratio": 9.01,
+      "shares": 58700
     },
     {
       "code": "LRCX.US",
       "name": "Lam Research",
-      "ratio": 8.26,
-      "shares": 87600
+      "ratio": 8.4,
+      "shares": 87000
+    },
+    {
+      "code": "KLAC.US",
+      "name": "KLA",
+      "ratio": 8.35,
+      "shares": 129600
     },
     {
       "code": "ASML.US",
       "name": "ASML Holding",
-      "ratio": 7.71,
-      "shares": 15900
-    },
-    {
-      "code": "LIN.US",
-      "name": "Linde",
-      "ratio": 6.38,
-      "shares": 47400
-    },
-    {
-      "code": "4063.JP",
-      "name": "Shin-Etsu Chemical",
-      "ratio": 6.16,
-      "shares": 534600
+      "ratio": 7.57,
+      "shares": 15800
     },
     {
       "code": "8035.JP",
       "name": "Tokyo Electron",
-      "ratio": 6.03,
-      "shares": 55300
+      "ratio": 6.46,
+      "shares": 54900
+    },
+    {
+      "code": "4063.JP",
+      "name": "Shin-Etsu Chemical",
+      "ratio": 6.12,
+      "shares": 531000
+    },
+    {
+      "code": "LIN.US",
+      "name": "Linde",
+      "ratio": 5.99,
+      "shares": 47100
     },
     {
       "code": "",
       "name": "液化空氣集團",
-      "ratio": 5.85,
-      "shares": 116790
+      "ratio": 5.54,
+      "shares": 115990
     },
     {
       "code": "APD.US",
       "name": "Air Products and Chemicals",
-      "ratio": 5.78,
-      "shares": 79800
+      "ratio": 5.52,
+      "shares": 79300
     },
     {
       "code": "",
       "name": "巴斯夫公司",
-      "ratio": 5.02,
-      "shares": 341200
+      "ratio": 4.7,
+      "shares": 338900
     },
     {
       "code": "6857.JP",
       "name": "Advantest",
-      "ratio": 3.88,
-      "shares": 88500
+      "ratio": 4.12,
+      "shares": 87900
     },
     {
       "code": "Q.US",
       "name": "Qnity",
-      "ratio": 3.09,
-      "shares": 79900
+      "ratio": 3.33,
+      "shares": 79400
     },
     {
       "code": "TER.US",
       "name": "Teradyne",
-      "ratio": 1.95,
-      "shares": 18800
+      "ratio": 2.02,
+      "shares": 18600
     },
     {
       "code": "DD.US",
       "name": "DuPont de Nemours",
-      "ratio": 1.94,
-      "shares": 156100
+      "ratio": 1.84,
+      "shares": 155100
     },
     {
       "code": "ASM.US",
       "name": "Avino Silver & Gold Mines",
-      "ratio": 1.71,
+      "ratio": 1.73,
       "shares": 5650
-    },
-    {
-      "code": "3407.JP",
-      "name": "Asahi Kasei",
-      "ratio": 1.45,
-      "shares": 504400
     },
     {
       "code": "6146.JP",
       "name": "DISCO",
-      "ratio": 1.36,
-      "shares": 10600
+      "ratio": 1.38,
+      "shares": 10500
+    },
+    {
+      "code": "3407.JP",
+      "name": "Asahi Kasei",
+      "ratio": 1.38,
+      "shares": 501000
     },
     {
       "code": "ESI.US",
       "name": "Element Solutions",
-      "ratio": 0.98,
-      "shares": 86900
-    },
-    {
-      "code": "EMN.US",
-      "name": "Eastman Chemical",
-      "ratio": 0.84,
-      "shares": 43200
-    },
-    {
-      "code": "BESI.US",
-      "name": "BE半導體產業公司",
-      "ratio": 0.82,
-      "shares": 8700
-    },
-    {
-      "code": "086520.KS",
-      "name": "ECOPRO",
-      "ratio": 0.75,
-      "shares": 38600
-    },
-    {
-      "code": "MKSI.US",
-      "name": "MKS",
-      "ratio": 0.74,
-      "shares": 8100
-    },
-    {
-      "code": "ENTG.US",
-      "name": "Entegris",
-      "ratio": 0.71,
-      "shares": 18300
+      "ratio": 0.99,
+      "shares": 86300
     },
     {
       "code": "6920.JP",
       "name": "Lasertec Corporation",
-      "ratio": 0.71,
-      "shares": 10000
+      "ratio": 0.86,
+      "shares": 9900
     },
     {
-      "code": "4186.JP",
-      "name": "TOK",
-      "ratio": 0.7,
-      "shares": 44000
+      "code": "MKSI.US",
+      "name": "MKS",
+      "ratio": 0.81,
+      "shares": 8000
+    },
+    {
+      "code": "ENTG.US",
+      "name": "Entegris",
+      "ratio": 0.8,
+      "shares": 18100
+    },
+    {
+      "code": "BESI.US",
+      "name": "BE半導體產業公司",
+      "ratio": 0.78,
+      "shares": 8600
+    },
+    {
+      "code": "EMN.US",
+      "name": "Eastman Chemical",
+      "ratio": 0.77,
+      "shares": 42900
     },
     {
       "code": "3189.TW",
       "name": "景碩",
-      "ratio": 0.67,
-      "shares": 135000
+      "ratio": 0.76,
+      "shares": 134000
+    },
+    {
+      "code": "4186.JP",
+      "name": "TOK",
+      "ratio": 0.75,
+      "shares": 43700
+    },
+    {
+      "code": "086520.KS",
+      "name": "ECOPRO",
+      "ratio": 0.73,
+      "shares": 38400
     },
     {
       "code": "4091.JP",
       "name": "NIPPON SANSO",
-      "ratio": 0.63,
-      "shares": 72300
-    },
-    {
-      "code": "7769.TW",
-      "name": "鴻勁",
-      "ratio": 0.59,
-      "shares": 10000
+      "ratio": 0.62,
+      "shares": 71800
     },
     {
       "code": "4021.JP",
       "name": "Nissan Chemical",
-      "ratio": 0.58,
-      "shares": 47800
-    },
-    {
-      "code": "NVMI.US",
-      "name": "Nova",
-      "ratio": 0.57,
-      "shares": 3800
-    },
-    {
-      "code": "6223.TW",
-      "name": "旺矽",
-      "ratio": 0.53,
-      "shares": 10000
+      "ratio": 0.59,
+      "shares": 47500
     },
     {
       "code": "7735.JP",
       "name": "SCREEN Holdings",
-      "ratio": 0.49,
-      "shares": 21700
+      "ratio": 0.55,
+      "shares": 21500
     },
     {
-      "code": "ONTO.US",
-      "name": "Onto Innovation",
-      "ratio": 0.49,
-      "shares": 5900
+      "code": "NVMI.US",
+      "name": "Nova",
+      "ratio": 0.54,
+      "shares": 3800
     },
     {
       "code": "MTRN.US",
       "name": "Materion",
+      "ratio": 0.52,
+      "shares": 7600
+    },
+    {
+      "code": "6223.TW",
+      "name": "旺矽",
+      "ratio": 0.5,
+      "shares": 10000
+    },
+    {
+      "code": "7769.TW",
+      "name": "鴻勁",
       "ratio": 0.49,
-      "shares": 7700
+      "shares": 9000
+    },
+    {
+      "code": "ONTO.US",
+      "name": "Onto Innovation",
+      "ratio": 0.48,
+      "shares": 5800
     },
     {
       "code": "OLED.US",
       "name": "Universal Display Corporation",
-      "ratio": 0.38,
-      "shares": 16300
+      "ratio": 0.36,
+      "shares": 16200
     },
     {
       "code": "6525.JP",
       "name": "KOKUSAI ELECTRIC",
-      "ratio": 0.34,
-      "shares": 24200
+      "ratio": 0.36,
+      "shares": 24000
     },
     {
       "code": "FORM.US",
       "name": "FormFactor",
-      "ratio": 0.33,
-      "shares": 9300
-    },
-    {
-      "code": "3653.TW",
-      "name": "健策",
-      "ratio": 0.33,
-      "shares": 11000
-    },
-    {
-      "code": "042700.KS",
-      "name": "HANMI Semiconductor",
-      "ratio": 0.3,
-      "shares": 5000
+      "ratio": 0.34,
+      "shares": 9200
     },
     {
       "code": "4203.JP",
       "name": "Sumitomo Bakelite",
-      "ratio": 0.29,
-      "shares": 28300
+      "ratio": 0.32,
+      "shares": 28100
+    },
+    {
+      "code": "3653.TW",
+      "name": "健策",
+      "ratio": 0.31,
+      "shares": 10000
+    },
+    {
+      "code": "042700.KS",
+      "name": "HANMI Semiconductor",
+      "ratio": 0.26,
+      "shares": 5000
     },
     {
       "code": "4626.JP",
       "name": "TAIYO HOLDINGS",
       "ratio": 0.24,
-      "shares": 28800
-    },
-    {
-      "code": "6515.TW",
-      "name": "穎崴",
-      "ratio": 0.23,
-      "shares": 3000
+      "shares": 28600
     },
     {
       "code": "",
       "name": "愛思強股份有限公司",
       "ratio": 0.23,
-      "shares": 13600
+      "shares": 13400
+    },
+    {
+      "code": "1785.TW",
+      "name": "光洋科",
+      "ratio": 0.21,
+      "shares": 178000
     },
     {
       "code": "4401.JP",
       "name": "ADEKA",
       "ratio": 0.21,
-      "shares": 33400
-    },
-    {
-      "code": "1785.TW",
-      "name": "光洋科",
-      "ratio": 0.2,
-      "shares": 178000
-    },
-    {
-      "code": "",
-      "name": "瓦克化學股份有限公司",
-      "ratio": 0.19,
-      "shares": 6800
+      "shares": 32900
     },
     {
       "code": "6213.TW",
       "name": "聯茂",
-      "ratio": 0.17,
-      "shares": 83000
+      "ratio": 0.18,
+      "shares": 82000
+    },
+    {
+      "code": "",
+      "name": "瓦克化學股份有限公司",
+      "ratio": 0.18,
+      "shares": 6700
     },
     {
       "code": "002380.KS",
@@ -352,16 +346,22 @@
       "shares": 1900
     },
     {
+      "code": "6515.TW",
+      "name": "穎崴",
+      "ratio": 0.15,
+      "shares": 2000
+    },
+    {
       "code": "",
       "name": "梭意科技",
-      "ratio": 0.14,
-      "shares": 3500
+      "ratio": 0.11,
+      "shares": 3400
     },
     {
       "code": "450080.KS",
       "name": "ECOPRO MATERIALS",
-      "ratio": 0.1,
-      "shares": 10100
+      "ratio": 0.09,
+      "shares": 10000
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "id": "00964",
   "name": "中信亞太高股息",
-  "fetched_at": "2026-06-15",
+  "fetched_at": "2026-06-22",
   "capital": {
     "ETF名稱": "中信亞太高股息",
     "交易所代碼": "00964",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2024/11/14",
     "成分股數": 50,
-    "ETF規模": "932.26(百萬台幣)(2026/06/12)",
-    "成交量(股)": "2,387,918（月均:3,976,549）",
+    "ETF規模": "927.53(百萬台幣)(2026/06/18)",
+    "成交量(股)": "1,856,052（月均:3,914,738）",
     "投資標的": "股票型",
     "經理人": "張苡琤",
     "投資區域": "亞太",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "月配",
     "經理費(%)": "0.7",
-    "殖利率(%)": "6.56（06/15）",
+    "殖利率(%)": "6.69（06/22）",
     "總管理費用(%)": "1.61 (含 0.91 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://www.ctbcinvestments.com.tw/Etf/00527296/Info",
-    "ETF市價": "14.7800（06/15）",
+    "ETF市價": "14.4800（06/22）",
     "融資交易": "Y",
-    "ETF淨值": "14.5400（06/12）",
+    "ETF淨值": "14.4600（06/18）",
     "放空交易": "Y",
-    "折溢價(%)": "-0.07(月均:-0.06)",
+    "折溢價(%)": "0.48(月均:-0.10)",
     "選擇權交易": "",
-    "年化標準差(%)": "13.37（06/15）",
+    "年化標準差(%)": "11.24（06/22）",
     "槓桿多空註記": "",
     "追蹤指數": "NYSE亞太高股息指數",
     "基準指數": "NYSE Asia Pacific Selected High Dividend Index (TR",
@@ -42,341 +42,351 @@
   },
   "sectors": [
     {
-      "name": "工業",
-      "amount_wan": 24638.7,
-      "ratio": 32.2
+      "name": "資訊科技",
+      "amount_wan": 25021.5,
+      "ratio": 26.7
     },
     {
-      "name": "資訊科技",
-      "amount_wan": 16680.9,
-      "ratio": 21.8
+      "name": "工業",
+      "amount_wan": 22022.6,
+      "ratio": 23.5
     },
     {
       "name": "金融",
-      "amount_wan": 13849.7,
-      "ratio": 18.1
+      "amount_wan": 14525.6,
+      "ratio": 15.5
     },
     {
       "name": "能源",
-      "amount_wan": 12931.5,
-      "ratio": 16.9
+      "amount_wan": 10683.3,
+      "ratio": 11.4
     },
     {
       "name": "原材料",
-      "amount_wan": 4208.5,
-      "ratio": 5.5
+      "amount_wan": 8434.2,
+      "ratio": 9.0
     },
     {
       "name": "非日常生活消費",
-      "amount_wan": 2372.1,
-      "ratio": 3.1
+      "amount_wan": 7590.8,
+      "ratio": 8.1
+    },
+    {
+      "name": "房地產",
+      "amount_wan": 2530.3,
+      "ratio": 2.7
     },
     {
       "name": "現金",
-      "amount_wan": 1836.4,
-      "ratio": 2.4
+      "amount_wan": 1686.8,
+      "ratio": 1.8
+    },
+    {
+      "name": "日常消費",
+      "amount_wan": 1312.0,
+      "ratio": 1.4
     }
   ],
   "holdings": [
     {
       "code": "3026.TW",
       "name": "禾伸堂",
-      "ratio": 5.33,
-      "shares": 65100
-    },
-    {
-      "code": "2855.TW",
-      "name": "統一證",
-      "ratio": 3.28,
-      "shares": 606000
-    },
-    {
-      "code": "017800.KS",
-      "name": "HYUNDAI ELEVATOR",
-      "ratio": 3.26,
-      "shares": 18320
+      "ratio": 6.24,
+      "shares": 64100
     },
     {
       "code": "3481.TW",
       "name": "群創",
-      "ratio": 3.11,
-      "shares": 597600
+      "ratio": 4.11,
+      "shares": 592600
+    },
+    {
+      "code": "2855.TW",
+      "name": "統一證",
+      "ratio": 3.38,
+      "shares": 600000
+    },
+    {
+      "code": "017800.KS",
+      "name": "HYUNDAI ELEVATOR",
+      "ratio": 3.18,
+      "shares": 18090
     },
     {
       "code": "2542.TW",
       "name": "興富發",
-      "ratio": 2.92,
-      "shares": 605600
-    },
-    {
-      "code": "2357.TW",
-      "name": "華碩",
-      "ratio": 2.64,
-      "shares": 31300
-    },
-    {
-      "code": "2510.HK",
-      "name": "德翔海運",
-      "ratio": 2.56,
-      "shares": 704000
-    },
-    {
-      "code": "2603.TW",
-      "name": "長榮",
-      "ratio": 2.47,
-      "shares": 101000
-    },
-    {
-      "code": "2303.TW",
-      "name": "聯電",
-      "ratio": 2.38,
-      "shares": 166200
-    },
-    {
-      "code": "1919.HK",
-      "name": "中遠海控",
-      "ratio": 2.33,
-      "shares": 380200
-    },
-    {
-      "code": "3028.TW",
-      "name": "增你強",
-      "ratio": 2.31,
-      "shares": 287300
+      "ratio": 2.89,
+      "shares": 599600
     },
     {
       "code": "092790.KS",
       "name": "NEXTEEL",
-      "ratio": 2.27,
-      "shares": 71210
+      "ratio": 2.71,
+      "shares": 70280
     },
     {
-      "code": "1308.HK",
-      "name": "海豐國際",
-      "ratio": 2.27,
-      "shares": 152000
+      "code": "2357.TW",
+      "name": "華碩",
+      "ratio": 2.66,
+      "shares": 31300
     },
     {
-      "code": "",
-      "name": "New Hope Corp Ltd",
-      "ratio": 2.27,
-      "shares": 157590
-    },
-    {
-      "code": "2393.TW",
-      "name": "億光",
-      "ratio": 2.12,
-      "shares": 279300
-    },
-    {
-      "code": "3698.HK",
-      "name": "徽商銀行",
-      "ratio": 2.11,
-      "shares": 918000
-    },
-    {
-      "code": "0551.HK",
-      "name": "裕元集團",
-      "ratio": 2.08,
-      "shares": 338000
+      "code": "2303.TW",
+      "name": "聯電",
+      "ratio": 2.59,
+      "shares": 165200
     },
     {
       "code": "2489.TW",
       "name": "瑞軒",
-      "ratio": 2.05,
-      "shares": 459800
+      "ratio": 2.37,
+      "shares": 455800
+    },
+    {
+      "code": "2510.HK",
+      "name": "德翔海運",
+      "ratio": 2.34,
+      "shares": 698000
+    },
+    {
+      "code": "3028.TW",
+      "name": "增你強",
+      "ratio": 2.3,
+      "shares": 284300
+    },
+    {
+      "code": "1919.HK",
+      "name": "中遠海控",
+      "ratio": 2.19,
+      "shares": 377200
     },
     {
       "code": "2347.TW",
       "name": "聯強",
-      "ratio": 2.05,
-      "shares": 214800
+      "ratio": 2.14,
+      "shares": 212800
+    },
+    {
+      "code": "2393.TW",
+      "name": "億光",
+      "ratio": 2.11,
+      "shares": 277300
+    },
+    {
+      "code": "2603.TW",
+      "name": "長榮",
+      "ratio": 2.1,
+      "shares": 101000
+    },
+    {
+      "code": "1308.HK",
+      "name": "海豐國際",
+      "ratio": 2.1,
+      "shares": 151000
+    },
+    {
+      "code": "",
+      "name": "New Hope Corp Ltd",
+      "ratio": 2.02,
+      "shares": 155900
+    },
+    {
+      "code": "3698.HK",
+      "name": "徽商銀行",
+      "ratio": 1.96,
+      "shares": 910000
+    },
+    {
+      "code": "0551.HK",
+      "name": "裕元集團",
+      "ratio": 1.95,
+      "shares": 335000
     },
     {
       "code": "2451.TW",
       "name": "創見",
-      "ratio": 1.89,
+      "ratio": 1.93,
       "shares": 57600
     },
     {
       "code": "",
       "name": "FMG集團",
-      "ratio": 1.87,
-      "shares": 38840
-    },
-    {
-      "code": "2385.TW",
-      "name": "群光",
-      "ratio": 1.83,
-      "shares": 121300
-    },
-    {
-      "code": "3988.HK",
-      "name": "中國銀行",
-      "ratio": 1.82,
-      "shares": 759600
-    },
-    {
-      "code": "0316.HK",
-      "name": "東方海外國際",
-      "ratio": 1.78,
-      "shares": 31400
-    },
-    {
-      "code": "005850.KS",
-      "name": "SL",
-      "ratio": 1.77,
-      "shares": 11710
-    },
-    {
-      "code": "3526.TW",
-      "name": "凡甲",
-      "ratio": 1.75,
-      "shares": 50600
-    },
-    {
-      "code": "0564.HK",
-      "name": "中創智領",
-      "ratio": 1.74,
-      "shares": 272400
+      "ratio": 1.84,
+      "shares": 38420
     },
     {
       "code": "5541.JP",
       "name": "Pacific Metals",
-      "ratio": 1.73,
-      "shares": 37600
+      "ratio": 1.79,
+      "shares": 37200
     },
     {
-      "code": "0939.HK",
-      "name": "建設銀行",
-      "ratio": 1.69,
-      "shares": 435600
+      "code": "005850.KS",
+      "name": "SL",
+      "ratio": 1.79,
+      "shares": 11560
     },
     {
-      "code": "0998.HK",
-      "name": "中信銀行",
-      "ratio": 1.69,
-      "shares": 505700
+      "code": "3526.TW",
+      "name": "凡甲",
+      "ratio": 1.78,
+      "shares": 50600
     },
     {
-      "code": "9101.JP",
-      "name": "NYK",
-      "ratio": 1.67,
-      "shares": 14000
+      "code": "3988.HK",
+      "name": "中國銀行",
+      "ratio": 1.72,
+      "shares": 752600
     },
     {
       "code": "9744.JP",
       "name": "MEITEC",
-      "ratio": 1.67,
-      "shares": 25900
+      "ratio": 1.66,
+      "shares": 25600
     },
     {
-      "code": "",
-      "name": "伍德賽德能源集團有限公司",
+      "code": "0316.HK",
+      "name": "東方海外國際",
       "ratio": 1.65,
-      "shares": 22110
+      "shares": 30900
     },
     {
       "code": "4114.JP",
       "name": "Nippon Shokubai",
-      "ratio": 1.6,
-      "shares": 36400
+      "ratio": 1.62,
+      "shares": 36000
     },
     {
-      "code": "",
-      "name": "Beach Energy Ltd",
-      "ratio": 1.59,
-      "shares": 618300
+      "code": "0939.HK",
+      "name": "建設銀行",
+      "ratio": 1.62,
+      "shares": 432600
     },
     {
-      "code": "0857.HK",
-      "name": "中國石油股份",
+      "code": "0564.HK",
+      "name": "中創智領",
+      "ratio": 1.61,
+      "shares": 270000
+    },
+    {
+      "code": "0998.HK",
+      "name": "中信銀行",
       "ratio": 1.58,
-      "shares": 352400
-    },
-    {
-      "code": "1088.HK",
-      "name": "中國神華",
-      "ratio": 1.58,
-      "shares": 80800
-    },
-    {
-      "code": "000270.KS",
-      "name": "KIA CORP.",
-      "ratio": 1.56,
-      "shares": 4190
+      "shares": 501700
     },
     {
       "code": "澳洲",
       "name": "奮進集團有限公司",
-      "ratio": 1.53,
-      "shares": 198700
+      "ratio": 1.54,
+      "shares": 196570
     },
     {
-      "code": "1336.HK",
-      "name": "新華人壽保險",
-      "ratio": 1.51,
-      "shares": 67500
-    },
-    {
-      "code": "016360.KS",
-      "name": "Samsung Securities",
-      "ratio": 1.49,
-      "shares": 5620
-    },
-    {
-      "code": "005940.KS",
-      "name": "NHIS",
-      "ratio": 1.48,
-      "shares": 20870
+      "code": "9101.JP",
+      "name": "NYK",
+      "ratio": 1.54,
+      "shares": 13800
     },
     {
       "code": "3260.TW",
       "name": "威剛",
+      "ratio": 1.51,
+      "shares": 33060
+    },
+    {
+      "code": "",
+      "name": "伍德賽德能源集團有限公司",
+      "ratio": 1.5,
+      "shares": 21870
+    },
+    {
+      "code": "1088.HK",
+      "name": "中國神華",
       "ratio": 1.48,
-      "shares": 34060
+      "shares": 80300
+    },
+    {
+      "code": "2385.TW",
+      "name": "群光",
+      "ratio": 1.48,
+      "shares": 120300
+    },
+    {
+      "code": "016360.KS",
+      "name": "Samsung Securities",
+      "ratio": 1.47,
+      "shares": 5550
+    },
+    {
+      "code": "000270.KS",
+      "name": "KIA CORP.",
+      "ratio": 1.46,
+      "shares": 4130
+    },
+    {
+      "code": "1336.HK",
+      "name": "新華人壽保險",
+      "ratio": 1.45,
+      "shares": 67000
     },
     {
       "code": "2637.TW",
       "name": "慧洋-KY",
-      "ratio": 1.47,
-      "shares": 174700
+      "ratio": 1.45,
+      "shares": 173700
     },
     {
-      "code": "1171.HK",
-      "name": "兗礦能源集團",
-      "ratio": 1.34,
-      "shares": 219500
+      "code": "",
+      "name": "Beach Energy Ltd",
+      "ratio": 1.45,
+      "shares": 611700
+    },
+    {
+      "code": "005940.KS",
+      "name": "NHIS",
+      "ratio": 1.44,
+      "shares": 20600
+    },
+    {
+      "code": "0857.HK",
+      "name": "中國石油股份",
+      "ratio": 1.39,
+      "shares": 348400
     },
     {
       "code": "005830.KS",
       "name": "DB INSURANCE",
       "ratio": 1.3,
-      "shares": 3940
+      "shares": 3890
     },
     {
       "code": "0386.HK",
       "name": "中國石油化工股份",
-      "ratio": 1.29,
-      "shares": 704240
+      "ratio": 1.25,
+      "shares": 698240
+    },
+    {
+      "code": "1171.HK",
+      "name": "兗礦能源集團",
+      "ratio": 1.18,
+      "shares": 217500
     },
     {
       "code": "078930.KS",
       "name": "GS Holdings",
-      "ratio": 1.2,
-      "shares": 7410
+      "ratio": 1.16,
+      "shares": 7320
     },
     {
       "code": "001120.KS",
       "name": "LX INTERNATIONAL",
-      "ratio": 1.17,
-      "shares": 13140
+      "ratio": 1.1,
+      "shares": 12960
     },
     {
       "code": "1378.HK",
       "name": "中國宏橋集團",
-      "ratio": 1.09,
-      "shares": 93500
+      "ratio": 0.91,
+      "shares": 92500
     }
   ]
 }

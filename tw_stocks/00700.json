@@ -1,7 +1,7 @@
 {
   "id": "00700",
   "name": "富邦�琤肭磪�",
-  "fetched_at": "2026-06-15",
+  "fetched_at": "2026-06-22",
   "capital": {
     "ETF名稱": "富邦恒生國企",
     "交易所代碼": "00700",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2017/07/28",
     "成分股數": 46,
-    "ETF規模": "602.01(百萬台幣)(2026/06/15)",
-    "成交量(股)": "194,982（月均:291,144）",
+    "ETF規模": "568.29(百萬台幣)(2026/06/22)",
+    "成交量(股)": "1,782,107（月均:403,293）",
     "投資標的": "股票型",
     "經理人": "陳仲愷",
     "投資區域": "香港",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "",
     "經理費(%)": "0.5",
-    "殖利率(%)": "N/A（06/15）",
+    "殖利率(%)": "N/A（06/22）",
     "總管理費用(%)": "0.69 (含 0.19 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://websys.fsit.com.tw/FubonETF/Fund/Profile.aspx?stkId=00700",
-    "ETF市價": "16.9100（06/15）",
+    "ETF市價": "15.9600（06/22）",
     "融資交易": "Y",
-    "ETF淨值": "16.9700（06/15）",
+    "ETF淨值": "16.0200（06/22）",
     "放空交易": "Y",
-    "折溢價(%)": "-0.35(月均:-0.47)",
+    "折溢價(%)": "-0.37(月均:-0.43)",
     "選擇權交易": "",
-    "年化標準差(%)": "13.38（06/15）",
+    "年化標準差(%)": "14.03（06/22）",
     "槓桿多空註記": "",
     "追蹤指數": "恒生中國企業指數",
     "基準指數": "恆生中國企業指數",
@@ -43,77 +43,72 @@
   "sectors": [
     {
       "name": "金融",
-      "amount_wan": 17213.6,
-      "ratio": 27.34
+      "amount_wan": 16610.0,
+      "ratio": 27.51
     },
     {
-      "name": "非核心消費－1",
-      "amount_wan": 15677.4,
-      "ratio": 24.9
+      "name": "非核心消費",
+      "amount_wan": 14653.7,
+      "ratio": 24.27
     },
     {
       "name": "其他資產",
-      "amount_wan": 7737.9,
-      "ratio": 12.29
+      "amount_wan": 7637.8,
+      "ratio": 12.65
     },
     {
       "name": "通訊服務",
-      "amount_wan": 7618.3,
-      "ratio": 12.1
+      "amount_wan": 7390.3,
+      "ratio": 12.24
     },
     {
       "name": "資訊技術",
-      "amount_wan": 4243.6,
-      "ratio": 6.74
+      "amount_wan": 4516.3,
+      "ratio": 7.48
     },
     {
       "name": "能源",
-      "amount_wan": 2952.9,
-      "ratio": 4.69
+      "amount_wan": 2686.8,
+      "ratio": 4.45
     },
     {
       "name": "醫療保健",
-      "amount_wan": 2455.5,
-      "ratio": 3.9
+      "amount_wan": 2342.7,
+      "ratio": 3.88
     },
     {
       "name": "原材料",
-      "amount_wan": 1895.1,
-      "ratio": 3.01
+      "amount_wan": 1684.5,
+      "ratio": 2.79
     },
     {
       "name": "房地產",
-      "amount_wan": 1404.0,
-      "ratio": 2.23
+      "amount_wan": 1503.4,
+      "ratio": 2.49
     },
     {
       "name": "工業",
-      "amount_wan": 919.2,
-      "ratio": 1.46
+      "amount_wan": 863.4,
+      "ratio": 1.43
     },
     {
       "name": "核心消費",
-      "amount_wan": 541.5,
-      "ratio": 0.86
-    },
-    {
-      "name": "非核心消費－2",
-      "amount_wan": 302.2,
-      "ratio": 0.48
+      "amount_wan": 489.1,
+      "ratio": 0.81
     }
   ],
   "holdings": [
     {
-      "code": "0700.HK",
-      "name": "騰訊控股",
-      "ratio": 8.01,
-      "shares": 26045
-    },
-    {
       "code": "0939.HK",
       "name": "建設銀行",
-      "ratio": 7.96,
+      "ratio": 8.14,
       "shares": 1335527
+    },
+    {
+      "code": "0700.HK",
+      "name": "騰訊控股",
+      "ratio": 8.0,
+      "shares": 26045
     },
     {
       "code": "9988.HK",
@@ -124,182 +119,164 @@
     {
       "code": "1398.HK",
       "name": "工商銀行",
-      "ratio": 5.48,
+      "ratio": 5.59,
       "shares": 1145459
     },
     {
       "code": "1810.HK",
       "name": "小米集團－Ｗ",
-      "ratio": 4.43,
+      "ratio": 4.25,
       "shares": 252219
     },
     {
       "code": "3690.HK",
       "name": "美團－Ｗ",
-      "ratio": 4.04,
+      "ratio": 3.95,
       "shares": 77221
     },
     {
       "code": "3988.HK",
       "name": "中國銀行",
-      "ratio": 3.62,
+      "ratio": 3.69,
       "shares": 987351
     },
     {
       "code": "2318.HK",
       "name": "中國平安",
-      "ratio": 3.58,
+      "ratio": 3.62,
       "shares": 92855
     },
     {
       "code": "9999.HK",
       "name": "網易－Ｓ",
-      "ratio": 2.95,
+      "ratio": 2.97,
       "shares": 22008
     },
     {
       "code": "1211.HK",
       "name": "比亞迪股份",
-      "ratio": 2.93,
+      "ratio": 2.84,
       "shares": 51149
     },
     {
       "code": "2628.HK",
       "name": "中國人壽",
-      "ratio": 2.15,
+      "ratio": 2.21,
       "shares": 102927
+    },
+    {
+      "code": "6160.HK",
+      "name": "百濟神州",
+      "ratio": 1.92,
+      "shares": 16800
     },
     {
       "code": "0857.HK",
       "name": "中國石油股份",
-      "ratio": 1.95,
+      "ratio": 1.9,
       "shares": 292603
     },
     {
       "code": "2899.HK",
       "name": "紫金礦業",
-      "ratio": 1.89,
+      "ratio": 1.88,
       "shares": 84000
     },
     {
       "code": "3968.HK",
       "name": "招商銀行",
-      "ratio": 1.81,
-      "shares": 54122
-    },
-    {
-      "code": "6160.HK",
-      "name": "百濟神州",
       "ratio": 1.79,
-      "shares": 16800
+      "shares": 54122
     },
     {
       "code": "9618.HK",
       "name": "京東集團－ＳＷ",
-      "ratio": 1.66,
+      "ratio": 1.69,
       "shares": 22112
     },
     {
       "code": "1288.HK",
       "name": "農業銀行",
-      "ratio": 1.66,
+      "ratio": 1.64,
       "shares": 405602
     },
     {
       "code": "9888.HK",
       "name": "百度集團－ＳＷ",
-      "ratio": 1.61,
+      "ratio": 1.62,
       "shares": 21006
     },
     {
       "code": "0992.HK",
       "name": "聯想集團",
-      "ratio": 1.53,
+      "ratio": 1.55,
       "shares": 93963
     },
     {
       "code": "1024.HK",
       "name": "快手－Ｗ",
-      "ratio": 1.31,
+      "ratio": 1.37,
       "shares": 42324
     },
     {
       "code": "1088.HK",
       "name": "中國神華",
-      "ratio": 1.28,
+      "ratio": 1.34,
       "shares": 44332
-    },
-    {
-      "code": "9992.HK",
-      "name": "泡泡瑪特",
-      "ratio": 1.21,
-      "shares": 10200
-    },
-    {
-      "code": "0175.HK",
-      "name": "吉利汽車",
-      "ratio": 1.21,
-      "shares": 90083
     },
     {
       "code": "1801.HK",
       "name": "信達生物",
-      "ratio": 1.19,
+      "ratio": 1.23,
       "shares": 23000
+    },
+    {
+      "code": "9992.HK",
+      "name": "泡泡瑪特",
+      "ratio": 1.16,
+      "shares": 10200
     },
     {
       "code": "9987.HK",
       "name": "百勝中國",
-      "ratio": 1.14,
+      "ratio": 1.15,
       "shares": 4900
     },
     {
-      "code": "1109.HK",
-      "name": "華潤置地",
-      "ratio": 1.08,
-      "shares": 44633
+      "code": "0175.HK",
+      "name": "吉利汽車",
+      "ratio": 1.12,
+      "shares": 90083
     },
     {
       "code": "2328.HK",
       "name": "中國財險",
-      "ratio": 0.99,
+      "ratio": 1.05,
       "shares": 96000
     },
     {
-      "code": "2020.HK",
-      "name": "安踏體育",
-      "ratio": 0.97,
-      "shares": 19329
+      "code": "1109.HK",
+      "name": "華潤置地",
+      "ratio": 0.99,
+      "shares": 44633
     },
     {
       "code": "9961.HK",
       "name": "攜程集團－Ｓ",
-      "ratio": 0.95,
+      "ratio": 0.96,
       "shares": 3848
+    },
+    {
+      "code": "2020.HK",
+      "name": "安踏體育",
+      "ratio": 0.95,
+      "shares": 19329
     },
     {
       "code": "0386.HK",
       "name": "中國石油化工股份",
-      "ratio": 0.92,
+      "ratio": 0.93,
       "shares": 314214
-    },
-    {
-      "code": "2423.HK",
-      "name": "貝殼－Ｗ",
-      "ratio": 0.85,
-      "shares": 29400
-    },
-    {
-      "code": "1378.HK",
-      "name": "中國宏橋集團",
-      "ratio": 0.85,
-      "shares": 48500
-    },
-    {
-      "code": "9868.HK",
-      "name": "小鵬集團－Ｗ",
-      "ratio": 0.84,
-      "shares": 22562
     },
     {
       "code": "9633.HK",
@@ -308,75 +285,93 @@
       "shares": 27984
     },
     {
-      "code": "2015.HK",
-      "name": "理想汽車－Ｗ",
-      "ratio": 0.74,
-      "shares": 19444
+      "code": "9868.HK",
+      "name": "小鵬集團－Ｗ",
+      "ratio": 0.83,
+      "shares": 22562
+    },
+    {
+      "code": "2423.HK",
+      "name": "貝殼－Ｗ",
+      "ratio": 0.81,
+      "shares": 29400
+    },
+    {
+      "code": "1378.HK",
+      "name": "中國宏橋集團",
+      "ratio": 0.78,
+      "shares": 48500
     },
     {
       "code": "0267.HK",
       "name": "中信股份",
-      "ratio": 0.71,
+      "ratio": 0.7,
       "shares": 80388
+    },
+    {
+      "code": "2015.HK",
+      "name": "理想汽車－Ｗ",
+      "ratio": 0.7,
+      "shares": 19444
     },
     {
       "code": "2057.HK",
       "name": "中通快遞－Ｗ",
-      "ratio": 0.64,
+      "ratio": 0.66,
       "shares": 5350
     },
     {
       "code": "3328.HK",
       "name": "交通銀行",
-      "ratio": 0.62,
+      "ratio": 0.63,
       "shares": 121902
     },
     {
       "code": "9926.HK",
       "name": "康方生物",
-      "ratio": 0.6,
+      "ratio": 0.59,
       "shares": 10000
-    },
-    {
-      "code": "0688.HK",
-      "name": "中國海外發展",
-      "ratio": 0.55,
-      "shares": 52969
     },
     {
       "code": "1093.HK",
       "name": "石藥集團",
-      "ratio": 0.55,
+      "ratio": 0.54,
       "shares": 111494
     },
     {
       "code": "1658.HK",
       "name": "郵儲銀行",
-      "ratio": 0.52,
+      "ratio": 0.54,
       "shares": 151629
+    },
+    {
+      "code": "0688.HK",
+      "name": "中國海外發展",
+      "ratio": 0.49,
+      "shares": 52969
     },
     {
       "code": "9660.HK",
       "name": "地平線機器人－Ｗ",
-      "ratio": 0.51,
+      "ratio": 0.48,
       "shares": 162600
     },
     {
       "code": "3692.HK",
       "name": "翰森製藥",
-      "ratio": 0.44,
+      "ratio": 0.46,
       "shares": 22000
     },
     {
       "code": "6618.HK",
       "name": "京東健康",
-      "ratio": 0.39,
+      "ratio": 0.38,
       "shares": 15610
     },
     {
       "code": "2313.HK",
       "name": "申洲國際",
-      "ratio": 0.34,
+      "ratio": 0.33,
       "shares": 11447
     }
   ]

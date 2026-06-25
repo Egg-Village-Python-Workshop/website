@@ -1,7 +1,7 @@
 {
   "id": "00895",
   "name": "富邦未來車",
-  "fetched_at": "2026-06-15",
+  "fetched_at": "2026-06-22",
   "capital": {
     "ETF名稱": "富邦未來車",
     "交易所代碼": "00895",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2021/08/12",
     "成分股數": 32,
-    "ETF規模": "7,830.62(百萬台幣)(2026/06/12)",
-    "成交量(股)": "625,549（月均:851,029）",
+    "ETF規模": "8,011.42(百萬台幣)(2026/06/18)",
+    "成交量(股)": "248,801（月均:804,006）",
     "投資標的": "資訊科技股",
     "經理人": "王素珍",
     "投資區域": "全球",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "",
     "經理費(%)": "0.9",
-    "殖利率(%)": "N/A（06/15）",
+    "殖利率(%)": "N/A（06/22）",
     "總管理費用(%)": "1.22 (含 0.32 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://websys.fsit.com.tw/FubonETF/Fund/Profile.aspx?stkId=00895",
-    "ETF市價": "52.0500（06/15）",
+    "ETF市價": "53.1500（06/22）",
     "融資交易": "Y",
-    "ETF淨值": "50.8800（06/12）",
+    "ETF淨值": "52.7400（06/18）",
     "放空交易": "Y",
-    "折溢價(%)": "-1.04(月均:0.00)",
+    "折溢價(%)": "-0.93(月均:-0.03)",
     "選擇權交易": "",
-    "年化標準差(%)": "18.99（06/15）",
+    "年化標準差(%)": "20.10（06/22）",
     "槓桿多空註記": "",
     "追蹤指數": "MSCI ACWI IMI精選未來車30指數",
     "基準指數": "Global Autonomous and Electric Vehicles Price Retu",
@@ -43,215 +43,215 @@
   "sectors": [
     {
       "name": "資訊技術",
-      "amount_wan": 280592.2,
-      "ratio": 38.5
+      "amount_wan": 313467.2,
+      "ratio": 38.82
     },
     {
       "name": "非核心消費",
-      "amount_wan": 190875.5,
-      "ratio": 26.19
+      "amount_wan": 186530.0,
+      "ratio": 23.1
     },
     {
       "name": "電子類股",
-      "amount_wan": 135558.8,
-      "ratio": 18.6
+      "amount_wan": 152534.7,
+      "ratio": 18.89
     },
     {
       "name": "工業",
-      "amount_wan": 99264.0,
-      "ratio": 13.62
+      "amount_wan": 98029.2,
+      "ratio": 12.14
     },
     {
       "name": "原材料",
-      "amount_wan": 16835.5,
-      "ratio": 2.31
+      "amount_wan": 45946.1,
+      "ratio": 5.69
     },
     {
       "name": "其他資產",
-      "amount_wan": 5684.7,
-      "ratio": 0.78
+      "amount_wan": 10981.9,
+      "ratio": 1.36
     }
   ],
   "holdings": [
     {
       "code": "2330.TW",
       "name": "台積電",
-      "ratio": 17.67,
-      "shares": 599000
+      "ratio": 17.78,
+      "shares": 591000
     },
     {
       "code": "NVDA.US",
       "name": "NVIDIA",
-      "ratio": 17.59,
-      "shares": 212300
+      "ratio": 17.39,
+      "shares": 209600
     },
     {
       "code": "TSLA.US",
       "name": "Tesla",
-      "ratio": 11.59,
-      "shares": 70590
+      "ratio": 10.99,
+      "shares": 69690
     },
     {
       "code": "AMD.US",
       "name": "AMD",
-      "ratio": 9.25,
-      "shares": 44800
+      "ratio": 9.33,
+      "shares": 44100
     },
     {
       "code": "TXN.US",
       "name": "Texas Instruments",
-      "ratio": 3.85,
-      "shares": 31700
-    },
-    {
-      "code": "",
-      "name": "Infineon Technologies AG",
-      "ratio": 2.82,
-      "shares": 75271
-    },
-    {
-      "code": "ETN.US",
-      "name": "Eaton",
-      "ratio": 2.78,
-      "shares": 17592
-    },
-    {
-      "code": "6501.JP",
-      "name": "Hitachi",
-      "ratio": 2.33,
-      "shares": 199000
+      "ratio": 3.98,
+      "shares": 31300
     },
     {
       "code": "6981.JP",
       "name": "Murata Mfg.",
-      "ratio": 2.3,
-      "shares": 106700
+      "ratio": 3.04,
+      "shares": 105700
     },
     {
-      "code": "UBER.US",
-      "name": "Uber",
-      "ratio": 2.19,
-      "shares": 78900
+      "code": "ETN.US",
+      "name": "Eaton",
+      "ratio": 2.89,
+      "shares": 17392
+    },
+    {
+      "code": "",
+      "name": "Infineon Technologies AG",
+      "ratio": 2.76,
+      "shares": 74314
     },
     {
       "code": "402340.KS",
       "name": "SKSQUARE",
-      "ratio": 2.14,
-      "shares": 5932
+      "ratio": 2.57,
+      "shares": 5857
+    },
+    {
+      "code": "6501.JP",
+      "name": "Hitachi",
+      "ratio": 2.31,
+      "shares": 196500
+    },
+    {
+      "code": "UBER.US",
+      "name": "Uber",
+      "ratio": 2.2,
+      "shares": 77900
     },
     {
       "code": "GM.US",
       "name": "General Motors",
-      "ratio": 1.98,
-      "shares": 60300
+      "ratio": 1.86,
+      "shares": 59500
     },
     {
       "code": "ORLY.US",
       "name": "O'Reilly Automotive",
-      "ratio": 1.95,
-      "shares": 53100
-    },
-    {
-      "code": "",
-      "name": "Rio Tinto PLC",
-      "ratio": 1.81,
-      "shares": 42836
+      "ratio": 1.79,
+      "shares": 52400
     },
     {
       "code": "FCX.US",
       "name": "Freeport-McMoran",
-      "ratio": 1.79,
-      "shares": 64700
+      "ratio": 1.73,
+      "shares": 63900
+    },
+    {
+      "code": "",
+      "name": "Rio Tinto PLC",
+      "ratio": 1.68,
+      "shares": 42157
     },
     {
       "code": "PWR.US",
       "name": "Quanta Services",
-      "ratio": 1.71,
-      "shares": 6000
-    },
-    {
-      "code": "",
-      "name": "ANGLO AMERICAN PLC",
-      "ratio": 1.54,
-      "shares": 70942
-    },
-    {
-      "code": "F.US",
-      "name": "Ford Motor",
-      "ratio": 1.5,
-      "shares": 250700
+      "ratio": 1.63,
+      "shares": 5900
     },
     {
       "code": "6752.JP",
       "name": "Panasonic Holdings",
-      "ratio": 1.43,
-      "shares": 149100
+      "ratio": 1.55,
+      "shares": 147200
     },
     {
-      "code": "005380.KS",
-      "name": "Hyundai Motor",
-      "ratio": 1.37,
-      "shares": 8510
-    },
-    {
-      "code": "ROK.US",
-      "name": "Rockwell Automation",
-      "ratio": 1.34,
-      "shares": 7200
-    },
-    {
-      "code": "6723.JP",
-      "name": "Renesas Electronics",
-      "ratio": 1.27,
-      "shares": 115800
+      "code": "",
+      "name": "ANGLO AMERICAN PLC",
+      "ratio": 1.47,
+      "shares": 70086
     },
     {
       "code": "2327.TW",
       "name": "國巨",
-      "ratio": 1.14,
+      "ratio": 1.4,
       "shares": 104000
+    },
+    {
+      "code": "F.US",
+      "name": "Ford Motor",
+      "ratio": 1.37,
+      "shares": 247700
+    },
+    {
+      "code": "ROK.US",
+      "name": "Rockwell Automation",
+      "ratio": 1.32,
+      "shares": 7100
+    },
+    {
+      "code": "005380.KS",
+      "name": "Hyundai Motor",
+      "ratio": 1.31,
+      "shares": 8434
+    },
+    {
+      "code": "6723.JP",
+      "name": "Renesas Electronics",
+      "ratio": 1.28,
+      "shares": 114400
     },
     {
       "code": "6762.JP",
       "name": "TDK",
-      "ratio": 1.12,
-      "shares": 126800
-    },
-    {
-      "code": "1211.HK",
-      "name": "比亞迪股份",
-      "ratio": 1.08,
-      "shares": 241900
+      "ratio": 1.18,
+      "shares": 125300
     },
     {
       "code": "GRMN.US",
       "name": "Garmin",
-      "ratio": 1.05,
-      "shares": 10900
+      "ratio": 1.0,
+      "shares": 10800
+    },
+    {
+      "code": "1211.HK",
+      "name": "比亞迪股份",
+      "ratio": 0.97,
+      "shares": 239000
     },
     {
       "code": "",
       "name": "TECK RESOURCES LTD",
-      "ratio": 0.8,
-      "shares": 30600
+      "ratio": 0.77,
+      "shares": 30300
     },
     {
       "code": "2360.TW",
       "name": "致茂",
-      "ratio": 0.7,
+      "ratio": 0.69,
       "shares": 24000
     },
     {
       "code": "006400.KS",
       "name": "SAMSUNG SDI",
-      "ratio": 0.58,
-      "shares": 4044
+      "ratio": 0.54,
+      "shares": 3995
     },
     {
       "code": "",
       "name": "VOLKSWAGEN AG",
-      "ratio": 0.57,
-      "shares": 13797
+      "ratio": 0.52,
+      "shares": 13631
     }
   ]
 }

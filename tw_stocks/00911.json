@@ -1,7 +1,7 @@
 {
   "id": "00911",
   "name": "兆豐洲際半導體",
-  "fetched_at": "2026-06-15",
+  "fetched_at": "2026-06-22",
   "capital": {
     "ETF名稱": "兆豐洲際半導體",
     "交易所代碼": "00911",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2022/06/27",
     "成分股數": 30,
-    "ETF規模": "1,205.99(百萬台幣)(2026/06/12)",
-    "成交量(股)": "494,831（月均:562,909）",
+    "ETF規模": "1,323.55(百萬台幣)(2026/06/18)",
+    "成交量(股)": "711,827（月均:635,836）",
     "投資標的": "資訊科技股",
     "經理人": "詹佳",
     "投資區域": "全球",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "半年配",
     "經理費(%)": "0.85",
-    "殖利率(%)": "2.54（06/15）",
+    "殖利率(%)": "2.51（06/22）",
     "總管理費用(%)": "1.27 (含 0.42 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://www.megafunds.com.tw/MEGA/etf/etf_product.aspx?id=16",
-    "ETF市價": "66.8500（06/15）",
+    "ETF市價": "67.8000（06/22）",
     "融資交易": "Y",
-    "ETF淨值": "63.8000（06/12）",
+    "ETF淨值": "68.2100（06/18）",
     "放空交易": "Y",
-    "折溢價(%)": "-1.10(月均:-0.26)",
+    "折溢價(%)": "-4.63(月均:-0.19)",
     "選擇權交易": "",
-    "年化標準差(%)": "34.26（06/15）",
+    "年化標準差(%)": "34.77（06/22）",
     "槓桿多空註記": "",
     "追蹤指數": "洲際半導體指數",
     "基準指數": "費城半導體",
@@ -43,194 +43,194 @@
   "sectors": [
     {
       "name": "資訊科技",
-      "amount_wan": 88043.8,
-      "ratio": 99.27
+      "amount_wan": 112667.9,
+      "ratio": 98.5
     },
     {
       "name": "現金",
-      "amount_wan": 647.4,
-      "ratio": 0.73
+      "amount_wan": 1715.8,
+      "ratio": 1.5
     }
   ],
   "holdings": [
     {
       "code": "MU.US",
       "name": "Micron",
-      "ratio": 11.07,
-      "shares": 4303
+      "ratio": 8.34,
+      "shares": 3083
     },
     {
       "code": "AMD.US",
       "name": "AMD",
-      "ratio": 8.88,
-      "shares": 6617
-    },
-    {
-      "code": "MRVL.US",
-      "name": "Marvell",
-      "ratio": 7.97,
-      "shares": 10864
-    },
-    {
-      "code": "INTC.US",
-      "name": "Intel",
-      "ratio": 6.37,
-      "shares": 19499
-    },
-    {
-      "code": "AVGO.US",
-      "name": "Broadcom",
-      "ratio": 5.58,
-      "shares": 5571
+      "ratio": 7.42,
+      "shares": 5787
     },
     {
       "code": "NVDA.US",
       "name": "NVIDIA",
-      "ratio": 5.4,
-      "shares": 10031
+      "ratio": 6.8,
+      "shares": 13521
+    },
+    {
+      "code": "AVGO.US",
+      "name": "Broadcom",
+      "ratio": 6.35,
+      "shares": 6471
+    },
+    {
+      "code": "INTC.US",
+      "name": "Intel",
+      "ratio": 6.1,
+      "shares": 19069
+    },
+    {
+      "code": "MRVL.US",
+      "name": "Marvell",
+      "ratio": 5.46,
+      "shares": 7364
     },
     {
       "code": "AMAT.US",
       "name": "Applied Materials",
-      "ratio": 5.34,
-      "shares": 3588
+      "ratio": 4.93,
+      "shares": 3348
     },
     {
       "code": "KLAC.US",
       "name": "KLA",
-      "ratio": 3.87,
-      "shares": 5800
+      "ratio": 4.61,
+      "shares": 7450
     },
     {
       "code": "LRCX.US",
       "name": "Lam Research",
-      "ratio": 3.68,
-      "shares": 3824
-    },
-    {
-      "code": "QCOM.US",
-      "name": "QUALCOMM",
-      "ratio": 3.5,
-      "shares": 6299
-    },
-    {
-      "code": "TXN.US",
-      "name": "Texas Instruments",
-      "ratio": 3.32,
-      "shares": 4206
-    },
-    {
-      "code": "MPWR.US",
-      "name": "Monolithic Power Systems",
-      "ratio": 3.23,
-      "shares": 782
-    },
-    {
-      "code": "NXPI.US",
-      "name": "NXP Semiconductors",
-      "ratio": 3.15,
-      "shares": 3935
-    },
-    {
-      "code": "TER.US",
-      "name": "Teradyne",
-      "ratio": 2.95,
-      "shares": 2792
-    },
-    {
-      "code": "ADI.US",
-      "name": "Analog Devices",
-      "ratio": 2.75,
-      "shares": 2516
-    },
-    {
-      "code": "ASML.US",
-      "name": "ASML Holding",
-      "ratio": 2.73,
-      "shares": 558
-    },
-    {
-      "code": "MCHP.US",
-      "name": "Microchip Technology",
-      "ratio": 2.43,
-      "shares": 9753
+      "ratio": 4.16,
+      "shares": 4484
     },
     {
       "code": "ADR",
       "name": "TSMC",
-      "ratio": 2.37,
-      "shares": 2132
+      "ratio": 3.85,
+      "shares": 3492
+    },
+    {
+      "code": "TXN.US",
+      "name": "Texas Instruments",
+      "ratio": 3.59,
+      "shares": 4656
+    },
+    {
+      "code": "ADI.US",
+      "name": "Analog Devices",
+      "ratio": 3.59,
+      "shares": 3466
+    },
+    {
+      "code": "NXPI.US",
+      "name": "NXP Semiconductors",
+      "ratio": 3.32,
+      "shares": 4435
+    },
+    {
+      "code": "QCOM.US",
+      "name": "QUALCOMM",
+      "ratio": 3.23,
+      "shares": 5979
+    },
+    {
+      "code": "MPWR.US",
+      "name": "Monolithic Power Systems",
+      "ratio": 2.99,
+      "shares": 802
+    },
+    {
+      "code": "TER.US",
+      "name": "Teradyne",
+      "ratio": 2.98,
+      "shares": 2852
     },
     {
       "code": "ALAB.US",
       "name": "Astera Labs",
-      "ratio": 2.36,
-      "shares": 2446
+      "ratio": 2.53,
+      "shares": 2546
+    },
+    {
+      "code": "MCHP.US",
+      "name": "Microchip Technology",
+      "ratio": 2.38,
+      "shares": 10003
+    },
+    {
+      "code": "ASML.US",
+      "name": "ASML Holding",
+      "ratio": 2.22,
+      "shares": 483
     },
     {
       "code": "ON.US",
       "name": "ON Semiconductor",
-      "ratio": 2.16,
-      "shares": 7058
+      "ratio": 2.11,
+      "shares": 7258
     },
     {
       "code": "CRDO.US",
       "name": "Credo",
-      "ratio": 1.91,
-      "shares": 2908
-    },
-    {
-      "code": "MTSI.US",
-      "name": "MACOM Technology Solutions",
-      "ratio": 1.2,
-      "shares": 1206
+      "ratio": 1.99,
+      "shares": 3068
     },
     {
       "code": "ENTG.US",
       "name": "Entegris",
-      "ratio": 1.07,
+      "ratio": 1.16,
       "shares": 2717
+    },
+    {
+      "code": "MTSI.US",
+      "name": "MACOM Technology Solutions",
+      "ratio": 1.13,
+      "shares": 1206
     },
     {
       "code": "ASX.US",
       "name": "ASE Technology Holding",
-      "ratio": 0.93,
+      "ratio": 0.9,
       "shares": 9265
-    },
-    {
-      "code": "NVMI.US",
-      "name": "Nova",
-      "ratio": 0.87,
-      "shares": 572
     },
     {
       "code": "ARM.US",
       "name": "Arm",
-      "ratio": 0.76,
+      "ratio": 0.81,
       "shares": 767
     },
     {
-      "code": "RMBS.US",
-      "name": "Rambus",
-      "ratio": 0.74,
-      "shares": 1926
-    },
-    {
-      "code": "STM.US",
-      "name": "STMicroelectronics",
-      "ratio": 0.74,
-      "shares": 3634
+      "code": "NVMI.US",
+      "name": "Nova",
+      "ratio": 0.79,
+      "shares": 572
     },
     {
       "code": "ADR",
       "name": "UMC",
-      "ratio": 0.73,
+      "ratio": 0.74,
       "shares": 12899
+    },
+    {
+      "code": "STM.US",
+      "name": "STMicroelectronics",
+      "ratio": 0.68,
+      "shares": 3634
+    },
+    {
+      "code": "RMBS.US",
+      "name": "Rambus",
+      "ratio": 0.65,
+      "shares": 1926
     },
     {
       "code": "SWKS.US",
       "name": "Skyworks Solutions",
-      "ratio": 0.52,
+      "ratio": 0.47,
       "shares": 2699
     }
   ]

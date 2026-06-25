@@ -1,7 +1,7 @@
 {
   "id": "00885",
   "name": "富邦越南",
-  "fetched_at": "2026-06-15",
+  "fetched_at": "2026-06-22",
   "capital": {
     "ETF名稱": "富邦越南",
     "交易所代碼": "00885",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2021/04/19",
     "成分股數": 30,
-    "ETF規模": "11,760.80(百萬台幣)(2026/06/15)",
-    "成交量(股)": "3,889,047（月均:3,572,881）",
+    "ETF規模": "12,136.24(百萬台幣)(2026/06/22)",
+    "成交量(股)": "3,931,687（月均:3,577,391）",
     "投資標的": "股票型",
     "經理人": "陳仲愷",
     "投資區域": "越南",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "",
     "經理費(%)": "0.99",
-    "殖利率(%)": "N/A（06/15）",
+    "殖利率(%)": "N/A（06/22）",
     "總管理費用(%)": "1.34 (含 0.35 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://websys.fsit.com.tw/FubonETF/Fund/Profile.aspx?stkId=00885",
-    "ETF市價": "18.2700（06/15）",
+    "ETF市價": "18.8600（06/22）",
     "融資交易": "Y",
-    "ETF淨值": "18.4000（06/12）",
+    "ETF淨值": "19.0300（06/18）",
     "放空交易": "Y",
-    "折溢價(%)": "-0.71(月均:-0.79)",
+    "折溢價(%)": "-0.89(月均:-0.66)",
     "選擇權交易": "",
-    "年化標準差(%)": "27.82（06/15）",
+    "年化標準差(%)": "22.57（06/22）",
     "槓桿多空註記": "",
     "追蹤指數": "富時越南30指數",
     "基準指數": "越南指數",
@@ -43,230 +43,224 @@
   "sectors": [
     {
       "name": "金融",
-      "amount_wan": 500951.2,
-      "ratio": 38.07
+      "amount_wan": 465526.8,
+      "ratio": 37.96
     },
     {
       "name": "房地產",
-      "amount_wan": 430025.9,
-      "ratio": 32.68
+      "amount_wan": 405067.2,
+      "ratio": 33.03
     },
     {
       "name": "核心消費",
-      "amount_wan": 137245.1,
-      "ratio": 10.43
+      "amount_wan": 123985.1,
+      "ratio": 10.11
     },
     {
       "name": "原材料",
-      "amount_wan": 122112.6,
-      "ratio": 9.28
+      "amount_wan": 107797.2,
+      "ratio": 8.79
     },
     {
       "name": "工業",
-      "amount_wan": 73557.1,
-      "ratio": 5.59
-    },
-    {
-      "name": "非核心消費",
-      "amount_wan": 17369.5,
-      "ratio": 1.32
+      "amount_wan": 70515.8,
+      "ratio": 5.75
     },
     {
       "name": "能源",
-      "amount_wan": 16579.9,
-      "ratio": 1.26
+      "amount_wan": 18886.0,
+      "ratio": 1.54
     },
     {
-      "name": "公用事業",
-      "amount_wan": 9869.0,
-      "ratio": 0.75
+      "name": "非核心消費",
+      "amount_wan": 14103.2,
+      "ratio": 1.15
     },
     {
       "name": "其他資產",
-      "amount_wan": 8158.4,
-      "ratio": 0.62
+      "amount_wan": 10546.7,
+      "ratio": 0.86
+    },
+    {
+      "name": "公用事業",
+      "amount_wan": 9933.5,
+      "ratio": 0.81
     }
   ],
   "holdings": [
     {
       "code": "",
-      "name": "VINHOMES JSC",
-      "ratio": 12.73,
-      "shares": 9172284
+      "name": "VINGROUP JSC",
+      "ratio": 16.69,
+      "shares": 7671550
     },
     {
       "code": "",
-      "name": "VINGROUP JSC",
-      "ratio": 12.21,
-      "shares": 6216550
+      "name": "VINHOMES JSC",
+      "ratio": 13.55,
+      "shares": 8806284
     },
     {
       "code": "",
       "name": "HOA PHAT GROUP JSC",
-      "ratio": 9.24,
-      "shares": 37203894
+      "ratio": 7.89,
+      "shares": 33789894
     },
     {
       "code": "",
       "name": "BANK FOR FOREIGN TRADE OF VIETNAM",
-      "ratio": 5.72,
-      "shares": 9113919
-    },
-    {
-      "code": "",
-      "name": "MASAN GROUP CORP",
-      "ratio": 5.4,
-      "shares": 7334396
+      "ratio": 5.05,
+      "shares": 8323919
     },
     {
       "code": "",
       "name": "SSI SECURITIES CORP",
-      "ratio": 5.17,
-      "shares": 18755152
+      "ratio": 4.8,
+      "shares": 17814152
     },
     {
       "code": "",
-      "name": "VPS SECURITIES JSC",
-      "ratio": 4.65,
-      "shares": 13288000
+      "name": "MASAN GROUP CORP",
+      "ratio": 4.69,
+      "shares": 6623396
     },
     {
       "code": "",
       "name": "VIX SECURITIES JSC",
-      "ratio": 4.59,
-      "shares": 25557800
+      "ratio": 4.11,
+      "shares": 23859800
     },
     {
       "code": "",
-      "name": "SAIGON THUONG TIN COMMERCIAL JSB",
-      "ratio": 4.45,
-      "shares": 6085700
+      "name": "VPS SECURITIES JSC",
+      "ratio": 4.08,
+      "shares": 12373000
     },
     {
       "code": "",
       "name": "VIETNAM DAIRY PRODUCTS JSC",
-      "ratio": 4.23,
-      "shares": 6944100
+      "ratio": 4.04,
+      "shares": 6957100
+    },
+    {
+      "code": "",
+      "name": "SAIGON THUONG TIN COMMERCIAL JSB",
+      "ratio": 3.9,
+      "shares": 5526700
     },
     {
       "code": "",
       "name": "VIETJET AVIATION JSC",
-      "ratio": 3.27,
-      "shares": 1747845
+      "ratio": 2.85,
+      "shares": 2064198
     },
     {
       "code": "",
       "name": "VINCOM RETAIL JSC",
-      "ratio": 2.82,
-      "shares": 9699180
-    },
-    {
-      "code": "",
-      "name": "VIETCAP SECURITIES JSC",
-      "ratio": 2.47,
-      "shares": 9905822
-    },
-    {
-      "code": "",
-      "name": "SAIGON - HANOI COMMERCIAL JOIN",
-      "ratio": 2.31,
-      "shares": 16311301
-    },
-    {
-      "code": "",
-      "name": "GELEX GROUP JSC",
-      "ratio": 2.2,
-      "shares": 7039367
-    },
-    {
-      "code": "",
-      "name": "VNDIRECT SECURITIES CORP",
-      "ratio": 2.1,
-      "shares": 11664500
-    },
-    {
-      "code": "",
-      "name": "TECHCOM SECURITIES JSC",
-      "ratio": 1.77,
-      "shares": 4257800
+      "ratio": 2.65,
+      "shares": 8706180
     },
     {
       "code": "",
       "name": "BANK FOR INVESTMENT AND DEVELO",
-      "ratio": 1.75,
-      "shares": 4125000
+      "ratio": 2.53,
+      "shares": 6025000
+    },
+    {
+      "code": "",
+      "name": "VIETCAP SECURITIES JSC",
+      "ratio": 2.22,
+      "shares": 8985822
+    },
+    {
+      "code": "",
+      "name": "GELEX GROUP JSC",
+      "ratio": 1.94,
+      "shares": 6393367
+    },
+    {
+      "code": "",
+      "name": "SAIGON - HANOI COMMERCIAL JOIN",
+      "ratio": 1.91,
+      "shares": 14054301
+    },
+    {
+      "code": "",
+      "name": "VNDIRECT SECURITIES CORP",
+      "ratio": 1.89,
+      "shares": 10594500
+    },
+    {
+      "code": "",
+      "name": "TECHCOM SECURITIES JSC",
+      "ratio": 1.66,
+      "shares": 3889800
     },
     {
       "code": "",
       "name": "KINH BAC CITY DEVELOPMENT SHARE HOLDING CORP",
-      "ratio": 1.57,
-      "shares": 4964966
+      "ratio": 1.33,
+      "shares": 4509966
     },
     {
       "code": "",
       "name": "TIEN PHONG COMMERCIAL JOINT ST",
-      "ratio": 1.5,
-      "shares": 8954500
+      "ratio": 1.31,
+      "shares": 8132500
     },
     {
       "code": "",
       "name": "KHANG DIEN HOUSE TRADING AND INVESTMENT JSC",
-      "ratio": 1.42,
-      "shares": 5984167
-    },
-    {
-      "code": "",
-      "name": "VIETNAM EXPORT IMPORT COMMERCI",
-      "ratio": 1.3,
-      "shares": 6006540
-    },
-    {
-      "code": "",
-      "name": "BINH SON REFINING AND PETROCHE",
-      "ratio": 1.15,
-      "shares": 4241295
-    },
-    {
-      "code": "",
-      "name": "FPT DIGITAL RETAIL JSC",
-      "ratio": 1.13,
-      "shares": 898250
-    },
-    {
-      "code": "",
-      "name": "VP BANK SECURITIES LTD CO",
-      "ratio": 1.12,
-      "shares": 4035000
+      "ratio": 1.22,
+      "shares": 5483167
     },
     {
       "code": "",
       "name": "PETROVIETNAM POWER CORP",
-      "ratio": 0.85,
-      "shares": 6014610
+      "ratio": 1.18,
+      "shares": 8204610
+    },
+    {
+      "code": "",
+      "name": "VIETNAM EXPORT IMPORT COMMERCI",
+      "ratio": 1.13,
+      "shares": 5455540
+    },
+    {
+      "code": "",
+      "name": "FPT DIGITAL RETAIL JSC",
+      "ratio": 1.05,
+      "shares": 815250
+    },
+    {
+      "code": "",
+      "name": "BINH SON REFINING AND PETROCHE",
+      "ratio": 1.01,
+      "shares": 3848295
+    },
+    {
+      "code": "",
+      "name": "VP BANK SECURITIES LTD CO",
+      "ratio": 1.0,
+      "shares": 3672000
     },
     {
       "code": "",
       "name": "SAIGON BEER ALCOHOL BEVERAGE CORP",
-      "ratio": 0.71,
-      "shares": 1436778
+      "ratio": 0.62,
+      "shares": 1304778
     },
     {
       "code": "",
       "name": "BAO VIET HOLDINGS",
-      "ratio": 0.68,
-      "shares": 1025500
-    },
-    {
-      "code": "",
-      "name": "VIETNAM AIRLINES JSC",
-      "ratio": 0.62,
-      "shares": 2695000
+      "ratio": 0.61,
+      "shares": 932500
     },
     {
       "code": "",
       "name": "VIETNAM NATIONAL PETROLEUM GROUP",
-      "ratio": 0.29,
-      "shares": 741900
+      "ratio": 0.26,
+      "shares": 673900
     }
   ]
 }

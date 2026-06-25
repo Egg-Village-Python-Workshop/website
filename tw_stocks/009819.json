@@ -1,7 +1,7 @@
 {
   "id": "009819",
   "name": "中信數據及電力",
-  "fetched_at": "2026-06-15",
+  "fetched_at": "2026-06-22",
   "capital": {
     "ETF名稱": "中信數據及電力",
     "交易所代碼": "009819",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2026/04/23",
     "成分股數": 30,
-    "ETF規模": "7,303.45(百萬台幣)(2026/06/12)",
-    "成交量(股)": "9,199,790（月均:22,899,284）",
+    "ETF規模": "7,576.38(百萬台幣)(2026/06/18)",
+    "成交量(股)": "14,981,763（月均:22,683,931）",
     "投資標的": "股票型",
     "經理人": "陳雯卿",
     "投資區域": "北美",
@@ -23,204 +23,230 @@
     "投資風格": "",
     "配息頻率": "年配",
     "經理費(%)": "0.65",
-    "殖利率(%)": "N/A（06/15）",
+    "殖利率(%)": "N/A（06/22）",
     "總管理費用(%)": "",
     "經銷商": "",
     "官方網站連結": "https://www.ctbcinvestments.com.tw/Etf/00669317/Info",
-    "ETF市價": "10.2600（06/15）",
+    "ETF市價": "10.6400（06/22）",
     "融資交易": "Y",
-    "ETF淨值": "10.1600（06/12）",
+    "ETF淨值": "10.6700（06/18）",
     "放空交易": "Y",
-    "折溢價(%)": "0.00(月均:-0.01)",
+    "折溢價(%)": "-1.69(月均:-0.12)",
     "選擇權交易": "",
-    "年化標準差(%)": "N/A（06/15）",
+    "年化標準差(%)": "N/A（06/22）",
     "槓桿多空註記": "",
     "追蹤指數": "NYSE TIP數據中心及電力指數",
     "基準指數": "NYSE TIP Data Center and Electricity Infrastructur",
     "投資策略": "本基金主要追蹤NYSE TIP數據中心及電力指數，成分股先從美股市場依流動性條件篩選，納入市值達1億美元以上、且近三個月平均日成交金額達100萬美元以上的企業，以確保投資標的具備一定規模與市場流動性。在此基礎上，再依企業營收結構挑選主要業務來自雲端與電力基建的公司，且相關營收占比須達50%以上，以提升AI基建產業的投資純度。最終依總市值排序選出30檔成分股，涵蓋資料中心、雲端基礎設施、公用事業與發電設備等企業，形成橫跨「算力」與「電力」的AI新基建投資版圖。",
-    "文件下載": "公開說明書基金概覽簡式公開說明書"
+    "文件下載": "公開說明書簡式公開說明書基金概覽"
   },
-  "sectors": [],
+  "sectors": [
+    {
+      "name": "資訊科技",
+      "amount_wan": 367988.8,
+      "ratio": 57.8
+    },
+    {
+      "name": "公用事業",
+      "amount_wan": 183994.4,
+      "ratio": 28.9
+    },
+    {
+      "name": "工業",
+      "amount_wan": 46476.1,
+      "ratio": 7.3
+    },
+    {
+      "name": "房地產",
+      "amount_wan": 30559.6,
+      "ratio": 4.8
+    },
+    {
+      "name": "現金",
+      "amount_wan": 8276.6,
+      "ratio": 1.3
+    }
+  ],
   "holdings": [
     {
       "code": "AVGO.US",
       "name": "Broadcom",
-      "ratio": 26.96,
-      "shares": 162925
+      "ratio": 27.6,
+      "shares": 160975
     },
     {
       "code": "ORCL.US",
       "name": "Oracle",
-      "ratio": 9.42,
-      "shares": 118130
+      "ratio": 8.96,
+      "shares": 116810
     },
     {
       "code": "GEV.US",
       "name": "GE Vernova",
-      "ratio": 7.56,
-      "shares": 18575
+      "ratio": 8.5,
+      "shares": 18395
     },
     {
       "code": "MRVL.US",
       "name": "Marvell",
-      "ratio": 7.28,
-      "shares": 60105
+      "ratio": 7.69,
+      "shares": 59485
     },
     {
       "code": "NEE.US",
       "name": "NextEra Energy",
-      "ratio": 5.34,
-      "shares": 143395
-    },
-    {
-      "code": "SO.US",
-      "name": "Southern",
-      "ratio": 3.15,
-      "shares": 77365
-    },
-    {
-      "code": "NOW.US",
-      "name": "ServiceNow",
-      "ratio": 3.11,
-      "shares": 70230
+      "ratio": 5.12,
+      "shares": 141845
     },
     {
       "code": "EQIX.US",
       "name": "Equinix",
-      "ratio": 3.09,
-      "shares": 6765
+      "ratio": 3.03,
+      "shares": 6665
+    },
+    {
+      "code": "SO.US",
+      "name": "Southern",
+      "ratio": 2.97,
+      "shares": 76525
+    },
+    {
+      "code": "NOW.US",
+      "name": "ServiceNow",
+      "ratio": 2.75,
+      "shares": 69480
     },
     {
       "code": "DUK.US",
       "name": "Duke Energy",
-      "ratio": 2.89,
-      "shares": 53355
+      "ratio": 2.72,
+      "shares": 52775
     },
     {
       "code": "CEG.US",
       "name": "Constellation",
-      "ratio": 2.56,
-      "shares": 23335
+      "ratio": 2.63,
+      "shares": 23085
     },
     {
       "code": "NET.US",
       "name": "Cloudflare",
-      "ratio": 2.13,
-      "shares": 21583
+      "ratio": 1.99,
+      "shares": 21363
     },
     {
       "code": "AEP.US",
       "name": "American Electric Power",
-      "ratio": 2.08,
-      "shares": 37250
+      "ratio": 1.96,
+      "shares": 36840
     },
     {
       "code": "DLR.US",
       "name": "Digital Realty Trust",
-      "ratio": 1.91,
-      "shares": 23955
+      "ratio": 1.86,
+      "shares": 23695
     },
     {
       "code": "HPE.US",
       "name": "HP Enterprise",
-      "ratio": 1.9,
-      "shares": 90915
+      "ratio": 1.78,
+      "shares": 89935
     },
     {
       "code": "D.US",
       "name": "Dominion Energy",
-      "ratio": 1.77,
-      "shares": 60305
-    },
-    {
-      "code": "ETR.US",
-      "name": "Entergy",
-      "ratio": 1.51,
-      "shares": 31398
-    },
-    {
-      "code": "ALAB.US",
-      "name": "Astera Labs",
-      "ratio": 1.5,
-      "shares": 9440
-    },
-    {
-      "code": "VST.US",
-      "name": "Vistra",
-      "ratio": 1.48,
-      "shares": 23040
-    },
-    {
-      "code": "XEL.US",
-      "name": "Xcel Energy",
-      "ratio": 1.47,
-      "shares": 42800
-    },
-    {
-      "code": "EXC.US",
-      "name": "Exelon",
-      "ratio": 1.4,
-      "shares": 70208
+      "ratio": 1.7,
+      "shares": 59655
     },
     {
       "code": "NBIS.US",
       "name": "Nebius Group",
-      "ratio": 1.39,
-      "shares": 13831
+      "ratio": 1.64,
+      "shares": 13731
+    },
+    {
+      "code": "ALAB.US",
+      "name": "Astera Labs",
+      "ratio": 1.63,
+      "shares": 9410
+    },
+    {
+      "code": "VST.US",
+      "name": "Vistra",
+      "ratio": 1.55,
+      "shares": 22790
+    },
+    {
+      "code": "ETR.US",
+      "name": "Entergy",
+      "ratio": 1.44,
+      "shares": 31058
+    },
+    {
+      "code": "XEL.US",
+      "name": "Xcel Energy",
+      "ratio": 1.36,
+      "shares": 42340
+    },
+    {
+      "code": "EXC.US",
+      "name": "Exelon",
+      "ratio": 1.32,
+      "shares": 69448
     },
     {
       "code": "CRDO.US",
       "name": "Credo",
-      "ratio": 1.24,
-      "shares": 11376
-    },
-    {
-      "code": "ED.US",
-      "name": "Consolidated Edison",
-      "ratio": 1.18,
-      "shares": 25228
-    },
-    {
-      "code": "PCG.US",
-      "name": "PG&E",
-      "ratio": 1.1,
-      "shares": 149895
-    },
-    {
-      "code": "WEC.US",
-      "name": "WEC Energy",
-      "ratio": 1.07,
-      "shares": 21865
+      "ratio": 1.28,
+      "shares": 11306
     },
     {
       "code": "CRWV.US",
       "name": "CoreWeave",
+      "ratio": 1.13,
+      "shares": 23057
+    },
+    {
+      "code": "ED.US",
+      "name": "Consolidated Edison",
+      "ratio": 1.11,
+      "shares": 24948
+    },
+    {
+      "code": "PCG.US",
+      "name": "PG&E",
+      "ratio": 1.02,
+      "shares": 148265
+    },
+    {
+      "code": "WEC.US",
+      "name": "WEC Energy",
       "ratio": 1.01,
-      "shares": 23307
+      "shares": 21635
     },
     {
       "code": "AEE.US",
       "name": "Ameren Corporation",
-      "ratio": 0.89,
-      "shares": 18871
+      "ratio": 0.85,
+      "shares": 18691
     },
     {
       "code": "CNP.US",
       "name": "CenterPoint Energy",
-      "ratio": 0.82,
-      "shares": 44340
-    },
-    {
-      "code": "PPL.US",
-      "name": "PPL",
-      "ratio": 0.79,
-      "shares": 51070
+      "ratio": 0.78,
+      "shares": 43850
     },
     {
       "code": "NRG.US",
       "name": "NRG Energy",
-      "ratio": 0.76,
-      "shares": 14015
+      "ratio": 0.78,
+      "shares": 13865
+    },
+    {
+      "code": "PPL.US",
+      "name": "PPL",
+      "ratio": 0.74,
+      "shares": 50510
     }
   ]
 }
