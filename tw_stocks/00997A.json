@@ -1,7 +1,7 @@
 {
   "id": "00997A",
   "name": "主動群益美國增長",
-  "fetched_at": "2026-06-22",
+  "fetched_at": "2026-06-29",
   "capital": {
     "ETF名稱": "主動群益美國增長",
     "交易所代碼": "00997A",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2026/04/14",
     "成分股數": 52,
-    "ETF規模": "13,726.98(百萬台幣)(2026/06/18)",
-    "成交量(股)": "15,795,217（月均:23,406,728）",
+    "ETF規模": "14,162.28(百萬台幣)(2026/06/26)",
+    "成交量(股)": "46,194,415（月均:26,810,178）",
     "投資標的": "股票型",
     "經理人": "吳承恕",
     "投資區域": "北美",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "季配",
     "經理費(%)": "1.2",
-    "殖利率(%)": "10.04（06/22）",
+    "殖利率(%)": "10.72（06/29）",
     "總管理費用(%)": "",
     "經銷商": "",
     "官方網站連結": "https://www.capitalfund.com.tw/etf/product/detail/502",
-    "ETF市價": "14.7400（06/22）",
+    "ETF市價": "13.8000（06/29）",
     "融資交易": "Y",
-    "ETF淨值": "14.5900（06/18）",
+    "ETF淨值": "13.6000（06/26）",
     "放空交易": "Y",
-    "折溢價(%)": "-1.10(月均:-0.20)",
+    "折溢價(%)": "2.79(月均:0.41)",
     "選擇權交易": "",
-    "年化標準差(%)": "N/A（06/22）",
+    "年化標準差(%)": "N/A（06/29）",
     "槓桿多空註記": "",
     "追蹤指數": "",
     "基準指數": "Dow Jones U.S. Technology Index",
@@ -43,304 +43,292 @@
   "sectors": [
     {
       "name": "科技",
-      "amount_wan": 829808.1,
-      "ratio": 76.18
-    },
-    {
-      "name": "電子零組",
-      "amount_wan": 56424.3,
-      "ratio": 5.18
-    },
-    {
-      "name": "半導體業",
-      "amount_wan": 48581.6,
-      "ratio": 4.46
+      "amount_wan": 1022169.5,
+      "ratio": 79.54
     },
     {
       "name": "資本設備",
-      "amount_wan": 45095.9,
-      "ratio": 4.14
+      "amount_wan": 62455.9,
+      "ratio": 4.86
     },
     {
-      "name": "原物料",
-      "amount_wan": 29737.2,
-      "ratio": 2.73
+      "name": "電子零組",
+      "amount_wan": 56030.4,
+      "ratio": 4.36
+    },
+    {
+      "name": "半導體業",
+      "amount_wan": 42536.8,
+      "ratio": 3.31
     },
     {
       "name": "通信網路",
-      "amount_wan": 24617.6,
-      "ratio": 2.26
+      "amount_wan": 26216.1,
+      "ratio": 2.04
     },
     {
       "name": "耐久財消費",
-      "amount_wan": 4792.8,
-      "ratio": 0.44
+      "amount_wan": 14264.6,
+      "ratio": 1.11
+    },
+    {
+      "name": "原物料",
+      "amount_wan": 14136.1,
+      "ratio": 1.1
     }
   ],
   "holdings": [
     {
-      "code": "MU.US",
-      "name": "Micron",
-      "ratio": 7.06,
-      "shares": 27074
-    },
-    {
       "code": "SNDK.US",
       "name": "Sandisk",
-      "ratio": 6.96,
-      "shares": 13863
+      "ratio": 7.08,
+      "shares": 15034
     },
     {
-      "code": "WDC.US",
-      "name": "Western Digital",
-      "ratio": 6.68,
-      "shares": 38940
+      "code": "MU.US",
+      "name": "Micron",
+      "ratio": 6.91,
+      "shares": 27074
     },
     {
       "code": "STX.US",
       "name": "Seagate",
-      "ratio": 6.39,
+      "ratio": 5.27,
       "shares": 25967
+    },
+    {
+      "code": "WDC.US",
+      "name": "Western Digital",
+      "ratio": 5.15,
+      "shares": 38940
+    },
+    {
+      "code": "AMD.US",
+      "name": "AMD",
+      "ratio": 4.33,
+      "shares": 36807
     },
     {
       "code": "009150.KS",
       "name": "Samsung Elec Mech",
-      "ratio": 4.7,
+      "ratio": 4.15,
       "shares": 14200
     },
     {
       "code": "MRVL.US",
       "name": "Marvell",
-      "ratio": 4.29,
+      "ratio": 3.62,
       "shares": 60132
     },
     {
-      "code": "AMD.US",
-      "name": "AMD",
-      "ratio": 3.68,
-      "shares": 29807
+      "code": "AMAT.US",
+      "name": "Applied Materials",
+      "ratio": 3.57,
+      "shares": 25264
     },
     {
       "code": "LRCX.US",
       "name": "Lam Research",
-      "ratio": 3.41,
+      "ratio": 3.26,
       "shares": 38116
     },
     {
       "code": "4062.JP",
       "name": "IBIDEN",
-      "ratio": 3.34,
+      "ratio": 3.04,
       "shares": 90768
-    },
-    {
-      "code": "GOOGL.US",
-      "name": "Alphabet - Class A Common Stock",
-      "ratio": 2.64,
-      "shares": 31160
-    },
-    {
-      "code": "6981.JP",
-      "name": "Murata Mfg.",
-      "ratio": 2.49,
-      "shares": 148000
-    },
-    {
-      "code": "AMAT.US",
-      "name": "Applied Materials",
-      "ratio": 2.43,
-      "shares": 17111
     },
     {
       "code": "BE.US",
       "name": "Bloom Energy",
-      "ratio": 2.42,
-      "shares": 32000
+      "ratio": 2.6,
+      "shares": 45733
     },
     {
-      "code": "2330.TW",
-      "name": "台積電",
+      "code": "GOOGL.US",
+      "name": "Alphabet - Class A Common Stock",
       "ratio": 2.37,
-      "shares": 135000
+      "shares": 31160
     },
     {
       "code": "TER.US",
       "name": "Teradyne",
-      "ratio": 2.35,
+      "ratio": 2.3,
       "shares": 23317
+    },
+    {
+      "code": "2330.TW",
+      "name": "台積電",
+      "ratio": 2.23,
+      "shares": 135000
+    },
+    {
+      "code": "6981.JP",
+      "name": "Murata Mfg.",
+      "ratio": 2.22,
+      "shares": 148000
     },
     {
       "code": "2327.TW",
       "name": "國巨",
-      "ratio": 2.28,
+      "ratio": 2.08,
       "shares": 290000
     },
     {
       "code": "LITE.US",
       "name": "Lumentum",
-      "ratio": 2.11,
+      "ratio": 1.99,
       "shares": 10824
     },
     {
-      "code": "NVDA.US",
-      "name": "NVIDIA",
-      "ratio": 2.02,
-      "shares": 41763
+      "code": "INTC.US",
+      "name": "Intel",
+      "ratio": 1.94,
+      "shares": 67086
     },
     {
       "code": "2345.TW",
       "name": "智邦",
-      "ratio": 1.92,
+      "ratio": 1.81,
       "shares": 108000
+    },
+    {
+      "code": "NVDA.US",
+      "name": "NVIDIA",
+      "ratio": 1.81,
+      "shares": 41763
     },
     {
       "code": "COHR.US",
       "name": "Coherent",
-      "ratio": 1.82,
+      "ratio": 1.75,
       "shares": 20371
     },
     {
       "code": "2383.TW",
       "name": "台光電",
-      "ratio": 1.71,
+      "ratio": 1.56,
       "shares": 42000
     },
     {
       "code": "TTMI.US",
       "name": "TTM Technologies",
-      "ratio": 1.69,
+      "ratio": 1.47,
       "shares": 33991
+    },
+    {
+      "code": "285A.JP",
+      "name": "Kioxia Holdings",
+      "ratio": 1.28,
+      "shares": 10000
     },
     {
       "code": "ARM.US",
       "name": "Arm",
-      "ratio": 1.62,
+      "ratio": 1.21,
       "shares": 16000
     },
     {
-      "code": "",
-      "name": "BE SEMICONDUCTOR",
-      "ratio": 1.26,
-      "shares": 15000
+      "code": "GLW.US",
+      "name": "Corning",
+      "ratio": 1.09,
+      "shares": 21888
     },
     {
-      "code": "2308.TW",
-      "name": "台達電",
-      "ratio": 1.24,
-      "shares": 79000
-    },
-    {
-      "code": "",
-      "name": "愛思強股份有限公司",
-      "ratio": 1.08,
-      "shares": 67671
+      "code": "ALAB.US",
+      "name": "Astera Labs",
+      "ratio": 1.06,
+      "shares": 12004
     },
     {
       "code": "APH.US",
       "name": "Amphenol",
-      "ratio": 1.03,
-      "shares": 27207
-    },
-    {
-      "code": "INTC.US",
-      "name": "Intel",
-      "ratio": 1.02,
-      "shares": 33086
-    },
-    {
-      "code": "KLAC.US",
-      "name": "KLA",
       "ratio": 1.0,
-      "shares": 16710
-    },
-    {
-      "code": "TSLA.US",
-      "name": "Tesla",
-      "ratio": 0.97,
-      "shares": 10491
-    },
-    {
-      "code": "HWM.US",
-      "name": "Howmet Aerospace",
-      "ratio": 0.94,
-      "shares": 14725
+      "shares": 27207
     },
     {
       "code": "FTNT.US",
       "name": "Fortinet",
-      "ratio": 0.93,
+      "ratio": 0.96,
       "shares": 28000
+    },
+    {
+      "code": "KLAC.US",
+      "name": "KLA",
+      "ratio": 0.94,
+      "shares": 16710
+    },
+    {
+      "code": "",
+      "name": "愛思強股份有限公司",
+      "ratio": 0.9,
+      "shares": 67671
+    },
+    {
+      "code": "HWM.US",
+      "name": "Howmet Aerospace",
+      "ratio": 0.89,
+      "shares": 14725
+    },
+    {
+      "code": "NBIS.US",
+      "name": "Nebius Group",
+      "ratio": 0.87,
+      "shares": 16000
+    },
+    {
+      "code": "AAPL.US",
+      "name": "Apple",
+      "ratio": 0.76,
+      "shares": 11807
     },
     {
       "code": "PLTR.US",
       "name": "Palantir Technologies",
-      "ratio": 0.84,
+      "ratio": 0.73,
       "shares": 28598
     },
     {
       "code": "AVGO.US",
       "name": "Broadcom",
-      "ratio": 0.82,
+      "ratio": 0.71,
       "shares": 8624
-    },
-    {
-      "code": "AAPL.US",
-      "name": "Apple",
-      "ratio": 0.81,
-      "shares": 11807
     },
     {
       "code": "2454.TW",
       "name": "聯發科",
-      "ratio": 0.8,
+      "ratio": 0.68,
       "shares": 25000
-    },
-    {
-      "code": "KEYS.US",
-      "name": "Keysight Technologies",
-      "ratio": 0.7,
-      "shares": 8418
     },
     {
       "code": "NOK.US",
       "name": "Nokia",
-      "ratio": 0.68,
+      "ratio": 0.65,
       "shares": 220000
     },
     {
-      "code": "MPWR.US",
-      "name": "Monolithic Power Systems",
-      "ratio": 0.66,
-      "shares": 1850
+      "code": "KEYS.US",
+      "name": "Keysight Technologies",
+      "ratio": 0.62,
+      "shares": 8418
     },
     {
       "code": "CSCO.US",
       "name": "Cisco",
-      "ratio": 0.66,
+      "ratio": 0.62,
       "shares": 24065
     },
     {
       "code": "ANET.US",
       "name": "Arista Networks",
-      "ratio": 0.65,
+      "ratio": 0.59,
       "shares": 16558
     },
     {
-      "code": "ALAB.US",
-      "name": "Astera Labs",
-      "ratio": 0.61,
-      "shares": 6400
-    },
-    {
-      "code": "AMZN.US",
-      "name": "Amazon",
+      "code": "MPWR.US",
+      "name": "Monolithic Power Systems",
       "ratio": 0.55,
-      "shares": 9705
-    },
-    {
-      "code": "META.US",
-      "name": "Meta",
-      "ratio": 0.54,
-      "shares": 4057
+      "shares": 1850
     },
     {
       "code": "GE.US",
@@ -349,46 +337,58 @@
       "shares": 6185
     },
     {
-      "code": "",
-      "name": "意法半導體公司",
-      "ratio": 0.45,
-      "shares": 24826
+      "code": "AMZN.US",
+      "name": "Amazon",
+      "ratio": 0.51,
+      "shares": 9705
     },
     {
-      "code": "MSFT.US",
-      "name": "Microsoft",
-      "ratio": 0.43,
-      "shares": 4928
+      "code": "META.US",
+      "name": "Meta",
+      "ratio": 0.5,
+      "shares": 4057
     },
     {
       "code": "CIEN.US",
       "name": "Ciena",
-      "ratio": 0.4,
+      "ratio": 0.44,
       "shares": 4103
+    },
+    {
+      "code": "MSFT.US",
+      "name": "Microsoft",
+      "ratio": 0.41,
+      "shares": 4928
+    },
+    {
+      "code": "",
+      "name": "意法半導體公司",
+      "ratio": 0.4,
+      "shares": 24826
     },
     {
       "code": "ADBE.US",
       "name": "Adobe",
-      "ratio": 0.38,
+      "ratio": 0.39,
       "shares": 8482
-    },
-    {
-      "code": "TXN.US",
-      "name": "Texas Instruments",
-      "ratio": 0.38,
-      "shares": 5111
     },
     {
       "code": "APP.US",
       "name": "Applovin",
-      "ratio": 0.36,
+      "ratio": 0.35,
       "shares": 3300
     },
     {
       "code": "CDNS.US",
       "name": "Cadence Design Systems",
-      "ratio": 0.34,
+      "ratio": 0.33,
       "shares": 3823
+    },
+    {
+      "code": "TXN.US",
+      "name": "Texas Instruments",
+      "ratio": 0.33,
+      "shares": 5111
     }
   ]
 }

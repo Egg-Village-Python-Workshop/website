@@ -1,7 +1,7 @@
 {
   "id": "00920",
   "name": "富邦ESG綠色電力",
-  "fetched_at": "2026-06-22",
+  "fetched_at": "2026-06-29",
   "capital": {
     "ETF名稱": "富邦ESG綠色電力",
     "交易所代碼": "00920",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2022/10/20",
     "成分股數": 35,
-    "ETF規模": "557.42(百萬台幣)(2026/06/18)",
-    "成交量(股)": "388,383（月均:472,071）",
+    "ETF規模": "507.43(百萬台幣)(2026/06/26)",
+    "成交量(股)": "539,861（月均:429,424）",
     "投資標的": "新能源",
     "經理人": "洪珮甄",
     "投資區域": "全球",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "年配",
     "經理費(%)": "0.9",
-    "殖利率(%)": "0.77（06/22）",
+    "殖利率(%)": "0.81（06/29）",
     "總管理費用(%)": "1.64 (含 0.74 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://websys.fsit.com.tw/FubonETF/Fund/Profile.aspx?stkId=00920",
-    "ETF市價": "26.8800（06/22）",
+    "ETF市價": "25.4900（06/29）",
     "融資交易": "Y",
-    "ETF淨值": "26.8200（06/18）",
+    "ETF淨值": "25.0200（06/26）",
     "放空交易": "Y",
-    "折溢價(%)": "-1.86(月均:0.28)",
+    "折溢價(%)": "2.24(月均:0.36)",
     "選擇權交易": "",
-    "年化標準差(%)": "16.12（06/22）",
+    "年化標準差(%)": "30.21（06/29）",
     "槓桿多空註記": "",
     "追蹤指數": "NYSE FactSet全球綠能ESG指數",
     "基準指數": "道瓊全球指數",
@@ -79,214 +79,214 @@
   ],
   "holdings": [
     {
-      "code": "BE.US",
-      "name": "Bloom Energy",
-      "ratio": 11.38,
-      "shares": 6112
-    },
-    {
       "code": "GEV.US",
       "name": "GE Vernova",
-      "ratio": 10.09,
-      "shares": 1607
+      "ratio": 10.32,
+      "shares": 1570
+    },
+    {
+      "code": "BE.US",
+      "name": "Bloom Energy",
+      "ratio": 9.46,
+      "shares": 5967
     },
     {
       "code": "2308.TW",
       "name": "台達電",
-      "ratio": 9.89,
-      "shares": 25633
+      "ratio": 8.93,
+      "shares": 25024
     },
     {
       "code": "",
       "name": "IBERDROLA SA",
-      "ratio": 7.81,
-      "shares": 57482
+      "ratio": 8.71,
+      "shares": 56116
     },
     {
       "code": "6762.JP",
       "name": "TDK",
-      "ratio": 7.63,
-      "shares": 56200
+      "ratio": 7.65,
+      "shares": 55000
     },
     {
       "code": "FSLR.US",
       "name": "First Solar",
-      "ratio": 4.29,
-      "shares": 2945
-    },
-    {
-      "code": "3017.TW",
-      "name": "奇鋐",
-      "ratio": 3.98,
-      "shares": 9247
+      "ratio": 4.32,
+      "shares": 2876
     },
     {
       "code": "",
       "name": "RWE AG",
-      "ratio": 3.87,
-      "shares": 10871
+      "ratio": 4.11,
+      "shares": 10614
+    },
+    {
+      "code": "3017.TW",
+      "name": "奇鋐",
+      "ratio": 4.01,
+      "shares": 9028
     },
     {
       "code": "",
       "name": "VESTAS WIND SYSTEM",
-      "ratio": 3.67,
-      "shares": 24222
-    },
-    {
-      "code": "006400.KS",
-      "name": "SAMSUNG SDI",
-      "ratio": 3.44,
-      "shares": 1777
+      "ratio": 3.9,
+      "shares": 23647
     },
     {
       "code": "",
       "name": "TERNA SPA",
-      "ratio": 3.22,
-      "shares": 47604
+      "ratio": 3.41,
+      "shares": 46474
+    },
+    {
+      "code": "006400.KS",
+      "name": "SAMSUNG SDI",
+      "ratio": 3.23,
+      "shares": 1736
     },
     {
       "code": "NXT.US",
       "name": "Nextpower",
-      "ratio": 3.03,
-      "shares": 4247
-    },
-    {
-      "code": "AEIS.US",
-      "name": "Advanced Energy",
-      "ratio": 1.92,
-      "shares": 909
+      "ratio": 2.79,
+      "shares": 4147
     },
     {
       "code": "AXIA.US",
       "name": "Axia Energia",
-      "ratio": 1.87,
-      "shares": 33099
+      "ratio": 2.2,
+      "shares": 32314
     },
     {
-      "code": "373220.KS",
-      "name": "LG ENERGY SOLUTION",
-      "ratio": 1.7,
-      "shares": 1147
+      "code": "AEIS.US",
+      "name": "Advanced Energy",
+      "ratio": 1.94,
+      "shares": 888
     },
     {
       "code": "",
       "name": "EDP SA",
-      "ratio": 1.68,
-      "shares": 58506
-    },
-    {
-      "code": "",
-      "name": "ORSTED AS",
-      "ratio": 1.42,
-      "shares": 11214
+      "ratio": 1.82,
+      "shares": 57116
     },
     {
       "code": "AES.US",
       "name": "The AES Corporation",
-      "ratio": 1.42,
-      "shares": 17132
+      "ratio": 1.54,
+      "shares": 16726
     },
     {
-      "code": "051910.KS",
-      "name": "LG Chem",
-      "ratio": 1.41,
-      "shares": 1109
+      "code": "373220.KS",
+      "name": "LG ENERGY SOLUTION",
+      "ratio": 1.52,
+      "shares": 1121
+    },
+    {
+      "code": "",
+      "name": "ORSTED AS",
+      "ratio": 1.52,
+      "shares": 10948
     },
     {
       "code": "",
       "name": "ENLIGHT RENEWABLE ENERGY LTD",
-      "ratio": 1.26,
-      "shares": 2599
+      "ratio": 1.37,
+      "shares": 2539
     },
     {
       "code": "",
       "name": "VERBUND AG",
-      "ratio": 1.25,
-      "shares": 3456
-    },
-    {
-      "code": "ORA.US",
-      "name": "Ormat Technologies",
-      "ratio": 1.22,
-      "shares": 1688
+      "ratio": 1.35,
+      "shares": 3374
     },
     {
       "code": "",
       "name": "Endesa",
-      "ratio": 1.2,
-      "shares": 4846
-    },
-    {
-      "code": "",
-      "name": "REDEIA CORP SA",
-      "ratio": 1.18,
-      "shares": 11768
+      "ratio": 1.34,
+      "shares": 4732
     },
     {
       "code": "ELPC.US",
       "name": "Companhia Paranaense de Energia",
-      "ratio": 1.15,
-      "shares": 18023
+      "ratio": 1.3,
+      "shares": 17595
     },
     {
-      "code": "ENS.US",
-      "name": "EnerSys",
-      "ratio": 1.13,
-      "shares": 878
-    },
-    {
-      "code": "VICR.US",
-      "name": "Vicor Corporation",
-      "ratio": 1.11,
-      "shares": 593
-    },
-    {
-      "code": "ENPH.US",
-      "name": "Enphase Energy",
-      "ratio": 1.1,
-      "shares": 3708
+      "code": "",
+      "name": "REDEIA CORP SA",
+      "ratio": 1.27,
+      "shares": 11489
     },
     {
       "code": "",
       "name": "ELIA GROUP SA/NV",
-      "ratio": 1.09,
-      "shares": 1273
+      "ratio": 1.23,
+      "shares": 1244
     },
     {
-      "code": "",
-      "name": "NORDEX SE",
-      "ratio": 0.9,
-      "shares": 3034
+      "code": "ORA.US",
+      "name": "Ormat Technologies",
+      "ratio": 1.2,
+      "shares": 1649
+    },
+    {
+      "code": "051910.KS",
+      "name": "LG Chem",
+      "ratio": 1.2,
+      "shares": 1084
+    },
+    {
+      "code": "ENS.US",
+      "name": "EnerSys",
+      "ratio": 1.2,
+      "shares": 858
+    },
+    {
+      "code": "VICR.US",
+      "name": "Vicor Corporation",
+      "ratio": 1.19,
+      "shares": 580
+    },
+    {
+      "code": "ENPH.US",
+      "name": "Enphase Energy",
+      "ratio": 1.08,
+      "shares": 3621
     },
     {
       "code": "BEPC.US",
       "name": "Brookfield Renewable",
-      "ratio": 0.89,
-      "shares": 4218
+      "ratio": 0.98,
+      "shares": 4118
+    },
+    {
+      "code": "",
+      "name": "NORDEX SE",
+      "ratio": 0.93,
+      "shares": 2963
     },
     {
       "code": "",
       "name": "CAPITAL POWER CORP",
-      "ratio": 0.6,
-      "shares": 2040
+      "ratio": 0.66,
+      "shares": 1992
     },
     {
       "code": "ENIC.US",
       "name": "Enel Chile",
-      "ratio": 0.58,
-      "shares": 22571
+      "ratio": 0.61,
+      "shares": 22036
     },
     {
       "code": "",
       "name": "NORTHLAND POWER INC",
-      "ratio": 0.39,
-      "shares": 4260
+      "ratio": 0.41,
+      "shares": 4159
     },
     {
       "code": "PAM.US",
       "name": "Pampa Energia S.A.",
       "ratio": 0.35,
-      "shares": 711
+      "shares": 695
     }
   ]
 }

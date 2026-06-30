@@ -1,7 +1,7 @@
 {
   "id": "00714",
   "name": "群益道瓊美國地產",
-  "fetched_at": "2026-06-22",
+  "fetched_at": "2026-06-29",
   "capital": {
     "ETF名稱": "群益道瓊美國地產",
     "交易所代碼": "00714",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2017/10/27",
     "成分股數": 61,
-    "ETF規模": "449.33(百萬台幣)(2026/06/18)",
-    "成交量(股)": "207,099（月均:208,118）",
+    "ETF規模": "472.72(百萬台幣)(2026/06/26)",
+    "成交量(股)": "466,801（月均:226,851）",
     "投資標的": "房地產",
     "經理人": "李鈺涵",
     "投資區域": "美國",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "季配",
     "經理費(%)": "0.85",
-    "殖利率(%)": "2.31（06/22）",
+    "殖利率(%)": "2.21（06/29）",
     "總管理費用(%)": "1.16 (含 0.31 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://www.capitalfund.com.tw/etf/product/detail/102",
-    "ETF市價": "21.3200（06/22）",
+    "ETF市價": "22.3000（06/29）",
     "融資交易": "Y",
-    "ETF淨值": "21.3300（06/18）",
+    "ETF淨值": "22.4400（06/26）",
     "放空交易": "Y",
-    "折溢價(%)": "0.52(月均:-0.14)",
+    "折溢價(%)": "-1.52(月均:-0.38)",
     "選擇權交易": "",
-    "年化標準差(%)": "7.01（06/22）",
+    "年化標準差(%)": "11.94（06/29）",
     "槓桿多空註記": "",
     "追蹤指數": "道瓊美國地產指數",
     "基準指數": "Dow Jones U.S. Real Estate Index",
@@ -43,144 +43,144 @@
   "sectors": [
     {
       "name": "REITs",
-      "amount_wan": 49787.4,
-      "ratio": 92.9
+      "amount_wan": 44023.8,
+      "ratio": 93.66
     },
     {
       "name": "房地產",
-      "amount_wan": 2427.7,
-      "ratio": 4.53
+      "amount_wan": 1870.8,
+      "ratio": 3.98
     },
     {
       "name": "科技",
-      "amount_wan": 535.9,
-      "ratio": 1.0
+      "amount_wan": 437.1,
+      "ratio": 0.93
     },
     {
       "name": "ETF",
-      "amount_wan": 423.4,
-      "ratio": 0.79
+      "amount_wan": 343.1,
+      "ratio": 0.73
     }
   ],
   "holdings": [
     {
       "code": "WELL.US",
       "name": "Welltower",
-      "ratio": 10.24,
+      "ratio": 10.84,
       "shares": 7060
     },
     {
       "code": "PLD.US",
       "name": "Prologis",
-      "ratio": 9.2,
+      "ratio": 8.81,
       "shares": 9320
     },
     {
       "code": "EQIX.US",
       "name": "Equinix",
-      "ratio": 7.58,
+      "ratio": 7.29,
       "shares": 989
     },
     {
       "code": "AMT.US",
       "name": "American Tower",
-      "ratio": 5.75,
+      "ratio": 5.51,
       "shares": 4650
     },
     {
       "code": "SPG.US",
       "name": "Simon Property",
-      "ratio": 4.82,
+      "ratio": 4.97,
       "shares": 3245
     },
     {
       "code": "DLR.US",
       "name": "Digital Realty Trust",
-      "ratio": 4.36,
+      "ratio": 4.3,
       "shares": 3300
     },
     {
       "code": "O.US",
       "name": "Realty Income",
-      "ratio": 3.95,
+      "ratio": 3.98,
       "shares": 9340
     },
     {
       "code": "PSA.US",
       "name": "Public Storage",
-      "ratio": 3.53,
+      "ratio": 3.46,
       "shares": 1580
     },
     {
       "code": "VTR.US",
       "name": "Ventas",
-      "ratio": 2.77,
+      "ratio": 2.91,
       "shares": 4840
     },
     {
       "code": "CBRE.US",
       "name": "CBRE Group",
-      "ratio": 2.7,
+      "ratio": 2.71,
       "shares": 2920
     },
     {
       "code": "IRM.US",
       "name": "Iron Mountain",
-      "ratio": 2.67,
+      "ratio": 2.66,
       "shares": 2980
     },
     {
       "code": "CCI.US",
       "name": "Crown Castle",
-      "ratio": 2.51,
+      "ratio": 2.43,
       "shares": 4350
     },
     {
       "code": "EXR.US",
       "name": "Extra Space",
-      "ratio": 2.14,
+      "ratio": 2.12,
       "shares": 2100
     },
     {
       "code": "VICI.US",
       "name": "VICI Properties",
-      "ratio": 2.01,
+      "ratio": 2.0,
       "shares": 10870
     },
     {
       "code": "AVB.US",
       "name": "Avalonbay Communities",
-      "ratio": 1.69,
+      "ratio": 1.75,
       "shares": 1360
     },
     {
       "code": "EQR.US",
       "name": "Equity Residential",
-      "ratio": 1.52,
+      "ratio": 1.56,
       "shares": 3380
     },
     {
       "code": "SBAC.US",
       "name": "SBA Communications",
-      "ratio": 1.37,
+      "ratio": 1.3,
       "shares": 1045
-    },
-    {
-      "code": "WY.US",
-      "name": "Weyerhaeuser",
-      "ratio": 1.22,
-      "shares": 7170
     },
     {
       "code": "ESS.US",
       "name": "Essex Property Trust, Inc.",
-      "ratio": 1.21,
+      "ratio": 1.26,
       "shares": 630
+    },
+    {
+      "code": "WY.US",
+      "name": "Weyerhaeuser",
+      "ratio": 1.23,
+      "shares": 7170
     },
     {
       "code": "KIM.US",
       "name": "Kimco Realty",
-      "ratio": 1.14,
+      "ratio": 1.17,
       "shares": 6680
     },
     {
@@ -190,10 +190,10 @@
       "shares": 7200
     },
     {
-      "code": "HST.US",
-      "name": "Host Hotels & Resorts",
+      "code": "INVH.US",
+      "name": "Invitation Homes",
       "ratio": 1.1,
-      "shares": 6250
+      "shares": 5350
     },
     {
       "code": "WPC.US",
@@ -202,87 +202,87 @@
       "shares": 2180
     },
     {
-      "code": "INVH.US",
-      "name": "Invitation Homes",
-      "ratio": 1.07,
-      "shares": 5350
-    },
-    {
       "code": "MAA.US",
       "name": "Mid-America Apartment",
-      "ratio": 1.05,
+      "ratio": 1.07,
       "shares": 1130
     },
     {
-      "code": "JLL.US",
-      "name": "Jones Lang LaSalle",
-      "ratio": 0.94,
-      "shares": 450
-    },
-    {
-      "code": "SUI.US",
-      "name": "Sun Communities",
-      "ratio": 0.93,
-      "shares": 1120
+      "code": "HST.US",
+      "name": "Host Hotels & Resorts",
+      "ratio": 1.06,
+      "shares": 6250
     },
     {
       "code": "DOC.US",
       "name": "Healthpeak Properties",
-      "ratio": 0.92,
+      "ratio": 0.97,
       "shares": 6700
+    },
+    {
+      "code": "JLL.US",
+      "name": "Jones Lang LaSalle",
+      "ratio": 0.96,
+      "shares": 450
     },
     {
       "code": "OHI.US",
       "name": "Omega Healthcare Investors Inc.",
-      "ratio": 0.91,
+      "ratio": 0.94,
       "shares": 2900
+    },
+    {
+      "code": "SUI.US",
+      "name": "Sun Communities",
+      "ratio": 0.92,
+      "shares": 1120
     },
     {
       "code": "LAMR.US",
       "name": "Lamar Advertising",
-      "ratio": 0.88,
+      "ratio": 0.89,
       "shares": 840
     },
     {
       "code": "REG.US",
       "name": "Regency Centers",
-      "ratio": 0.86,
+      "ratio": 0.88,
       "shares": 1590
     },
     {
       "code": "GLPI.US",
       "name": "Gaming and Leisure Properties, I",
-      "ratio": 0.85,
+      "ratio": 0.84,
       "shares": 2700
+    },
+    {
+      "code": "AGNC.US",
+      "name": "AGNC Investment",
+      "ratio": 0.82,
+      "shares": 11100
     },
     {
       "code": "CSGP.US",
       "name": "CoStar Group",
-      "ratio": 0.84,
+      "ratio": 0.81,
       "shares": 3950
     },
     {
       "code": "ELS.US",
       "name": "Equity Lifestyle Properties, Inc",
-      "ratio": 0.81,
+      "ratio": 0.8,
       "shares": 1850
-    },
-    {
-      "code": "AGNC.US",
-      "name": "AGNC Investment",
-      "ratio": 0.81,
-      "shares": 11100
     },
     {
       "code": "UDR.US",
       "name": "UDR",
-      "ratio": 0.75,
+      "ratio": 0.77,
       "shares": 2850
     },
     {
       "code": "CPT.US",
       "name": "Camden Property Trust",
-      "ratio": 0.74,
+      "ratio": 0.76,
       "shares": 970
     },
     {
@@ -294,13 +294,13 @@
     {
       "code": "AMH.US",
       "name": "American Homes 4 Rent",
-      "ratio": 0.68,
+      "ratio": 0.7,
       "shares": 3050
     },
     {
       "code": "URE.US",
       "name": "ProShares Ultra Real Estate",
-      "ratio": 0.66,
+      "ratio": 0.69,
       "shares": 1400
     },
     {
@@ -318,32 +318,32 @@
     {
       "code": "CUBE.US",
       "name": "CubeSmart",
-      "ratio": 0.62,
+      "ratio": 0.6,
       "shares": 2170
-    },
-    {
-      "code": "FR.US",
-      "name": "First Industrial Realty Trust, I",
-      "ratio": 0.59,
-      "shares": 1350
     },
     {
       "code": "ADC.US",
       "name": "Agree Realty Corporation",
-      "ratio": 0.58,
+      "ratio": 0.59,
       "shares": 1130
-    },
-    {
-      "code": "NNN.US",
-      "name": "NNN REIT",
-      "ratio": 0.57,
-      "shares": 1800
     },
     {
       "code": "ARE.US",
       "name": "Alexandria Real Estate Equity",
-      "ratio": 0.56,
+      "ratio": 0.58,
       "shares": 1550
+    },
+    {
+      "code": "FR.US",
+      "name": "First Industrial Realty Trust, I",
+      "ratio": 0.58,
+      "shares": 1350
+    },
+    {
+      "code": "NNN.US",
+      "name": "NNN REIT",
+      "ratio": 0.58,
+      "shares": 1800
     },
     {
       "code": "REXR.US",
@@ -354,7 +354,7 @@
     {
       "code": "STAG.US",
       "name": "STAG Industrial Inc.",
-      "ratio": 0.5,
+      "ratio": 0.51,
       "shares": 1900
     },
     {
@@ -372,43 +372,43 @@
     {
       "code": "STWD.US",
       "name": "STARWOOD PROPERTY TRUST, INC.",
-      "ratio": 0.4,
-      "shares": 3400
-    },
-    {
-      "code": "Z.US",
-      "name": "Zillow Group - Class C Capital S",
       "ratio": 0.39,
-      "shares": 1750
+      "shares": 3400
     },
     {
       "code": "RITM.US",
       "name": "Rithm Capital",
-      "ratio": 0.38,
+      "ratio": 0.37,
       "shares": 5900
+    },
+    {
+      "code": "Z.US",
+      "name": "Zillow Group - Class C Capital S",
+      "ratio": 0.37,
+      "shares": 1750
     },
     {
       "code": "CUZ.US",
       "name": "Cousins Properties",
-      "ratio": 0.35,
+      "ratio": 0.36,
       "shares": 1780
     },
     {
       "code": "MRP.US",
       "name": "Millrose Properties",
-      "ratio": 0.33,
+      "ratio": 0.34,
       "shares": 1637
     },
     {
       "code": "SBRA.US",
       "name": "Sabra Health Care REIT",
-      "ratio": 0.33,
+      "ratio": 0.34,
       "shares": 2600
     },
     {
       "code": "COLD.US",
       "name": "Americold Realty Trust",
-      "ratio": 0.3,
+      "ratio": 0.32,
       "shares": 2996
     },
     {
@@ -420,13 +420,13 @@
     {
       "code": "LINE.US",
       "name": "Lineage",
-      "ratio": 0.18,
+      "ratio": 0.19,
       "shares": 629
     },
     {
       "code": "ZG.US",
       "name": "Zillow Group",
-      "ratio": 0.12,
+      "ratio": 0.11,
       "shares": 542
     }
   ]

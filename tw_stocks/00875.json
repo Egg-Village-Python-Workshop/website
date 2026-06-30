@@ -1,7 +1,7 @@
 {
   "id": "00875",
   "name": "國泰網路資安",
-  "fetched_at": "2026-06-22",
+  "fetched_at": "2026-06-29",
   "capital": {
     "ETF名稱": "國泰網路資安",
     "交易所代碼": "00875",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2020/03/30",
     "成分股數": 58,
-    "ETF規模": "625.73(百萬台幣)(2026/06/18)",
-    "成交量(股)": "52,881（月均:270,248）",
+    "ETF規模": "653.14(百萬台幣)(2026/06/26)",
+    "成交量(股)": "122,105（月均:277,125）",
     "投資標的": "資訊科技股",
     "經理人": "沈廷陽",
     "投資區域": "全球",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "",
     "經理費(%)": "0.9",
-    "殖利率(%)": "N/A（06/22）",
+    "殖利率(%)": "N/A（06/29）",
     "總管理費用(%)": "1.57 (含 0.67 非管理費用)",
     "經銷商": "",
     "官方網站連結": "https://www.cathaysite.com.tw/ETF/detail/ECC",
-    "ETF市價": "46.3900（06/22）",
+    "ETF市價": "48.7200（06/29）",
     "融資交易": "Y",
-    "ETF淨值": "46.3900（06/18）",
+    "ETF淨值": "48.4200（06/26）",
     "放空交易": "Y",
-    "折溢價(%)": "0.45(月均:-0.18)",
+    "折溢價(%)": "-4.17(月均:-0.14)",
     "選擇權交易": "",
-    "年化標準差(%)": "15.33（06/22）",
+    "年化標準差(%)": "21.65（06/29）",
     "槓桿多空註記": "",
     "追蹤指數": "納斯達克ISE全球網路資安指數",
     "基準指數": "Nasdaq ISE Cyber Security Index",
@@ -59,202 +59,214 @@
   ],
   "holdings": [
     {
-      "code": "CRWD.US",
-      "name": "CrowdStrike Holdings",
-      "ratio": 4.72,
-      "shares": 1366
-    },
-    {
-      "code": "PANW.US",
-      "name": "Palo Alto",
-      "ratio": 4.66,
-      "shares": 3212
-    },
-    {
-      "code": "ZD.US",
-      "name": "Ziff Davis",
-      "ratio": 4.44,
-      "shares": 19137
-    },
-    {
       "code": "",
       "name": "Blackberry Rg",
-      "ratio": 4.22,
-      "shares": 99812
-    },
-    {
-      "code": "FTNT.US",
-      "name": "Fortinet",
-      "ratio": 4.16,
-      "shares": 5700
-    },
-    {
-      "code": "CSCO.US",
-      "name": "Cisco",
-      "ratio": 3.76,
-      "shares": 6230
-    },
-    {
-      "code": "NTCT.US",
-      "name": "NetScout Systems",
-      "ratio": 3.63,
-      "shares": 18169
+      "ratio": 4.72,
+      "shares": 85012
     },
     {
       "code": "QLYS.US",
       "name": "Qualys",
-      "ratio": 3.59,
-      "shares": 6397
+      "ratio": 4.2,
+      "shares": 6976
     },
     {
       "code": "MITK.US",
       "name": "Mitek Systems",
-      "ratio": 3.58,
-      "shares": 41126
+      "ratio": 4.18,
+      "shares": 44376
+    },
+    {
+      "code": "ZD.US",
+      "name": "Ziff Davis",
+      "ratio": 4.17,
+      "shares": 16916
+    },
+    {
+      "code": "FTNT.US",
+      "name": "Fortinet",
+      "ratio": 4.09,
+      "shares": 5526
+    },
+    {
+      "code": "PANW.US",
+      "name": "Palo Alto",
+      "ratio": 4.02,
+      "shares": 2706
+    },
+    {
+      "code": "NTCT.US",
+      "name": "NetScout Systems",
+      "ratio": 3.72,
+      "shares": 18318
     },
     {
       "code": "NET.US",
       "name": "Cloudflare",
-      "ratio": 3.58,
-      "shares": 3167
-    },
-    {
-      "code": "FSLY.US",
-      "name": "Fastly",
-      "ratio": 3.57,
-      "shares": 39521
-    },
-    {
-      "code": "GEN.US",
-      "name": "Gen",
-      "ratio": 3.55,
-      "shares": 29091
-    },
-    {
-      "code": "AVGO.US",
-      "name": "Broadcom",
-      "ratio": 3.54,
-      "shares": 1707
-    },
-    {
-      "code": "S.US",
-      "name": "SentinelOne",
-      "ratio": 3.42,
-      "shares": 45169
-    },
-    {
-      "code": "RBRK.US",
-      "name": "Rubrik",
-      "ratio": 3.37,
-      "shares": 9507
+      "ratio": 3.66,
+      "shares": 3153
     },
     {
       "code": "RDWR.US",
       "name": "Radware",
-      "ratio": 3.37,
-      "shares": 24639
+      "ratio": 3.61,
+      "shares": 25128
     },
     {
-      "code": "AKAM.US",
-      "name": "Akamai",
-      "ratio": 3.36,
-      "shares": 5342
-    },
-    {
-      "code": "4704.JP",
-      "name": "Trend Micro",
-      "ratio": 3.33,
-      "shares": 17950
+      "code": "FSLY.US",
+      "name": "Fastly",
+      "ratio": 3.59,
+      "shares": 42915
     },
     {
       "code": "CHKP.US",
       "name": "Check Point Software",
-      "ratio": 3.2,
-      "shares": 5186
+      "ratio": 3.59,
+      "shares": 5645
     },
     {
-      "code": "CGNT.US",
-      "name": "Cognyte Software",
-      "ratio": 2.68,
-      "shares": 63934
+      "code": "S.US",
+      "name": "SentinelOne",
+      "ratio": 3.58,
+      "shares": 46066
+    },
+    {
+      "code": "CRWD.US",
+      "name": "CrowdStrike Holdings",
+      "ratio": 3.57,
+      "shares": 1043
+    },
+    {
+      "code": "GEN.US",
+      "name": "Gen",
+      "ratio": 3.53,
+      "shares": 29561
+    },
+    {
+      "code": "CSCO.US",
+      "name": "Cisco",
+      "ratio": 3.52,
+      "shares": 6331
+    },
+    {
+      "code": "4704.JP",
+      "name": "Trend Micro",
+      "ratio": 3.47,
+      "shares": 20550
+    },
+    {
+      "code": "RBRK.US",
+      "name": "Rubrik",
+      "ratio": 3.43,
+      "shares": 9696
+    },
+    {
+      "code": "NTSK.US",
+      "name": "Netskope",
+      "ratio": 3.15,
+      "shares": 62542
+    },
+    {
+      "code": "AVGO.US",
+      "name": "Broadcom",
+      "ratio": 2.99,
+      "shares": 1677
+    },
+    {
+      "code": "AKAM.US",
+      "name": "Akamai",
+      "ratio": 2.82,
+      "shares": 5098
     },
     {
       "code": "OSPN.US",
       "name": "OneSpan",
-      "ratio": 2.06,
-      "shares": 30313
+      "ratio": 2.71,
+      "shares": 39095
+    },
+    {
+      "code": "CGNT.US",
+      "name": "Cognyte Software",
+      "ratio": 2.67,
+      "shares": 65623
     },
     {
       "code": "ALLT.US",
       "name": "Allot",
-      "ratio": 1.98,
-      "shares": 54635
-    },
-    {
-      "code": "053800.KS",
-      "name": "AHNLAB",
-      "ratio": 1.51,
-      "shares": 7958
+      "ratio": 2.09,
+      "shares": 54756
     },
     {
       "code": "2326.JP",
       "name": "Digital Arts",
-      "ratio": 1.4,
-      "shares": 12274
+      "ratio": 1.43,
+      "shares": 13074
+    },
+    {
+      "code": "053800.KS",
+      "name": "AHNLAB",
+      "ratio": 1.34,
+      "shares": 8166
     },
     {
       "code": "3692.JP",
       "name": "FFRI Security",
-      "ratio": 0.88,
-      "shares": 5500
+      "ratio": 0.75,
+      "shares": 5600
     },
     {
       "code": "4475.JP",
       "name": "HENNGE",
       "ratio": 0.69,
-      "shares": 21300
+      "shares": 22200
     },
     {
-      "code": "",
-      "name": "Softcat Rg",
-      "ratio": 0.55,
-      "shares": 4639
-    },
-    {
-      "code": "OKTA.US",
-      "name": "Okta",
-      "ratio": 0.52,
-      "shares": 879
-    },
-    {
-      "code": "VRNS.US",
-      "name": "Varonis Systems",
-      "ratio": 0.49,
-      "shares": 2887
-    },
-    {
-      "code": "TENB.US",
-      "name": "Tenable Holdings",
-      "ratio": 0.48,
-      "shares": 3568
-    },
-    {
-      "code": "ESTC.US",
-      "name": "Elastic",
-      "ratio": 0.45,
-      "shares": 1502
+      "code": "ATEN.US",
+      "name": "A10 Networks",
+      "ratio": 0.46,
+      "shares": 2685
     },
     {
       "code": "CVLT.US",
       "name": "Commvault",
-      "ratio": 0.44,
+      "ratio": 0.46,
       "shares": 670
+    },
+    {
+      "code": "VRNS.US",
+      "name": "Varonis Systems",
+      "ratio": 0.46,
+      "shares": 2327
+    },
+    {
+      "code": "RXT.US",
+      "name": "Rackspace Technology",
+      "ratio": 0.45,
+      "shares": 15369
+    },
+    {
+      "code": "TENB.US",
+      "name": "Tenable Holdings",
+      "ratio": 0.42,
+      "shares": 2867
     },
     {
       "code": "SAIC.US",
       "name": "Science Applications Internation",
-      "ratio": 0.44,
-      "shares": 848
+      "ratio": 0.42,
+      "shares": 777
+    },
+    {
+      "code": "",
+      "name": "Softcat Rg",
+      "ratio": 0.4,
+      "shares": 3461
+    },
+    {
+      "code": "",
+      "name": "StarHub Rg",
+      "ratio": 0.4,
+      "shares": 101200
     },
     {
       "code": "FFIV.US",
@@ -266,163 +278,139 @@
       "code": "GD.US",
       "name": "General Dynamics",
       "ratio": 0.39,
-      "shares": 219
+      "shares": 233
     },
     {
-      "code": "4258.JP",
-      "name": "AMIYA",
+      "code": "OKTA.US",
+      "name": "Okta",
       "ratio": 0.39,
-      "shares": 3700
-    },
-    {
-      "code": "",
-      "name": "Tietoevry Rg",
-      "ratio": 0.39,
-      "shares": 3514
-    },
-    {
-      "code": "TLS.US",
-      "name": "Telos",
-      "ratio": 0.38,
-      "shares": 16552
-    },
-    {
-      "code": "",
-      "name": "NCC Group Rg",
-      "ratio": 0.38,
-      "shares": 44178
-    },
-    {
-      "code": "AMTM.US",
-      "name": "Amentum",
-      "ratio": 0.37,
-      "shares": 3425
-    },
-    {
-      "code": "ATEN.US",
-      "name": "A10 Networks",
-      "ratio": 0.37,
-      "shares": 2200
+      "shares": 645
     },
     {
       "code": "DDOG.US",
       "name": "Datadog",
+      "ratio": 0.38,
+      "shares": 327
+    },
+    {
+      "code": "4258.JP",
+      "name": "AMIYA",
+      "ratio": 0.38,
+      "shares": 3900
+    },
+    {
+      "code": "",
+      "name": "Open Text Rg",
+      "ratio": 0.37,
+      "shares": 3420
+    },
+    {
+      "code": "NABL.US",
+      "name": "N-able",
+      "ratio": 0.37,
+      "shares": 21476
+    },
+    {
+      "code": "ZS.US",
+      "name": "Zscaler",
+      "ratio": 0.37,
+      "shares": 579
+    },
+    {
+      "code": "",
+      "name": "Tietoevry Rg",
       "ratio": 0.36,
-      "shares": 322
+      "shares": 3365
+    },
+    {
+      "code": "TLS.US",
+      "name": "Telos",
+      "ratio": 0.36,
+      "shares": 16552
+    },
+    {
+      "code": "RPD.US",
+      "name": "Rapid7",
+      "ratio": 0.35,
+      "shares": 9461
     },
     {
       "code": "",
       "name": "Thales",
       "ratio": 0.35,
-      "shares": 262
+      "shares": 290
+    },
+    {
+      "code": "CACI.US",
+      "name": "CACI International",
+      "ratio": 0.34,
+      "shares": 155
+    },
+    {
+      "code": "NOC.US",
+      "name": "Northrop Grumman",
+      "ratio": 0.34,
+      "shares": 141
+    },
+    {
+      "code": "AMTM.US",
+      "name": "Amentum",
+      "ratio": 0.34,
+      "shares": 3425
+    },
+    {
+      "code": "ESTC.US",
+      "name": "Elastic",
+      "ratio": 0.34,
+      "shares": 1228
+    },
+    {
+      "code": "",
+      "name": "NCC Group Rg",
+      "ratio": 0.33,
+      "shares": 41061
+    },
+    {
+      "code": "PSN.US",
+      "name": "Parsons",
+      "ratio": 0.33,
+      "shares": 1344
     },
     {
       "code": "",
       "name": "BAE Systems Rg",
-      "ratio": 0.34,
+      "ratio": 0.32,
       "shares": 2774
+    },
+    {
+      "code": "LDOS.US",
+      "name": "Leidos",
+      "ratio": 0.31,
+      "shares": 622
     },
     {
       "code": "",
       "name": "QinetiQ Group Rg",
-      "ratio": 0.34,
+      "ratio": 0.31,
       "shares": 11600
     },
     {
-      "code": "",
-      "name": "Open Text Rg",
-      "ratio": 0.33,
-      "shares": 3161
-    },
-    {
-      "code": "ZS.US",
-      "name": "Zscaler",
-      "ratio": 0.33,
-      "shares": 532
-    },
-    {
       "code": "BAH.US",
-      "name": "Booz Allen Hamilton Holding Corp",
-      "ratio": 0.33,
+      "name": "Booz Allen",
+      "ratio": 0.3,
       "shares": 992
     },
     {
       "code": "",
       "name": "Atos",
-      "ratio": 0.33,
-      "shares": 1660
-    },
-    {
-      "code": "RPD.US",
-      "name": "Rapid7",
-      "ratio": 0.32,
-      "shares": 9461
-    },
-    {
-      "code": "PSN.US",
-      "name": "Parsons",
-      "ratio": 0.31,
-      "shares": 1185
-    },
-    {
-      "code": "CACI.US",
-      "name": "CACI International",
       "ratio": 0.3,
-      "shares": 128
-    },
-    {
-      "code": "NOC.US",
-      "name": "Northrop Grumman",
-      "ratio": 0.28,
-      "shares": 108
+      "shares": 1660
     },
     {
       "code": "SAIL.US",
       "name": "SailPoint",
-      "ratio": 0.28,
-      "shares": 4210
-    },
-    {
-      "code": "NABL.US",
-      "name": "N-able",
       "ratio": 0.27,
-      "shares": 17781
-    },
-    {
-      "code": "LDOS.US",
-      "name": "Leidos",
-      "ratio": 0.24,
-      "shares": 447
-    },
-    {
-      "code": "RXT.US",
-      "name": "Rackspace Technology",
-      "ratio": 0.11,
-      "shares": 3000
-    },
-    {
-      "code": "NTSK.US",
-      "name": "Netskope",
-      "ratio": 0.09,
-      "shares": 2000
-    },
-    {
-      "code": "",
-      "name": "StarHub Rg",
-      "ratio": 0.08,
-      "shares": 20000
-    },
-    {
-      "code": "",
-      "name": "Tinexta N",
-      "ratio": 0.01,
-      "shares": 100
-    },
-    {
-      "code": "4493.JP",
-      "name": "Cyber Security Cloud",
-      "ratio": 0.01,
-      "shares": 100
+      "shares": 4210
     }
   ]
 }

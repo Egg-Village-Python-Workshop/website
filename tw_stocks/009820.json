@@ -1,7 +1,7 @@
 {
   "id": "009820",
   "name": "元大納斯達克精選",
-  "fetched_at": "2026-06-22",
+  "fetched_at": "2026-06-29",
   "capital": {
     "ETF名稱": "元大納斯達克精選",
     "交易所代碼": "009820",
@@ -14,8 +14,8 @@
     "淨值幣別": "台幣",
     "上市日期": "2026/04/23",
     "成分股數": 28,
-    "ETF規模": "14,686.07(百萬)(2026/06/18)",
-    "成交量(股)": "14,452,575（月均:26,274,493）",
+    "ETF規模": "13,715.23(百萬)(2026/06/26)",
+    "成交量(股)": "32,175,594（月均:21,953,033）",
     "投資標的": "股票型",
     "經理人": "方雅婷",
     "投資區域": "美國",
@@ -23,17 +23,17 @@
     "投資風格": "",
     "配息頻率": "年配",
     "經理費(%)": "0.3",
-    "殖利率(%)": "N/A（06/22）",
+    "殖利率(%)": "N/A（06/29）",
     "總管理費用(%)": "",
     "經銷商": "",
     "官方網站連結": "https://www.yuantaetfs.com/product/detail/009820/Basic_information",
-    "ETF市價": "10.1800（06/22）",
+    "ETF市價": "9.7900（06/29）",
     "融資交易": "Y",
-    "ETF淨值": "10.2800（06/18）",
+    "ETF淨值": "9.7400（06/26）",
     "放空交易": "Y",
-    "折溢價(%)": "-1.56(月均:-0.44)",
+    "折溢價(%)": "-0.21(月均:0.06)",
     "選擇權交易": "",
-    "年化標準差(%)": "N/A（06/22）",
+    "年化標準差(%)": "N/A（06/29）",
     "槓桿多空註記": "",
     "追蹤指數": "納斯達克100增強成長指數",
     "基準指數": "Nasdaq-100 Enhanced Growth Index",
@@ -76,188 +76,182 @@
     {
       "code": "NVDA.US",
       "name": "NVIDIA",
-      "ratio": 16.78,
-      "shares": 370246
-    },
-    {
-      "code": "AVGO.US",
-      "name": "Broadcom",
-      "ratio": 14.39,
-      "shares": 162631
-    },
-    {
-      "code": "META.US",
-      "name": "Meta",
-      "ratio": 11.17,
-      "shares": 90015
-    },
-    {
-      "code": "ASML.US",
-      "name": "ASML Holding",
-      "ratio": 11.09,
-      "shares": 26711
-    },
-    {
-      "code": "MSFT.US",
-      "name": "Microsoft",
-      "ratio": 8.61,
-      "shares": 105567
-    },
-    {
-      "code": "PLTR.US",
-      "name": "Palantir Technologies",
-      "ratio": 3.89,
-      "shares": 140783
-    },
-    {
-      "code": "QCOM.US",
-      "name": "QUALCOMM",
-      "ratio": 3.0,
-      "shares": 61635
-    },
-    {
-      "code": "PANW.US",
-      "name": "Palo Alto",
-      "ratio": 2.69,
-      "shares": 43462
-    },
-    {
-      "code": "CDNS.US",
-      "name": "Cadence Design Systems",
-      "ratio": 2.49,
-      "shares": 29883
-    },
-    {
-      "code": "CRWD.US",
-      "name": "CrowdStrike Holdings",
-      "ratio": 2.29,
-      "shares": 15537
-    },
-    {
-      "code": "SHOP.US",
-      "name": "Shopify",
-      "ratio": 2.08,
-      "shares": 88646
-    },
-    {
-      "code": "ARM.US",
-      "name": "Arm",
-      "ratio": 2.01,
-      "shares": 21304
-    },
-    {
-      "code": "ISRG.US",
-      "name": "Intuitive Surgical",
-      "ratio": 1.91,
-      "shares": 21848
+      "ratio": 13.3,
+      "shares": 297298
     },
     {
       "code": "",
       "name": "MICRON TECHNOLOGY INC",
-      "ratio": 1.88,
-      "shares": 7700
+      "ratio": 13.1,
+      "shares": 49765
+    },
+    {
+      "code": "AVGO.US",
+      "name": "Broadcom",
+      "ratio": 11.92,
+      "shares": 140501
+    },
+    {
+      "code": "META.US",
+      "name": "Meta",
+      "ratio": 11.03,
+      "shares": 86246
+    },
+    {
+      "code": "ASML.US",
+      "name": "ASML Holding",
+      "ratio": 9.03,
+      "shares": 21648
     },
     {
       "code": "",
       "name": "ADVANCED MICRO DEVICES",
-      "ratio": 1.72,
-      "shares": 14900
-    },
-    {
-      "code": "BKNG.US",
-      "name": "Booking Holdings",
-      "ratio": 1.67,
-      "shares": 45224
-    },
-    {
-      "code": "DDOG.US",
-      "name": "Datadog",
-      "ratio": 1.65,
-      "shares": 34452
-    },
-    {
-      "code": "VRTX.US",
-      "name": "Vertex Pharmaceuticals",
-      "ratio": 1.22,
-      "shares": 12510
-    },
-    {
-      "code": "SNPS.US",
-      "name": "Synopsys",
-      "ratio": 1.12,
-      "shares": 11448
-    },
-    {
-      "code": "MELI.US",
-      "name": "MercadoLibre",
-      "ratio": 0.84,
-      "shares": 2394
-    },
-    {
-      "code": "ADBE.US",
-      "name": "Adobe",
-      "ratio": 0.8,
-      "shares": 19122
-    },
-    {
-      "code": "INTU.US",
-      "name": "Intuit",
-      "ratio": 0.78,
-      "shares": 13559
+      "ratio": 9.02,
+      "shares": 74424
     },
     {
       "code": "",
       "name": "SANDISK CORP",
-      "ratio": 0.52,
-      "shares": 1098
+      "ratio": 3.87,
+      "shares": 7970
+    },
+    {
+      "code": "PANW.US",
+      "name": "Palo Alto",
+      "ratio": 2.92,
+      "shares": 41343
+    },
+    {
+      "code": "PLTR.US",
+      "name": "Palantir Technologies",
+      "ratio": 2.68,
+      "shares": 102228
+    },
+    {
+      "code": "CRWD.US",
+      "name": "CrowdStrike Holdings",
+      "ratio": 2.1,
+      "shares": 12914
+    },
+    {
+      "code": "SHOP.US",
+      "name": "Shopify",
+      "ratio": 1.68,
+      "shares": 61704
+    },
+    {
+      "code": "BKNG.US",
+      "name": "Booking Holdings",
+      "ratio": 1.46,
+      "shares": 34500
+    },
+    {
+      "code": "CDNS.US",
+      "name": "Cadence Design Systems",
+      "ratio": 1.23,
+      "shares": 13992
+    },
+    {
+      "code": "ISRG.US",
+      "name": "Intuitive Surgical",
+      "ratio": 1.19,
+      "shares": 12615
+    },
+    {
+      "code": "VRTX.US",
+      "name": "Vertex Pharmaceuticals",
+      "ratio": 1.01,
+      "shares": 8861
+    },
+    {
+      "code": "SNPS.US",
+      "name": "Synopsys",
+      "ratio": 0.9,
+      "shares": 8526
+    },
+    {
+      "code": "",
+      "name": "TERADYNE INC",
+      "ratio": 0.88,
+      "shares": 8639
+    },
+    {
+      "code": "DDOG.US",
+      "name": "Datadog",
+      "ratio": 0.87,
+      "shares": 15638
+    },
+    {
+      "code": "ARM.US",
+      "name": "Arm",
+      "ratio": 0.63,
+      "shares": 8072
+    },
+    {
+      "code": "",
+      "name": "ASTERA LABS INC",
+      "ratio": 0.63,
+      "shares": 6917
+    },
+    {
+      "code": "",
+      "name": "DOORDASH INC - A",
+      "ratio": 0.62,
+      "shares": 14485
+    },
+    {
+      "code": "",
+      "name": "MONOLITHIC POWER SYSTEMS INC",
+      "ratio": 0.62,
+      "shares": 2040
+    },
+    {
+      "code": "",
+      "name": "ROCKET LAB CORP",
+      "ratio": 0.51,
+      "shares": 26066
+    },
+    {
+      "code": "INTU.US",
+      "name": "Intuit",
+      "ratio": 0.45,
+      "shares": 7308
+    },
+    {
+      "code": "ADBE.US",
+      "name": "Adobe",
+      "ratio": 0.42,
+      "shares": 8896
+    },
+    {
+      "code": "REGN.US",
+      "name": "Regeneron Pharmaceuticals",
+      "ratio": 0.4,
+      "shares": 2753
     },
     {
       "code": "AXON.US",
       "name": "Axon Enterprise",
-      "ratio": 0.34,
-      "shares": 3754
-    },
-    {
-      "code": "DXCM.US",
-      "name": "DexCom",
-      "ratio": 0.34,
-      "shares": 21684
+      "ratio": 0.31,
+      "shares": 2839
     },
     {
       "code": "ADSK.US",
       "name": "Autodesk",
-      "ratio": 0.32,
-      "shares": 7748
+      "ratio": 0.21,
+      "shares": 4644
     },
     {
       "code": "ALNY.US",
       "name": "Alnylam Pharmaceuticals",
-      "ratio": 0.27,
-      "shares": 4598
-    },
-    {
-      "code": "ROP.US",
-      "name": "Roper Technologies",
-      "ratio": 0.26,
-      "shares": 3724
+      "ratio": 0.16,
+      "shares": 2331
     },
     {
       "code": "WDAY.US",
       "name": "Workday",
-      "ratio": 0.26,
-      "shares": 10379
-    },
-    {
-      "code": "INSM.US",
-      "name": "Insmed",
-      "ratio": 0.15,
-      "shares": 7203
-    },
-    {
-      "code": "ZS.US",
-      "name": "Zscaler",
-      "ratio": 0.12,
-      "shares": 4521
+      "ratio": 0.11,
+      "shares": 3865
     }
   ]
 }
